@@ -3,20 +3,28 @@
   "app_name": "Faded Local Mod Installer",
   "mods": [
     {
-      "id": "FadedRealmsLib",
-      "name": "Faded Realms Lib",
-      "version": "1.0.0",
-      "description": "Shared support library for Faded Realms Project Zomboid mods.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedRealmsLib.zip",
-      "zip_name": "FadedRealmsLib.zip"
+      "id": "FAP",
+      "name": "Faded's Armor Pack",
+      "version": "42.16",
+      "description": "Unofficial private/community Build 42 port of Brita's Armor Pack. Bundled NVFramework runtime for night vision support. See README and CREDITS.",
+      "download_parts": [
+        {
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-12/FAP-v42.16-part1.zip",
+          "zip_name": "FAP-v42.16-part1.zip"
+        },
+        {
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-12/FAP-v42.16-part2.zip",
+          "zip_name": "FAP-v42.16-part2.zip"
+        }
+      ]
     },
     {
-      "id": "FadedsGGSFix",
-      "name": "Faded's GGS Fix",
-      "version": "1.0.0",
-      "description": "Project Zomboid local mod fix package by Faded.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedsGGSFix.zip",
-      "zip_name": "FadedsGGSFix.zip"
+      "id": "FWP",
+      "name": "Faded's Weapon Pack",
+      "version": "42.17",
+      "description": "Disclaimer - Faded's Weapons Pack. Standalone private/community-use Build 42.18 mod; source packs are reference-only.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-12/FWP-v42.17.zip",
+      "zip_name": "FWP-v42.17.zip"
     }
   ]
 }
