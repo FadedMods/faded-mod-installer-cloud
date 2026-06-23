@@ -4,11 +4,14 @@
   "mods": [
     {
       "id": "82oshkoshM911",
+      "server_mod_id": "82oshkoshM911",
       "name": "82 Oshkosh M911",
       "version": "42",
       "description": "This mod adds Oshkosh M911 Semi-Trailer Truck and 5 Semi-Trailers",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/82oshkoshM911-v42.zip",
-      "zip_name": "82oshkoshM911-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/82oshkoshM911-v42.zip",
+      "zip_name": "82oshkoshM911-v42.zip",
+      "size_bytes": 21797875,
+      "sha256": "8266da70ea754250fe901928548db9db949bf8054906d8ca9ce972f2b8039333"
     },
     {
       "id": "ArmorPK",
@@ -28,247 +31,345 @@
     },
     {
       "id": "AuthenticZBackpacks+",
+      "server_mod_id": "AuthenticZBackpacks+",
       "name": "Authentic Z - Backpacks+",
       "version": "42",
       "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/AuthenticZBackpacks-v42.zip",
-      "zip_name": "AuthenticZBackpacks-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/AuthenticZBackpacks-v42.zip",
+      "zip_name": "AuthenticZBackpacks-v42.zip",
+      "size_bytes": 85387239,
+      "sha256": "62104e4218e52b17b3cdb3e67b1b6b7a1746001b12171763417d8d8f8281405a"
     },
     {
       "id": "Authentic Z - Current",
+      "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
       "version": "42",
       "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Authentic-Z-Current-v42.zip",
-      "zip_name": "Authentic-Z-Current-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Authentic-Z-Current-v42.zip",
+      "zip_name": "Authentic-Z-Current-v42.zip",
+      "size_bytes": 390595714,
+      "sha256": "3c3bde4e6e01d7a108e17fd77f639052f8e2e1c5fedab04ac24ef7b9e3ad1329"
     },
     {
       "id": "AuthenticZLite",
+      "server_mod_id": "AuthenticZLite",
       "name": "Authentic Z - Lite",
       "version": "42",
       "description": "Geared Zombies",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/AuthenticZLite-v42.zip",
-      "zip_name": "AuthenticZLite-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/AuthenticZLite-v42.zip",
+      "zip_name": "AuthenticZLite-v42.zip",
+      "size_bytes": 308669990,
+      "sha256": "bbff1ec931c2c0bd11544e6f62a81384c2acc136f4ca1e0f3cc75633cda5825e"
     },
     {
       "id": "Bedding Covers-With Pillows",
+      "server_mod_id": "Bedding Covers-With Pillows",
       "name": "Beds Have Blankets With Pillows- Legacy",
       "version": "42",
       "description": "This mod replaces all vanilla bed textures. The blankets are not removeable, this version has pillows in the texture",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Bedding-Covers-With-Pillows-v42.zip",
-      "zip_name": "Bedding-Covers-With-Pillows-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Bedding-Covers-With-Pillows-v42.zip",
+      "zip_name": "Bedding-Covers-With-Pillows-v42.zip",
+      "size_bytes": 1648750,
+      "sha256": "3acb5085955392f694184203f0a9bd0f048da02ce426ad13219850de8056bdd9"
     },
     {
       "id": "Bedding Covers-no pillows",
+      "server_mod_id": "Bedding Covers-no pillows",
       "name": "Beds Have Blankets No Pillows- Legacy",
       "version": "42",
       "description": "This mod replaces all vanilla bed textures. The blankets are not removeable, this version has no pillows in the texture",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Bedding-Covers-no-pillows-v42.zip",
-      "zip_name": "Bedding-Covers-no-pillows-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Bedding-Covers-no-pillows-v42.zip",
+      "zip_name": "Bedding-Covers-no-pillows-v42.zip",
+      "size_bytes": 1653960,
+      "sha256": "55ece699f4714fa9989b30d24885154a7d3204561bbaec95beaa90dac33b8b43"
     },
     {
       "id": "blankets",
+      "server_mod_id": "blankets",
       "name": "Blankets for beds",
       "version": "42",
       "description": "Makes beds have blankets that can be removed and crafted",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/blankets-v42.zip",
-      "zip_name": "blankets-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/blankets-v42.zip",
+      "zip_name": "blankets-v42.zip",
+      "size_bytes": 8899554,
+      "sha256": "d60e416cacbf5457d1a383ae7c6ef8bb205de350a13dd100108638b51e075f28"
     },
     {
       "id": "BuildcraftReborn",
+      "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
       "version": "0.1.0",
       "description": "Build 42.18 unified Make / Build UI overhaul. Preserves vanilla crafting and building logic while presenting a faster compact interface.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/BuildcraftReborn-v0.1.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/BuildcraftReborn-v0.1.0.zip",
       "zip_name": "BuildcraftReborn-v0.1.0.zip",
+      "size_bytes": 987208,
+      "sha256": "722eeb7e9258a67685e4d64fd500736950b75dc737390afe3eaf6ba7b51af072",
       "updated_at": "2026-06-23"
     },
     {
       "id": "CommonSenseReborn",
+      "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.8.37",
+      "version": "1.8.39",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/CommonSenseReborn-v1.8.37.zip",
-      "zip_name": "CommonSenseReborn-v1.8.37.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CommonSenseReborn-v1.8.39.zip",
+      "zip_name": "CommonSenseReborn-v1.8.39.zip",
+      "size_bytes": 19189687,
+      "sha256": "0f50fd297222142ec64e87871f0b79006756957f0493932bfbb532309e560564",
       "updated_at": "2026-06-23"
     },
     {
       "id": "CommonSenseRebornTest",
+      "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.8.37",
+      "version": "1.8.39",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/CommonSenseRebornTest-v1.8.37.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.37.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CommonSenseRebornTest-v1.8.39.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.39.zip",
+      "size_bytes": 49250069,
+      "sha256": "3149fda96df7a4ef2671d12869455939b844423cee8c0c76572e4a7c4b20397a",
       "updated_at": "2026-06-23"
     },
     {
       "id": "CSRAdminCommandCenter",
+      "server_mod_id": "CSRAdminCommandCenter",
       "name": "CSR Admin Command Center",
       "version": "0.1.7",
       "description": "Standalone admin command center companion for Common Sense Reborn. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/CSRAdminCommandCenter-v0.1.7.zip",
-      "zip_name": "CSRAdminCommandCenter-v0.1.7.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CSRAdminCommandCenter-v0.1.7.zip",
+      "zip_name": "CSRAdminCommandCenter-v0.1.7.zip",
+      "size_bytes": 2734528,
+      "sha256": "882f98c8d1e4ec1c3a9cceed13e5fe7292e6ab59a214e65364b12049e45be611"
     },
     {
       "id": "CSRFundamentals",
+      "server_mod_id": "CSRFundamentals",
       "name": "CSR Fundamentals",
-      "version": "42",
+      "version": "0.1.0",
       "description": "Fundamentals-only spin-off of Common Sense Reborn: simple, vanilla-only quality-of-life features. No new items, sprites, GUIs, carry slots, or cheat-like systems. Build 42. SP + MP.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/CSRFundamentals-v42.zip",
-      "zip_name": "CSRFundamentals-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CSRFundamentals-v0.1.0.zip",
+      "zip_name": "CSRFundamentals-v0.1.0.zip",
+      "size_bytes": 1011452,
+      "sha256": "ac955a705c3c64390a59b5bf595cef0588cda0469e1ee0ea436c01c89efcc54c",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedOriginsOccupationsTraits",
+      "server_mod_id": "FadedOriginsOccupationsTraits",
       "name": "Faded Origins - Occupations & Traits",
-      "version": "42",
+      "version": "0.1.0",
       "description": "Dark-edged Build 42 occupations, traits, and the foundation for server-authoritative survivor progression.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedOriginsOccupationsTraits-v42.zip",
-      "zip_name": "FadedOriginsOccupationsTraits-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedOriginsOccupationsTraits-v0.1.0.zip",
+      "zip_name": "FadedOriginsOccupationsTraits-v0.1.0.zip",
+      "size_bytes": 970967,
+      "sha256": "eade2189c54d9c66b9d22d5e50e85078fe1db0b861e825cb5cc133e9ba86d1cc",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedAdvancedMedical",
+      "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
       "version": "42.18",
       "description": "FAM rebuild for Build 42.18: expanded first aid, FAM-owned medical conditions, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedAdvancedMedical-v42.18.zip",
-      "zip_name": "FadedAdvancedMedical-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedAdvancedMedical-v42.18.zip",
+      "zip_name": "FadedAdvancedMedical-v42.18.zip",
+      "size_bytes": 32183507,
+      "sha256": "5de341a378938f6ef7bb4a8491abfb0179a83c878847e03d4f58d3b66737ad4b"
     },
     {
       "id": "FadedAfflictions",
+      "server_mod_id": "FadedAfflictions",
       "name": "Faded's Afflictions",
-      "version": "42",
+      "version": "0.3.0",
       "description": "Server-admin controlled hidden persistent afflictions for Project Zomboid Build 42. Includes an admin GUI, local hallucination-style audio, SCP-650-style phantom figures, artifact overlays, darkness, cold spots, panic/stress events, chat commands, and a cure item. Some audio/item/model asset references are reused with permission from [B42] They Are Watching - Schizophrenia Mod by Twuben and SCP-650 by BitBraven; see README.md and CREDITS.md.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedAfflictions-v42.zip",
-      "zip_name": "FadedAfflictions-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedAfflictions-v0.3.0.zip",
+      "zip_name": "FadedAfflictions-v0.3.0.zip",
+      "size_bytes": 43987671,
+      "sha256": "7b672985582aff30fe5ba974559643fed0339f27df0109bb6d9f094a9497095a",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedArmageddon",
+      "server_mod_id": "FadedArmageddon",
       "name": "Faded Armageddon",
       "version": "42",
       "description": "Original Build 42 apocalypse escalation mod with server-authored destructive hazard events, emergency warnings, FA-namespaced disaster assets, and sandbox controls. Multiplayer patterns are built in but still require live MP validation.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedArmageddon-v42.zip",
-      "zip_name": "FadedArmageddon-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedArmageddon-v42.zip",
+      "zip_name": "FadedArmageddon-v42.zip",
+      "size_bytes": 34801635,
+      "sha256": "fa8a9304f665186721c137a6de6d51e2401a0cb6d3a1a09dde6188c3171784aa"
     },
     {
       "id": "FadedCombatText",
+      "server_mod_id": "FadedCombatText",
       "name": "Faded Combat Text",
       "version": "2.0.0",
       "description": "Build 42.18 combat text with larger purple damage numbers and health bars that fade from green to yellow to red.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedCombatText-v2.0.0.zip",
-      "zip_name": "FadedCombatText-v2.0.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedCombatText-v2.0.0.zip",
+      "zip_name": "FadedCombatText-v2.0.0.zip",
+      "size_bytes": 875352,
+      "sha256": "912b49f3ffa91478ea2dbd39ae64a8c86dbe79a05df9278d9742f01c89fa0b28"
     },
     {
       "id": "FadedFarmingFishingReborn",
+      "server_mod_id": "FadedFarmingFishingReborn",
       "name": "Faded Farming & Fishing Reborn",
       "version": "0.1.0-b42.19",
       "description": "Build 42.19 farming and fishing hub. First playable includes the GUI, sandbox options, CSR-safe detection, and server-authoritative command rails.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedFarmingFishingReborn-v0.1.0-b42.19.zip",
-      "zip_name": "FadedFarmingFishingReborn-v0.1.0-b42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFarmingFishingReborn-v0.1.0-b42.19.zip",
+      "zip_name": "FadedFarmingFishingReborn-v0.1.0-b42.19.zip",
+      "size_bytes": 46406229,
+      "sha256": "849bef93d356e0a19a53af3cd30529001b727ab3f2ecc42eaa984af24f62907b"
     },
     {
       "id": "FadedFeastcraft",
+      "server_mod_id": "FadedFeastcraft",
       "name": "FFC",
       "version": "0.1.0",
       "description": "Faded's Feastcraft: a Build 42 food command center with in-house cooking, recipe requirements, pantry scanning, preservation, nutrition, station auto-cook, and MP-safe server validation.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedFeastcraft-v0.1.0.zip",
-      "zip_name": "FadedFeastcraft-v0.1.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFeastcraft-v0.1.0.zip",
+      "zip_name": "FadedFeastcraft-v0.1.0.zip",
+      "size_bytes": 137621620,
+      "sha256": "7563fe0f4d716fdb02ee22509f4824a2263ece920de66aefc2dc01457a2dd5f4"
     },
     {
       "id": "FadedFieldOperations",
+      "server_mod_id": "FadedFieldOperations",
       "name": "Faded Field Operations",
-      "version": "42.19",
+      "version": "1.0.0",
       "description": "Survivors NPCs become live quest contacts when present. Standalone mode works without it.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedFieldOperations-v42.19.zip",
-      "zip_name": "FadedFieldOperations-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFieldOperations-v1.0.0.zip",
+      "zip_name": "FadedFieldOperations-v1.0.0.zip",
+      "size_bytes": 874562,
+      "sha256": "8577f4e3437e025370a72d28f9784622613ed3ef73c06a3e7c4c710f6e1320ea",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedFromTheWindow_ZCTW",
+      "server_mod_id": "FadedFromTheWindow_ZCTW",
       "name": "Faded From The Window - Zombies Crash Through Windows",
-      "version": "42.18",
+      "version": "1.0.4",
       "description": "Build 42.18 revival inspired by Zombies Crash Through Windows. Qualifying zombies smash and force their way through windows instead of opening them.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedFromTheWindow_ZCTW-v42.18.zip",
-      "zip_name": "FadedFromTheWindow_ZCTW-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFromTheWindow_ZCTW-v1.0.4.zip",
+      "zip_name": "FadedFromTheWindow_ZCTW-v1.0.4.zip",
+      "size_bytes": 561118,
+      "sha256": "c61cbedded5949e1312e83b329969b0f99393ba6b88c650486e54c05b72c9ec4",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedHuntersCalling",
+      "server_mod_id": "FadedHuntersCalling",
       "name": "Faded's Hunters Calling",
-      "version": "42",
+      "version": "1.0.0",
       "description": "A clean-room hunter, trapper and bushcraft platform with a leather-and-amber Hunter Hub GUI. Live-capture trapping, field dressing, meat drying, hide curing, timed scent lures, animal tracking (yellow outline), trap board, and server QoL.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedHuntersCalling-v42.zip",
-      "zip_name": "FadedHuntersCalling-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedHuntersCalling-v1.0.0.zip",
+      "zip_name": "FadedHuntersCalling-v1.0.0.zip",
+      "size_bytes": 440914,
+      "sha256": "1bdd03cf39e2a275ac09a4a35974b73f1361ca37f2d1a0e19b83b421ca04e977",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedPacketSavior",
+      "server_mod_id": "FadedPacketSavior",
       "name": "Faded Packet Savior",
-      "version": "42.19",
+      "version": "0.1.0",
       "description": "Build 42.19 SP/MP stabilization and diagnostics. Cannot bypass engine-level malformed-packet kicks; reduces common modded-server causes with join delays, validation, safe sanitation, and logging.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedPacketSavior-v42.19.zip",
-      "zip_name": "FadedPacketSavior-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedPacketSavior-v0.1.0.zip",
+      "zip_name": "FadedPacketSavior-v0.1.0.zip",
+      "size_bytes": 133441,
+      "sha256": "d74f1fc61ebebff44aa12d81ecde267cb7e581fa4c6ea0acbc657c4389981c5d",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedsClearViewUI",
+      "server_mod_id": "FadedsClearViewUI",
       "name": "Faded's ClearView UI",
-      "version": "42.19",
+      "version": "0.2.1",
       "description": "Clean-room compact dark UI pass for Project Zomboid Build 42.19. Adds Faded purple accents, rarity-aware item names/columns/icon accents, and optional Common Sense Reborn UI surface styling without replacing inventory authority.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-clearview-ui-refresh/FadedsClearViewUI-v42.19.zip",
-      "zip_name": "FadedsClearViewUI-v42.19.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsClearViewUI-v0.2.1.zip",
+      "zip_name": "FadedsClearViewUI-v0.2.1.zip",
+      "size_bytes": 9418469,
+      "sha256": "cd093796a1887829043f74113bd3ea4d92e40ae2ac20e4da7fe2ba951feb4cd0",
       "updated_at": "2026-06-23"
     },
     {
       "id": "FadedsLastChance",
+      "server_mod_id": "FadedsLastChance",
       "name": "Faded's Last Chance",
       "version": "42.19",
       "description": "Server-authoritative Build 42.19 medical revive system.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedsLastChance-v42.19.zip",
-      "zip_name": "FadedsLastChance-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsLastChance-v42.19.zip",
+      "zip_name": "FadedsLastChance-v42.19.zip",
+      "size_bytes": 14361235,
+      "sha256": "4ce27497aa0424d93ea39f9fa1e72e5175b781d1bf746338faae13fd7e8ba280"
     },
     {
       "id": "FadedsLegacyCodex",
+      "server_mod_id": "FadedsLegacyCodex",
       "name": "Faded's Legacy Codex",
       "version": "42",
       "description": "Preserve hard-earned survival knowledge in physical Codexes and Compendiums for Build 42. Copyright (c) 2026 Faded. All rights reserved; do not copy, reuse, redistribute, or modify this mod's code without written permission.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedsLegacyCodex-v42.zip",
-      "zip_name": "FadedsLegacyCodex-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsLegacyCodex-v42.zip",
+      "zip_name": "FadedsLegacyCodex-v42.zip",
+      "size_bytes": 177807,
+      "sha256": "5c704f95f89cabd638aaaf225df0fbc0b5d24d0a821884d0ff7e029e36500b60"
     },
     {
       "id": "FadedsRideOrRot",
+      "server_mod_id": "FadedsRideOrRot",
       "name": "Faded's Ride or Rot",
       "version": "42.19",
       "description": "Build 42.19 vehicle utility overhaul with MP-conscious towing and mechanics quality-of-life features.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedsRideOrRot-v42.19.zip",
-      "zip_name": "FadedsRideOrRot-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsRideOrRot-v42.19.zip",
+      "zip_name": "FadedsRideOrRot-v42.19.zip",
+      "size_bytes": 12509,
+      "sha256": "a9dc299f9e282876b493ebf2339b749a115218afb1714b960686ddfd7a923812"
     },
     {
       "id": "FadedsTheHive",
+      "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
       "version": "1.4.0",
       "description": "The zombies have learned. By day they retreat, roost, listen, and punish careless intruders. By night the Hive wakes, shares targets, howls, flanks, climbs, mutates, and hunts as a coordinated swarm. B42.17, SP + MP, no dependencies.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedsTheHive-v1.4.0.zip",
-      "zip_name": "FadedsTheHive-v1.4.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsTheHive-v1.4.0.zip",
+      "zip_name": "FadedsTheHive-v1.4.0.zip",
+      "size_bytes": 923034,
+      "sha256": "810d78d26d471878293d52e0b90db5ce6c574032f72e3bd609ef73a0f7dc6490"
     },
     {
       "id": "FadedTradeNetwork",
+      "server_mod_id": "FadedTradeNetwork",
       "name": "Faded Trade Network",
       "version": "0.3.1",
       "description": "Server-authoritative trade economy for Build 42. Trade IDs, physical storefronts, item deposits, radio browsing, and admin controls. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedTradeNetwork-v0.3.1.zip",
-      "zip_name": "FadedTradeNetwork-v0.3.1.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedTradeNetwork-v0.3.1.zip",
+      "zip_name": "FadedTradeNetwork-v0.3.1.zip",
+      "size_bytes": 391140,
+      "sha256": "d478e2b1abd98b03af8c08c19fd6dc7796956db665f3286dd2f0c44b06febc37"
     },
     {
       "id": "FadedVehiclesReborn",
+      "server_mod_id": "FadedVehiclesReborn",
       "name": "Faded Vehicles Reborn",
       "version": "42.18",
       "description": "Build 42.18 vehicle lifecycle mod with server-authoritative replacement tickets, safe spawn scans, admin controls, and CSR compatibility.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedVehiclesReborn-v42.18.zip",
-      "zip_name": "FadedVehiclesReborn-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedVehiclesReborn-v42.18.zip",
+      "zip_name": "FadedVehiclesReborn-v42.18.zip",
+      "size_bytes": 1063282,
+      "sha256": "cc109f3b2524dc3238dc9f497ca8b57e08cbf7a4f91f0c822cc4a4d3af8863ce"
     },
     {
       "id": "FaithsTraditions",
+      "server_mod_id": "FaithsTraditions",
       "name": "Faiths & Traditions: Miracles of the End",
-      "version": "42",
+      "version": "1",
       "description": "Adds belief traits, faith books, progression, rituals, server-owned ultimate miracles, Bound Dead, Dead Veil, and a faith status panel.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FaithsTraditions-v42.zip",
-      "zip_name": "FaithsTraditions-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FaithsTraditions-v1.zip",
+      "zip_name": "FaithsTraditions-v1.zip",
+      "size_bytes": 519097,
+      "sha256": "4b076c873ef3760a8c9530dd047c55a9e7bd5120a4436debb3c352867a6aed45",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FWP",
@@ -292,230 +393,338 @@
     },
     {
       "id": "Hydrocraft",
+      "server_mod_id": "Hydrocraft",
       "name": "Hydrocraft Build 42.18 Continued",
       "version": "42.18",
       "description": "Hydrocraft compatibility continuation for Project Zomboid Build 42.18, preserving the classic item, recipe, crafting, loot, farming, survival, and world-interaction expansion.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Hydrocraft-v42.18.zip",
-      "zip_name": "Hydrocraft-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Hydrocraft-v42.18.zip",
+      "zip_name": "Hydrocraft-v42.18.zip",
+      "size_bytes": 60188636,
+      "sha256": "4fd3e3d96aee709583786bfec769f8d83bc7867b4234d4ca74702ff84c90d8f8"
     },
     {
       "id": "IKappaIDPinkSlip",
+      "server_mod_id": "IKappaIDPinkSlip",
       "name": "IKappaID PinkSlip",
-      "version": "42.17",
+      "version": "0.2.11",
       "description": "Vehicle ownership as a paper title. Claim a vehicle with a Blank Pink Slip via the V radial: the vehicle is despawned and a filled Pink Slip is issued, holding its full state and stable vehicle UID. Right-click a filled Pink Slip, use the left-side button, or press the configurable hotkey to deploy it. Trade the slip like a normal item; the new holder can register the title. B42.17.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/IKappaIDPinkSlip-v42.17.zip",
-      "zip_name": "IKappaIDPinkSlip-v42.17.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappaIDPinkSlip-v0.2.11.zip",
+      "zip_name": "IKappaIDPinkSlip-v0.2.11.zip",
+      "size_bytes": 27861,
+      "sha256": "1018e4e38ad655812c57cc7fba587e0db54027a97592013cc66e3809f835439c",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "IKappaIDPinkSlipLoot",
+      "server_mod_id": "IKappaIDPinkSlipLoot",
       "name": "IKappaID Pink Slip - Loot",
-      "version": "42",
+      "version": "0.1.0",
       "description": "Optional loot patch: pre-filled Pink Slips spawn via OnFillContainer (desks, filing cabinets, office drawers, mechanic crates, etc.). Sandbox WeightMult scales chance. Requires IKappaID PinkSlip (core). Disable if you do not want world spawns.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/IKappaIDPinkSlipLoot-v42.zip",
-      "zip_name": "IKappaIDPinkSlipLoot-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappaIDPinkSlipLoot-v0.1.0.zip",
+      "zip_name": "IKappaIDPinkSlipLoot-v0.1.0.zip",
+      "size_bytes": 576735,
+      "sha256": "ffdc608d287a56fa67c246493e994155fc49b273e25d70bb31e3a383ab0f5fbd",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
+      "server_mod_id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
       "name": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
-      "version": "42.18",
+      "version": "2.5.0",
       "description": "Server-authoritative vehicle physics, trunk capacity, and sandbox sync for Build 42 dedicated multiplayer.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v42.18.zip",
-      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v42.18.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
+      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
       "size_bytes": 58922,
-      "sha256": "e90ac24ae6c7abf1f27d9868d149e27de342902550d989b45dc2528a2bf9d7c2"
+      "sha256": "8eaf608b82d9980d98ad6eb09f76da8d087241290262758c4233cb6e5ad14791",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
+      "server_mod_id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
       "name": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
-      "version": "42.18",
+      "version": "2.5.0",
       "description": "Vehicle physics, handling, and trunk capacity for Build 42 single-player and listen-host play.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v42.18.zip",
-      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
+      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
+      "size_bytes": 47561,
+      "sha256": "38b83ce8189059239204f4b44edd0332e090037e06c3702178ade23c572ac1c5",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "ISyncYouSyncWeAllSyncForDeSync",
+      "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
       "version": "42",
       "description": "Build 42 passive desync evidence and lightweight remediation suite. Uses a low-frequency sync ledger, client-side anomaly watchers, zombie kill signals, rate-limited ghost-zombie cure requests, metadata-only vehicle evidence, debounced notifications, hotspot tracking, and admin tools. Designed to reduce visible desync without flooding custom packets or fighting engine authority. Copyright (c) 2026 Luis. All rights reserved. No reupload or redistribution without written permission.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/ISyncYouSyncWeAllSyncForDeSync-v42.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ISyncYouSyncWeAllSyncForDeSync-v42.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v42.zip",
+      "size_bytes": 261458,
+      "sha256": "fbc2dc0b99b9cb6e1141140d6660e6e1d8d52c3e792321485796dfdf0fa3d2b1"
     },
     {
       "id": "JustFaded",
+      "server_mod_id": "JustFaded",
       "name": "Just Faded Mask",
       "version": "42",
       "description": "A violet-black skull mask for the survivor they only call The Faded.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/JustFaded-v42.zip",
-      "zip_name": "JustFaded-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/JustFaded-v42.zip",
+      "zip_name": "JustFaded-v42.zip",
+      "size_bytes": 7726114,
+      "sha256": "ef8893193c4a98ab71267fed7fea416b3f7f40ca9e25cf75ed127738af8afe7c"
     },
     {
       "id": "KnoxNetOS",
+      "server_mod_id": "KnoxNetOS",
       "name": "KnoxNet OS",
       "version": "42.19",
       "description": "Build 42.19 deep test candidate for the KnoxNet OS mod.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/KnoxNetOS-v42.19.zip",
-      "zip_name": "KnoxNetOS-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/KnoxNetOS-v42.19.zip",
+      "zip_name": "KnoxNetOS-v42.19.zip",
+      "size_bytes": 33834,
+      "sha256": "03485fb38edd99340b16afc1f33a417a10db0b07647effca5c96c834929808f9"
     },
     {
       "id": "KnoxTransit",
+      "server_mod_id": "KnoxTransit",
       "name": "Knox Transit",
       "version": "42",
       "description": "Server-authoritative Build 42 transit stops integrated with Faded Trade Network.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/KnoxTransit-v42.zip",
-      "zip_name": "KnoxTransit-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/KnoxTransit-v42.zip",
+      "zip_name": "KnoxTransit-v42.zip",
+      "size_bytes": 70971090,
+      "sha256": "fac2a0f9b2fbe7ba14826536052992df28fb20376a63865ae4b0a1e56da5ca82"
     },
     {
       "id": "LifestyleHobbies",
+      "server_mod_id": "LifestyleHobbies",
       "name": "Lifestyle: Hobbies",
-      "version": "42",
+      "version": "0.3.92",
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/LifestyleHobbies-v42.zip",
-      "zip_name": "LifestyleHobbies-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/LifestyleHobbies-v0.3.92.zip",
+      "zip_name": "LifestyleHobbies-v0.3.92.zip",
+      "size_bytes": 1221695550,
+      "sha256": "4e23d956e5056acc81fe7de20c98a74f3ad3dd9fcf9e01bda5ec6e538f4c58d6",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "Military_Tool_Kit",
+      "server_mod_id": "Military_Tool_Kit",
       "name": "Faded's Military Tool Kit Fix",
       "version": "2.1.7",
       "description": "Temporary B42.18 compatibility fix for Military Tool Kit by Papa_Chad. Patch work by Faded; testing help by Ghost_Echo.",
-      "updated_at": "2026-06-21",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-21-military-tool-kit-fix/Military_Tool_Kit-v2.1.7.zip",
-      "zip_name": "Military_Tool_Kit-v2.1.7.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Military_Tool_Kit-v2.1.7.zip",
+      "zip_name": "Military_Tool_Kit-v2.1.7.zip",
+      "size_bytes": 16129472,
+      "sha256": "e6ca948591d7d96fa3e9a3a14ac2bdac846f91830b93a7850d9220ac659944a6",
+      "updated_at": "2026-06-21"
     },
     {
       "id": "NNC42PublicBranch",
+      "server_mod_id": "NNC42PublicBranch",
       "name": "N&C's Narcotics - B42.19",
       "version": "1.7.0",
       "description": "Authorized continuation of N&C's Narcotics for Build 42.19. Save-compatible with NNC42PublicBranch.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/NNC42PublicBranch-v1.7.0.zip",
-      "zip_name": "NNC42PublicBranch-v1.7.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/NNC42PublicBranch-v1.7.0.zip",
+      "zip_name": "NNC42PublicBranch-v1.7.0.zip",
+      "size_bytes": 28368028,
+      "sha256": "2eb097722b3a52ab961a4aac9067188a786ec975394a3d2c0408f65f6534e03a"
     },
     {
       "id": "ProjectFadedCar",
+      "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "42.18",
+      "version": "0.1.0",
       "description": "Independent B42.18 vehicle maintenance, dashboard, The Shop service, engine swap, and wreck restoration systems built with vanilla assets and CSR-friendly UI behavior.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/ProjectFadedCar-v42.18.zip",
-      "zip_name": "ProjectFadedCar-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ProjectFadedCar-v0.1.0.zip",
+      "zip_name": "ProjectFadedCar-v0.1.0.zip",
+      "size_bytes": 1349318,
+      "sha256": "ad243ff0dfebe5b9265a812eb06c37d9beb536b8ee8fda216437f4bb863fd941",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "SalvagedFuelRecoveryStation",
+      "server_mod_id": "SalvagedFuelRecoveryStation",
       "name": "Salvaged Fuel Recovery Station",
-      "version": "2026.06.20",
+      "version": "1.0.0",
       "description": "An improvised biogas extraction and crude fuel refinement machine. Convert organic waste into propane or gasoline using dangerous, noisy industrial processing.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SalvagedFuelRecoveryStation-v2026.06.20.zip",
-      "zip_name": "SalvagedFuelRecoveryStation-v2026.06.20.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SalvagedFuelRecoveryStation-v1.0.0.zip",
+      "zip_name": "SalvagedFuelRecoveryStation-v1.0.0.zip",
+      "size_bytes": 168886,
+      "sha256": "d35d09576e5307673fb02516d7ea63975262367ddbef140dafda4368f0a3c82e",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "SkillBookExpansionB42",
+      "server_mod_id": "SkillBookExpansionB42",
       "name": "Skill Book Expansion",
       "version": "0.1.0-b42.19",
       "description": "Adds the missing Build 42.19 skill books and book sets for Axe, Long Blunt, Short Blunt, Short Blade, Spear, Nimble, Sprinting, Sneaking, Lightfooted, Fitness, and Strength.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SkillBookExpansionB42-v0.1.0-b42.19.zip",
-      "zip_name": "SkillBookExpansionB42-v0.1.0-b42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SkillBookExpansionB42-v0.1.0-b42.19.zip",
+      "zip_name": "SkillBookExpansionB42-v0.1.0-b42.19.zip",
+      "size_bytes": 1042267,
+      "sha256": "7522af93847a0cecb84871214d98955d05e54399131ecfa73ff5111e6ca627b8"
     },
     {
       "id": "SleepSpeedController",
+      "server_mod_id": "SleepSpeedController",
       "name": "Sleep Speed Controller",
       "version": "42",
       "description": "Prevents multiplayer sleep fast-forward from getting stuck on dedicated servers by monitoring sleeping players and resetting time speed when everyone wakes up.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SleepSpeedController-v42.zip",
-      "zip_name": "SleepSpeedController-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SleepSpeedController-v42.zip",
+      "zip_name": "SleepSpeedController-v42.zip",
+      "size_bytes": 869764,
+      "sha256": "6a02d781f5995e094523e22d71554ecd0af6a28a6345b324098a35f959655641"
     },
     {
       "id": "SolarNeverFaded",
+      "server_mod_id": "SolarNeverFaded",
       "name": "Solar Never Faded",
-      "version": "42",
+      "version": "0.1.0",
       "description": "Standalone Build 42 solar power generation: panels, battery banks, portable chargers, recipes, loot, multiplayer-safe server authority, and an optional CSR bridge API.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SolarNeverFaded-v42.zip",
-      "zip_name": "SolarNeverFaded-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SolarNeverFaded-v0.1.0.zip",
+      "zip_name": "SolarNeverFaded-v0.1.0.zip",
+      "size_bytes": 1783343,
+      "sha256": "e523d5d571488afec89bc6bbf87e4e809da567e0774fd49047d43db500615374",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "SimpleOverhaulTraitsAndOccupations",
+      "server_mod_id": "SimpleOverhaulTraitsAndOccupations",
       "name": "Simple Overhaul: Traits and Occupations (SOTO)",
-      "version": "42.18",
+      "version": "1",
       "description": "This global mod changes traits and occupations from vanilla game, also adds new ones.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SimpleOverhaulTraitsAndOccupations-v42.18.zip",
-      "zip_name": "SimpleOverhaulTraitsAndOccupations-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SimpleOverhaulTraitsAndOccupations-v1.zip",
+      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.zip",
+      "size_bytes": 457204,
+      "sha256": "37caa2b972745a03486be3eceb4b6de99a5966a859e5df126fb393633ae67f60",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "SpongiesFadedClothing_B42Port",
+      "server_mod_id": "SpongiesFadedClothing_B42Port",
       "name": "Spongie's Clothing [B42 Port]",
-      "version": "42",
+      "version": "21.42.19.0",
       "description": "Build 42 compatibility port of Spongie's Clothing. Original mod by Spongie; port prepared by Faded with permission/request from the original developer.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SpongiesFadedClothing_B42Port-v42.zip",
-      "zip_name": "SpongiesFadedClothing_B42Port-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
+      "zip_name": "SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
+      "size_bytes": 4293629,
+      "sha256": "5ec023072e075607ae560352ee039a217f74f5fe93aecd4f9e8bbb4a086eb862",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "SpnOpenCloth",
+      "server_mod_id": "SpnOpenCloth",
       "name": "Spongie's Open Jackets",
-      "version": "42.18",
+      "version": "18",
       "description": "Alternate wearable styles for vanilla clothing, ported for Build 42.18.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/SpnOpenCloth-v42.18.zip",
-      "zip_name": "SpnOpenCloth-v42.18.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SpnOpenCloth-v18.zip",
+      "zip_name": "SpnOpenCloth-v18.zip",
+      "size_bytes": 5744127,
+      "sha256": "be6624170603a41d09573dbe31d08c31a2147384ea226fa3228072a947d33c91",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "Survivors",
+      "server_mod_id": "Survivors",
       "name": "Just Survivors",
-      "version": "42",
+      "version": "0.42.18-port",
       "description": "Legacy internal namespace retained for compatibility.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Survivors-v42.zip",
-      "zip_name": "Survivors-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Survivors-v0.42.18-port.zip",
+      "zip_name": "Survivors-v0.42.18-port.zip",
+      "size_bytes": 101903305,
+      "sha256": "bfca3e97d336cc4980ebd8f9046486a1caafec975a5238c3f7fc1a48221ed180",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "TheLastTestament",
+      "server_mod_id": "TheLastTestament",
       "name": "The Last Testament",
       "version": "42",
       "description": "Collectible Bible-inspired booklets with a custom parchment reading window and modest spiritual comfort effects.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/TheLastTestament-v42.zip",
-      "zip_name": "TheLastTestament-v42.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/TheLastTestament-v42.zip",
+      "zip_name": "TheLastTestament-v42.zip",
+      "size_bytes": 320601,
+      "sha256": "235529c160c9ef7a7f0318612124c9de9f1632685c0c4d72e3eb589e05ecac5b"
     },
     {
       "id": "ThePriceWePay",
+      "server_mod_id": "ThePriceWePay",
       "name": "The Price We Pay",
       "version": "42.19",
       "description": "Build 42.19 server-authoritative SP/MP arrest, restraint, escort, and prisoner transport mod.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/ThePriceWePay-v42.19.zip",
-      "zip_name": "ThePriceWePay-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ThePriceWePay-v42.19.zip",
+      "zip_name": "ThePriceWePay-v42.19.zip",
+      "size_bytes": 1687970,
+      "sha256": "ec5cb54ba22dbd342cb4c0b74e212970cf8a420a4f44ab71fe4b01b4270806eb"
     },
     {
       "id": "TheySeeMeRollin",
+      "server_mod_id": "TheySeeMeRollin",
       "name": "They See Me Rollin",
       "version": "1.0.0",
       "description": "Unified Build 42.19 vehicle mod pack rebuilt and optimized for multiplayer server authority.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/TheySeeMeRollin-v1.0.0.zip",
-      "zip_name": "TheySeeMeRollin-v1.0.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/TheySeeMeRollin-v1.0.0.zip",
+      "zip_name": "TheySeeMeRollin-v1.0.0.zip",
+      "size_bytes": 286831675,
+      "sha256": "030479a109559e0d0b3c407fcc7293bb0c2d0084acfd4d48beced1cc59478bc1"
     },
     {
       "id": "tsarslib",
+      "server_mod_id": "tsarslib",
       "name": "Faded's Tsar Lib",
-      "version": "42.19",
+      "version": "3.25",
       "description": "Common library for Tsar's Companies. Rebuilt compatibility copy for Build 42.19.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/tsarslib-v42.19.zip",
-      "zip_name": "tsarslib-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/tsarslib-v3.25.zip",
+      "zip_name": "tsarslib-v3.25.zip",
+      "size_bytes": 8307070,
+      "sha256": "b48ee0fe67020c7ea6053a8b4c6a7f87964a5ce7fb53a964908e53189489ea65",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "UpdateTheRealm",
+      "server_mod_id": "UpdateTheRealm",
       "name": "Update The Realm",
       "version": "42.19",
       "description": "Build 42.19 dedicated-server Workshop update monitoring with safe host-auto-boot restarts.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/UpdateTheRealm-v42.19.zip",
-      "zip_name": "UpdateTheRealm-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/UpdateTheRealm-v42.19.zip",
+      "zip_name": "UpdateTheRealm-v42.19.zip",
+      "size_bytes": 316322,
+      "sha256": "32808f27864b7e02b201042066870bfeb10fa8da8d8de3d98926fd32fd672a8d"
     },
     {
       "id": "WaterFaded",
+      "server_mod_id": "WaterFaded",
       "name": "Water Faded",
       "version": "1.0.0",
       "description": "Clean-room Build 42.19 rebuild of the legacy water mod. Server-authoritative in multiplayer and compatible with single-player.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/WaterFaded-v1.0.0.zip",
-      "zip_name": "WaterFaded-v1.0.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/WaterFaded-v1.0.0.zip",
+      "zip_name": "WaterFaded-v1.0.0.zip",
+      "size_bytes": 1699134,
+      "sha256": "5293c3e235da301ddf1200e60a37e5358c9eb1287a6909d15797ce761e1942df"
     },
     {
       "id": "YearsFaded",
+      "server_mod_id": "YearsFaded",
       "name": "Years Faded",
-      "version": "42.19",
+      "version": "0.26.0",
       "description": "Build 42.19-ready apocalypse-aging framework with server-authoritative decay, fixture water, cleanup, vehicle wear, vanilla and permissioned adapted texture assets, survivor remnants, and CSR-safe compatibility rails. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/YearsFaded-v42.19.zip",
-      "zip_name": "YearsFaded-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/YearsFaded-v0.26.0.zip",
+      "zip_name": "YearsFaded-v0.26.0.zip",
+      "size_bytes": 286992318,
+      "sha256": "7e6e65429f459e8a6687c5b4d29b85189ccaacc7381251fd8cc0244c23a26764",
+      "updated_at": "2026-06-23"
+    },
+    {
+      "id": "ThePathLessTraveled",
+      "server_mod_id": "ThePathLessTraveled",
+      "name": "The Path Less Traveled",
+      "version": "42.19",
+      "description": "Build 42.19 multiplayer-first proficiency path progression with server-authoritative path choices, sacrifice gates, proficiency XP, and Skills tab integration.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ThePathLessTraveled-v42.19.zip",
+      "zip_name": "ThePathLessTraveled-v42.19.zip",
+      "size_bytes": 21996,
+      "sha256": "a6e2a99c101e2e684cae981b03455d6383fc6c0d7939e195f1673d02ee1fb7ca",
+      "updated_at": "2026-06-23"
     }
   ]
 }
