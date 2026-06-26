@@ -143,6 +143,18 @@
       "sha256": "882f98c8d1e4ec1c3a9cceed13e5fe7292e6ab59a214e65364b12049e45be611"
     },
     {
+      "id": "CSR_ClearviewGPS",
+      "server_mod_id": "CSR_ClearviewGPS",
+      "name": "CSR Clearview GPS",
+      "version": "1.0.0",
+      "description": "Version 1.0.0. Standalone B42.19 Clearview-styled GPS with a movable right-side launcher, persistent local UI layout, movable/resizable GPS window, purple route rendering, server-synced route graph data for MP, and singleplayer cache support.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-csr-gps-fwp-update/CSR_ClearviewGPS-v1.0.0.zip",
+      "zip_name": "CSR_ClearviewGPS-v1.0.0.zip",
+      "size_bytes": 141777,
+      "sha256": "1626eafb9efb75f3226215cbbb2aaa3b82537c08111c49a96dae588ab0f9c527",
+      "updated_at": "2026-06-25"
+    },
+    {
       "id": "CSRFundamentals",
       "server_mod_id": "CSRFundamentals",
       "name": "CSR Fundamentals",
@@ -373,23 +385,37 @@
     },
     {
       "id": "FWP",
+      "server_mod_id": "FWP",
       "name": "Faded's Weapon Pack",
-      "version": "42.18",
-      "description": "Disclaimer - Faded's Weapons Pack. Standalone private/community-use Build 42.18 mod; source packs are reference-only.",
+      "version": "42.19.20260625",
+      "description": "Disclaimer - Faded's Weapons Pack. Standalone private/community-use Build 42.19 mod; source packs are reference-only.",
       "download_parts": [
         {
-          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FWP-v42.18-part1.zip",
-          "zip_name": "FWP-v42.18-part1.zip"
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-csr-gps-fwp-update/FWP-v42.19.20260625-part1.zip",
+          "zip_name": "FWP-v42.19.20260625-part1.zip",
+          "size_bytes": 270047915,
+          "sha256": "e0ab62aad5b031accdc741eb6cd5c4a0a77f4c518c000d07b89b6d4f4dd1526e"
         },
         {
-          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FWP-v42.18-part2.zip",
-          "zip_name": "FWP-v42.18-part2.zip"
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-csr-gps-fwp-update/FWP-v42.19.20260625-part2.zip",
+          "zip_name": "FWP-v42.19.20260625-part2.zip",
+          "size_bytes": 231950279,
+          "sha256": "e972e1a0396a0121b259663e07f8975593a630d3cf9c42036979625a58f1bbd2"
         },
         {
-          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FWP-v42.18-part3.zip",
-          "zip_name": "FWP-v42.18-part3.zip"
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-csr-gps-fwp-update/FWP-v42.19.20260625-part3.zip",
+          "zip_name": "FWP-v42.19.20260625-part3.zip",
+          "size_bytes": 1526290002,
+          "sha256": "8c9ae1862db9e4da136deeb208f2626410f6455faaeb4da5151b9a834ac34e2e"
+        },
+        {
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-csr-gps-fwp-update/FWP-v42.19.20260625-part4.zip",
+          "zip_name": "FWP-v42.19.20260625-part4.zip",
+          "size_bytes": 160546007,
+          "sha256": "c13c9fda23278892cb1543845bd0165c5968492fe4bfacfd11efdef15f3e878d"
         }
-      ]
+      ],
+      "updated_at": "2026-06-25"
     },
     {
       "id": "Hydrocraft",
