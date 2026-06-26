@@ -571,13 +571,13 @@
       "id": "SalvagedFuelRecoveryStation",
       "server_mod_id": "SalvagedFuelRecoveryStation",
       "name": "Salvaged Fuel Recovery Station",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "description": "An improvised biogas extraction and crude fuel refinement machine. Convert organic waste into propane or gasoline using dangerous, noisy industrial processing. Warning: it attracts zombies to your location.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-24-path-fuel-update/SalvagedFuelRecoveryStation-v1.2.0.zip",
-      "zip_name": "SalvagedFuelRecoveryStation-v1.2.0.zip",
-      "size_bytes": 176308,
-      "sha256": "c7a8be1dc1ddb2feb39a5a79e9b31be2e38dcf0dd31ac506d52bf323597a8fc6",
-      "updated_at": "2026-06-24"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-26-salvaged-fuel-recovery-station-update/SalvagedFuelRecoveryStation-v1.3.0.zip",
+      "zip_name": "SalvagedFuelRecoveryStation-v1.3.0.zip",
+      "size_bytes": 179866,
+      "sha256": "0784d57949c924fdd45826dc829ca76fb6e1ae07f3947b4fb46ad0f9821aa827",
+      "updated_at": "2026-06-26"
     },
     {
       "id": "SkillBookExpansionB42",
