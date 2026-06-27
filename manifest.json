@@ -538,10 +538,10 @@
       "name": "Log Stack Dictionary Stub",
       "version": "42.19.20260627.1",
       "description": "Compatibility stub. Defines only the empty Base.Log_Stack_01 entity so servers whose saved WorldDictionary still references a removed log-stack script can boot without registering duplicate SpriteConfig sprites.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-log-stack-dict-stub/LogStackDictStub-v42.19.20260627.1.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-log-stack-dict-stub-2/LogStackDictStub-v42.19.20260627.1.zip",
       "zip_name": "LogStackDictStub-v42.19.20260627.1.zip",
-      "size_bytes": 982,
-      "sha256": "4f8fcf7fbef8098fda118d50f573b90c1a463624e18d7942df4d883ed5735519",
+      "size_bytes": 1077,
+      "sha256": "2b23be64bc2d8c6f264b62d5886d779e39825c349791fb0aa93ef6171a2d0c6b",
       "updated_at": "2026-06-27"
     },
     {
