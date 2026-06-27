@@ -533,6 +533,18 @@
       "updated_at": "2026-06-23"
     },
     {
+      "id": "LogStackDictStub",
+      "server_mod_id": "LogStackDictStub",
+      "name": "Log Stack Dictionary Stub",
+      "version": "42.19.20260626.1",
+      "description": "Compatibility stub. Registers Base.Log_Stack_01 as a SpriteConfig so clients can join servers whose saved WorldDictionary still references a removed logging mod's log-stack world object. Stopgap only - safe to remove once the orphaned dictionary entry is gone.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-26-log-stack-dict-stub/LogStackDictStub-v42.19.20260626.1.zip",
+      "zip_name": "LogStackDictStub-v42.19.20260626.1.zip",
+      "size_bytes": 866,
+      "sha256": "7ff05c692e69da23f835759ec982be002f206dbb8e9a2bca0dacd384310139d0",
+      "updated_at": "2026-06-26"
+    },
+    {
       "id": "Military_Tool_Kit",
       "server_mod_id": "Military_Tool_Kit",
       "name": "Faded's Military Tool Kit Fix",
