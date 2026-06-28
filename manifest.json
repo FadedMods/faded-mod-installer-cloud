@@ -137,10 +137,10 @@
       "name": "CSR Admin Command Center",
       "version": "0.1.7",
       "description": "Standalone admin command center companion for Common Sense Reborn. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-28-csr-admin-command-center-2/CSRAdminCommandCenter-v0.1.7.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-28-csr-admin-command-center-3/CSRAdminCommandCenter-v0.1.7.zip",
       "zip_name": "CSRAdminCommandCenter-v0.1.7.zip",
-      "size_bytes": 35821944,
-      "sha256": "d92e1c3c0b7d44632c0c52e9d137978fb71a920c62904cf7adef2411e82bdd79",
+      "size_bytes": 35826602,
+      "sha256": "90df6b280c076859287a4a09609042ae34543789cba3322fbe070fd4ca15477d",
       "updated_at": "2026-06-28"
     },
     {
