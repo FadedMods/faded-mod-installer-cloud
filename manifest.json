@@ -276,10 +276,10 @@
       "name": "Faded Vehicles",
       "version": "42",
       "description": "Independent Build 42 vehicle mod by Faded. Currently includes the M998M2 Humvee, with room for more vehicles.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-30-faded-vehicles/FadedVehicles-v42.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-30-faded-vehicles-2/FadedVehicles-v42.zip",
       "zip_name": "FadedVehicles-v42.zip",
-      "size_bytes": 69312868,
-      "sha256": "84b66eac83cf422bdf2a5d461b6d1209eb3d593f2db95a978a179cc2f4f4d4af",
+      "size_bytes": 62736319,
+      "sha256": "d5e8f19ef2f4367458521a82a805b326eecef6fc9f34a26a58c89a9f2718e679",
       "updated_at": "2026-06-30"
     },
     {
