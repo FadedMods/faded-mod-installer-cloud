@@ -615,6 +615,18 @@
       "updated_at": "2026-06-27"
     },
     {
+      "id": "SaveTheBabies",
+      "server_mod_id": "SaveTheBabies",
+      "name": "Save The Babies",
+      "version": "0.2.0",
+      "description": "Build 42.19 SP/MP baby care system with server-authoritative persistence, care GUI, crying, progression, FTN/FAM soft integrations, grief consequences, items, and admin recovery tools.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-30-save-the-babies/SaveTheBabies-v0.2.0.zip",
+      "zip_name": "SaveTheBabies-v0.2.0.zip",
+      "size_bytes": 3569705,
+      "sha256": "3e6125cdeb1472274159e358d26ca9ebcd2388f6eadc05c8dc4f683e37665c13",
+      "updated_at": "2026-06-30"
+    },
+    {
       "id": "SkillBookExpansionB42",
       "server_mod_id": "SkillBookExpansionB42",
       "name": "Skill Book Expansion",
