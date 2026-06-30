@@ -276,10 +276,10 @@
       "name": "Faded Humvee M998M2",
       "version": "42",
       "description": "Independent Build 42 M998M2 Humvee vehicle mod with integrated vanilla-safe helpers.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-29-faded-humvee-m998/FadedHumveeM998M2-v42.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-29-faded-humvee-m998-2/FadedHumveeM998M2-v42.zip",
       "zip_name": "FadedHumveeM998M2-v42.zip",
-      "size_bytes": 51727221,
-      "sha256": "c8635ddcfcda69afcf6af69fb93376d188392ee81c4b237218f7fcee2540ca62",
+      "size_bytes": 51731923,
+      "sha256": "f0006f1cb149cb736377843370aa999db8999452a513d6d4f05daf16e6cb49d0",
       "updated_at": "2026-06-29"
     },
     {
