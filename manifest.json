@@ -736,10 +736,10 @@
       "name": "They See Me Rollin",
       "version": "1.0.0",
       "description": "Unified Build 42.19 vehicle mod pack rebuilt and optimized for multiplayer server authority.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/TheySeeMeRollin-v1.0.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-they-see-me-rollin/TheySeeMeRollin-v1.0.0.zip",
       "zip_name": "TheySeeMeRollin-v1.0.0.zip",
-      "size_bytes": 286831675,
-      "sha256": "030479a109559e0d0b3c407fcc7293bb0c2d0084acfd4d48beced1cc59478bc1"
+      "size_bytes": 303134686,
+      "sha256": "6816859465cf015a8f5dd4936b81744241a40d9c87c34fa31d83e0390958abfb"
     },
     {
       "id": "tsarslib",
