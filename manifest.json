@@ -471,11 +471,11 @@
       "name": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
       "version": "2.5.0",
       "description": "Server-authoritative vehicle physics, trunk capacity, and sandbox sync for Build 42 dedicated multiplayer.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
       "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
       "size_bytes": 58922,
-      "sha256": "8eaf608b82d9980d98ad6eb09f76da8d087241290262758c4233cb6e5ad14791",
-      "updated_at": "2026-06-23"
+      "sha256": "5a79123d470ca123389886f7e569c671e6dd320b3264398c42554f25d524578d",
+      "updated_at": "2026-07-01"
     },
     {
       "id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
@@ -483,11 +483,11 @@
       "name": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
       "version": "2.5.0",
       "description": "Vehicle physics, handling, and trunk capacity for Build 42 single-player and listen-host play.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
       "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
       "size_bytes": 47561,
-      "sha256": "38b83ce8189059239204f4b44edd0332e090037e06c3702178ade23c572ac1c5",
-      "updated_at": "2026-06-23"
+      "sha256": "e6e48c0279a0a240a5c0a31a0a1552a46de2b769e087f3c8f36e30a096555e45",
+      "updated_at": "2026-07-01"
     },
     {
       "id": "ISyncYouSyncWeAllSyncForDeSync",
@@ -678,11 +678,11 @@
       "name": "Spongie's Clothing [B42 Port]",
       "version": "21.42.19.0",
       "description": "Build 42 compatibility port of Spongie's Clothing. Original mod by Spongie; port prepared by Faded with permission/request from the original developer.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
       "zip_name": "SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
       "size_bytes": 4293629,
-      "sha256": "5ec023072e075607ae560352ee039a217f74f5fe93aecd4f9e8bbb4a086eb862",
-      "updated_at": "2026-06-23"
+      "sha256": "ec3145ab75d5bad48857ecf82cc49eca13b403bd15203105a2f5a0addb7b59d4",
+      "updated_at": "2026-07-01"
     },
     {
       "id": "SpnOpenCloth",
@@ -781,11 +781,11 @@
       "name": "Years Faded",
       "version": "0.26.0",
       "description": "Build 42.19-ready apocalypse-aging framework with server-authoritative decay, fixture water, cleanup, vehicle wear, vanilla and permissioned adapted texture assets, survivor remnants, and CSR-safe compatibility rails. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/YearsFaded-v0.26.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/YearsFaded-v0.26.0.zip",
       "zip_name": "YearsFaded-v0.26.0.zip",
       "size_bytes": 286992318,
-      "sha256": "7e6e65429f459e8a6687c5b4d29b85189ccaacc7381251fd8cc0244c23a26764",
-      "updated_at": "2026-06-23"
+      "sha256": "3df5644d4b3be4ec997a3fe6afe2b63da483c8df8ae785bace8cdd45906f6cc7",
+      "updated_at": "2026-07-01"
     },
     {
       "id": "ThePathLessTraveled",
