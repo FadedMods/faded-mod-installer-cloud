@@ -734,12 +734,12 @@
       "id": "TheySeeMeRollin",
       "server_mod_id": "TheySeeMeRollin",
       "name": "They See Me Rollin",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Unified Build 42.19 vehicle mod pack rebuilt and optimized for multiplayer server authority.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-they-see-me-rollin/TheySeeMeRollin-v1.0.0.zip",
-      "zip_name": "TheySeeMeRollin-v1.0.0.zip",
-      "size_bytes": 303134686,
-      "sha256": "6816859465cf015a8f5dd4936b81744241a40d9c87c34fa31d83e0390958abfb"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-they-see-me-rollin-2/TheySeeMeRollin-v1.0.1.zip",
+      "zip_name": "TheySeeMeRollin-v1.0.1.zip",
+      "size_bytes": 303197365,
+      "sha256": "3a58cebcce7d294ff19010bd849a220661aa6b6797b242e130c1e10ae32449ad"
     },
     {
       "id": "tsarslib",
