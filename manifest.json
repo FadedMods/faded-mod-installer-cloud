@@ -276,11 +276,11 @@
       "name": "Faded Vehicles",
       "version": "42.19.0",
       "description": "Independent Build 42 vehicle mod by Faded. Currently includes the M998M2 Humvee, with room for more vehicles.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend-2/FadedVehicles-v42.19.0-2.zip",
-      "zip_name": "FadedVehicles-v42.19.0-2.zip",
-      "size_bytes": 1029563524,
-      "sha256": "0f47a8277318390667e6d97050c62938e015efc4c37266cea8a0fbbfebd388cf",
-      "updated_at": "2026-07-01"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-02-faded-vehicles-my-only-friend/FadedVehicles-v42.19.0-20260702.zip",
+      "zip_name": "FadedVehicles-v42.19.0-20260702.zip",
+      "size_bytes": 1029615253,
+      "sha256": "e9bce7c6c119a9364f39b7ed6eae390fd97777ced7865cde31de03a95e7656f3",
+      "updated_at": "2026-07-02"
     },
     {
       "id": "MyOnlyFriend",
@@ -288,10 +288,10 @@
       "name": "My Only Friend",
       "version": "1.0.0",
       "description": "A loyal German Shepherd battle companion. Follow, stay, guard, and attack orders; bonding, combat XP, special takedowns, and passive morale boosts. Server-authoritative and multiplayer-safe.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-02-my-only-friend/MyOnlyFriend-v1.0.0-20260702.zip",
-      "zip_name": "MyOnlyFriend-v1.0.0-20260702.zip",
-      "size_bytes": 722710,
-      "sha256": "67ad35c10f4ca081b0b2d4841051fc4808b08bbfaafe3472c0ed1abdfd985428",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-02-faded-vehicles-my-only-friend/MyOnlyFriend-v1.0.0-20260702-2.zip",
+      "zip_name": "MyOnlyFriend-v1.0.0-20260702-2.zip",
+      "size_bytes": 718311,
+      "sha256": "2f20c8c7a828d609ef1be80ab778b7a3b4dd7a87c1dd164f5d2eb931b25f3d73",
       "updated_at": "2026-07-02"
     },
     {
