@@ -288,11 +288,11 @@
       "name": "My Only Friend",
       "version": "1.0.0",
       "description": "A loyal German Shepherd battle companion. Follow, stay, guard, and attack orders; bonding, combat XP, special takedowns, and passive morale boosts. Server-authoritative and multiplayer-safe.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend-2/MyOnlyFriend-v1.0.0-2.zip",
-      "zip_name": "MyOnlyFriend-v1.0.0-2.zip",
-      "size_bytes": 722521,
-      "sha256": "c8087e74cd3bd5343aeb860b004bb1bc14c8052ea75e426b4dcae71487b3fbe4",
-      "updated_at": "2026-07-01"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-02-my-only-friend/MyOnlyFriend-v1.0.0-20260702.zip",
+      "zip_name": "MyOnlyFriend-v1.0.0-20260702.zip",
+      "size_bytes": 722710,
+      "sha256": "67ad35c10f4ca081b0b2d4841051fc4808b08bbfaafe3472c0ed1abdfd985428",
+      "updated_at": "2026-07-02"
     },
     {
       "id": "FadedHuntersCalling",
