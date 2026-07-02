@@ -276,10 +276,10 @@
       "name": "Faded Vehicles",
       "version": "42.19.0",
       "description": "Independent Build 42 vehicle mod by Faded. Currently includes the M998M2 Humvee, with room for more vehicles.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend/FadedVehicles-v42.19.0.zip",
-      "zip_name": "FadedVehicles-v42.19.0.zip",
-      "size_bytes": 1029558871,
-      "sha256": "d48e1c7e43931dc36b2155a6187c1da16cada564f46678203489a41e1b597c39",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend-2/FadedVehicles-v42.19.0-2.zip",
+      "zip_name": "FadedVehicles-v42.19.0-2.zip",
+      "size_bytes": 1029563524,
+      "sha256": "0f47a8277318390667e6d97050c62938e015efc4c37266cea8a0fbbfebd388cf",
       "updated_at": "2026-07-01"
     },
     {
@@ -288,10 +288,10 @@
       "name": "My Only Friend",
       "version": "1.0.0",
       "description": "A loyal German Shepherd battle companion. Follow, stay, guard, and attack orders; bonding, combat XP, special takedowns, and passive morale boosts. Server-authoritative and multiplayer-safe.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend/MyOnlyFriend-v1.0.0.zip",
-      "zip_name": "MyOnlyFriend-v1.0.0.zip",
-      "size_bytes": 606758,
-      "sha256": "3403821018fcc56b877908ce83d2229a155be985d1e47f55e89e11c8af9d17a4",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-faded-vehicles-my-only-friend-2/MyOnlyFriend-v1.0.0-2.zip",
+      "zip_name": "MyOnlyFriend-v1.0.0-2.zip",
+      "size_bytes": 722521,
+      "sha256": "c8087e74cd3bd5343aeb860b004bb1bc14c8052ea75e426b4dcae71487b3fbe4",
       "updated_at": "2026-07-01"
     },
     {
