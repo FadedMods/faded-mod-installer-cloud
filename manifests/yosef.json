@@ -1,0 +1,18 @@
+{
+  "manifest_version": 1,
+  "app_name": "Yosef Mods",
+  "mods": [
+    {
+      "id": "MoreMachete",
+      "server_mod_id": "MoreMachete",
+      "name": "More Machetes and Sledges",
+      "version": "1.0",
+      "description": "Raises the spawn of machetes, sledgehammers and other tools in appropriate places. It's Kentucky, not London.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-04-yosef-more-machete/MoreMachete-v1.0.zip",
+      "zip_name": "MoreMachete-v1.0.zip",
+      "size_bytes": 698336,
+      "sha256": "b756c1acf660bb057e5a4e1b809ca8605bcbc3d7b0f9ca4e97839cf111f7e257",
+      "updated_at": "2026-07-04"
+    }
+  ]
+}
