@@ -13,6 +13,18 @@
       "size_bytes": 698336,
       "sha256": "b756c1acf660bb057e5a4e1b809ca8605bcbc3d7b0f9ca4e97839cf111f7e257",
       "updated_at": "2026-07-04"
+    },
+    {
+      "id": "OldWorldBandits",
+      "server_mod_id": "OldWorldBandits",
+      "name": "Criminals from Old World",
+      "version": "1.0",
+      "description": "Adds 12 new occupations based on criminals. Requires SOTO.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-04-yosef-old-world-criminals/OldWorldBandits-v1.0.zip",
+      "zip_name": "OldWorldBandits-v1.0.zip",
+      "size_bytes": 966894,
+      "sha256": "b157226b5ced263a9e2d74e62ab0e4e6d0c609a6d9f42b06c1f0582b9b39667f",
+      "updated_at": "2026-07-04"
     }
   ]
 }
