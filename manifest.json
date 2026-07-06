@@ -241,10 +241,11 @@
       "name": "FFC",
       "version": "0.1.0",
       "description": "Faded's Feastcraft: a Build 42 food command center with in-house cooking, recipe requirements, pantry scanning, preservation, nutrition, station auto-cook, and MP-safe server validation.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFeastcraft-v0.1.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-05-faded-feastcraft/FadedFeastcraft-v0.1.0.zip",
       "zip_name": "FadedFeastcraft-v0.1.0.zip",
-      "size_bytes": 137621620,
-      "sha256": "7563fe0f4d716fdb02ee22509f4824a2263ece920de66aefc2dc01457a2dd5f4"
+      "size_bytes": 351763698,
+      "sha256": "379e3aba95bc3df0e2529e101393b54e4eeae520fada65f7702243b7b0effd56",
+      "updated_at": "2026-07-05"
     },
     {
       "id": "FadedFieldOperations",
