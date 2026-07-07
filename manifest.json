@@ -113,11 +113,11 @@
       "name": "Common Sense Reborn",
       "version": "1.8.39",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CommonSenseReborn-v1.8.39.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-06-common-sense-reborn/CommonSenseReborn-v1.8.39.zip",
       "zip_name": "CommonSenseReborn-v1.8.39.zip",
-      "size_bytes": 19189687,
-      "sha256": "0f50fd297222142ec64e87871f0b79006756957f0493932bfbb532309e560564",
-      "updated_at": "2026-06-23"
+      "size_bytes": 19332578,
+      "sha256": "10819c2dbcf7f42d16363f15d16494069788b1a3fb8a12811c07e18fbf78ec48",
+      "updated_at": "2026-07-06"
     },
     {
       "id": "CommonSenseRebornTest",
@@ -125,11 +125,11 @@
       "name": "Common Sense Reborn (Test)",
       "version": "1.8.39",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CommonSenseRebornTest-v1.8.39.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-06-common-sense-reborn/CommonSenseRebornTest-v1.8.39.zip",
       "zip_name": "CommonSenseRebornTest-v1.8.39.zip",
-      "size_bytes": 49250069,
-      "sha256": "3149fda96df7a4ef2671d12869455939b844423cee8c0c76572e4a7c4b20397a",
-      "updated_at": "2026-06-23"
+      "size_bytes": 49539951,
+      "sha256": "4aa9230185be04837ccddda8a93fec0d25f165db4c9fe75feb55bfd1200cd465",
+      "updated_at": "2026-07-06"
     },
     {
       "id": "CSRAdminCommandCenter",
