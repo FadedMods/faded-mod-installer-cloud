@@ -325,11 +325,11 @@
       "name": "Faded's ClearView UI",
       "version": "0.2.1",
       "description": "Clean-room compact dark UI pass for Project Zomboid Build 42.19. Adds Faded purple accents, rarity-aware item names/columns/icon accents, and optional Common Sense Reborn UI surface styling without replacing inventory authority.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsClearViewUI-v0.2.1.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-06-fadeds-clearview-ui/FadedsClearViewUI-v0.2.1.zip",
       "zip_name": "FadedsClearViewUI-v0.2.1.zip",
-      "size_bytes": 9418469,
-      "sha256": "cd093796a1887829043f74113bd3ea4d92e40ae2ac20e4da7fe2ba951feb4cd0",
-      "updated_at": "2026-06-23"
+      "size_bytes": 10145148,
+      "sha256": "7faf649e7e6e201b7f099dde4692a0ccbf80d588f198bdc6d884595617dc25be",
+      "updated_at": "2026-07-06"
     },
     {
       "id": "FadedsLastChance",
