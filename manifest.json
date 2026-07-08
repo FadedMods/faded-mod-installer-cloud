@@ -185,10 +185,11 @@
       "name": "Faded's Advanced Medical",
       "version": "42.18",
       "description": "FAM rebuild for Build 42.18: expanded first aid, FAM-owned medical conditions, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedAdvancedMedical-v42.18.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-just-faded-fam/FadedAdvancedMedical-v42.18.zip",
       "zip_name": "FadedAdvancedMedical-v42.18.zip",
-      "size_bytes": 32183507,
-      "sha256": "5de341a378938f6ef7bb4a8491abfb0179a83c878847e03d4f58d3b66737ad4b"
+      "size_bytes": 32721681,
+      "sha256": "18391efb32c42f4693dcf3756461aab46f07e259025cf47214e38df37882a13e",
+      "updated_at": "2026-07-07"
     },
     {
       "id": "FadedAfflictions",
@@ -519,10 +520,11 @@
       "name": "Just Faded Mask",
       "version": "42",
       "description": "A violet-black skull mask for the survivor they only call The Faded.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/JustFaded-v42.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-just-faded-fam/JustFaded-v42.zip",
       "zip_name": "JustFaded-v42.zip",
-      "size_bytes": 7726114,
-      "sha256": "ef8893193c4a98ab71267fed7fea416b3f7f40ca9e25cf75ed127738af8afe7c"
+      "size_bytes": 7726161,
+      "sha256": "3993233006a20a024ecd525383f4d43a4d61ac49d18699ea067e807dc878c521",
+      "updated_at": "2026-07-07"
     },
     {
       "id": "KnoxNetOS",
