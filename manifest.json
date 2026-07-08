@@ -717,11 +717,11 @@
       "name": "Just Survivors",
       "version": "0.42.18-port",
       "description": "Legacy internal namespace retained for compatibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-06-survivors/Survivors-v0.42.18-port.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-survivors/Survivors-v0.42.18-port.zip",
       "zip_name": "Survivors-v0.42.18-port.zip",
-      "size_bytes": 101933612,
-      "sha256": "c8d46e5b50e4a1b3e39dc5fad3d92d382d6c0472d9e5827c95a79cde0549b3d3",
-      "updated_at": "2026-07-06"
+      "size_bytes": 101933738,
+      "sha256": "0c1e321fc9ea6f8fe7a7d7648b4efa1412eda5bf4c42849310ec32e33634ad73",
+      "updated_at": "2026-07-08"
     },
     {
       "id": "TheLastTestament",
