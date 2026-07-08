@@ -185,10 +185,10 @@
       "name": "Faded's Advanced Medical",
       "version": "42.18",
       "description": "FAM rebuild for Build 42.18: expanded first aid, FAM-owned medical conditions, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-just-faded-fam/FadedAdvancedMedical-v42.18.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-faded-advanced-medical-2/FadedAdvancedMedical-v42.18.zip",
       "zip_name": "FadedAdvancedMedical-v42.18.zip",
-      "size_bytes": 32721681,
-      "sha256": "18391efb32c42f4693dcf3756461aab46f07e259025cf47214e38df37882a13e",
+      "size_bytes": 32720368,
+      "sha256": "e27f9c7b5bd2349a54613798d3a6dbb52b9f133aeb3a942a419a1bdf075e3c1d",
       "updated_at": "2026-07-07"
     },
     {
