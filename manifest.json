@@ -418,31 +418,31 @@
       "description": "Disclaimer - Faded's Weapons Pack. Standalone private/community-use Build 42.19 mod; source packs are reference-only.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-field-operations-fwp/FWP-v42.19.20260626.1-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-fwp/FWP-v42.19.20260626.1-part1.zip",
           "zip_name": "FWP-v42.19.20260626.1-part1.zip",
-          "size_bytes": 267995051,
-          "sha256": "686bc38d73c50ecf47b3e2f4cd670e42acae6d778c7094f7f0f691ae9652609f"
+          "size_bytes": 268001904,
+          "sha256": "708d876ca908358638cee426a62d4807215845fcfba02a75d0511ecc9ea237b9"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-field-operations-fwp/FWP-v42.19.20260626.1-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-fwp/FWP-v42.19.20260626.1-part2.zip",
           "zip_name": "FWP-v42.19.20260626.1-part2.zip",
           "size_bytes": 231902004,
           "sha256": "5653ea1ac9d63aa9158f9e11a6901ca6b06e62de4ea33467b261488e63aef305"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-field-operations-fwp/FWP-v42.19.20260626.1-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-fwp/FWP-v42.19.20260626.1-part3.zip",
           "zip_name": "FWP-v42.19.20260626.1-part3.zip",
-          "size_bytes": 1530677323,
-          "sha256": "c75ae7f8707f8ffac77f48d7b3da5fb49fe98ab3eaf2e1ec8c16b950128449f6"
+          "size_bytes": 1531525837,
+          "sha256": "463acca4de13caab12a9f277f68cda5e95a6419e7cc2f56a7be0c56f74015088"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-field-operations-fwp/FWP-v42.19.20260626.1-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-fwp/FWP-v42.19.20260626.1-part4.zip",
           "zip_name": "FWP-v42.19.20260626.1-part4.zip",
-          "size_bytes": 155604278,
-          "sha256": "73da84e265ea20542e961cfac53caf4c34a2b2c5a40da121be55a18c150a6e94"
+          "size_bytes": 154715365,
+          "sha256": "4b611965b73adf6b8e2836518055df17ad38f63ab71dbb2a78a59f3f1fa28f35"
         }
       ],
-      "updated_at": "2026-07-08"
+      "updated_at": "2026-07-09"
     },
     {
       "id": "Hydrocraft",
