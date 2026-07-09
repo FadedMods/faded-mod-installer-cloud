@@ -600,10 +600,11 @@
       "name": "N&C's Narcotics - B42.19",
       "version": "1.7.0",
       "description": "Authorized continuation of N&C's Narcotics for Build 42.19. Save-compatible with NNC42PublicBranch.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/NNC42PublicBranch-v1.7.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-nnc42publicbranch/NNC42PublicBranch-v1.7.0.zip",
       "zip_name": "NNC42PublicBranch-v1.7.0.zip",
-      "size_bytes": 28368028,
-      "sha256": "2eb097722b3a52ab961a4aac9067188a786ec975394a3d2c0408f65f6534e03a"
+      "size_bytes": 28368179,
+      "sha256": "b890fe6f984831eb3a4f08369bea76aacb7e0966edf9f6e2cfe15bf664d3a610",
+      "updated_at": "2026-07-09"
     },
     {
       "id": "ProjectFadedCar",
