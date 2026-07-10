@@ -731,10 +731,10 @@
       "name": "Temp Control",
       "version": "42",
       "description": "Server-authoritative indoor air conditioning, heating, thermostat controls, schedules, timers, and power monitoring for Build 42.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-10-tempcontrol/TempControl-v42.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-10-tempcontrol-2/TempControl-v42.zip",
       "zip_name": "TempControl-v42.zip",
-      "size_bytes": 4397492,
-      "sha256": "22f954516f4aee5b81f787b47b0adbd22834b1e1f546ab1533e970e20bbc5fff",
+      "size_bytes": 4416315,
+      "sha256": "4f1c45629df4e3b7033e1def0a32d4d9366e072fafb8842263cab76b072e4638",
       "updated_at": "2026-07-10"
     },
     {
