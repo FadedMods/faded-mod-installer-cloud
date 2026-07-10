@@ -726,6 +726,18 @@
       "updated_at": "2026-07-08"
     },
     {
+      "id": "TempControl",
+      "server_mod_id": "TempControl",
+      "name": "Temp Control",
+      "version": "42",
+      "description": "Server-authoritative indoor air conditioning, heating, thermostat controls, schedules, timers, and power monitoring for Build 42.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-10-tempcontrol/TempControl-v42.zip",
+      "zip_name": "TempControl-v42.zip",
+      "size_bytes": 4397492,
+      "sha256": "22f954516f4aee5b81f787b47b0adbd22834b1e1f546ab1533e970e20bbc5fff",
+      "updated_at": "2026-07-10"
+    },
+    {
       "id": "TheLastTestament",
       "server_mod_id": "TheLastTestament",
       "name": "The Last Testament",
