@@ -532,10 +532,11 @@
       "name": "KnoxNet OS",
       "version": "42.19",
       "description": "Build 42.19 deep test candidate for the KnoxNet OS mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/KnoxNetOS-v42.19.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-knoxnetos/KnoxNetOS-v42.19.zip",
       "zip_name": "KnoxNetOS-v42.19.zip",
-      "size_bytes": 33834,
-      "sha256": "03485fb38edd99340b16afc1f33a417a10db0b07647effca5c96c834929808f9"
+      "size_bytes": 34705,
+      "sha256": "88884894da28899540048e300cc4d6c31692477e0222c68313cff8c501147cd6",
+      "updated_at": "2026-07-09"
     },
     {
       "id": "KnoxTransit",
