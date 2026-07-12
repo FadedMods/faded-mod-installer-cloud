@@ -794,6 +794,18 @@
       "sha256": "32808f27864b7e02b201042066870bfeb10fa8da8d8de3d98926fd32fd672a8d"
     },
     {
+      "id": "WaterExpanded",
+      "server_mod_id": "WaterExpanded",
+      "name": "Water Expanded",
+      "version": "42",
+      "description": "The most comprehensive Build 42 water & plumbing overhaul. Build a full water-pipe network with pumps, valves, flowmeters and sprinklers; connect sinks, toilets, barrels and rain collectors; add functional gutters, industrial & Brazilian tanks, metal rain collectors, electric pumps, drip irrigation, purification tablets, chlorine/iodine, clay filters and more. Includes an aqua-blue plumbing UI, hideable underground pipes and a movable network overlay button.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-water-expanded/WaterExpanded-v42.zip",
+      "zip_name": "WaterExpanded-v42.zip",
+      "size_bytes": 536586028,
+      "sha256": "2a328576df51d860c4302dbfbe0ca12c18c69d25f1a12b1417fdf8362bf3e420",
+      "updated_at": "2026-07-12"
+    },
+    {
       "id": "WaterFaded",
       "server_mod_id": "WaterFaded",
       "name": "Water Faded",
