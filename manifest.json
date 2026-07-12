@@ -185,11 +185,11 @@
       "name": "Faded's Advanced Medical",
       "version": "42.18",
       "description": "FAM rebuild for Build 42.18: expanded first aid, FAM-owned medical conditions, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-faded-advanced-medical-2/FadedAdvancedMedical-v42.18.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-11-fam-my-only-friend/FadedAdvancedMedical-v42.18.zip",
       "zip_name": "FadedAdvancedMedical-v42.18.zip",
-      "size_bytes": 32720368,
-      "sha256": "e27f9c7b5bd2349a54613798d3a6dbb52b9f133aeb3a942a419a1bdf075e3c1d",
-      "updated_at": "2026-07-07"
+      "size_bytes": 32749090,
+      "sha256": "32c98629ea2fdbe6ba1ede72664eebb3588f219bcc8800bcc563064658af0462",
+      "updated_at": "2026-07-11"
     },
     {
       "id": "FadedAfflictions",
@@ -288,13 +288,13 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "1.0.0",
-      "description": "A loyal German Shepherd battle companion. Follow, stay, guard, and attack orders; bonding, combat XP, special takedowns, and passive morale boosts. Server-authoritative and multiplayer-safe.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-03-faded-vehicles-my-only-friend/MyOnlyFriend-v1.0.0-20260703.zip",
-      "zip_name": "MyOnlyFriend-v1.0.0-20260703.zip",
-      "size_bytes": 3872079,
-      "sha256": "dcdbb78d8503016c3a6c01430604f3de911ba7e5295068717433fa5e79ee284e",
-      "updated_at": "2026-07-03"
+      "version": "1.3.0",
+      "description": "Rare dog and cat companions with polished controls, care, combat, persistence, and server-authoritative multiplayer follow sync.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-11-fam-my-only-friend/MyOnlyFriend-v1.3.0.zip",
+      "zip_name": "MyOnlyFriend-v1.3.0.zip",
+      "size_bytes": 12284276,
+      "sha256": "f07757f1819abc1976b2ab9cd528b8e687c6e29e2e8087ecb3c598998b53e6ce",
+      "updated_at": "2026-07-11"
     },
     {
       "id": "FadedHuntersCalling",
