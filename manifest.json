@@ -820,13 +820,13 @@
       "id": "YearsFaded",
       "server_mod_id": "YearsFaded",
       "name": "Years Faded",
-      "version": "0.26.0",
-      "description": "Build 42.19-ready apocalypse-aging framework with server-authoritative decay, fixture water, cleanup, vehicle wear, vanilla and permissioned adapted texture assets, survivor remnants, and CSR-safe compatibility rails. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/YearsFaded-v0.26.0.zip",
-      "zip_name": "YearsFaded-v0.26.0.zip",
-      "size_bytes": 286992318,
-      "sha256": "3df5644d4b3be4ec997a3fe6afe2b63da483c8df8ae785bace8cdd45906f6cc7",
-      "updated_at": "2026-07-01"
+      "version": "0.29.0",
+      "description": "Years Faded v0.29.0 for Build 42.19: years-later world aging without camping clutter, overgrowth and aged surfaces, climb-only ladders, additive vegetation and screamer zombie types, overgrown/burnt vehicles, and CSR-safe load-after ladder authority. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-years-faded/YearsFaded-v0.29.0.zip",
+      "zip_name": "YearsFaded-v0.29.0.zip",
+      "size_bytes": 391265905,
+      "sha256": "b9612cde7b24c240beeccdcf6e7287c8ead00799f4ef263ae54be72d653903ba",
+      "updated_at": "2026-07-12"
     },
     {
       "id": "ThePathLessTraveled",
