@@ -101,10 +101,10 @@
       "name": "Buildcraft Reborn",
       "version": "0.2.0",
       "description": "Build 42.18 unified Make / Build UI. Single ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon, CSR-safe containers. Vanilla logic only.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-buildcraftreborn/BuildcraftReborn-v0.2.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-buildcraftreborn-2/BuildcraftReborn-v0.2.0.zip",
       "zip_name": "BuildcraftReborn-v0.2.0.zip",
-      "size_bytes": 977507,
-      "sha256": "a95dc7d871e21ef0abbc19dd20cdfe6b5d8b7a2b1571ddce71c7bafa6fd2ac36",
+      "size_bytes": 977510,
+      "sha256": "eb61bee6ce2f891780fb9f8ca3dd83542e78fb69014e5ffa5fc900a6cb59ebc4",
       "updated_at": "2026-07-12"
     },
     {
