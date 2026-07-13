@@ -99,12 +99,12 @@
       "id": "BuildcraftReborn",
       "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
-      "version": "0.2.0",
-      "description": "Build 42.18 unified Make / Build UI. Single ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon, CSR-safe containers. Vanilla logic only.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-buildcraftreborn-2/BuildcraftReborn-v0.2.0.zip",
-      "zip_name": "BuildcraftReborn-v0.2.0.zip",
-      "size_bytes": 977510,
-      "sha256": "eb61bee6ce2f891780fb9f8ca3dd83542e78fb69014e5ffa5fc900a6cb59ebc4",
+      "version": "0.2.1",
+      "description": "Build 42.19-ready unified Make / Build UI. Single ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon, CSR-safe containers. Vanilla logic only.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/BuildcraftReborn-v0.2.1.zip",
+      "zip_name": "BuildcraftReborn-v0.2.1.zip",
+      "size_bytes": 977761,
+      "sha256": "efb3209a83557df840fbf826eeb3b168b94107499e8f1bcd64e6d5617d654eac",
       "updated_at": "2026-07-12"
     },
     {
@@ -288,13 +288,13 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "description": "Rare dog and cat companions with polished controls, care, combat, persistence, and server-authoritative multiplayer follow sync.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-11-fam-my-only-friend/MyOnlyFriend-v1.3.0.zip",
-      "zip_name": "MyOnlyFriend-v1.3.0.zip",
-      "size_bytes": 12284276,
-      "sha256": "f07757f1819abc1976b2ab9cd528b8e687c6e29e2e8087ecb3c598998b53e6ce",
-      "updated_at": "2026-07-11"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/MyOnlyFriend-v1.4.0.zip",
+      "zip_name": "MyOnlyFriend-v1.4.0.zip",
+      "size_bytes": 12283222,
+      "sha256": "87f0e8cd60557b2568d84fe67a8488c01aeaed5e6ffdcb21aeab3db375f9a925",
+      "updated_at": "2026-07-12"
     },
     {
       "id": "FadedHuntersCalling",
@@ -658,12 +658,13 @@
       "id": "SleepSpeedController",
       "server_mod_id": "SleepSpeedController",
       "name": "Sleep Speed Controller",
-      "version": "42",
-      "description": "Prevents multiplayer sleep fast-forward from getting stuck on dedicated servers by monitoring sleeping players and resetting time speed when everyone wakes up.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SleepSpeedController-v42.zip",
-      "zip_name": "SleepSpeedController-v42.zip",
-      "size_bytes": 869764,
-      "sha256": "6a02d781f5995e094523e22d71554ecd0af6a28a6345b324098a35f959655641"
+      "version": "1.1.0",
+      "description": "Prevents multiplayer sleep fast-forward from getting stuck on dedicated servers by monitoring sleeping players and resetting time speed when everyone wakes up. Includes a compact MP time-control bar with zombie-proximity safety.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/SleepSpeedController-v1.1.0.zip",
+      "zip_name": "SleepSpeedController-v1.1.0.zip",
+      "size_bytes": 887593,
+      "sha256": "a78a3590e0c40c8c02d366358df9b841acc70986fdbae0498eb4f42255f7dbea",
+      "updated_at": "2026-07-12"
     },
     {
       "id": "SolarNeverFaded",
@@ -799,10 +800,10 @@
       "name": "Water Expanded",
       "version": "42",
       "description": "The most comprehensive Build 42 water & plumbing overhaul. Build a full water-pipe network with pumps, valves, flowmeters and sprinklers; connect sinks, toilets, barrels and rain collectors; add functional gutters, industrial & Brazilian tanks, metal rain collectors, electric pumps, drip irrigation, purification tablets, chlorine/iodine, clay filters and more. Includes an aqua-blue plumbing UI, hideable underground pipes and a movable network overlay button.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-water-expanded-2/WaterExpanded-v42.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/WaterExpanded-v42.zip",
       "zip_name": "WaterExpanded-v42.zip",
-      "size_bytes": 536588093,
-      "sha256": "6442d456f3728cb1306b6b30b431ff1cf94c2dfd81fbaaa517eaa02f5e4d6b43",
+      "size_bytes": 536595746,
+      "sha256": "2a81cf39d71657b99b73d619abc359fa76dcf799889d5e6c7b3d81fe12e7e685",
       "updated_at": "2026-07-12"
     },
     {
