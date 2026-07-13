@@ -99,12 +99,12 @@
       "id": "BuildcraftReborn",
       "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "description": "Build 42.19-ready unified Make / Build UI. Single ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon, CSR-safe containers. Vanilla logic only.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/BuildcraftReborn-v0.2.1.zip",
-      "zip_name": "BuildcraftReborn-v0.2.1.zip",
-      "size_bytes": 977761,
-      "sha256": "efb3209a83557df840fbf826eeb3b168b94107499e8f1bcd64e6d5617d654eac",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-buildcraftreborn-3/BuildcraftReborn-v0.2.2.zip",
+      "zip_name": "BuildcraftReborn-v0.2.2.zip",
+      "size_bytes": 976202,
+      "sha256": "19ccc544934d2aab4c595c0267bf64075ae56639b2082f73b2cee893d54ffed9",
       "updated_at": "2026-07-12"
     },
     {
