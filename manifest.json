@@ -821,13 +821,13 @@
       "id": "YearsFaded",
       "server_mod_id": "YearsFaded",
       "name": "Years Faded",
-      "version": "0.29.0",
-      "description": "Years Faded v0.29.0 for Build 42.19: years-later world aging without camping clutter, overgrowth and aged surfaces, climb-only ladders, additive vegetation and screamer zombie types, overgrown/burnt vehicles, and CSR-safe load-after ladder authority. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-years-faded/YearsFaded-v0.29.0.zip",
-      "zip_name": "YearsFaded-v0.29.0.zip",
-      "size_bytes": 391265905,
-      "sha256": "b9612cde7b24c240beeccdcf6e7287c8ead00799f4ef263ae54be72d653903ba",
-      "updated_at": "2026-07-12"
+      "version": "0.29.3",
+      "description": "Years Faded v0.29.3 for Build 42.19: years-later world aging without camping clutter, overgrowth and aged surfaces, climb-only ladders, additive vegetation and screamer zombie types, overgrown/burnt vehicles, and CSR-safe load-after ladder authority. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-13-years-faded/YearsFaded-v0.29.3.zip",
+      "zip_name": "YearsFaded-v0.29.3.zip",
+      "size_bytes": 391266979,
+      "sha256": "9344d8adec27e456efd269ed25af2428a2930e4e09f63d30de28dcb1d89faca8",
+      "updated_at": "2026-07-13"
     },
     {
       "id": "ThePathLessTraveled",
