@@ -864,6 +864,18 @@
       "size_bytes": 3818333,
       "sha256": "216d34b01e32252a88ba24ac9e237997d12417028518a4297ab39b46cd0c27ad",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "FadedConditionGuns",
+      "server_mod_id": "FadedConditionGuns",
+      "name": "Faded Condition Guns",
+      "version": "1.0.0",
+      "description": "Faded Condition Guns v1.0.0. Server-authoritative loot conditioning rebuilt exclusively for Project Zomboid Build 42.19. New firearms spawn at configurable condition ranges based on loot location without global overrides or world rescans.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-15-faded-condition-guns/FadedConditionGuns-v1.0.0.zip",
+      "zip_name": "FadedConditionGuns-v1.0.0.zip",
+      "size_bytes": 1294792,
+      "sha256": "88f83919832375e049266bd1dce9ae505472eefbc1b23e5bfed9629103eeebbb",
+      "updated_at": "2026-07-15"
     }
   ]
 }
