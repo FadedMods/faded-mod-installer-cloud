@@ -857,13 +857,13 @@
       "id": "NeverForget",
       "server_mod_id": "NeverForget",
       "name": "Never Forget: Athena",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A small, respectful tribute to Athena. Admin-spawned, placeable, and made to hold a few warm moments of remembrance.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-14-never-forget/NeverForget-v1.0.0.zip",
-      "zip_name": "NeverForget-v1.0.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-15-never-forget/NeverForget-v1.0.1.zip",
+      "zip_name": "NeverForget-v1.0.1.zip",
       "size_bytes": 3818333,
-      "sha256": "1d53aaf05f477159dca0956529a53d2319613eba79ab24a3706c3709d4e4a486",
-      "updated_at": "2026-07-14"
+      "sha256": "f30ec5192b04aab765af3f5e636471e95d51fa194f4012c0adb4499581035265",
+      "updated_at": "2026-07-15"
     }
   ]
 }
