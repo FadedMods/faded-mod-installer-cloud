@@ -840,6 +840,18 @@
       "size_bytes": 31585,
       "sha256": "b9407d99b0e470fc8e74beece5ace637a47710cbbb6dc857f2dc1ea535dc0383",
       "updated_at": "2026-06-25"
+    },
+    {
+      "id": "NeverSurviveAlone",
+      "server_mod_id": "NeverSurviveAlone",
+      "name": "Never Survive Alone",
+      "version": "0.3.1-alpha",
+      "description": "Server-validated, explicit-opt-in adult intimacy interactions for Project Zomboid Build 42.19.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-14-never-survive-alone/NeverSurviveAlone-v0.3.1-alpha.zip",
+      "zip_name": "NeverSurviveAlone-v0.3.1-alpha.zip",
+      "size_bytes": 525995,
+      "sha256": "0797c8b4f6d131330c4b02be1d2cde64ea518f629578af2e98224602645f8220",
+      "updated_at": "2026-07-14"
     }
   ]
 }
