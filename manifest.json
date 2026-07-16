@@ -888,6 +888,18 @@
       "size_bytes": 3134824,
       "sha256": "38482e7fc7938bd3d62d04351545f626f28c8b380f790f002101489f5c4bced5",
       "updated_at": "2026-07-15"
+    },
+    {
+      "id": "TeaTime",
+      "server_mod_id": "TeaTime",
+      "name": "Tea Time [B42.19]",
+      "version": "1.0.0",
+      "description": "Tea Time rebuilt for Project Zomboid Build 42.19. Adds eight handcrafted teas, packaging, cafe collectibles, posters, and clothing.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-16-teatime/TeaTime-v1.0.0.zip",
+      "zip_name": "TeaTime-v1.0.0.zip",
+      "size_bytes": 33011840,
+      "sha256": "9b383030282f6c2136366b2aa713b760ab0ff6d8c92e01eb0fd25764a406cea9",
+      "updated_at": "2026-07-16"
     }
   ]
 }
