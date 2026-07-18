@@ -8,10 +8,11 @@
       "name": "82 Oshkosh M911",
       "version": "42",
       "description": "This mod adds Oshkosh M911 Semi-Trailer Truck and 5 Semi-Trailers",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/82oshkoshM911-v42.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-17-oshkosh-m911/82oshkoshM911-v42.zip",
       "zip_name": "82oshkoshM911-v42.zip",
-      "size_bytes": 21797875,
-      "sha256": "8266da70ea754250fe901928548db9db949bf8054906d8ca9ce972f2b8039333"
+      "size_bytes": 14102982,
+      "sha256": "8418ca59c700ae50c1e6c1164e770baab7aa375dc42763cdc05461e482f89948",
+      "updated_at": "2026-07-17"
     },
     {
       "id": "ArmorPK",
