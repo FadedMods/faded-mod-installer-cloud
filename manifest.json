@@ -125,11 +125,11 @@
       "name": "Common Sense Reborn (Test)",
       "version": "1.8.40",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-15-common-sense-reborn-test/CommonSenseRebornTest-v1.8.40.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-17-common-sense-reborn-test/CommonSenseRebornTest-v1.8.40.zip",
       "zip_name": "CommonSenseRebornTest-v1.8.40.zip",
-      "size_bytes": 49761830,
-      "sha256": "6e283f4045d33b9890f73e68158d4093a223236291121b237aafd7e3e72cbb5d",
-      "updated_at": "2026-07-15"
+      "size_bytes": 50349696,
+      "sha256": "e6c3cbf939f78aa6e50228c522139aa85b8524986435f473cd82587d7c49d8c2",
+      "updated_at": "2026-07-17"
     },
     {
       "id": "CSRAdminCommandCenter",
