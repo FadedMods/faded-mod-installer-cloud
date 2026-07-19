@@ -882,13 +882,13 @@
       "id": "FadedBuildingExpansion",
       "server_mod_id": "FadedBuildingExpansion",
       "name": "Faded's Building Expansion",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "description": "Build 42 construction expansion championed by Faded. Adds reinforced doors and upgrades, gates, fences, barricades, industrial structures, floors, stairs, and realistic fireplace logs through native Build 42 systems. Disable all legacy Jay's component mods before enabling.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-16-faded-building-expansion/FadedBuildingExpansion-v1.0.1.zip",
-      "zip_name": "FadedBuildingExpansion-v1.0.1.zip",
-      "size_bytes": 3135222,
-      "sha256": "45b218a1490c82b2b8f0cf69cb388036397355eee02559630e6b596fc090b7ab",
-      "updated_at": "2026-07-16"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-faded-building-expansion/FadedBuildingExpansion-v1.0.3.zip",
+      "zip_name": "FadedBuildingExpansion-v1.0.3.zip",
+      "size_bytes": 3355273,
+      "sha256": "f6c4d4bc77ea66ed958ec7f343aec0966cc12e741815459bba0d2486ca8a67b3",
+      "updated_at": "2026-07-19"
     },
     {
       "id": "TeaTime",
