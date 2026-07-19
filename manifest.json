@@ -1,6 +1,35 @@
 {
   "manifest_version": 1,
   "app_name": "Faded Local Mod Installer",
+  "java_loader": {
+    "product": "FadedJavaLoader",
+    "version": "0.1.0",
+    "minimum_pz_build": "42.19.0",
+    "trusted_key_id": "faded-fjl-release-2026-07",
+    "artifacts": {
+      "client-windows": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-faded-java-loader-0.1.0/FadedJavaLoader-client-windows-0.1.0.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.1.0.zip",
+        "size_bytes": 1558884,
+        "sha256": "563f999e7418eb743d90a4a88aaa7e5db547db5890b18807cad6535c90fbb653",
+        "signature": "lhEk3nmAIa+AZ+qJK9grJXwI4w60kHyDjLyKvjhMEj8siojv7U1n1zlhVSrcg5cqrbhy4IkovYkH3+ZHL9W6CQ=="
+      },
+      "server-windows": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-faded-java-loader-0.1.0/FadedJavaLoader-server-windows-0.1.0.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.1.0.zip",
+        "size_bytes": 1557177,
+        "sha256": "a87abeb662faf15814a128d0949094fbf77b3840144b62b00871cb3999281a8d",
+        "signature": "WoRiyyamSKDboy+Pf6rdy4PixyckXViKOTKwp3IFra/jAQLXn0TEBDJxapLPfjTJLeP0pKAty5QYIA3pQJrFBA=="
+      },
+      "server-linux": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-faded-java-loader-0.1.0/FadedJavaLoader-server-linux-0.1.0.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.1.0.zip",
+        "size_bytes": 1555776,
+        "sha256": "e7d6b8b5393342a3fa468cbc657f69a1b05f6cad613091804033e5e1287e14fa",
+        "signature": "Xrc3QheMQ4dp0gLnLEauIpOqFOJYmoL3qqJJ7h1zQkVQu06OlcUAUJHlzTdZTBUA4+i4iiHvCMmlo9vheWXbCA=="
+      }
+    }
+  },
   "mods": [
     {
       "id": "82oshkoshM911",
