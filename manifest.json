@@ -901,6 +901,18 @@
       "size_bytes": 33011840,
       "sha256": "9b383030282f6c2136366b2aa713b760ab0ff6d8c92e01eb0fd25764a406cea9",
       "updated_at": "2026-07-16"
+    },
+    {
+      "id": "ParentsJournal",
+      "server_mod_id": "ParentsJournal",
+      "name": "Parent's Journal",
+      "version": "42",
+      "description": "A keepsake from home. Every survivor starts with Dad's Journal or Mom's Journal. Use it once to answer a few questions about your parent and receive bonus skill experience and personality traits based on your choices. The journal is consumed after you submit your answers.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-parents-journal/ParentsJournal-v42.zip",
+      "zip_name": "ParentsJournal-v42.zip",
+      "size_bytes": 16452,
+      "sha256": "6468edae1037c1f829b7d90d4e5041cee1cf5abd00a860be999ed072acc1d903",
+      "updated_at": "2026-07-19"
     }
   ]
 }
