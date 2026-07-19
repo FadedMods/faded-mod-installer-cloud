@@ -600,13 +600,13 @@
       "id": "NNC42PublicBranch",
       "server_mod_id": "NNC42PublicBranch",
       "name": "N&C's Narcotics - B42.19",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "description": "Authorized continuation of N&C's Narcotics for Build 42.19. Save-compatible with NNC42PublicBranch.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-09-nnc42publicbranch/NNC42PublicBranch-v1.7.0.zip",
-      "zip_name": "NNC42PublicBranch-v1.7.0.zip",
-      "size_bytes": 28368179,
-      "sha256": "b890fe6f984831eb3a4f08369bea76aacb7e0966edf9f6e2cfe15bf664d3a610",
-      "updated_at": "2026-07-09"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-nnc42publicbranch/NNC42PublicBranch-v1.8.0.zip",
+      "zip_name": "NNC42PublicBranch-v1.8.0.zip",
+      "size_bytes": 43466493,
+      "sha256": "2fe7bb4d7ece76ce39faec47ec1ce50573a7ea1d5bac560748ba49b1c76e50fd",
+      "updated_at": "2026-07-19"
     },
     {
       "id": "ProjectFadedCar",
