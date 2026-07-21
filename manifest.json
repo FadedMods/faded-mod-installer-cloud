@@ -30,6 +30,42 @@
       }
     }
   },
+  "java_loader_v2": {
+    "product": "FadedJavaLoader",
+    "version": "0.2.0",
+    "minimum_pz_build": "42.19.0",
+    "trusted_key_id": "faded-fjl-release-2026-07-r2",
+    "artifacts": {
+      "client-windows": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-20-faded-java-loader-0.2.0-macos-r2/FadedJavaLoader-client-windows-0.2.0.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.2.0.zip",
+        "size_bytes": 4430630,
+        "sha256": "acff6ce38d4262f3396864006551e2cebb17e926f08b45d958dfa023463f364b",
+        "signature": "eIeH6IsA6oKBZgVTkj4Q12MF5KXSPiBLnF40FwLHH7ByO8MPEuvZRgdjtkgWuA+ESx5S3PGN8ffFF4VulAggBw=="
+      },
+      "client-macos": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-20-faded-java-loader-0.2.0-macos-r2/FadedJavaLoader-client-macos-0.2.0.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.2.0.zip",
+        "size_bytes": 4430423,
+        "sha256": "6d37d832bdf0b87bdcf8eaf3c72f25e4ceb4c008900e97e9c69ad6675f202d7a",
+        "signature": "LVHts8FglvdE6E5dwtI4PWdtnKAppoFJoxm+VPUDv/3Xdx1wsnTR6zxng67hRS+LyTJlpZ9I669gCAbZZE90DQ=="
+      },
+      "server-windows": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-20-faded-java-loader-0.2.0-macos-r2/FadedJavaLoader-server-windows-0.2.0.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.2.0.zip",
+        "size_bytes": 4428474,
+        "sha256": "1e9e9ff161aa5cae6c28d201a54a5634d50d8cd340cfc4e079a2656ca240431d",
+        "signature": "8NHa4UuX9OPo4lJGWAU11gnvfCZfOxVdOq1mVLFdHrlpjeQTn/SvUHO9xOzIxALFcVS/9Y1hOloKhsa8vqq/Dg=="
+      },
+      "server-linux": {
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-20-faded-java-loader-0.2.0-macos-r2/FadedJavaLoader-server-linux-0.2.0.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.2.0.zip",
+        "size_bytes": 4427060,
+        "sha256": "f40288ccf8a3036a8236cd83ca3e1cc27a9261b64b0641c1d436ee1fb3dbfa67",
+        "signature": "QwA7QCfnm62ionsUkTUMIRzDljqU1omRcEm2V0/dG/no7jKXwOPWEHSUBTqNsxhNcQO/fzUyyvXiPamInkMIDg=="
+      }
+    }
+  },
   "mods": [
     {
       "id": "82oshkoshM911",
