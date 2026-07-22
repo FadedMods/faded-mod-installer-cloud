@@ -342,13 +342,13 @@
       "id": "FadedHumveeM998M2",
       "server_mod_id": "FadedHumveeM998M2",
       "name": "Faded Vehicles",
-      "version": "42.19.0",
-      "description": "Independent Build 42 military vehicle pack by Faded. Includes M998M2 Humvee, M1A1 Abrams, M2 Bradley IFV, and MRAP variants.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-20-faded-vehicles-2/FadedVehicles-v42.19.0-20260720-2.zip",
-      "zip_name": "FadedVehicles-v42.19.0-20260720-2.zip",
-      "size_bytes": 1069809366,
-      "sha256": "15732fad72f1713a67d0b624d98456d3a8e06f535632f02cec2cea9c5e306090",
-      "updated_at": "2026-07-20"
+      "version": "1.1.0",
+      "description": "Independent Build 42 military vehicle pack by Faded. Includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, and MRAP variants.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-22-faded-vehicles/FadedVehicles-v1.1.0-20260722.zip",
+      "zip_name": "FadedVehicles-v1.1.0-20260722.zip",
+      "size_bytes": 1071457728,
+      "sha256": "592264d12ac42e034642f687be62fec2344ae9d561e81daf42af30764d401e95",
+      "updated_at": "2026-07-22"
     },
     {
       "id": "MyOnlyFriend",
