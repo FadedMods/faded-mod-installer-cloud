@@ -249,13 +249,13 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "42.18",
-      "description": "FAM rebuild for Build 42.18: expanded first aid, FAM-owned medical conditions, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-11-fam-my-only-friend/FadedAdvancedMedical-v42.18.zip",
-      "zip_name": "FadedAdvancedMedical-v42.18.zip",
-      "size_bytes": 32749090,
-      "sha256": "32c98629ea2fdbe6ba1ede72664eebb3588f219bcc8800bcc563064658af0462",
-      "updated_at": "2026-07-11"
+      "version": "1.1.0",
+      "description": "FAM 1.1.0 for Build 42.19: expanded first aid, digestive and parasite care, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-last-chance-advanced-medical/FadedAdvancedMedical-v1.1.0.zip",
+      "zip_name": "FadedAdvancedMedical-v1.1.0.zip",
+      "size_bytes": 32955676,
+      "sha256": "c6b69daee732d63904e83c91c391cd1317253170829893813b0b9ad451cc399f",
+      "updated_at": "2026-07-23"
     },
     {
       "id": "FadedAfflictions",
@@ -402,12 +402,13 @@
       "id": "FadedsLastChance",
       "server_mod_id": "FadedsLastChance",
       "name": "Faded's Last Chance",
-      "version": "42.19",
-      "description": "Server-authoritative Build 42.19 medical revive system.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsLastChance-v42.19.zip",
-      "zip_name": "FadedsLastChance-v42.19.zip",
-      "size_bytes": 14361235,
-      "sha256": "4ce27497aa0424d93ea39f9fa1e72e5175b781d1bf746338faae13fd7e8ba280"
+      "version": "0.2.0",
+      "description": "Server-authoritative Build 42.19 life-save charges with defibrillator self-revive.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-last-chance-advanced-medical/FadedsLastChance-v0.2.0.zip",
+      "zip_name": "FadedsLastChance-v0.2.0.zip",
+      "size_bytes": 14360006,
+      "sha256": "66c49db2aeccab26a686349378c420e81dcd74e12f41712c988c0e43fb58fdd9",
+      "updated_at": "2026-07-23"
     },
     {
       "id": "FadedsLegacyCodex",
