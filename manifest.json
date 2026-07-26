@@ -177,25 +177,25 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.8.39",
+      "version": "1.8.41",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-common-sense-reborn-main-test/CommonSenseReborn-v1.8.39.zip",
-      "zip_name": "CommonSenseReborn-v1.8.39.zip",
-      "size_bytes": 19814124,
-      "sha256": "a246fd6578cd1d4bf1093746bb558e67a764ec948ed2c576e1b0c5ff93cbc780",
-      "updated_at": "2026-07-23"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/CommonSenseReborn-v1.8.41.zip",
+      "zip_name": "CommonSenseReborn-v1.8.41.zip",
+      "size_bytes": 19814109,
+      "sha256": "be267a36b95676550179161a3a4e039e4035d32e58a25f0a0942d901e56e45b8",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.8.40",
+      "version": "1.8.42",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-common-sense-reborn-main-test/CommonSenseRebornTest-v1.8.40.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.40.zip",
-      "size_bytes": 50518624,
-      "sha256": "f59dff628519944abccb2c7411e18a1e8b1b81e7f3a7e946d6cdf9032cbdcb9a",
-      "updated_at": "2026-07-23"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/CommonSenseRebornTest-v1.8.42.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.42.zip",
+      "size_bytes": 25316684,
+      "sha256": "30daf2171f9249460e55e35a8ab33149e4d71be6342146e0484dbb0ebb342b1e",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -249,13 +249,13 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "1.1.0",
-      "description": "FAM 1.1.0 for Build 42.19: expanded first aid, digestive and parasite care, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-last-chance-advanced-medical/FadedAdvancedMedical-v1.1.0.zip",
-      "zip_name": "FadedAdvancedMedical-v1.1.0.zip",
-      "size_bytes": 32955676,
-      "sha256": "c6b69daee732d63904e83c91c391cd1317253170829893813b0b9ad451cc399f",
-      "updated_at": "2026-07-23"
+      "version": "1.1.1",
+      "description": "FAM 1.1.1 for Build 42.19: expanded first aid, digestive and parasite care, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface. Fixes animal-exposure crash near vehicles.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/FadedAdvancedMedical-v1.1.1.zip",
+      "zip_name": "FadedAdvancedMedical-v1.1.1.zip",
+      "size_bytes": 32955904,
+      "sha256": "0ec4a76e7f617611741c474ec21d0241059f82d3c0af3bffe259259b783c92cf",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "FadedAfflictions",
@@ -306,13 +306,13 @@
       "id": "FadedFeastcraft",
       "server_mod_id": "FadedFeastcraft",
       "name": "FFC",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "Faded's Feastcraft: a Build 42 food command center with in-house cooking, recipe requirements, pantry scanning, preservation, nutrition, station auto-cook, and MP-safe server validation.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-06-faded-feastcraft-2/FadedFeastcraft-v0.1.1.zip",
-      "zip_name": "FadedFeastcraft-v0.1.1.zip",
-      "size_bytes": 351766137,
-      "sha256": "eeb6cf1d34c22c5c2a58402be5095bce96214786689d606316e3737434a62d1a",
-      "updated_at": "2026-07-06"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/FadedFeastcraft-v0.1.2.zip",
+      "zip_name": "FadedFeastcraft-v0.1.2.zip",
+      "size_bytes": 351766117,
+      "sha256": "7ba66a29b5a9b2330b9c77c130c1f4fe6f74a1eb9b40b775725b1854024daeac",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "FadedFieldOperations",
@@ -342,13 +342,13 @@
       "id": "FadedHumveeM998M2",
       "server_mod_id": "FadedHumveeM998M2",
       "name": "Faded Vehicles",
-      "version": "1.1.0",
+      "version": "1.1.7",
       "description": "Independent Build 42 military vehicle pack by Faded. Includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, and MRAP variants.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-22-faded-vehicles/FadedVehicles-v1.1.0-20260722.zip",
-      "zip_name": "FadedVehicles-v1.1.0-20260722.zip",
-      "size_bytes": 1071457728,
-      "sha256": "592264d12ac42e034642f687be62fec2344ae9d561e81daf42af30764d401e95",
-      "updated_at": "2026-07-22"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/FadedVehicles-v1.1.7-20260726.zip",
+      "zip_name": "FadedVehicles-v1.1.7-20260726.zip",
+      "size_bytes": 85090869,
+      "sha256": "8dffa287f6b049a42bba994d3465fda762d57003200f0d12e0d3631cabbea12f",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "MyOnlyFriend",
@@ -571,6 +571,18 @@
       "updated_at": "2026-07-01"
     },
     {
+      "id": "IntoTheRiver",
+      "server_mod_id": "IntoTheRiver",
+      "name": "Into The River",
+      "version": "1.2.1",
+      "description": "Standalone Build 42.19 river survival with powerboats, sailing yachts, trailers, swimming, makeshift rafts, crafting, marine loot, and dedicated controls.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/IntoTheRiver-v1.2.1.zip",
+      "zip_name": "IntoTheRiver-v1.2.1.zip",
+      "size_bytes": 60158057,
+      "sha256": "24ebbb4b4419117db7b1e66f0adb0055c979ff6399d0161047d536347dd401fb",
+      "updated_at": "2026-07-26"
+    },
+    {
       "id": "ISyncYouSyncWeAllSyncForDeSync",
       "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
@@ -619,24 +631,24 @@
     {
       "id": "LifestyleHobbies",
       "server_mod_id": "LifestyleHobbies",
-      "name": "Lifestyle: Hobbies",
-      "version": "0.3.93",
+      "name": "Lifestyle: Hobbies (All-in-One B42.19)",
+      "version": "0.4.0-allinone.2",
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-lifestyle-update/LifestyleHobbies-v0.3.93-part1.zip",
-          "zip_name": "LifestyleHobbies-v0.3.93-part1.zip",
-          "size_bytes": 1711520884,
-          "sha256": "adb69ae0bdba9b58501af8120fa0a95c3279818ab5cdd92472b743a637567c95"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/LifestyleHobbies-v0.4.0-allinone.2-part1.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.2-part1.zip",
+          "size_bytes": 1744748583,
+          "sha256": "bdcfd7b5f020dd84fd0c336d461db4f4bc9123304f314da62d4d4d3d4f698472"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-lifestyle-update/LifestyleHobbies-v0.3.93-part2.zip",
-          "zip_name": "LifestyleHobbies-v0.3.93-part2.zip",
-          "size_bytes": 292679504,
-          "sha256": "8fecacdbafa311b6b6dae20bb62e66ec31adc6c18636f662a959da64ff580278"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/LifestyleHobbies-v0.4.0-allinone.2-part2.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.2-part2.zip",
+          "size_bytes": 473552455,
+          "sha256": "6345399fd3d7ff79ae0cfae5c3efe4553d5bab10d48dac4464563cd126f36466"
         }
       ],
-      "updated_at": "2026-06-27"
+      "updated_at": "2026-07-26"
     },
     {
       "id": "LogStackDictStub",
@@ -649,6 +661,18 @@
       "size_bytes": 16669373,
       "sha256": "564a7cf7317466b5a269012730e3867c36406fe6da83e75e8c81e36d3eb5143d",
       "updated_at": "2026-06-27"
+    },
+    {
+      "id": "MassiveVehiclePack",
+      "server_mod_id": "MassiveVehiclePack",
+      "name": "Massive Vehicle Pack",
+      "version": "0.1.0-alpha",
+      "description": "Standalone vehicle-only integration pack. All imported content is isolated under the MVP namespace.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/MassiveVehiclePack-v0.1.0-alpha.zip",
+      "zip_name": "MassiveVehiclePack-v0.1.0-alpha.zip",
+      "size_bytes": 410760610,
+      "sha256": "c853726cc54c24195cb6d42cce8f2b1e386e767e90092b36d90c5e9873a8739e",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "Military_Tool_Kit",
@@ -680,11 +704,11 @@
       "name": "On The Move",
       "version": "1.0.0",
       "description": "Quiet human-powered mobility for Build 42.19: bicycles, skateboards, scooters, and rollerblades with rare sensible spawns, crafting, repairs, terrain response, and multiplayer animation synchronization.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-25-on-the-move/OnTheMove-v1.0.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/OnTheMove-v1.0.0.zip",
       "zip_name": "OnTheMove-v1.0.0.zip",
-      "size_bytes": 36217935,
-      "sha256": "52a06093481248a24b5e3106cfa87f98cbbda9e98ecfddf1075c44a60ea7c7cc",
-      "updated_at": "2026-07-25"
+      "size_bytes": 36213045,
+      "sha256": "c2f0a099566ec90d6d9fc67a8dd30e8ec0de9b450f2f10f58c50d25bbde8d1e4",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "ProjectFadedCar",
@@ -697,6 +721,18 @@
       "size_bytes": 1349318,
       "sha256": "ad243ff0dfebe5b9265a812eb06c37d9beb536b8ee8fda216437f4bb863fd941",
       "updated_at": "2026-06-23"
+    },
+    {
+      "id": "ProximityAutoRead",
+      "server_mod_id": "ProximityAutoRead",
+      "name": "Proximity Auto-Read",
+      "version": "1.0.2",
+      "description": "Choose a literature archetype from the world context menu and queue every nearby unread, readable title. Uses Build 42 native read state and timed actions; scans only when requested.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/ProximityAutoRead-v1.0.2.zip",
+      "zip_name": "ProximityAutoRead-v1.0.2.zip",
+      "size_bytes": 649440,
+      "sha256": "ee982077fff37844bc8f0c07fecbc2c903137480a3b19e23f538eef5a8e4b71b",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "SalvagedFuelRecoveryStation",
@@ -877,13 +913,13 @@
       "id": "WaterExpanded",
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
-      "version": "1.1.0",
+      "version": "1.1.4",
       "description": "The most comprehensive Build 42 water & plumbing overhaul. Build a full water-pipe network with pumps, valves, flowmeters and sprinklers; connect sinks, toilets, barrels and rain collectors; add functional gutters, industrial & Brazilian tanks, metal rain collectors, electric pumps, drip irrigation, purification tablets, chlorine/iodine, clay filters and more. Includes an aqua-blue plumbing UI, hideable underground pipes and a movable network overlay button.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-24-water-expanded/WaterExpanded-v1.1.0.zip",
-      "zip_name": "WaterExpanded-v1.1.0.zip",
-      "size_bytes": 536602593,
-      "sha256": "ab29bbc7cdd2e4905f5e5a24a3c9018f0e9b657768397f0b6f1e1f7cec0965b9",
-      "updated_at": "2026-07-24"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/WaterExpanded-v1.1.4.zip",
+      "zip_name": "WaterExpanded-v1.1.4.zip",
+      "size_bytes": 536679173,
+      "sha256": "ed7d2dbccff37c8fa30c4e3993e1e2575ae1c7b49abfac7e766482d05c1f3610",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "WaterFaded",
