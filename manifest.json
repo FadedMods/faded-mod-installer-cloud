@@ -110,12 +110,13 @@
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
-      "version": "42",
+      "version": "42.19.1",
       "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Authentic-Z-Current-v42.zip",
-      "zip_name": "Authentic-Z-Current-v42.zip",
-      "size_bytes": 390595714,
-      "sha256": "3c3bde4e6e01d7a108e17fd77f639052f8e2e1c5fedab04ac24ef7b9e3ad1329"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-authentic-z-current/Authentic-Z-Current-v42.19.1.zip",
+      "zip_name": "Authentic-Z-Current-v42.19.1.zip",
+      "size_bytes": 390582453,
+      "sha256": "daf26ab75c31de6085c003b868b443d4c1174b820a559d973dd3d2b1f981c3e6",
+      "updated_at": "2026-07-26"
     },
     {
       "id": "AuthenticZLite",
