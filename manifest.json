@@ -80,6 +80,18 @@
       "updated_at": "2026-07-17"
     },
     {
+      "id": "ABardsTale",
+      "server_mod_id": "ABardsTale",
+      "name": "A Bard's Tale",
+      "version": "1.0.0",
+      "description": "Interactive instruments, a Bard trait and occupation, and a server-authoritative musical support aura for Build 42.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-a-bards-tale/ABardsTale-v1.0.0.zip",
+      "zip_name": "ABardsTale-v1.0.0.zip",
+      "size_bytes": 20423877,
+      "sha256": "2176b064c790148f6f0999d9b7c527460fe5225632d6bb4251417152ce530bac",
+      "updated_at": "2026-07-26"
+    },
+    {
       "id": "ArmorPK",
       "name": "Faded's Armor Pack",
       "version": "42",
