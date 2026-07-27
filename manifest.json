@@ -364,6 +364,18 @@
       "updated_at": "2026-07-26"
     },
     {
+      "id": "FadedNinja",
+      "server_mod_id": "FadedNinja",
+      "name": "Faded Ninja",
+      "version": "1.0.0",
+      "description": "Faded's Build 42.19 ninja survival arsenal: grappling hook traversal, throwing weapons, blades, clothing, fieldcraft literature, smoke bombs, firecrackers, and a rare themed sports car.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-faded-ninja-trench-coats/FadedNinja-v1.0.0.zip",
+      "zip_name": "FadedNinja-v1.0.0.zip",
+      "size_bytes": 3585161,
+      "sha256": "42ac984466b83efa3391f4a102250d0183e46c59aa3861a20e04a5ccd1f5ce64",
+      "updated_at": "2026-07-27"
+    },
+    {
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
@@ -478,6 +490,18 @@
       "zip_name": "FadedTradeNetwork-v0.3.1.zip",
       "size_bytes": 391140,
       "sha256": "d478e2b1abd98b03af8c08c19fd6dc7796956db665f3286dd2f0c44b06febc37"
+    },
+    {
+      "id": "FadedTrenchCoats",
+      "server_mod_id": "FadedTrenchCoats",
+      "name": "Faded Trench Coats",
+      "version": "1.0.0",
+      "description": "Version 1.0.0. A Build 42.19 port of the classic trench coat, rebuilt in the FadedTrenchCoats namespace. Includes closed and open variants, four period-appropriate colors, rare container loot, and an exceptionally rare detective zombie outfit.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-faded-ninja-trench-coats/FadedTrenchCoats-v1.0.0.zip",
+      "zip_name": "FadedTrenchCoats-v1.0.0.zip",
+      "size_bytes": 1698022,
+      "sha256": "b6f8bc6a564c3f874c3c1e5e55606455c44daec965ac886b1b9f0f969ece9668",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "FadedVehiclesReborn",
