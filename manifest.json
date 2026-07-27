@@ -1057,13 +1057,13 @@
       "id": "ItsATrap",
       "server_mod_id": "ItsATrap",
       "name": "It's A Trap!",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Build 42 only. Standalone traps and barricades. Craft and build menus only (Trapping, Carpentry, Metalworking). No context-menu placement.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-itsatrap/ItsATrap-v1.1.0.zip",
-      "zip_name": "ItsATrap-v1.1.0.zip",
-      "size_bytes": 31003854,
-      "sha256": "4be59c4a4dbe0c3dd96f0f4e7a08e398463abd083f00ff46f6fb54fe0ca51e6d",
-      "updated_at": "2026-07-19"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-itsatrap-1.1.1/ItsATrap-v1.1.1.zip",
+      "zip_name": "ItsATrap-v1.1.1.zip",
+      "size_bytes": 31004404,
+      "sha256": "dc6cf876b5f8379c4d6c6e1903f092b295eb2c330e63319772641cf2eac34591",
+      "updated_at": "2026-07-26"
     }
   ]
 }
