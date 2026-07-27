@@ -94,18 +94,23 @@
     {
       "id": "ArmorPK",
       "name": "Faded's Armor Pack",
-      "version": "42",
+      "version": "1.1.0",
       "description": "Unofficial private/community Build 42 armor content port. Bundled NVFramework runtime for night vision support. See README and CREDITS.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/ArmorPK-v42-part1.zip",
-          "zip_name": "ArmorPK-v42-part1.zip"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ArmorPK-v1.1.0-part1.zip",
+          "zip_name": "ArmorPK-v1.1.0-part1.zip",
+          "size_bytes": 1763706430,
+          "sha256": "de2bc3cdfbc7d13d00292444defd30e4a940179ca8ce7fb7b22fdc1233107ec2"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/ArmorPK-v42-part2.zip",
-          "zip_name": "ArmorPK-v42-part2.zip"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ArmorPK-v1.1.0-part2.zip",
+          "zip_name": "ArmorPK-v1.1.0-part2.zip",
+          "size_bytes": 1377330948,
+          "sha256": "e3bc838857703128028e660cfac66cb94a68e5f8a25c66239007e2b976568c97"
         }
-      ]
+      ],
+      "updated_at": "2026-07-27"
     },
     {
       "id": "AuthenticZBackpacks+",
@@ -192,11 +197,11 @@
       "name": "Common Sense Reborn",
       "version": "1.8.41",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/CommonSenseReborn-v1.8.41.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/CommonSenseReborn-v1.8.41.zip",
       "zip_name": "CommonSenseReborn-v1.8.41.zip",
-      "size_bytes": 19814109,
-      "sha256": "be267a36b95676550179161a3a4e039e4035d32e58a25f0a0942d901e56e45b8",
-      "updated_at": "2026-07-26"
+      "size_bytes": 19826239,
+      "sha256": "2f23277f65dc9bddb9d528185ac736a331041c3a565e72421fdc9eb42257fed4",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "CommonSenseRebornTest",
@@ -204,11 +209,11 @@
       "name": "Common Sense Reborn (Test)",
       "version": "1.8.42",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/CommonSenseRebornTest-v1.8.42.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/CommonSenseRebornTest-v1.8.42.zip",
       "zip_name": "CommonSenseRebornTest-v1.8.42.zip",
-      "size_bytes": 25316684,
-      "sha256": "30daf2171f9249460e55e35a8ab33149e4d71be6342146e0484dbb0ebb342b1e",
-      "updated_at": "2026-07-26"
+      "size_bytes": 25328870,
+      "sha256": "41a72dfa59deac6cc75bbc5bae14303d963d5adfb24b1fd72a7cc23f1cd04caa",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -623,13 +628,13 @@
       "id": "IntoTheRiver",
       "server_mod_id": "IntoTheRiver",
       "name": "Into The River",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Standalone Build 42.19 river survival with powerboats, sailing yachts, trailers, swimming, makeshift rafts, crafting, marine loot, and dedicated controls.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/IntoTheRiver-v1.2.1.zip",
-      "zip_name": "IntoTheRiver-v1.2.1.zip",
-      "size_bytes": 60158057,
-      "sha256": "24ebbb4b4419117db7b1e66f0adb0055c979ff6399d0161047d536347dd401fb",
-      "updated_at": "2026-07-26"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/IntoTheRiver-v1.2.2.zip",
+      "zip_name": "IntoTheRiver-v1.2.2.zip",
+      "size_bytes": 60158367,
+      "sha256": "d70d8e010752579a2807a7f9102848bd4acdc4ddedea5946a2680e230be7a4cf",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "ISyncYouSyncWeAllSyncForDeSync",
@@ -658,13 +663,13 @@
       "id": "KnoxNetOS",
       "server_mod_id": "KnoxNetOS",
       "name": "KnoxNet OS",
-      "version": "42.19",
-      "description": "Build 42.19 deep test candidate for the KnoxNet OS mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-11-knoxnetos/KnoxNetOS-v42.19.zip",
-      "zip_name": "KnoxNetOS-v42.19.zip",
-      "size_bytes": 12521234,
-      "sha256": "90e957a77ef4988ca45f570134865c886f504c0dfc77e891dcb91edf0171ccc7",
-      "updated_at": "2026-07-11"
+      "version": "0.4.2",
+      "description": "Build 42.19 simulated computer OS with networked building controls, multi-floor storage logistics, cameras, renewable-power telemetry, printing, banking, medical records, and survivor services.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/KnoxNetOS-v0.4.2.zip",
+      "zip_name": "KnoxNetOS-v0.4.2.zip",
+      "size_bytes": 12852959,
+      "sha256": "17a1a75791717d7b3593010b9dc9e2448ac37fbff176d01b391e69ad77748b78",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "KnoxTransit",
@@ -834,13 +839,13 @@
       "id": "SolarNeverFaded",
       "server_mod_id": "SolarNeverFaded",
       "name": "Solar Never Faded",
-      "version": "0.1.0",
-      "description": "Standalone Build 42 solar power generation: panels, battery banks, portable chargers, recipes, loot, multiplayer-safe server authority, and an optional CSR bridge API.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SolarNeverFaded-v0.1.0.zip",
-      "zip_name": "SolarNeverFaded-v0.1.0.zip",
-      "size_bytes": 1783343,
-      "sha256": "e523d5d571488afec89bc6bbf87e4e809da567e0774fd49047d43db500615374",
-      "updated_at": "2026-06-23"
+      "version": "0.2.1",
+      "description": "Standalone Build 42 renewable power network: solar, wind, hydro, controllers, relay nodes, battery banks, portable stations, multiplayer-safe server authority, and optional integration APIs for CSR and KnoxNet OS.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/SolarNeverFaded-v0.2.1.zip",
+      "zip_name": "SolarNeverFaded-v0.2.1.zip",
+      "size_bytes": 42232449,
+      "sha256": "ba9ce7e672b1f25b47095fddcdde679e4e5c8418b9021e4aeacf020fa98310c4",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "SimpleOverhaulTraitsAndOccupations",
@@ -998,12 +1003,12 @@
       "server_mod_id": "ThePathLessTraveled",
       "name": "The Path Less Traveled",
       "version": "0.2.0",
-      "description": "Build 42.19 multiplayer-first proficiency path progression with server-authoritative path choices, sacrifice gates, proficiency XP, and Skills tab integration.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-path-less-traveled-update/ThePathLessTraveled-v0.2.0.zip",
-      "zip_name": "ThePathLessTraveled-v0.2.0.zip",
-      "size_bytes": 31585,
-      "sha256": "b9407d99b0e470fc8e74beece5ace637a47710cbbb6dc857f2dc1ea535dc0383",
-      "updated_at": "2026-06-25"
+      "description": "Build 42.19 native Skills-tab progression from level 10 to 15 with purple mastery cells and server-authoritative permanent category buffs.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ThePathLessTraveled-v0.2.0-20260727.zip",
+      "zip_name": "ThePathLessTraveled-v0.2.0-20260727.zip",
+      "size_bytes": 19931,
+      "sha256": "8ee5ce52a0c5ea3c7ed8e09cb33cdeaa38d89424454c645fc759c93e3b2432c9",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "NeverSurviveAlone",
@@ -1081,13 +1086,13 @@
       "id": "ItsATrap",
       "server_mod_id": "ItsATrap",
       "name": "It's A Trap!",
-      "version": "1.1.1",
-      "description": "Build 42 only. Standalone traps and barricades. Craft and build menus only (Trapping, Carpentry, Metalworking). No context-menu placement.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-itsatrap-1.1.1/ItsATrap-v1.1.1.zip",
-      "zip_name": "ItsATrap-v1.1.1.zip",
-      "size_bytes": 31004404,
-      "sha256": "dc6cf876b5f8379c4d6c6e1903f092b295eb2c330e63319772641cf2eac34591",
-      "updated_at": "2026-07-26"
+      "version": "1.2.0",
+      "description": "Build 42 only. Standalone traps, barricades, remote alarms, and remote explosives. Ground placement uses crafting; vehicle devices use vehicle interactions.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ItsATrap-v1.2.0.zip",
+      "zip_name": "ItsATrap-v1.2.0.zip",
+      "size_bytes": 31031017,
+      "sha256": "4dd7cce0a08486718926959837538d5f8e85e76492b112da778a4e07c0ea6051",
+      "updated_at": "2026-07-27"
     }
   ]
 }
