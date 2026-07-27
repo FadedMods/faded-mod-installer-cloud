@@ -720,13 +720,13 @@
       "id": "MassiveVehiclePack",
       "server_mod_id": "MassiveVehiclePack",
       "name": "Massive Vehicle Pack",
-      "version": "0.1.0-alpha",
+      "version": "0.2.0",
       "description": "Standalone vehicle-only integration pack. All imported content is isolated under the MVP namespace.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/MassiveVehiclePack-v0.1.0-alpha.zip",
-      "zip_name": "MassiveVehiclePack-v0.1.0-alpha.zip",
-      "size_bytes": 410760610,
-      "sha256": "c853726cc54c24195cb6d42cce8f2b1e386e767e90092b36d90c5e9873a8739e",
-      "updated_at": "2026-07-26"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-mvp-rvs-reborn/MassiveVehiclePack-v0.2.0.zip",
+      "zip_name": "MassiveVehiclePack-v0.2.0.zip",
+      "size_bytes": 424436432,
+      "sha256": "d69897ee4c82af4630bf902617f3343d327574996d5788c46c1a211404706ad4",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "Military_Tool_Kit",
@@ -1092,6 +1092,18 @@
       "zip_name": "ItsATrap-v1.2.0.zip",
       "size_bytes": 31031017,
       "sha256": "4dd7cce0a08486718926959837538d5f8e85e76492b112da778a4e07c0ea6051",
+      "updated_at": "2026-07-27"
+    },
+    {
+      "id": "RVsReborn",
+      "server_mod_id": "RVsReborn",
+      "name": "RVsReborn",
+      "version": "0.1.1",
+      "description": "A cohesive Build 42.19 RV interior, utility, safety, dashboard, compatibility, and administration system.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-mvp-rvs-reborn/RVsReborn-v0.1.1.zip",
+      "zip_name": "RVsReborn-v0.1.1.zip",
+      "size_bytes": 9810206,
+      "sha256": "6961789ad5f9e6041bf3b435326c66438f6a6ef4941aa1f96b20cfdf0c0cd05e",
       "updated_at": "2026-07-27"
     }
   ]
