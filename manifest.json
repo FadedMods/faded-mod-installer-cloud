@@ -489,13 +489,13 @@
       "id": "FadedTradeNetwork",
       "server_mod_id": "FadedTradeNetwork",
       "name": "Faded Trade Network",
-      "version": "0.4.0",
+      "version": "0.4.3",
       "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.19. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-faded-trade-network/FadedTradeNetwork-v0.4.0.zip",
-      "zip_name": "FadedTradeNetwork-v0.4.0.zip",
-      "size_bytes": 407930,
-      "sha256": "ec5dae8f37b248cbce05bfdece7a12e40103ddb41069ed7db40bff464c102f4f",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/FadedTradeNetwork-v0.4.3.zip",
+      "zip_name": "FadedTradeNetwork-v0.4.3.zip",
+      "size_bytes": 419814,
+      "sha256": "1afec01426b3dfeeab77e28c1f6a8d857cfc89cd0ab3676f9eb3ce7258f40fd6",
+      "updated_at": "2026-07-28"
     },
     {
       "id": "FadedTrenchCoats",
@@ -664,13 +664,13 @@
       "id": "KnoxNetOS",
       "server_mod_id": "KnoxNetOS",
       "name": "KnoxNet OS",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "description": "Build 42.19 simulated computer OS with networked building controls, multi-floor storage logistics, cameras, renewable-power telemetry, printing, banking, medical records, and survivor services.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-knoxnetos-0.5.0/KnoxNetOS-v0.5.0.zip",
-      "zip_name": "KnoxNetOS-v0.5.0.zip",
-      "size_bytes": 12854626,
-      "sha256": "c347101e98ebe84a8e2c908a12ac5bfb046f6fb4339d32eea30d79d0a7dc7271",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/KnoxNetOS-v0.6.0.zip",
+      "zip_name": "KnoxNetOS-v0.6.0.zip",
+      "size_bytes": 12860647,
+      "sha256": "214b2bbd79c3b21d0f753ebbe59da94f29e89da727782e75c09cb7b9d16579d9",
+      "updated_at": "2026-07-28"
     },
     {
       "id": "KnoxTransit",
@@ -757,13 +757,13 @@
       "id": "OnTheMove",
       "server_mod_id": "OnTheMove",
       "name": "On The Move",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "description": "Quiet human-powered mobility for Build 42.19: bicycles, skateboards, scooters, and rollerblades with rare sensible spawns, crafting, repairs, terrain response, and multiplayer animation synchronization.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-on-the-move-1.0.1/OnTheMove-v1.0.1.zip",
-      "zip_name": "OnTheMove-v1.0.1.zip",
-      "size_bytes": 36213080,
-      "sha256": "c5c88669f6e29cf8e0ce9303c5d4b308bbcc44b2981b5a136ca35f3e467c84c1",
-      "updated_at": "2026-07-26"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/OnTheMove-v1.0.3.zip",
+      "zip_name": "OnTheMove-v1.0.3.zip",
+      "size_bytes": 36219145,
+      "sha256": "3593c90bf7c4f2b8189b1e9647d9201bca06bb1bfb9954470ed397a34b35bd1f",
+      "updated_at": "2026-07-28"
     },
     {
       "id": "ProjectFadedCar",
@@ -781,13 +781,13 @@
       "id": "ProximityAutoRead",
       "server_mod_id": "ProximityAutoRead",
       "name": "Proximity Auto-Read",
-      "version": "1.0.2",
-      "description": "Choose a literature archetype from the world context menu and queue every nearby unread, readable title. Uses Build 42 native read state and timed actions; scans only when requested.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/ProximityAutoRead-v1.0.2.zip",
-      "zip_name": "ProximityAutoRead-v1.0.2.zip",
-      "size_bytes": 649440,
-      "sha256": "ee982077fff37844bc8f0c07fecbc2c903137480a3b19e23f538eef5a8e4b71b",
-      "updated_at": "2026-07-26"
+      "version": "1.1.0",
+      "description": "Choose focused literature types or read every nearby unread knowledge item. Separates knowledge magazines from leisure magazines and uses Build 42 native read state and timed actions.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/ProximityAutoRead-v1.1.0.zip",
+      "zip_name": "ProximityAutoRead-v1.1.0.zip",
+      "size_bytes": 649781,
+      "sha256": "c05f2b50939055a8e26aa827644299f00ff9da5682879a6ceabe6653ae4ca2c1",
+      "updated_at": "2026-07-28"
     },
     {
       "id": "SalvagedFuelRecoveryStation",
