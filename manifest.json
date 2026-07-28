@@ -757,12 +757,12 @@
       "id": "OnTheMove",
       "server_mod_id": "OnTheMove",
       "name": "On The Move",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "Quiet human-powered mobility for Build 42.19: bicycles, skateboards, scooters, and rollerblades with rare sensible spawns, crafting, repairs, terrain response, and multiplayer animation synchronization.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-on-the-move-1.0.5/OnTheMove-v1.0.5.zip",
-      "zip_name": "OnTheMove-v1.0.5.zip",
-      "size_bytes": 36007833,
-      "sha256": "5b6639cea62723dda9113e0a4576ceadad8b0b40223b699167fceac5255ee8fa",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-on-the-move-1.0.6/OnTheMove-v1.0.6.zip",
+      "zip_name": "OnTheMove-v1.0.6.zip",
+      "size_bytes": 36007842,
+      "sha256": "abe7d38deaf780bd5a11e6668b8d06c3094148b28388e228904622f5d5dfcccd",
       "updated_at": "2026-07-28"
     },
     {
