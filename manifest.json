@@ -1099,13 +1099,25 @@
       "id": "RVsReborn",
       "server_mod_id": "RVsReborn",
       "name": "RVsReborn",
-      "version": "0.1.1",
+      "version": "0.1.4",
       "description": "A cohesive Build 42.19 RV interior, utility, safety, dashboard, compatibility, and administration system.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-mvp-rvs-reborn/RVsReborn-v0.1.1.zip",
-      "zip_name": "RVsReborn-v0.1.1.zip",
-      "size_bytes": 9810206,
-      "sha256": "6961789ad5f9e6041bf3b435326c66438f6a6ef4941aa1f96b20cfdf0c0cd05e",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-rvs-reborn-for-my-furries/RVsReborn-v0.1.4.zip",
+      "zip_name": "RVsReborn-v0.1.4.zip",
+      "size_bytes": 9813466,
+      "sha256": "7ad8b084918d2892441979f40b0f68f74493f8c6bca29e45886fea4f229c51fe",
+      "updated_at": "2026-07-28"
+    },
+    {
+      "id": "ForMyFurries",
+      "server_mod_id": "ForMyFurries",
+      "name": "For My Furries",
+      "version": "1.0.0",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, and animation collection for Project Zomboid Build 42.19. Version 1.0.0.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-rvs-reborn-for-my-furries/ForMyFurries-v1.0.0.zip",
+      "zip_name": "ForMyFurries-v1.0.0.zip",
+      "size_bytes": 533720111,
+      "sha256": "4df305915d4b6f75b2576398757c3a4c87db1345e74bddb2207d512ec195c3d8",
+      "updated_at": "2026-07-28"
     }
   ]
 }
