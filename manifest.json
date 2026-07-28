@@ -489,12 +489,13 @@
       "id": "FadedTradeNetwork",
       "server_mod_id": "FadedTradeNetwork",
       "name": "Faded Trade Network",
-      "version": "0.3.1",
-      "description": "Server-authoritative trade economy for Build 42. Trade IDs, physical storefronts, item deposits, radio browsing, and admin controls. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedTradeNetwork-v0.3.1.zip",
-      "zip_name": "FadedTradeNetwork-v0.3.1.zip",
-      "size_bytes": 391140,
-      "sha256": "d478e2b1abd98b03af8c08c19fd6dc7796956db665f3286dd2f0c44b06febc37"
+      "version": "0.4.0",
+      "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.19. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-faded-trade-network/FadedTradeNetwork-v0.4.0.zip",
+      "zip_name": "FadedTradeNetwork-v0.4.0.zip",
+      "size_bytes": 407930,
+      "sha256": "ec5dae8f37b248cbce05bfdece7a12e40103ddb41069ed7db40bff464c102f4f",
+      "updated_at": "2026-07-27"
     },
     {
       "id": "FadedTrenchCoats",
