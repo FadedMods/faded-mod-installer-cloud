@@ -663,12 +663,12 @@
       "id": "KnoxNetOS",
       "server_mod_id": "KnoxNetOS",
       "name": "KnoxNet OS",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "description": "Build 42.19 simulated computer OS with networked building controls, multi-floor storage logistics, cameras, renewable-power telemetry, printing, banking, medical records, and survivor services.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/KnoxNetOS-v0.4.2.zip",
-      "zip_name": "KnoxNetOS-v0.4.2.zip",
-      "size_bytes": 12852959,
-      "sha256": "17a1a75791717d7b3593010b9dc9e2448ac37fbff176d01b391e69ad77748b78",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-knoxnetos-0.5.0/KnoxNetOS-v0.5.0.zip",
+      "zip_name": "KnoxNetOS-v0.5.0.zip",
+      "size_bytes": 12854626,
+      "sha256": "c347101e98ebe84a8e2c908a12ac5bfb046f6fb4339d32eea30d79d0a7dc7271",
       "updated_at": "2026-07-27"
     },
     {
