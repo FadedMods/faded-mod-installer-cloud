@@ -1118,6 +1118,18 @@
       "size_bytes": 533720111,
       "sha256": "4df305915d4b6f75b2576398757c3a4c87db1345e74bddb2207d512ec195c3d8",
       "updated_at": "2026-07-28"
+    },
+    {
+      "id": "WhimsyWeapons",
+      "server_mod_id": "WhimsyWeapons",
+      "name": "Whimsy Weapons",
+      "version": "0.3.0",
+      "description": "Five fantastical melee weapons with custom models, textures, icons, and rare world spawns.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-whimsy-weapons/WhimsyWeapons-v0.3.0.zip",
+      "zip_name": "WhimsyWeapons-v0.3.0.zip",
+      "size_bytes": 17276748,
+      "sha256": "3b21fd7083f74c12eef8c49442e11daf9fec8fffb71e17c255670984eb45b112",
+      "updated_at": "2026-07-28"
     }
   ]
 }
