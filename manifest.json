@@ -222,13 +222,13 @@
       "id": "CSRFundamentals",
       "server_mod_id": "CSRFundamentals",
       "name": "CSR Fundamentals",
-      "version": "0.1.0",
-      "description": "Fundamentals-only spin-off of Common Sense Reborn: simple, vanilla-only quality-of-life features. No new items, sprites, GUIs, carry slots, or cheat-like systems. Build 42. SP + MP.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/CSRFundamentals-v0.1.0.zip",
-      "zip_name": "CSRFundamentals-v0.1.0.zip",
-      "size_bytes": 1011452,
-      "sha256": "ac955a705c3c64390a59b5bf595cef0588cda0469e1ee0ea436c01c89efcc54c",
-      "updated_at": "2026-06-23"
+      "version": "0.2.0",
+      "description": "Fundamentals-only spin-off of Common Sense Reborn: simple, vanilla-only quality-of-life features. No new items, sprites, GUIs, carry slots, or cheat-like systems. Build 42.20. SP + MP.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-fundamentals-0.2.0/CSRFundamentals-v0.2.0.zip",
+      "zip_name": "CSRFundamentals-v0.2.0.zip",
+      "size_bytes": 1206237,
+      "sha256": "4270f2273c6269af3da4dc0e331dff5aef4ee4244d936b72b370f194368cf92a",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "FadedOriginsOccupationsTraits",
