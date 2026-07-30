@@ -150,12 +150,12 @@
       "id": "BlanketsFade",
       "server_mod_id": "BlanketsFade",
       "name": "Faded Beds Have Blankets",
-      "version": "42.20",
+      "version": "1.1.0",
       "description": "Period-correct removable blankets and larger pillows, rebuilt for Build 42.20.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-blankets-fade-sync-update/BlanketsFade-v42.20.zip",
-      "zip_name": "BlanketsFade-v42.20.zip",
-      "size_bytes": 14384807,
-      "sha256": "a1de2f651553d154a82cc34fde035af092fe7ae6a91b8146882667c6d37dc39d",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-blankets-fade-1.1.0/BlanketsFade-v1.1.0.zip",
+      "zip_name": "BlanketsFade-v1.1.0.zip",
+      "size_bytes": 14473523,
+      "sha256": "724eb1d7ffb205b4cc2b2d6ffe5e5f7903d6a6e7b5cc50c54946b65f15e333d9",
       "updated_at": "2026-07-30"
     },
     {
