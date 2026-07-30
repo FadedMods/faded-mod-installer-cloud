@@ -127,13 +127,13 @@
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
-      "version": "42.19.1",
+      "version": "42.20.0",
       "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-authentic-z-current/Authentic-Z-Current-v42.19.1.zip",
-      "zip_name": "Authentic-Z-Current-v42.19.1.zip",
-      "size_bytes": 390582453,
-      "sha256": "daf26ab75c31de6085c003b868b443d4c1174b820a559d973dd3d2b1f981c3e6",
-      "updated_at": "2026-07-26"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-authentic-z-clearview-b42.20/Authentic-Z-Current-v42.20.0.zip",
+      "zip_name": "Authentic-Z-Current-v42.20.0.zip",
+      "size_bytes": 390583175,
+      "sha256": "a820471a487783196252a32e813b45a769a1559157b587e6572e64394c3de2ad",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "AuthenticZLite",
@@ -420,13 +420,13 @@
       "id": "FadedsClearViewUI",
       "server_mod_id": "FadedsClearViewUI",
       "name": "Faded's ClearView UI",
-      "version": "0.3.0",
-      "description": "Polished charcoal-and-purple UI pass for Project Zomboid Build 42.19. Adds compact inventory styling, rarity accents, a click-safe auto-hiding sidebar with persistent hand slots and injury-aware health access, plus optional Common Sense Reborn surface styling.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-fadeds-clearview-ui-0.3.0/FadedsClearViewUI-v0.3.0.zip",
-      "zip_name": "FadedsClearViewUI-v0.3.0.zip",
-      "size_bytes": 1204901,
-      "sha256": "1f5354de28cdc135ec6954333118d56d2bc15a12fdce5b7c1e7bc5c7ae34f9f4",
-      "updated_at": "2026-07-27"
+      "version": "0.3.1",
+      "description": "Polished charcoal-and-purple UI pass for Project Zomboid Build 42.20. Adds compact inventory styling, rarity accents, a click-safe auto-hiding sidebar with persistent hand slots and injury-aware health access, plus optional Common Sense Reborn surface styling.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-authentic-z-clearview-b42.20/FadedsClearViewUI-v0.3.1.zip",
+      "zip_name": "FadedsClearViewUI-v0.3.1.zip",
+      "size_bytes": 1206343,
+      "sha256": "0cfd56887db67bbcb806aed850661544075eba29265eea1ff8839f190a4972b5",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "FadedsErrorDetected",
