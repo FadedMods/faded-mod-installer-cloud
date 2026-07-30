@@ -197,10 +197,10 @@
       "name": "Common Sense Reborn",
       "version": "1.8.43",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-water-expanded/CommonSenseReborn-v1.8.43.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-patches-admin-command-center/CommonSenseReborn-v1.8.43.zip",
       "zip_name": "CommonSenseReborn-v1.8.43.zip",
-      "size_bytes": 19861887,
-      "sha256": "a33545bb83fd153e8578ddcd3686dbef2ffae12d53f913245085ca4aa039edd4",
+      "size_bytes": 19861969,
+      "sha256": "9085889b4ebca4dcc2dd573008e8d779f450bddf95453af5bcdae603d87947e9",
       "updated_at": "2026-07-30"
     },
     {
@@ -209,23 +209,23 @@
       "name": "Common Sense Reborn (Test)",
       "version": "1.8.44",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-water-expanded/CommonSenseRebornTest-v1.8.44.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-patches-admin-command-center/CommonSenseRebornTest-v1.8.44.zip",
       "zip_name": "CommonSenseRebornTest-v1.8.44.zip",
-      "size_bytes": 25190578,
-      "sha256": "c08cb8c23fbcdb3a7ef2fe1989d772142bb746c6ea34e184ab18b6ea9a43ee15",
+      "size_bytes": 25190660,
+      "sha256": "da44ce8afba9512e7afe66cff9db7b32fd82918006425008d239d6edcdca7776",
       "updated_at": "2026-07-30"
     },
     {
       "id": "CSRAdminCommandCenter",
       "server_mod_id": "CSRAdminCommandCenter",
       "name": "CSR Admin Command Center",
-      "version": "0.2.4",
-      "description": "Standalone admin command center companion for Common Sense Reborn. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-15-csr-admin-command-center-2/CSRAdminCommandCenter-v0.2.4.zip",
-      "zip_name": "CSRAdminCommandCenter-v0.2.4.zip",
-      "size_bytes": 2816123,
-      "sha256": "c79b108c3e62be3e0b209a6291aacd3760479cff293f7b5a152d9081e9bc47f7",
-      "updated_at": "2026-07-15"
+      "version": "0.2.6",
+      "description": "Standalone admin command center companion for Common Sense Reborn. B42.20-ready with reduced FPS impact and MP server authority. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-patches-admin-command-center/CSRAdminCommandCenter-v0.2.6.zip",
+      "zip_name": "CSRAdminCommandCenter-v0.2.6.zip",
+      "size_bytes": 2819575,
+      "sha256": "fac2f3e4eab8bbf7e133a25ba06adbcb8bafa08fba8547db1f045a1e613c9fbe",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "CSR_ClearviewGPS",
