@@ -195,25 +195,25 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.8.41",
+      "version": "1.8.43",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/CommonSenseReborn-v1.8.41.zip",
-      "zip_name": "CommonSenseReborn-v1.8.41.zip",
-      "size_bytes": 19826239,
-      "sha256": "2f23277f65dc9bddb9d528185ac736a331041c3a565e72421fdc9eb42257fed4",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-water-expanded/CommonSenseReborn-v1.8.43.zip",
+      "zip_name": "CommonSenseReborn-v1.8.43.zip",
+      "size_bytes": 19861887,
+      "sha256": "a33545bb83fd153e8578ddcd3686dbef2ffae12d53f913245085ca4aa039edd4",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.8.42",
+      "version": "1.8.44",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/CommonSenseRebornTest-v1.8.42.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.42.zip",
-      "size_bytes": 25328870,
-      "sha256": "41a72dfa59deac6cc75bbc5bae14303d963d5adfb24b1fd72a7cc23f1cd04caa",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-water-expanded/CommonSenseRebornTest-v1.8.44.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.44.zip",
+      "size_bytes": 25190578,
+      "sha256": "c08cb8c23fbcdb3a7ef2fe1989d772142bb746c6ea34e184ab18b6ea9a43ee15",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -968,13 +968,13 @@
       "id": "WaterExpanded",
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
-      "version": "1.1.4",
-      "description": "The most comprehensive Build 42 water & plumbing overhaul. Build a full water-pipe network with pumps, valves, flowmeters and sprinklers; connect sinks, toilets, barrels and rain collectors; add functional gutters, industrial & Brazilian tanks, metal rain collectors, electric pumps, drip irrigation, purification tablets, chlorine/iodine, clay filters and more. Includes an aqua-blue plumbing UI, hideable underground pipes and a movable network overlay button.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/WaterExpanded-v1.1.4.zip",
-      "zip_name": "WaterExpanded-v1.1.4.zip",
-      "size_bytes": 536679173,
-      "sha256": "ed7d2dbccff37c8fa30c4e3993e1e2575ae1c7b49abfac7e766482d05c1f3610",
-      "updated_at": "2026-07-26"
+      "version": "2.1.0",
+      "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, sprinklers, storage, fixtures, gas stations and generators without a bridge hub. Includes gutters, tanks, collectors, purification, drip irrigation, physical petrol routing, a plumbing overlay and an optional KnoxNet OS control-station bridge.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-water-expanded/WaterExpanded-v2.1.0.zip",
+      "zip_name": "WaterExpanded-v2.1.0.zip",
+      "size_bytes": 536567176,
+      "sha256": "69ec7fec1ab04bc17c44423356514e6aac22904401bd5497d525189aa9cee752",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "WaterFaded",
