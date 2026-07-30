@@ -147,37 +147,16 @@
       "sha256": "bbff1ec931c2c0bd11544e6f62a81384c2acc136f4ca1e0f3cc75633cda5825e"
     },
     {
-      "id": "Bedding Covers-With Pillows",
-      "server_mod_id": "Bedding Covers-With Pillows",
-      "name": "Beds Have Blankets With Pillows- Legacy",
-      "version": "42",
-      "description": "This mod replaces all vanilla bed textures. The blankets are not removeable, this version has pillows in the texture",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Bedding-Covers-With-Pillows-v42.zip",
-      "zip_name": "Bedding-Covers-With-Pillows-v42.zip",
-      "size_bytes": 1648750,
-      "sha256": "3acb5085955392f694184203f0a9bd0f048da02ce426ad13219850de8056bdd9"
-    },
-    {
-      "id": "Bedding Covers-no pillows",
-      "server_mod_id": "Bedding Covers-no pillows",
-      "name": "Beds Have Blankets No Pillows- Legacy",
-      "version": "42",
-      "description": "This mod replaces all vanilla bed textures. The blankets are not removeable, this version has no pillows in the texture",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Bedding-Covers-no-pillows-v42.zip",
-      "zip_name": "Bedding-Covers-no-pillows-v42.zip",
-      "size_bytes": 1653960,
-      "sha256": "55ece699f4714fa9989b30d24885154a7d3204561bbaec95beaa90dac33b8b43"
-    },
-    {
-      "id": "blankets",
-      "server_mod_id": "blankets",
-      "name": "Blankets for beds",
-      "version": "42",
-      "description": "Makes beds have blankets that can be removed and crafted",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/blankets-v42.zip",
-      "zip_name": "blankets-v42.zip",
-      "size_bytes": 8899554,
-      "sha256": "d60e416cacbf5457d1a383ae7c6ef8bb205de350a13dd100108638b51e075f28"
+      "id": "BlanketsFade",
+      "server_mod_id": "BlanketsFade",
+      "name": "Faded Beds Have Blankets",
+      "version": "42.20",
+      "description": "Period-correct removable blankets and larger pillows, rebuilt for Build 42.20.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-blankets-fade-sync-update/BlanketsFade-v42.20.zip",
+      "zip_name": "BlanketsFade-v42.20.zip",
+      "size_bytes": 14384807,
+      "sha256": "a1de2f651553d154a82cc34fde035af092fe7ae6a91b8146882667c6d37dc39d",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "BuildcraftReborn",
@@ -641,12 +620,13 @@
       "id": "ISyncYouSyncWeAllSyncForDeSync",
       "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
-      "version": "42",
-      "description": "Build 42 passive desync evidence and lightweight remediation suite. Uses a low-frequency sync ledger, client-side anomaly watchers, zombie kill signals, rate-limited ghost-zombie cure requests, metadata-only vehicle evidence, debounced notifications, hotspot tracking, and admin tools. Designed to reduce visible desync without flooding custom packets or fighting engine authority. Copyright (c) 2026 Luis. All rights reserved. No reupload or redistribution without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ISyncYouSyncWeAllSyncForDeSync-v42.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v42.zip",
-      "size_bytes": 261458,
-      "sha256": "fbc2dc0b99b9cb6e1141140d6660e6e1d8d52c3e792321485796dfdf0fa3d2b1"
+      "version": "1.0.0",
+      "description": "Build 42.20 multiplayer desync defense suite with bounded server-authoritative vehicle impact validation, adaptive work budgets, zombie remediation, action guards, health telemetry, and an optional Faded Java Loader impact accelerator. Complete Lua fallback. SP + MP.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-blankets-fade-sync-update/ISyncYouSyncWeAllSyncForDeSync-v1.0.0.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.0.0.zip",
+      "size_bytes": 290228,
+      "sha256": "3ec8282cd3ba1f786313f73baa899c6c7b29c00abb57783a81e9b18e4421d28e",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "JustFaded",
