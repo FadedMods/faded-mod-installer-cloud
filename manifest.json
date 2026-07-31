@@ -469,13 +469,13 @@
       "id": "FadedTradeNetwork",
       "server_mod_id": "FadedTradeNetwork",
       "name": "Faded Trade Network",
-      "version": "0.4.3",
-      "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.19. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/FadedTradeNetwork-v0.4.3.zip",
-      "zip_name": "FadedTradeNetwork-v0.4.3.zip",
-      "size_bytes": 419814,
-      "sha256": "1afec01426b3dfeeab77e28c1f6a8d857cfc89cd0ab3676f9eb3ce7258f40fd6",
-      "updated_at": "2026-07-28"
+      "version": "0.5.0",
+      "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.20 stable. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-faded-trade-network-0.5.0/FadedTradeNetwork-v0.5.0.zip",
+      "zip_name": "FadedTradeNetwork-v0.5.0.zip",
+      "size_bytes": 420623,
+      "sha256": "de45ff96b6ded8c73ba76fcc3c6cb64ac3df65977213fb408de36b3ea0f39b89",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "FadedTrenchCoats",
