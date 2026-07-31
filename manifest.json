@@ -281,12 +281,13 @@
       "id": "FadedCombatText",
       "server_mod_id": "FadedCombatText",
       "name": "Faded Combat Text",
-      "version": "2.0.0",
-      "description": "Build 42.18 combat text with larger purple damage numbers and health bars that fade from green to yellow to red.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedCombatText-v2.0.0.zip",
-      "zip_name": "FadedCombatText-v2.0.0.zip",
-      "size_bytes": 875352,
-      "sha256": "912b49f3ffa91478ea2dbd39ae64a8c86dbe79a05df9278d9742f01c89fa0b28"
+      "version": "2.1.0",
+      "description": "Build 42.20 combat text with optimized purple damage numbers and health bars that fade from green to yellow to red.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-faded-combat-text-2.1.0/FadedCombatText-v2.1.0.zip",
+      "zip_name": "FadedCombatText-v2.1.0.zip",
+      "size_bytes": 573229,
+      "sha256": "cadda61286fde0d38049a81e55f267602b925659217692b2fe368638d6399ee5",
+      "updated_at": "2026-07-30"
     },
     {
       "id": "FadedFarmingFishingReborn",
