@@ -1111,6 +1111,18 @@
       "size_bytes": 17276969,
       "sha256": "1afeb7317bf81a390b9745d886b9b4b6f0c54e42ac928fee97d8f41bcde30d20",
       "updated_at": "2026-07-28"
+    },
+    {
+      "id": "FadedLocomotion",
+      "server_mod_id": "FadedLocomotion",
+      "name": "Faded Locomotion",
+      "version": "0.9.2",
+      "description": "A comprehensive Build 42 rail system with multiple trains, detachable rolling stock, bidirectional routes, multiplayer track authority, claims integration, and RV-compatible passenger cars.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-faded-locomotion-0.9.2/FadedLocomotion-v0.9.2.zip",
+      "zip_name": "FadedLocomotion-v0.9.2.zip",
+      "size_bytes": 41682089,
+      "sha256": "e1dd931b910d393a3fd8b09b30be5c7ff089bfb3b788003c3c5532460d68c975",
+      "updated_at": "2026-07-30"
     }
   ]
 }
