@@ -246,13 +246,13 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "1.1.1",
-      "description": "FAM 1.1.1 for Build 42.19: expanded first aid, digestive and parasite care, field amputation, prosthetics, CSR-aware antibody support, and a green-glow triage interface. Fixes animal-exposure crash near vehicles.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/FadedAdvancedMedical-v1.1.1.zip",
-      "zip_name": "FadedAdvancedMedical-v1.1.1.zip",
-      "size_bytes": 32955904,
-      "sha256": "0ec4a76e7f617611741c474ec21d0241059f82d3c0af3bffe259259b783c92cf",
-      "updated_at": "2026-07-26"
+      "version": "2.0.0",
+      "description": "FAM 2.0.0 for Build 42.20: server-authoritative advanced medicine, field surgery, prosthetics, digestive care, pathology, virology, and a responsive three-window green triage workspace.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-locomotion-skies-medical/FadedAdvancedMedical-v2.0.0.zip",
+      "zip_name": "FadedAdvancedMedical-v2.0.0.zip",
+      "size_bytes": 33005776,
+      "sha256": "81301a049c2a3c167422c81098c05d9569203dba4d41295d09a408ae82f30c4e",
+      "updated_at": "2026-07-31"
     },
     {
       "id": "FadedAfflictions",
@@ -1116,13 +1116,25 @@
       "id": "FadedLocomotion",
       "server_mod_id": "FadedLocomotion",
       "name": "Faded Locomotion",
-      "version": "0.9.2",
+      "version": "0.9.4",
       "description": "A comprehensive Build 42 rail system with multiple trains, detachable rolling stock, bidirectional routes, multiplayer track authority, claims integration, and RV-compatible passenger cars.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-faded-locomotion-0.9.2/FadedLocomotion-v0.9.2.zip",
-      "zip_name": "FadedLocomotion-v0.9.2.zip",
-      "size_bytes": 41682089,
-      "sha256": "e1dd931b910d393a3fd8b09b30be5c7ff089bfb3b788003c3c5532460d68c975",
-      "updated_at": "2026-07-30"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-locomotion-skies-medical/FadedLocomotion-v0.9.4.zip",
+      "zip_name": "FadedLocomotion-v0.9.4.zip",
+      "size_bytes": 29321997,
+      "sha256": "be5fb1a3e9d7c6bdfb58cef03fed6b4932854d92101355dfcb5ba92d307b0189",
+      "updated_at": "2026-07-31"
+    },
+    {
+      "id": "FadedSkies",
+      "server_mod_id": "FadedSkies",
+      "name": "Faded Skies",
+      "version": "1.0.0",
+      "description": "Standalone Build 42.20 helicopter flight, utility, and combat systems. Includes the FS UH-1B Iroquois utility helicopter and FS AH-64A attack helicopter. Designed for single-player, hosted multiplayer, and dedicated servers with server-authoritative weapons and noise.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-locomotion-skies-medical/FadedSkies-v1.0.0.zip",
+      "zip_name": "FadedSkies-v1.0.0.zip",
+      "size_bytes": 11586696,
+      "sha256": "fad97a03a4e5daac791a32cf363143ab816f37ec241ea804cdf496dacb1c9d69",
+      "updated_at": "2026-07-31"
     }
   ]
 }
