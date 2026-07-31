@@ -94,23 +94,23 @@
     {
       "id": "ArmorPK",
       "name": "Faded's Armor Pack",
-      "version": "1.1.0",
-      "description": "Unofficial private/community Build 42 armor content port. Bundled NVFramework runtime for night vision support. See README and CREDITS.",
+      "version": "2.0.0",
+      "description": "Standalone Build 42.20 tactical armor collection with native night vision support, zombie outfits, and sandbox-controlled loot rarity.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ArmorPK-v1.1.0-part1.zip",
-          "zip_name": "ArmorPK-v1.1.0-part1.zip",
-          "size_bytes": 1763706430,
-          "sha256": "de2bc3cdfbc7d13d00292444defd30e4a940179ca8ce7fb7b22fdc1233107ec2"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-armorpk-2.0.0/ArmorPK-v2.0.0-part1.zip",
+          "zip_name": "ArmorPK-v2.0.0-part1.zip",
+          "size_bytes": 1764940929,
+          "sha256": "131fd349d0dc996e04ee8101d38c9ef4423572ab8aad11b896721d76cee4945c"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/ArmorPK-v1.1.0-part2.zip",
-          "zip_name": "ArmorPK-v1.1.0-part2.zip",
-          "size_bytes": 1377330948,
-          "sha256": "e3bc838857703128028e660cfac66cb94a68e5f8a25c66239007e2b976568c97"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-armorpk-2.0.0/ArmorPK-v2.0.0-part2.zip",
+          "zip_name": "ArmorPK-v2.0.0-part2.zip",
+          "size_bytes": 1485348681,
+          "sha256": "466e97f93b1000da2b8074ca244f1ebf8f5c0764448a8b74d1f15f875813f266"
         }
       ],
-      "updated_at": "2026-07-27"
+      "updated_at": "2026-07-31"
     },
     {
       "id": "AuthenticZBackpacks+",
