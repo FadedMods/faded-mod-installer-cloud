@@ -231,6 +231,18 @@
       "updated_at": "2026-07-30"
     },
     {
+      "id": "FadedArsenalDeadCountyMunitions",
+      "server_mod_id": "FadedArsenalDeadCountyMunitions",
+      "name": "Faded Arsenal: Dead County Munitions",
+      "version": "1.0.0",
+      "description": "Adds a full arsenal of firearms, melee weapons, explosives, ammunition, attachments, storage containers, and armory support assets for Project Zomboid Build 42.20. DeadCode Weapons Framework integration is optional.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-faded-arsenal/FadedArsenalDeadCountyMunitions-v1.0.0.zip",
+      "zip_name": "FadedArsenalDeadCountyMunitions-v1.0.0.zip",
+      "size_bytes": 92361662,
+      "sha256": "028bb8c65006784b5ce98e896dabc9d0536f06582d3d0d9608fd65bdcf3b320a",
+      "updated_at": "2026-07-31"
+    },
+    {
       "id": "FadedOriginsOccupationsTraits",
       "server_mod_id": "FadedOriginsOccupationsTraits",
       "name": "Faded Origins - Occupations & Traits",
