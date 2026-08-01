@@ -258,13 +258,13 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "2.0.0",
-      "description": "FAM 2.0.0 for Build 42.20: server-authoritative advanced medicine, field surgery, prosthetics, digestive care, pathology, virology, and a responsive three-window green triage workspace.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-locomotion-skies-medical/FadedAdvancedMedical-v2.0.0.zip",
-      "zip_name": "FadedAdvancedMedical-v2.0.0.zip",
-      "size_bytes": 33005776,
-      "sha256": "81301a049c2a3c167422c81098c05d9569203dba4d41295d09a408ae82f30c4e",
-      "updated_at": "2026-07-31"
+      "version": "2.0.1",
+      "description": "FAM 2.0.1 for Build 42.20: fixes the screen-button OnTick player-index crash while preserving server-authoritative medicine, split-screen support, CSR docking, saved positioning, and the responsive triage workspace.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fam-screen-button-hotfix/FadedAdvancedMedical-v2.0.1.zip",
+      "zip_name": "FadedAdvancedMedical-v2.0.1.zip",
+      "size_bytes": 33009090,
+      "sha256": "355659aaf7f821cb3bb11d35a352171a54366f19e467f1185fded8e3390e2998",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedAfflictions",
