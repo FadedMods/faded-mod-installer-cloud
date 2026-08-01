@@ -415,13 +415,13 @@
       "id": "FadedsLastChance",
       "server_mod_id": "FadedsLastChance",
       "name": "Faded's Last Chance",
-      "version": "0.2.0",
-      "description": "Server-authoritative Build 42.19 life-save charges with defibrillator self-revive.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-23-last-chance-advanced-medical/FadedsLastChance-v0.2.0.zip",
-      "zip_name": "FadedsLastChance-v0.2.0.zip",
-      "size_bytes": 14360006,
-      "sha256": "66c49db2aeccab26a686349378c420e81dcd74e12f41712c988c0e43fb58fdd9",
-      "updated_at": "2026-07-23"
+      "version": "0.3.0",
+      "description": "Server-authoritative Build 42.20 life-save charges with defibrillator self-revive.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fadeds-last-chance-0.3.0/FadedsLastChance-v0.3.0.zip",
+      "zip_name": "FadedsLastChance-v0.3.0.zip",
+      "size_bytes": 14361692,
+      "sha256": "17398f965f46032874c045fa15fcc70ad9920d89e398575ae23d7a098fd09ed2",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedsLegacyCodex",
