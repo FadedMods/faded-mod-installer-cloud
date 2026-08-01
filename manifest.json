@@ -427,12 +427,13 @@
       "id": "FadedsLegacyCodex",
       "server_mod_id": "FadedsLegacyCodex",
       "name": "Faded's Legacy Codex",
-      "version": "42",
+      "version": "1.0.0",
       "description": "Preserve hard-earned survival knowledge in physical Codexes and Compendiums for Build 42. Copyright (c) 2026 Faded. All rights reserved; do not copy, reuse, redistribute, or modify this mod's code without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedsLegacyCodex-v42.zip",
-      "zip_name": "FadedsLegacyCodex-v42.zip",
-      "size_bytes": 177807,
-      "sha256": "5c704f95f89cabd638aaaf225df0fbc0b5d24d0a821884d0ff7e029e36500b60"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fadeds-legacy-codex-1.0.0/FadedsLegacyCodex-v1.0.0.zip",
+      "zip_name": "FadedsLegacyCodex-v1.0.0.zip",
+      "size_bytes": 178897,
+      "sha256": "81e3badef4eaef5eeb4a4f040eaa6511c4bdc4dd668763baed5c169b33c4c8d5",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedsRideOrRot",
