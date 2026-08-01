@@ -236,12 +236,12 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "2.0.1",
-      "description": "FAM 2.0.1 for Build 42.20: fixes the screen-button OnTick player-index crash while preserving server-authoritative medicine, split-screen support, CSR docking, saved positioning, and the responsive triage workspace.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fam-screen-button-hotfix/FadedAdvancedMedical-v2.0.1.zip",
-      "zip_name": "FadedAdvancedMedical-v2.0.1.zip",
-      "size_bytes": 33009090,
-      "sha256": "355659aaf7f821cb3bb11d35a352171a54366f19e467f1185fded8e3390e2998",
+      "version": "2.0.2",
+      "description": "FAM 2.0.2 for Build 42.20: fixes the right-side triage layout scaling crash and keeps the pulse, body-map outlines, native body figure, and selected-part text within their available bounds.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fam-2.0.2-triage-layout/FadedAdvancedMedical-v2.0.2.zip",
+      "zip_name": "FadedAdvancedMedical-v2.0.2.zip",
+      "size_bytes": 33009256,
+      "sha256": "e5a5a473a22fd88193f7c65d607399aae51ba2bb24bbf0cbf4937f2f146a3355",
       "updated_at": "2026-08-01"
     },
     {
