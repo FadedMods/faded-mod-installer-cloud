@@ -305,12 +305,13 @@
       "id": "FadedFarmingFishingReborn",
       "server_mod_id": "FadedFarmingFishingReborn",
       "name": "Faded Farming & Fishing Reborn",
-      "version": "0.1.0-b42.19",
-      "description": "Build 42.19 farming and fishing hub. First playable includes the GUI, sandbox options, CSR-safe detection, and server-authoritative command rails.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFarmingFishingReborn-v0.1.0-b42.19.zip",
-      "zip_name": "FadedFarmingFishingReborn-v0.1.0-b42.19.zip",
-      "size_bytes": 46406229,
-      "sha256": "849bef93d356e0a19a53af3cd30529001b727ab3f2ecc42eaa984af24f62907b"
+      "version": "0.2.0-b42.20",
+      "description": "Build 42.20 self-contained farming and fishing hub with integrated, namespaced farm-vehicle compatibility and server-authoritative command rails.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fff-b42.20/FadedFarmingFishingReborn-v0.2.0-b42.20.zip",
+      "zip_name": "FadedFarmingFishingReborn-v0.2.0-b42.20.zip",
+      "size_bytes": 46475825,
+      "sha256": "a95d6f1103eb740d58d35fac9327d33ff49d82a13891c22aae011854e4bea8a7",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedFeastcraft",
