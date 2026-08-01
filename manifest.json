@@ -1093,13 +1093,13 @@
       "id": "ForMyFurries",
       "server_mod_id": "ForMyFurries",
       "name": "For My Furries",
-      "version": "1.1.0",
-      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, and animation collection for Project Zomboid Build 42.20. Version 1.1.0.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-furries-building-knoxnetos/ForMyFurries-v1.1.0.zip",
-      "zip_name": "ForMyFurries-v1.1.0.zip",
-      "size_bytes": 533721826,
-      "sha256": "5c9bd23e7506583cffc339d5692a78c266a878994bb3fbeb2a7cd1ccc80ddede",
-      "updated_at": "2026-07-30"
+      "version": "1.1.1",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, and animation collection for Project Zomboid Build 42.20. Version 1.1.1.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-for-my-furries-1-1-1/ForMyFurries-v1.1.1.zip",
+      "zip_name": "ForMyFurries-v1.1.1.zip",
+      "size_bytes": 533722853,
+      "sha256": "1740aaacdafb231c8fbf357ca3dec11850d6a92cc996efe1aa78e3f06ae8e669",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "WhimsyWeapons",
