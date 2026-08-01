@@ -1119,11 +1119,11 @@
       "name": "Faded Locomotion",
       "version": "0.9.4",
       "description": "A comprehensive Build 42 rail system with multiple trains, detachable rolling stock, bidirectional routes, multiplayer track authority, claims integration, and RV-compatible passenger cars.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-locomotion-skies-medical/FadedLocomotion-v0.9.4.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faded-locomotion-rvbridge-sync/FadedLocomotion-v0.9.4.zip",
       "zip_name": "FadedLocomotion-v0.9.4.zip",
-      "size_bytes": 29321997,
-      "sha256": "be5fb1a3e9d7c6bdfb58cef03fed6b4932854d92101355dfcb5ba92d307b0189",
-      "updated_at": "2026-07-31"
+      "size_bytes": 29322408,
+      "sha256": "5a1fdbb344bf81fe1a24512b6fc9c99dbb9501f914df58cfb563fa9b2849954f",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedSkies",
