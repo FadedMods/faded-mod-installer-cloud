@@ -113,17 +113,6 @@
       "updated_at": "2026-07-31"
     },
     {
-      "id": "AuthenticZBackpacks+",
-      "server_mod_id": "AuthenticZBackpacks+",
-      "name": "Authentic Z - Backpacks+",
-      "version": "42",
-      "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/AuthenticZBackpacks-v42.zip",
-      "zip_name": "AuthenticZBackpacks-v42.zip",
-      "size_bytes": 85387239,
-      "sha256": "62104e4218e52b17b3cdb3e67b1b6b7a1746001b12171763417d8d8f8281405a"
-    },
-    {
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
@@ -134,17 +123,6 @@
       "size_bytes": 390583175,
       "sha256": "a820471a487783196252a32e813b45a769a1559157b587e6572e64394c3de2ad",
       "updated_at": "2026-07-30"
-    },
-    {
-      "id": "AuthenticZLite",
-      "server_mod_id": "AuthenticZLite",
-      "name": "Authentic Z - Lite",
-      "version": "42",
-      "description": "Geared Zombies",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/AuthenticZLite-v42.zip",
-      "zip_name": "AuthenticZLite-v42.zip",
-      "size_bytes": 308669990,
-      "sha256": "bbff1ec931c2c0bd11544e6f62a81384c2acc136f4ca1e0f3cc75633cda5825e"
     },
     {
       "id": "BlanketsFade",
