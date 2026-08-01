@@ -1047,13 +1047,13 @@
       "id": "RVsReborn",
       "server_mod_id": "RVsReborn",
       "name": "RVsReborn",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "description": "A cohesive Build 42.20 RV and Faded Locomotion interior, utility, safety, dashboard, compatibility, and administration system.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-31-rvs-reborn-0.2.3/RVsReborn-v0.2.3.zip",
-      "zip_name": "RVsReborn-v0.2.3.zip",
-      "size_bytes": 9811426,
-      "sha256": "dc02c26ca532f1ac8eab7041121b27f1009d1119720586c84756dddf6529dbdd",
-      "updated_at": "2026-07-31"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-rvs-reborn-0.2.4/RVsReborn-v0.2.4.zip",
+      "zip_name": "RVsReborn-v0.2.4.zip",
+      "size_bytes": 9811429,
+      "sha256": "786466601838ee032f1ef239cd2b097a53892f5055b5a9d197d9ad13d1559013",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "ForMyFurries",
