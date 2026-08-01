@@ -1102,6 +1102,18 @@
       "size_bytes": 11586696,
       "sha256": "fad97a03a4e5daac791a32cf363143ab816f37ec241ea804cdf496dacb1c9d69",
       "updated_at": "2026-07-31"
+    },
+    {
+      "id": "FadedMoreVarietyLoot",
+      "server_mod_id": "FadedMoreVarietyLoot",
+      "name": "Faded More Variety Loot",
+      "version": "1.0.0",
+      "description": "Build 42.20 zombie-loot variety rebuilt for FadedMods. Configure the loot-rate multiplier in Sandbox Settings.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faded-more-variety-loot-v1-0-0/FadedMoreVarietyLoot-v1.0.0.zip",
+      "zip_name": "FadedMoreVarietyLoot-v1.0.0.zip",
+      "size_bytes": 870231,
+      "sha256": "3e6121ea5a141ca66f9aeef5b012c6d0aae39907e58a3b74a4730105baadaa7c",
+      "updated_at": "2026-08-01"
     }
   ]
 }
