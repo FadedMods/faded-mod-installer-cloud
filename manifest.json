@@ -1059,12 +1059,12 @@
       "id": "ForMyFurries",
       "server_mod_id": "ForMyFurries",
       "name": "For My Furries",
-      "version": "1.1.1",
-      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, and animation collection for Project Zomboid Build 42.20. Version 1.1.1.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-for-my-furries-1-1-1/ForMyFurries-v1.1.1.zip",
-      "zip_name": "ForMyFurries-v1.1.1.zip",
-      "size_bytes": 533722853,
-      "sha256": "1740aaacdafb231c8fbf357ca3dec11850d6a92cc996efe1aa78e3f06ae8e669",
+      "version": "1.1.2",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, and animation collection for Project Zomboid Build 42.20. Version 1.1.2.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-for-my-furries-1-1-2-clothing-fix/ForMyFurries-v1.1.2.zip",
+      "zip_name": "ForMyFurries-v1.1.2.zip",
+      "size_bytes": 533726534,
+      "sha256": "4536f98cf9a0a5fc8684694530920810dec9eb417ae8bef9461ee747a4855369",
       "updated_at": "2026-08-01"
     },
     {
