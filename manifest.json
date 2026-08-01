@@ -174,25 +174,25 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.8.44",
+      "version": "1.8.45",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-gps-water-updates/CommonSenseReborn-v1.8.44.zip",
-      "zip_name": "CommonSenseReborn-v1.8.44.zip",
-      "size_bytes": 19864677,
-      "sha256": "de938a3bbbf7cc8ce9077f6cb83c4de213f02ec65b4fa118a7065d756b2514a2",
-      "updated_at": "2026-07-30"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/CommonSenseReborn-v1.8.45.zip",
+      "zip_name": "CommonSenseReborn-v1.8.45.zip",
+      "size_bytes": 19864922,
+      "sha256": "5b90308fd1738d91570397b02f827cd4c8e49d6c0a412eac1517f5c7065a52df",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.8.45",
+      "version": "1.8.46",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 360 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-gps-water-updates/CommonSenseRebornTest-v1.8.45.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.45.zip",
-      "size_bytes": 25193368,
-      "sha256": "ab23a237f4e9b60d68085f0f06b7ff0a8b3979e0280037f3905abae937ee6625",
-      "updated_at": "2026-07-30"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/CommonSenseRebornTest-v1.8.46.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.46.zip",
+      "size_bytes": 25193613,
+      "sha256": "086a0713930cbdffb37dc89ebc35c9005d7a959bd62fd483fab0d14ad34bafd0",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -525,38 +525,26 @@
       "updated_at": "2026-06-23"
     },
     {
-      "id": "FWP",
-      "server_mod_id": "FWP",
+      "id": "FadedsWeaponPack",
+      "server_mod_id": "FadedsWeaponPack",
       "name": "Faded's Weapon Pack",
-      "version": "42.19.20260718.1",
-      "description": "Disclaimer - Faded's Weapons Pack. Standalone private/community-use Build 42.19 mod; source packs are reference-only.",
+      "version": "42.20.20260731.2",
+      "description": "Faded's Weapon Pack for Project Zomboid Build 42.20. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-18-fwp/FWP-v42.19.20260718.1-part1.zip",
-          "zip_name": "FWP-v42.19.20260718.1-part1.zip",
-          "size_bytes": 268001930,
-          "sha256": "e50286a283947b9321c97a9eb4c7fc8b80fa7631832654bdc6d8aa44ac56877c"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/FadedsWeaponPack-v42.20.20260731.2-part1.zip",
+          "zip_name": "FadedsWeaponPack-v42.20.20260731.2-part1.zip",
+          "size_bytes": 1111759756,
+          "sha256": "7dfa688e242c6c7500105339165ba67f5b5ee7a1c6268533f78874cc93809279"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-18-fwp/FWP-v42.19.20260718.1-part2.zip",
-          "zip_name": "FWP-v42.19.20260718.1-part2.zip",
-          "size_bytes": 231954251,
-          "sha256": "22606b4fddc1c5d42727458ddcbd86d94635c7ad798e43d50b020b432b8f85a3"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-18-fwp/FWP-v42.19.20260718.1-part3.zip",
-          "zip_name": "FWP-v42.19.20260718.1-part3.zip",
-          "size_bytes": 1532043391,
-          "sha256": "07a81467fd05210ab9098d54fe09de32e5d897ebd4549585b820cdbc5cd1f0f4"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-18-fwp/FWP-v42.19.20260718.1-part4.zip",
-          "zip_name": "FWP-v42.19.20260718.1-part4.zip",
-          "size_bytes": 154143891,
-          "sha256": "349bdc48d7e45ce8a34616c94b448fa1741327e76c0d2627e14f224cc0f37efd"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/FadedsWeaponPack-v42.20.20260731.2-part2.zip",
+          "zip_name": "FadedsWeaponPack-v42.20.20260731.2-part2.zip",
+          "size_bytes": 26955577,
+          "sha256": "9f57a28ae7b005be2a768903835a4232c0057f74ce9e030a112f6c01c1a35927"
         }
       ],
-      "updated_at": "2026-07-18"
+      "updated_at": "2026-08-01"
     },
     {
       "id": "Hydrocraft",
@@ -679,24 +667,24 @@
     {
       "id": "LifestyleHobbies",
       "server_mod_id": "LifestyleHobbies",
-      "name": "Lifestyle: Hobbies (All-in-One B42.19)",
-      "version": "0.4.0-allinone.2",
+      "name": "Lifestyle: Hobbies (All-in-One B42.20)",
+      "version": "0.4.0-allinone.3",
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/LifestyleHobbies-v0.4.0-allinone.2-part1.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.2-part1.zip",
-          "size_bytes": 1744748583,
-          "sha256": "bdcfd7b5f020dd84fd0c336d461db4f4bc9123304f314da62d4d4d3d4f698472"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/LifestyleHobbies-v0.4.0-allinone.3-part1.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.3-part1.zip",
+          "size_bytes": 1744751229,
+          "sha256": "64a6f273cedca99c2567069f0dec34a0bc99a2c91391083c8ef1189c8e20943e"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-mod-batch/LifestyleHobbies-v0.4.0-allinone.2-part2.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.2-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/LifestyleHobbies-v0.4.0-allinone.3-part2.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.3-part2.zip",
           "size_bytes": 473552455,
           "sha256": "6345399fd3d7ff79ae0cfae5c3efe4553d5bab10d48dac4464563cd126f36466"
         }
       ],
-      "updated_at": "2026-07-26"
+      "updated_at": "2026-08-01"
     },
     {
       "id": "LogStackDictStub",
@@ -961,13 +949,13 @@
       "id": "WaterExpanded",
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, sprinklers, storage, fixtures, gas stations and generators without a bridge hub. Includes gutters, tanks, collectors, purification, drip irrigation, physical petrol routing, a public third-party physical-container API, a plumbing overlay and an optional KnoxNet OS control-station bridge.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-csr-gps-water-updates/WaterExpanded-v2.2.0.zip",
-      "zip_name": "WaterExpanded-v2.2.0.zip",
-      "size_bytes": 536571154,
-      "sha256": "9bb2183306611a105edf991eb2081f1070bdc57ce2af2c54a3acb200df5e8be3",
-      "updated_at": "2026-07-30"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-fwp-csr-water-lifestyle/WaterExpanded-v2.2.1.zip",
+      "zip_name": "WaterExpanded-v2.2.1.zip",
+      "size_bytes": 536571414,
+      "sha256": "eae24717291044b12f37d2de3366c053b8541e55cef16586160294dad159cd1c",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "WaterFaded",
