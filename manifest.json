@@ -813,13 +813,13 @@
       "id": "SpongiesFadedClothing_B42Port",
       "server_mod_id": "SpongiesFadedClothing_B42Port",
       "name": "Spongie's Clothing [B42 Port]",
-      "version": "21.42.19.0",
-      "description": "Build 42 compatibility port of Spongie's Clothing. Original mod by Spongie; port prepared by Faded with permission/request from the original developer.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
-      "zip_name": "SpongiesFadedClothing_B42Port-v21.42.19.0.zip",
-      "size_bytes": 4293629,
-      "sha256": "ec3145ab75d5bad48857ecf82cc49eca13b403bd15203105a2f5a0addb7b59d4",
-      "updated_at": "2026-07-01"
+      "version": "21.42.20.0",
+      "description": "Build 42.20 compatibility port of Spongie's Clothing. Original mod by Spongie; port prepared by Faded with permission/request from the original developer.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-spongies-faded-clothing-b4220/SpongiesFadedClothing_B42Port-v21.42.20.0.zip",
+      "zip_name": "SpongiesFadedClothing_B42Port-v21.42.20.0.zip",
+      "size_bytes": 4293634,
+      "sha256": "dcbfa95912d6de85e3e8debdfb4c950557d5c6b2abb1ffacda9e2d99ae4f63ca",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "SpnOpenCloth",
