@@ -328,16 +328,16 @@
       "updated_at": "2026-06-23"
     },
     {
-      "id": "FadedHumveeM998M2",
-      "server_mod_id": "FadedHumveeM998M2",
-      "name": "Faded Vehicles",
-      "version": "1.1.8",
-      "description": "Independent Build 42 military vehicle pack by Faded. Includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, and MRAP variants.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-26-faded-vehicles-1.1.8/FadedVehicles-v1.1.8-20260726.zip",
-      "zip_name": "FadedVehicles-v1.1.8-20260726.zip",
-      "size_bytes": 85091144,
-      "sha256": "de95cb7b44fc1a5238f48b467a68a8d24464c05f9c30271c2c84165cc7958f71",
-      "updated_at": "2026-07-26"
+      "id": "MilitaryVehiclesReborn",
+      "server_mod_id": "MilitaryVehiclesReborn",
+      "name": "Military Vehicles Reborn",
+      "version": "2.0.0",
+      "description": "Independent Build 42.20 military vehicle pack by Faded. Replaces the retired Faded Vehicles package and includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, MRAP variants, and a military cargo truck.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-military-vehicles-reborn-2.0.0/MilitaryVehiclesReborn-v2.0.0.zip",
+      "zip_name": "MilitaryVehiclesReborn-v2.0.0.zip",
+      "size_bytes": 86070293,
+      "sha256": "5360a6789211b6801551669f900d0376712f4b9d4bcc1910ae46c52f95215ea5",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "FadedNinja",
