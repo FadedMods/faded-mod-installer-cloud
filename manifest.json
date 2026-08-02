@@ -367,13 +367,13 @@
       "id": "FadedHuntersCalling",
       "server_mod_id": "FadedHuntersCalling",
       "name": "Faded's Hunters Calling",
-      "version": "1.0.0",
-      "description": "A clean-room hunter, trapper and bushcraft platform with a leather-and-amber Hunter Hub GUI. Live-capture trapping, field dressing, meat drying, hide curing, timed scent lures, animal tracking (yellow outline), trap board, and server QoL.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedHuntersCalling-v1.0.0.zip",
-      "zip_name": "FadedHuntersCalling-v1.0.0.zip",
-      "size_bytes": 440914,
-      "sha256": "1bdd03cf39e2a275ac09a4a35974b73f1361ca37f2d1a0e19b83b421ca04e977",
-      "updated_at": "2026-06-23"
+      "version": "1.2.0",
+      "description": "A clean-room hunter, trapper and bushcraft platform with a leather-and-amber Hunter Hub GUI for Build 42.20. Live-capture trapping, field dressing, meat drying, hide curing, timed scent lures, animal tracking (yellow outline), trap board, and server QoL.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-fadedhunterscalling/FadedHuntersCalling-v1.2.0.zip",
+      "zip_name": "FadedHuntersCalling-v1.2.0.zip",
+      "size_bytes": 438442,
+      "sha256": "3031f9b9206d1937b2f81b07646e2073d03b2210c8aeea7b502d6ad6f7324d26",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "FadedPacketSavior",
