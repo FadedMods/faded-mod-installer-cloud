@@ -917,12 +917,12 @@
       "id": "WaterExpanded",
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, sprinklers, storage, fixtures, gas stations and generators without a bridge hub. Includes gutters, tanks, collectors, purification, drip irrigation, physical petrol routing, a public third-party physical-container API, a plumbing overlay and an optional KnoxNet OS control-station bridge.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-water-expanded/WaterExpanded-v2.2.2.zip",
-      "zip_name": "WaterExpanded-v2.2.2.zip",
-      "size_bytes": 536572533,
-      "sha256": "5d8ecf0ce6cb944ec2ca2da664860a083901f080170f4b3e10d40328d36d5bcb",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-water-expanded-2.2.3/WaterExpanded-v2.2.3.zip",
+      "zip_name": "WaterExpanded-v2.2.3.zip",
+      "size_bytes": 536574444,
+      "sha256": "2dad38fb802dddc3a0bdb79e9356118dd613934b9edb241e5d0388c6613c3a2d",
       "updated_at": "2026-08-02"
     },
     {
