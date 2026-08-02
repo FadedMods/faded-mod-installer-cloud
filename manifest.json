@@ -1127,18 +1127,6 @@
       "size_bytes": 193701,
       "sha256": "b0b014ef406aec3217693b614e0a4c3c61800654fc1ecc5d94e44c0c97b2f6e1",
       "updated_at": "2026-08-02"
-    },
-    {
-      "id": "FadedAuthenticZClothingCompat",
-      "server_mod_id": "FadedAuthenticZClothingCompat",
-      "name": "Faded Authentic Z B42.20 Clothing Compatibility",
-      "version": "1.0.0",
-      "description": "Selective Build 42.20 BloodClothingType and repair compatibility for Authentic Z. Corrects eleven verified garments without making accessories, bags, body overlays, or damage overlays repairable.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faded-authentic-z-clothing-compat/FadedAuthenticZClothingCompat-v1.0.0.zip",
-      "zip_name": "FadedAuthenticZClothingCompat-v1.0.0.zip",
-      "size_bytes": 17433,
-      "sha256": "2234aba37d0ce5a74b0cec638c5d526f39ab2a849f28d7c13f9f82789877c82c",
-      "updated_at": "2026-08-01"
     }
   ]
 }
