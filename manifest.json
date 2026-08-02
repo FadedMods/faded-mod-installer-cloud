@@ -652,16 +652,16 @@
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-allinone-4/LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-allinone-4-fix/LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
           "size_bytes": 1744752497,
-          "sha256": "8f174a6640e52600b88b97758caf0ad517bfb40b4c9a7b6444966df659f9f046"
+          "sha256": "1af8a59ffa73f695d4e49ecdf328ca9c8c3302765a13ec8a2403978b42169751"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-allinone-4/LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-allinone-4-fix/LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
-          "size_bytes": 473554687,
-          "sha256": "87377760d2f3208a7d15013633d39efa0265453fb98177d251202836995741d7"
+          "size_bytes": 473552455,
+          "sha256": "6345399fd3d7ff79ae0cfae5c3efe4553d5bab10d48dac4464563cd126f36466"
         }
       ],
       "updated_at": "2026-08-02"
