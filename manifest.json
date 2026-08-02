@@ -140,13 +140,13 @@
       "id": "BuildcraftReborn",
       "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
-      "version": "0.2.3",
-      "description": "Build 42.19-ready unified Make / Build UI. Single ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon, CSR-safe containers. Vanilla logic only.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-13-buildcraftreborn/BuildcraftReborn-v0.2.3.zip",
-      "zip_name": "BuildcraftReborn-v0.2.3.zip",
-      "size_bytes": 977735,
-      "sha256": "ae07e77a45417ee83e8758a8f170eca31ac6d9726917792d242ffcf3cc3e9394",
-      "updated_at": "2026-07-13"
+      "version": "0.3.0",
+      "description": "Build 42.20 unified Make / Build UI. ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon that follows ClearView auto-hide, CSR-safe containers. Vanilla logic only.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-buildcraft-reborn-0.3.0/BuildcraftReborn-v0.3.0.zip",
+      "zip_name": "BuildcraftReborn-v0.3.0.zip",
+      "size_bytes": 980907,
+      "sha256": "0733ffc3883577ee1e0cf7385102d050a75fae569c612e04a984d0cf5dd2206e",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "CommonSenseReborn",
@@ -367,12 +367,12 @@
       "id": "FadedHuntersCalling",
       "server_mod_id": "FadedHuntersCalling",
       "name": "Faded's Hunters Calling",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "A clean-room hunter, trapper and bushcraft platform with a leather-and-amber Hunter Hub GUI for Build 42.20. Live-capture trapping, field dressing, meat drying, hide curing, timed scent lures, animal tracking (yellow outline), trap board, and server QoL.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-fadedhunterscalling-1.2.1/FadedHuntersCalling-v1.2.1.zip",
-      "zip_name": "FadedHuntersCalling-v1.2.1.zip",
-      "size_bytes": 438949,
-      "sha256": "5bdb98ca197fb879d546f0d56a087dbe2692804edcc389f8668e1715b108febc",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-fadedhunterscalling-1.2.2/FadedHuntersCalling-v1.2.2.zip",
+      "zip_name": "FadedHuntersCalling-v1.2.2.zip",
+      "size_bytes": 439004,
+      "sha256": "407e308fdc4761ce3b2c5de05da947a5b72cd76bc7247e956e6103b99b6d3e54",
       "updated_at": "2026-08-02"
     },
     {
@@ -652,13 +652,13 @@
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-allinone-4-fix/LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-installable/LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.4-part1.zip",
-          "size_bytes": 1744752497,
-          "sha256": "1af8a59ffa73f695d4e49ecdf328ca9c8c3302765a13ec8a2403978b42169751"
+          "size_bytes": 1744752491,
+          "sha256": "a149e7fddacb6a0ac039ee5568c46b96cce0c299e558722106cad09a3526af24"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-allinone-4-fix/LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-lifestyle-hobbies-installable/LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.4-part2.zip",
           "size_bytes": 473552455,
           "sha256": "6345399fd3d7ff79ae0cfae5c3efe4553d5bab10d48dac4464563cd126f36466"
