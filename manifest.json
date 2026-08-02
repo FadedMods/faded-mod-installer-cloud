@@ -672,10 +672,10 @@
       "name": "Massive Vehicle Pack",
       "version": "0.3.1",
       "description": "Standalone vehicle-only integration pack. All imported content is isolated under the MVP namespace.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-massive-vehicle-pack-0.3.1/MassiveVehiclePack-v0.3.1.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-massive-vehicle-pack-v0.3.1/MassiveVehiclePack-v0.3.1.zip",
       "zip_name": "MassiveVehiclePack-v0.3.1.zip",
       "size_bytes": 425780056,
-      "sha256": "a57f73a0fb07e6c9236d5715c3cb89b7dbc22fcdb71796fb383218232e380d3c",
+      "sha256": "4a1d1a79640df451cec66669690ace0e7638e676f7d8004a2fc5bb689fda8364",
       "updated_at": "2026-08-01"
     },
     {
