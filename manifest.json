@@ -1072,13 +1072,13 @@
       "id": "WhimsyWeapons",
       "server_mod_id": "WhimsyWeapons",
       "name": "Whimsy Weapons",
-      "version": "0.3.1",
-      "description": "Five fantastical melee weapons with custom models, textures, icons, and rare world spawns.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-whimsy-weapons-0.3.1/WhimsyWeapons-v0.3.1.zip",
-      "zip_name": "WhimsyWeapons-v0.3.1.zip",
-      "size_bytes": 17276969,
-      "sha256": "1afeb7317bf81a390b9745d886b9b4b6f0c54e42ac928fee97d8f41bcde30d20",
-      "updated_at": "2026-07-28"
+      "version": "0.3.2",
+      "description": "Five fantastical melee weapons with custom models, textures, icons, and rare world spawns for Project Zomboid Build 42.20.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-whimsy-weapons-0.3.2/WhimsyWeapons-v0.3.2.zip",
+      "zip_name": "WhimsyWeapons-v0.3.2.zip",
+      "size_bytes": 17397035,
+      "sha256": "59458566b11974dc638f3f18b206bf03f32214a20d96646c02f87edf449f9c69",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "FadedLocomotion",
