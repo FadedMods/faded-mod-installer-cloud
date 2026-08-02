@@ -801,13 +801,13 @@
       "id": "SimpleOverhaulTraitsAndOccupations",
       "server_mod_id": "SimpleOverhaulTraitsAndOccupations",
       "name": "Simple Overhaul: Traits and Occupations (SOTO)",
-      "version": "1",
-      "description": "This global mod changes traits and occupations from vanilla game, also adds new ones.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SimpleOverhaulTraitsAndOccupations-v1.zip",
-      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.zip",
-      "size_bytes": 457204,
-      "sha256": "37caa2b972745a03486be3eceb4b6de99a5966a859e5df126fb393633ae67f60",
-      "updated_at": "2026-06-23"
+      "version": "1.0.0",
+      "description": "B42.20 multiplayer-first overhaul of vanilla and custom traits and occupations, with server-authoritative progression, full localization, and polished Faded visuals.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-soto-b42.20/SimpleOverhaulTraitsAndOccupations-v1.0.0.zip",
+      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.0.zip",
+      "size_bytes": 2543345,
+      "sha256": "5347d08d26c96c0d8950fc70ac9f93850a20cf9a0fd55fbe9035dbd2e78509d4",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "SpongiesFadedClothing_B42Port",
