@@ -801,12 +801,12 @@
       "id": "SimpleOverhaulTraitsAndOccupations",
       "server_mod_id": "SimpleOverhaulTraitsAndOccupations",
       "name": "Simple Overhaul: Traits and Occupations (SOTO)",
-      "version": "1.0.0",
-      "description": "B42.20 multiplayer-first overhaul of vanilla and custom traits and occupations, with server-authoritative progression, full localization, and polished Faded visuals.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-soto-b42.20/SimpleOverhaulTraitsAndOccupations-v1.0.0.zip",
-      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.0.zip",
-      "size_bytes": 2543345,
-      "sha256": "5347d08d26c96c0d8950fc70ac9f93850a20cf9a0fd55fbe9035dbd2e78509d4",
+      "version": "1.0.1",
+      "description": "B42.20 multiplayer-first overhaul of vanilla and custom traits and occupations, with server-authoritative progression, full localization, polished vanilla-style gameplay icons, and Faded branding.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-soto-b42.20-vanilla-icons/SimpleOverhaulTraitsAndOccupations-v1.0.1.zip",
+      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.1.zip",
+      "size_bytes": 2495727,
+      "sha256": "f11b06d2d3df03495b687b968c0b586c0de17573a631c45e27353734c1a7bef3",
       "updated_at": "2026-08-02"
     },
     {
