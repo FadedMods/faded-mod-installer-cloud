@@ -116,13 +116,13 @@
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
-      "version": "42.20.0",
-      "description": "SAFE TO ADD MID GAME",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-30-authentic-z-clearview-b42.20/Authentic-Z-Current-v42.20.0.zip",
-      "zip_name": "Authentic-Z-Current-v42.20.0.zip",
-      "size_bytes": 390583175,
-      "sha256": "a820471a487783196252a32e813b45a769a1559157b587e6572e64394c3de2ad",
-      "updated_at": "2026-07-30"
+      "version": "42.20.1",
+      "description": "Complete consolidated Authentic Z for Build 42.20. Includes the native clothing blood and repair metadata fix; no compatibility mod is required.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-authentic-z-complete-42.20.1/Authentic-Z-Complete-v42.20.1.zip",
+      "zip_name": "Authentic-Z-Complete-v42.20.1.zip",
+      "size_bytes": 390360612,
+      "sha256": "65f92ed9717e0ddb0e490a3e7d28881b12bce529f08d713e0377a10aa0c7a92d",
+      "updated_at": "2026-08-02"
     },
     {
       "id": "BlanketsFade",
@@ -1114,18 +1114,6 @@
       "zip_name": "FadedMoreVarietyLoot-v1.0.0.zip",
       "size_bytes": 870231,
       "sha256": "3e6121ea5a141ca66f9aeef5b012c6d0aae39907e58a3b74a4730105baadaa7c",
-      "updated_at": "2026-08-01"
-    },
-    {
-      "id": "FadedAuthenticZClothingCompat",
-      "server_mod_id": "FadedAuthenticZClothingCompat",
-      "name": "Faded Authentic Z B42.20 Clothing Compatibility",
-      "version": "1.0.0",
-      "description": "Selective Build 42.20 BloodClothingType and repair compatibility for Authentic Z. Corrects eleven verified garments without making accessories, bags, body overlays, or damage overlays repairable.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faded-authentic-z-clothing-compat/FadedAuthenticZClothingCompat-v1.0.0.zip",
-      "zip_name": "FadedAuthenticZClothingCompat-v1.0.0.zip",
-      "size_bytes": 17433,
-      "sha256": "2234aba37d0ce5a74b0cec638c5d526f39ab2a849f28d7c13f9f82789877c82c",
       "updated_at": "2026-08-01"
     }
   ]
