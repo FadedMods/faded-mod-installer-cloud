@@ -496,13 +496,13 @@
       "id": "FaithsTraditions",
       "server_mod_id": "FaithsTraditions",
       "name": "Faiths & Traditions: Miracles of the End",
-      "version": "1",
+      "version": "1.1.0",
       "description": "Adds belief traits, faith books, progression, rituals, server-owned ultimate miracles, Bound Dead, Dead Veil, and a faith status panel.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FaithsTraditions-v1.zip",
-      "zip_name": "FaithsTraditions-v1.zip",
-      "size_bytes": 519097,
-      "sha256": "4b076c873ef3760a8c9530dd047c55a9e7bd5120a4436debb3c352867a6aed45",
-      "updated_at": "2026-06-23"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faiths-traditions-1.1.0/FaithsTraditions-v1.1.0.zip",
+      "zip_name": "FaithsTraditions-v1.1.0.zip",
+      "size_bytes": 525743,
+      "sha256": "dce58824f854522be99e344a287b5e31d04bd4927add1da77967984ad278eb23",
+      "updated_at": "2026-08-01"
     },
     {
       "id": "FadedsWeaponPack",
