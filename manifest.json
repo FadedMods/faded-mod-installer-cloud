@@ -1115,6 +1115,18 @@
       "size_bytes": 870231,
       "sha256": "3e6121ea5a141ca66f9aeef5b012c6d0aae39907e58a3b74a4730105baadaa7c",
       "updated_at": "2026-08-01"
+    },
+    {
+      "id": "DebugMeNot",
+      "server_mod_id": "DebugMeNot",
+      "name": "Debug Me Not",
+      "version": "1.0.0",
+      "description": "Build 42.20 client UI utility that hides debug context-menu clutter and optionally suppresses the build watermark. Sandbox controls replace the original split-mod paths. Toggle at runtime with F10.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-debugmenot/DebugMeNot-v1.0.0.zip",
+      "zip_name": "DebugMeNot-v1.0.0.zip",
+      "size_bytes": 193701,
+      "sha256": "b0b014ef406aec3217693b614e0a4c3c61800654fc1ecc5d94e44c0c97b2f6e1",
+      "updated_at": "2026-08-02"
     }
   ]
 }
