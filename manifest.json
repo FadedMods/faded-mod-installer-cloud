@@ -1128,6 +1128,18 @@
       "size_bytes": 193701,
       "sha256": "b0b014ef406aec3217693b614e0a4c3c61800654fc1ecc5d94e44c0c97b2f6e1",
       "updated_at": "2026-08-02"
+    },
+    {
+      "id": "WhatAWreck",
+      "server_mod_id": "WhatAWreck",
+      "name": "What A Wreck",
+      "version": "1.0.0",
+      "description": "Build 42.20 rebuild of Crashed Cars under the WhatAWreck namespace. Replaces vanilla burnt vehicle spawns with detailed wrecked cars across Knox Country, including B42 map zones. Server-authoritative spawn pools, wrecked part condition, JSON translations. Original wreck content by Snek.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-what-a-wreck-1.0.0/WhatAWreck-v1.0.0.zip",
+      "zip_name": "WhatAWreck-v1.0.0.zip",
+      "size_bytes": 30620911,
+      "sha256": "2b0158bb0469ad74076619944c08105c2a864cdf0773cf5cb1d8f9100a02a878",
+      "updated_at": "2026-08-03"
     }
   ]
 }
