@@ -152,25 +152,25 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.8.50",
+      "version": "1.8.51",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 365 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-farming-csr-updates/CommonSenseReborn-v1.8.50.zip",
-      "zip_name": "CommonSenseReborn-v1.8.50.zip",
-      "size_bytes": 19873290,
-      "sha256": "06c5957dca1b1135a9edd9241358e5696ccef2cb75771a2b77c12920d3b50f24",
-      "updated_at": "2026-08-02"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-common-sense-reborn-patches/CommonSenseReborn-v1.8.51.zip",
+      "zip_name": "CommonSenseReborn-v1.8.51.zip",
+      "size_bytes": 19876657,
+      "sha256": "39e823eb0c712fcef596049c9d10ef96bc2a7cd2a4c418ae1f0a66ecc01061af",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.8.51",
+      "version": "1.8.52",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 365 sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-farming-csr-updates/CommonSenseRebornTest-v1.8.51.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.51.zip",
-      "size_bytes": 25202010,
-      "sha256": "7ab78c9b4449e1b409bcddd92b89630c83650baddc9e82968cab33ff227dc0f1",
-      "updated_at": "2026-08-02"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-common-sense-reborn-patches/CommonSenseRebornTest-v1.8.52.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.52.zip",
+      "size_bytes": 21141701,
+      "sha256": "536aa830702a7c8ee892169a8d9d50e41c5df86adc22759746e241ed4c21ca5f",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "CSRAdminCommandCenter",
