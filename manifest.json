@@ -964,13 +964,13 @@
       "id": "NeverSurviveAlone",
       "server_mod_id": "NeverSurviveAlone",
       "name": "Never Survive Alone",
-      "version": "0.3.1-alpha",
-      "description": "Server-validated, explicit-opt-in adult intimacy interactions for Project Zomboid Build 42.19.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-14-never-survive-alone/NeverSurviveAlone-v0.3.1-alpha.zip",
-      "zip_name": "NeverSurviveAlone-v0.3.1-alpha.zip",
-      "size_bytes": 525995,
-      "sha256": "0797c8b4f6d131330c4b02be1d2cde64ea518f629578af2e98224602645f8220",
-      "updated_at": "2026-07-14"
+      "version": "0.4.0-alpha",
+      "description": "Server-validated, explicit-opt-in adult intimacy interactions for Project Zomboid Build 42.20. MP-ready Afterglow buffs sync with Common Sense Reborn Survivor Bond.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-never-survive-alone-0.4.0-alpha/NeverSurviveAlone-v0.4.0-alpha.zip",
+      "zip_name": "NeverSurviveAlone-v0.4.0-alpha.zip",
+      "size_bytes": 540845,
+      "sha256": "0ed913cd92b09c11707654abc7249f0a44ea8f6fbc28a3457ba84c47f46ed099",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "NeverForget",
