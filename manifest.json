@@ -283,13 +283,13 @@
       "id": "FadedFarmingFishingReborn",
       "server_mod_id": "FadedFarmingFishingReborn",
       "name": "Faded Farming & Fishing Reborn",
-      "version": "0.2.1-b42.20",
+      "version": "0.2.3-b42.20",
       "description": "Build 42.20 self-contained farming and fishing hub with integrated, namespaced farm-vehicle compatibility and server-authoritative command rails.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-02-farming-csr-updates/FadedFarmingFishingReborn-v0.2.1-b42.20.zip",
-      "zip_name": "FadedFarmingFishingReborn-v0.2.1-b42.20.zip",
-      "size_bytes": 46475678,
-      "sha256": "291390911688e7343f9b311d8baa97947ee9d61f50c3874c3a4965b45df910bc",
-      "updated_at": "2026-08-02"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-farming-fishing-reborn-0.2.3/FadedFarmingFishingReborn-v0.2.3-b42.20.zip",
+      "zip_name": "FadedFarmingFishingReborn-v0.2.3-b42.20.zip",
+      "size_bytes": 46479941,
+      "sha256": "ef4d20e5fa7bd269d4a18d9a2ae33e4961cc8f1215c1387aaf0993f3949a4aa0",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "FadedFeastcraft",
