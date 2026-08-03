@@ -1050,10 +1050,10 @@
       "name": "RVsReborn",
       "version": "0.2.5",
       "description": "A cohesive Build 42.20 RV and Faded Locomotion interior, utility, safety, dashboard, compatibility, and administration system.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-rvs-reborn-0.2.5/RVsReborn-v0.2.5.zip",
-      "zip_name": "RVsReborn-v0.2.5.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-rvs-reborn-0.2.5-patch/RVsReborn-v0.2.5-20260803.zip",
+      "zip_name": "RVsReborn-v0.2.5-20260803.zip",
       "size_bytes": 9811429,
-      "sha256": "f04d530bc0672e84c4226306b1149c2cd165adc8cbc20bb116f5313812b8770c",
+      "sha256": "712b93b41b68bbdec61ecd1c995a0f43ff88e653dc5b7f3955dc3ccd33ea49a8",
       "updated_at": "2026-08-03"
     },
     {
