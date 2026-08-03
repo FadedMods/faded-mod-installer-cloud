@@ -940,13 +940,13 @@
       "id": "YearsFaded",
       "server_mod_id": "YearsFaded",
       "name": "Years Faded",
-      "version": "0.30.0",
-      "description": "Years Faded v0.30.0 for Build 42.19: preservation-safe years-later world aging, outdoor growth and debris, overgrown/burnt vehicles, additive vegetation and screamer zombie types, and CSR geometry-safety compatibility. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-15-years-faded/YearsFaded-v0.30.0.zip",
-      "zip_name": "YearsFaded-v0.30.0.zip",
-      "size_bytes": 391262737,
-      "sha256": "7df5509bfb2af5f4e2ec5b92e2e9d80ab58b28423ceb325ffe6166246d47cdcc",
-      "updated_at": "2026-07-15"
+      "version": "0.31.0",
+      "description": "Years Faded v0.31.0 for Build 42.20: preservation-safe years-later world aging with B42.20 outdoor floor/curb overlays, geometry-safe blood and generators, overgrown/burnt vehicles, immersivity, seasonal moods, wind sway, till-burnt-land, additive vegetation/screamer zombies, and CSR geometry-safety compatibility. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-years-faded-0.31.0/YearsFaded-v0.31.0.zip",
+      "zip_name": "YearsFaded-v0.31.0.zip",
+      "size_bytes": 392176795,
+      "sha256": "17083c075b3a15e559733ca9a1c5c7a7093dd6f416fa94080cd54fca9bbf3ad2",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "ThePathLessTraveled",
