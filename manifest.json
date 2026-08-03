@@ -485,12 +485,13 @@
       "id": "FadedVehiclesReborn",
       "server_mod_id": "FadedVehiclesReborn",
       "name": "Faded Vehicles Reborn",
-      "version": "42.18",
-      "description": "Build 42.18 vehicle lifecycle mod with server-authoritative replacement tickets, safe spawn scans, admin controls, and CSR compatibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedVehiclesReborn-v42.18.zip",
-      "zip_name": "FadedVehiclesReborn-v42.18.zip",
-      "size_bytes": 1063282,
-      "sha256": "cc109f3b2524dc3238dc9f497ca8b57e08cbf7a4f91f0c822cc4a4d3af8863ce"
+      "version": "0.2.0-b42.20",
+      "description": "Build 42.20 MP-centric vehicle lifecycle mod with server-authoritative replacement tickets, B42 timed-action complete hooks, safe spawn scans, admin controls, and CSR compatibility.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-vehicles-reborn-0.2.0-b42.20/FadedVehiclesReborn-v0.2.0-b42.20.zip",
+      "zip_name": "FadedVehiclesReborn-v0.2.0-b42.20.zip",
+      "size_bytes": 1056573,
+      "sha256": "f32b94d53894d752c90a728bedd94e6c81ca0ec2e1463dd40fdc48d62f4b3f50",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "FaithsTraditions",
