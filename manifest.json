@@ -1097,12 +1097,12 @@
       "id": "FadedSkies",
       "server_mod_id": "FadedSkies",
       "name": "Faded Skies",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "description": "Standalone Build 42.20 helicopter flight, utility, and combat systems. Includes the FS UH-1B Iroquois utility helicopter and FS AH-64A attack helicopter. Designed for single-player, hosted multiplayer, and dedicated servers with server-authoritative weapons and noise.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-skies-1.0.2/FadedSkies-v1.0.2.zip",
-      "zip_name": "FadedSkies-v1.0.2.zip",
-      "size_bytes": 11589251,
-      "sha256": "b567f9e57c44b95edf1a794c3f2ebfb0428ac956210a98dc2c23099d1fc398f7",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-skies-1.0.4/FadedSkies-v1.0.4.zip",
+      "zip_name": "FadedSkies-v1.0.4.zip",
+      "size_bytes": 11589934,
+      "sha256": "85480ffd31a64a87e6d4f4db8af876a19bed1862f152a9755748de34c8318476",
       "updated_at": "2026-08-03"
     },
     {
