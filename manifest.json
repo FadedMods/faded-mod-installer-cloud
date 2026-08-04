@@ -692,16 +692,16 @@
       "updated_at": "2026-06-21"
     },
     {
-      "id": "NNC42PublicBranch",
-      "server_mod_id": "NNC42PublicBranch",
-      "name": "N&C's Narcotics - B42.19",
-      "version": "1.8.0",
-      "description": "Authorized continuation of N&C's Narcotics for Build 42.19. Save-compatible with NNC42PublicBranch.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-19-nnc42publicbranch/NNC42PublicBranch-v1.8.0.zip",
-      "zip_name": "NNC42PublicBranch-v1.8.0.zip",
-      "size_bytes": 43466493,
-      "sha256": "2fe7bb4d7ece76ce39faec47ec1ce50573a7ea1d5bac560748ba49b1c76e50fd",
-      "updated_at": "2026-07-19"
+      "id": "Just2Faded",
+      "server_mod_id": "Just2Faded",
+      "name": "Just2Faded",
+      "version": "2.1.0",
+      "description": "Just2Faded for Project Zomboid Build 42.20. Full Just2Faded script/Lua/sandbox namespace. Narcotics, crafting, farming, and bundled Just Drugs content.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-just2faded-2.1.0/Just2Faded-v2.1.0.zip",
+      "zip_name": "Just2Faded-v2.1.0.zip",
+      "size_bytes": 43416394,
+      "sha256": "1c23728b8d20e3b3348b2b08486de994c04fd963ba90aa52b722eab9575071c3",
+      "updated_at": "2026-08-04"
     },
     {
       "id": "OnTheMove",
