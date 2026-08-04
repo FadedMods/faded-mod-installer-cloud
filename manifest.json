@@ -907,12 +907,13 @@
       "id": "WaterFaded",
       "server_mod_id": "WaterFaded",
       "name": "Water Faded",
-      "version": "1.0.0",
-      "description": "Clean-room Build 42.19 rebuild of the legacy water mod. Server-authoritative in multiplayer and compatible with single-player.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/WaterFaded-v1.0.0.zip",
-      "zip_name": "WaterFaded-v1.0.0.zip",
-      "size_bytes": 1699134,
-      "sha256": "5293c3e235da301ddf1200e60a37e5358c9eb1287a6909d15797ce761e1942df"
+      "version": "1.1.0",
+      "description": "Clean-room Build 42.20 rebuild of the legacy water mod. Server-authoritative fixture expiration, drainage, and tap filters for plumbed tainted water.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-water-faded-1.1.0/WaterFaded-v1.1.0.zip",
+      "zip_name": "WaterFaded-v1.1.0.zip",
+      "size_bytes": 1353687,
+      "sha256": "0ce7a8ff3caf2e6f3685403d62c5bf3336f763a68940cd783d1a9c68047a44f6",
+      "updated_at": "2026-08-04"
     },
     {
       "id": "YearsFaded",
