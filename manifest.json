@@ -647,13 +647,13 @@
       "id": "MassiveVehiclePack",
       "server_mod_id": "MassiveVehiclePack",
       "name": "Massive Vehicle Pack",
-      "version": "0.3.4",
+      "version": "0.3.6",
       "description": "Standalone Build 42.20 vehicle integration pack with a public MVP API and optional RVsReborn interoperability.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-massive-vehicle-pack-v0.3.4-patch/MassiveVehiclePack-v0.3.4.zip",
-      "zip_name": "MassiveVehiclePack-v0.3.4.zip",
-      "size_bytes": 425907076,
-      "sha256": "361f713f01cebddb774c9abd8a07350747a04273eb1097753ceed6d7c7a2e34d",
-      "updated_at": "2026-08-03"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-massive-vehicle-pack-0.3.6/MassiveVehiclePack-v0.3.6.zip",
+      "zip_name": "MassiveVehiclePack-v0.3.6.zip",
+      "size_bytes": 426087372,
+      "sha256": "f8cda744953d5f33f340fe622de2a221d426af220a4e6a34e86ed2e945ccac26",
+      "updated_at": "2026-08-04"
     },
     {
       "id": "Military_Tool_Kit",
