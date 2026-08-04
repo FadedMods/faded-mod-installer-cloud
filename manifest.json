@@ -307,13 +307,13 @@
       "id": "FadedFieldOperations",
       "server_mod_id": "FadedFieldOperations",
       "name": "Faded Field Operations",
-      "version": "1.1.0",
-      "description": "Survivors NPCs become live quest contacts when present. Standalone mode works without it.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-field-operations-fwp/FadedFieldOperations-v1.1.0.zip",
-      "zip_name": "FadedFieldOperations-v1.1.0.zip",
-      "size_bytes": 2898581,
-      "sha256": "ba78efaff53b42f07fcbfe7184b218e2426fa32c97b193fe90525aa3a897cff1",
-      "updated_at": "2026-07-08"
+      "version": "1.2.0",
+      "description": "Build 42.20 SP/MP mission and quest framework with split Mission Board and tracker HUD, six factions, reputation and rivalry pressure, supply caches, scripted campaigns, daily rotations, weekly contracts, Knox Event lore, B42 map destinations, MP-authoritative turn-in, Survivors soft integration, and bridges for Faded Trade Network, Common Sense Reborn, and Echoes of Humanity.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-field-operations-1.2.0/FadedFieldOperations-v1.2.0.zip",
+      "zip_name": "FadedFieldOperations-v1.2.0.zip",
+      "size_bytes": 3075577,
+      "sha256": "71317a2681a53972c7c677554a28d6ac1163597dfe0874e9f42df3ce4ca52e73",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "FadedFromTheWindow_ZCTW",
