@@ -343,12 +343,12 @@
       "id": "FadedNinja",
       "server_mod_id": "FadedNinja",
       "name": "Faded Ninja",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Faded's Build 42.20 ninja survival arsenal: grappling hook traversal, throwing weapons, blades, clothing, fieldcraft literature, smoke bombs, firecrackers, and a rare themed sports car.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-ninja-1.2.0/FadedNinja-v1.2.0.zip",
-      "zip_name": "FadedNinja-v1.2.0.zip",
-      "size_bytes": 3582630,
-      "sha256": "a840cea503059c7bef71f796de4a93cf4b6625f0a70288b31ca7e3c19be8c1f2",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-faded-ninja-1.2.1/FadedNinja-v1.2.1.zip",
+      "zip_name": "FadedNinja-v1.2.1.zip",
+      "size_bytes": 3593150,
+      "sha256": "4f63cefb99a115d7b7152faffb791b50a9fe16c37b7422528819ef3634659b24",
       "updated_at": "2026-08-03"
     },
     {
