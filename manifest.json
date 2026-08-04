@@ -319,13 +319,13 @@
       "id": "FadedFromTheWindow_ZCTW",
       "server_mod_id": "FadedFromTheWindow_ZCTW",
       "name": "Faded From The Window - Zombies Crash Through Windows",
-      "version": "1.0.4",
-      "description": "Build 42.18 revival inspired by Zombies Crash Through Windows. Qualifying zombies smash and force their way through windows instead of opening them.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/FadedFromTheWindow_ZCTW-v1.0.4.zip",
-      "zip_name": "FadedFromTheWindow_ZCTW-v1.0.4.zip",
-      "size_bytes": 561118,
-      "sha256": "c61cbedded5949e1312e83b329969b0f99393ba6b88c650486e54c05b72c9ec4",
-      "updated_at": "2026-06-23"
+      "version": "1.1.0",
+      "description": "Build 42.20 revival inspired by Zombies Crash Through Windows. Qualifying zombies smash and force their way through windows instead of opening them.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-just2faded-window-refresh/FadedFromTheWindow_ZCTW-v1.1.0.zip",
+      "zip_name": "FadedFromTheWindow_ZCTW-v1.1.0.zip",
+      "size_bytes": 561738,
+      "sha256": "1694a370476c7e0b2fe35583698e3675d3ae5164b51403f3c590fc0e7f1b5970",
+      "updated_at": "2026-08-04"
     },
     {
       "id": "MilitaryVehiclesReborn",
@@ -673,10 +673,10 @@
       "name": "Just2Faded",
       "version": "2.2.0",
       "description": "Just2Faded for Project Zomboid Build 42.20. Fully standalone narcotics / crafting / farming pack with bundled Just Drugs content and built-in moodle UI.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-arsenal-just2faded-echoes-price/Just2Faded-v2.2.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-just2faded-window-refresh/Just2Faded-v2.2.0.zip",
       "zip_name": "Just2Faded-v2.2.0.zip",
       "size_bytes": 43437329,
-      "sha256": "71f3948cbe65b6062cfd3210654d2488b04c0320f3ca50658b4827c623d6cfa4",
+      "sha256": "e84d280a8dbd84d5327f2aebc21fd552f08aaaa22ebfd03fe31e45d09755643e",
       "updated_at": "2026-08-04"
     },
     {
