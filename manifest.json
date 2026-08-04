@@ -539,30 +539,6 @@
       "sha256": "4fd3e3d96aee709583786bfec769f8d83bc7867b4234d4ca74702ff84c90d8f8"
     },
     {
-      "id": "IKappaIDPinkSlip",
-      "server_mod_id": "IKappaIDPinkSlip",
-      "name": "IKappaID PinkSlip",
-      "version": "0.2.11",
-      "description": "Vehicle ownership as a paper title. Claim a vehicle with a Blank Pink Slip via the V radial: the vehicle is despawned and a filled Pink Slip is issued, holding its full state and stable vehicle UID. Right-click a filled Pink Slip, use the left-side button, or press the configurable hotkey to deploy it. Trade the slip like a normal item; the new holder can register the title. B42.17.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappaIDPinkSlip-v0.2.11.zip",
-      "zip_name": "IKappaIDPinkSlip-v0.2.11.zip",
-      "size_bytes": 27861,
-      "sha256": "1018e4e38ad655812c57cc7fba587e0db54027a97592013cc66e3809f835439c",
-      "updated_at": "2026-06-23"
-    },
-    {
-      "id": "IKappaIDPinkSlipLoot",
-      "server_mod_id": "IKappaIDPinkSlipLoot",
-      "name": "IKappaID Pink Slip - Loot",
-      "version": "0.1.0",
-      "description": "Optional loot patch: pre-filled Pink Slips spawn via OnFillContainer (desks, filing cabinets, office drawers, mechanic crates, etc.). Sandbox WeightMult scales chance. Requires IKappaID PinkSlip (core). Disable if you do not want world spawns.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/IKappaIDPinkSlipLoot-v0.1.0.zip",
-      "zip_name": "IKappaIDPinkSlipLoot-v0.1.0.zip",
-      "size_bytes": 576735,
-      "sha256": "ffdc608d287a56fa67c246493e994155fc49b273e25d70bb31e3a383ab0f5fbd",
-      "updated_at": "2026-06-23"
-    },
-    {
       "id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
       "server_mod_id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
       "name": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
