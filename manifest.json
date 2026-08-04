@@ -731,13 +731,13 @@
       "id": "ProximityAutoRead",
       "server_mod_id": "ProximityAutoRead",
       "name": "Proximity Auto-Read",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "Choose focused literature types or read every nearby unread knowledge item. Separates knowledge magazines from leisure magazines and uses Build 42 native read state and timed actions.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-28-mod-batch/ProximityAutoRead-v1.1.0.zip",
-      "zip_name": "ProximityAutoRead-v1.1.0.zip",
-      "size_bytes": 649781,
-      "sha256": "c05f2b50939055a8e26aa827644299f00ff9da5682879a6ceabe6653ae4ca2c1",
-      "updated_at": "2026-07-28"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-proximity-auto-read-1.2.0/ProximityAutoRead-v1.2.0.zip",
+      "zip_name": "ProximityAutoRead-v1.2.0.zip",
+      "size_bytes": 649946,
+      "sha256": "7e1d21b5d8e78ce7115ead55272ea6098a3a33e6c7350ed76296f56bbc496060",
+      "updated_at": "2026-08-03"
     },
     {
       "id": "SalvagedFuelRecoveryStation",
