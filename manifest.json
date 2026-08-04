@@ -673,10 +673,10 @@
       "name": "Massive Vehicle Pack",
       "version": "0.3.4",
       "description": "Standalone Build 42.20 vehicle integration pack with a public MVP API and optional RVsReborn interoperability.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-massive-vehicle-pack-v0.3.4/MassiveVehiclePack-v0.3.4.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-03-massive-vehicle-pack-v0.3.4-patch/MassiveVehiclePack-v0.3.4.zip",
       "zip_name": "MassiveVehiclePack-v0.3.4.zip",
       "size_bytes": 425907076,
-      "sha256": "ceab40f09994aa5ba9dd04376a97472ea370665fcb419dd9f093d7e9732f80a7",
+      "sha256": "361f713f01cebddb774c9abd8a07350747a04273eb1097753ceed6d7c7a2e34d",
       "updated_at": "2026-08-03"
     },
     {
