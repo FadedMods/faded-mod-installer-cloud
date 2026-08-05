@@ -695,12 +695,12 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Project Zomboid B42.20 engine inspection, server-authoritative maintenance, engine swap, wreck restoration, EV support, and CSR-integrated dashboard signals for SP and MP.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-project-faded-car-1.0.0/ProjectFadedCar-v1.0.0.zip",
-      "zip_name": "ProjectFadedCar-v1.0.0.zip",
-      "size_bytes": 968849,
-      "sha256": "0b94b7acdb80e9c23961195d9a95bc4248163d1b483878af2a246728b1d83651",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-project-faded-car-price-we-pay/ProjectFadedCar-v1.0.1.zip",
+      "zip_name": "ProjectFadedCar-v1.0.1.zip",
+      "size_bytes": 968886,
+      "sha256": "4451cb91099a5d1c434d11c292ced57648f2b1a1dcd2f3e005f305aa58becd56",
       "updated_at": "2026-08-05"
     },
     {
@@ -849,13 +849,13 @@
       "id": "ThePriceWePay",
       "server_mod_id": "ThePriceWePay",
       "name": "The Price We Pay",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "Build 42.20 server-authoritative SP/MP arrest, restraint, escort, and prisoner transport mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-04-arsenal-just2faded-echoes-price/ThePriceWePay-v0.2.0.zip",
-      "zip_name": "ThePriceWePay-v0.2.0.zip",
-      "size_bytes": 1689222,
-      "sha256": "7092bfe937391d5195f8a9f1e0a756a516bbca8898ab1eb303ed77b129542cb2",
-      "updated_at": "2026-08-04"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-project-faded-car-price-we-pay/ThePriceWePay-v0.2.1.zip",
+      "zip_name": "ThePriceWePay-v0.2.1.zip",
+      "size_bytes": 1689235,
+      "sha256": "3549bbdb070a6b3d5821f23c56d0c5b90499dbaf3c5152c818614d266eb60d1c",
+      "updated_at": "2026-08-05"
     },
     {
       "id": "TheySeeMeRollin",
