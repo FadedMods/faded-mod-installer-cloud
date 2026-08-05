@@ -96,33 +96,33 @@
       "name": "Faded's Armor Pack",
       "version": "2.0.1",
       "description": "Standalone Build 42.20 tactical armor collection with native night vision support, zombie outfits, and sandbox-controlled loot rarity.",
+      "updated_at": "2026-08-05",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ArmorPK-v2.0.1-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ArmorPK-v2.0.1-part1.zip",
           "zip_name": "ArmorPK-v2.0.1-part1.zip",
           "size_bytes": 1764940931,
-          "sha256": "bfbe47c4bd7eee7e32493770897748ffaa62092c0774749cd92051f79e70b9da"
+          "sha256": "26d79a021a2d7a3b0306bb3489b340e7e745f6c57addb98df0582f4411d7d57f"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ArmorPK-v2.0.1-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ArmorPK-v2.0.1-part2.zip",
           "zip_name": "ArmorPK-v2.0.1-part2.zip",
           "size_bytes": 1485348681,
           "sha256": "466e97f93b1000da2b8074ca244f1ebf8f5c0764448a8b74d1f15f875813f266"
         }
-      ],
-      "updated_at": "2026-08-05"
+      ]
     },
     {
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
       "version": "42.20.2",
-      "description": "Complete consolidated Authentic Z for Build 42.20. Includes the native clothing blood and repair metadata fix; no compatibility mod is required.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/Authentic-Z-Current-v42.20.2.zip",
+      "description": "SAFE TO ADD MID GAME",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/Authentic-Z-Current-v42.20.2.zip",
       "zip_name": "Authentic-Z-Current-v42.20.2.zip",
       "size_bytes": 390583222,
-      "sha256": "5c937144f1d592f2cadde0cea2a2a3ce829a6240ee00706469476aacfe95cfd8",
-      "updated_at": "2026-08-05"
+      "sha256": "6c7d3ef9f713ed53b4acbd5a04043a58d005482aebb6f394a7876cd76d6ec09f"
     },
     {
       "id": "BlanketsFade",
@@ -130,11 +130,11 @@
       "name": "Faded Beds Have Blankets",
       "version": "1.1.1",
       "description": "Period-correct removable blankets and larger pillows, rebuilt for Build 42.20.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/BlanketsFade-v1.1.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/BlanketsFade-v1.1.1.zip",
       "zip_name": "BlanketsFade-v1.1.1.zip",
       "size_bytes": 14473526,
-      "sha256": "3f753e937d6f2b80aa6e8a9b52ab22e0eaef82d646225cf1b964252ca98f9205",
-      "updated_at": "2026-08-05"
+      "sha256": "3eb9945cafc1e8aa523d6bdbf52c16d7a5d97c338825c4be14a1a062dccbb8b8"
     },
     {
       "id": "BuildcraftReborn",
@@ -142,11 +142,11 @@
       "name": "Buildcraft Reborn",
       "version": "0.3.1",
       "description": "Build 42.20 unified Make / Build UI. ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon that follows ClearView auto-hide, CSR-safe containers. Vanilla logic only.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/BuildcraftReborn-v0.3.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/BuildcraftReborn-v0.3.1.zip",
       "zip_name": "BuildcraftReborn-v0.3.1.zip",
       "size_bytes": 980908,
-      "sha256": "4b4494263c89733ec979dcd7049710ea2fa2a9a54a03ac09c9c0e579a918fdb1",
-      "updated_at": "2026-08-05"
+      "sha256": "a18a5a644410b24887247c1d4000155f691a76d7dafa31a86ef9bf93621881ef"
     },
     {
       "id": "CommonSenseReborn",
@@ -178,23 +178,23 @@
       "name": "CSR Admin Command Center",
       "version": "0.2.7",
       "description": "Standalone admin command center companion for Common Sense Reborn. B42.20-ready with reduced FPS impact and MP server authority. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/CSRAdminCommandCenter-v0.2.7.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/CSRAdminCommandCenter-v0.2.7.zip",
       "zip_name": "CSRAdminCommandCenter-v0.2.7.zip",
       "size_bytes": 2819576,
-      "sha256": "54ebf627c3d830b45cf19cb65b69efb2a90d01f74bf68151d4da08bfb1b1d152",
-      "updated_at": "2026-08-05"
+      "sha256": "a2e2bafb484147acf7578e5cfb14a10a2ddc61885720d239332b9f801202323b"
     },
     {
       "id": "CSR_ClearviewGPS",
       "server_mod_id": "CSR_ClearviewGPS",
       "name": "CSR Clearview GPS",
       "version": "1.1.2",
-      "description": "Version 1.1.1. Standalone B42.20 Clearview-styled GPS with a movable right-side launcher, persistent local UI layout, movable/resizable GPS window, purple route rendering, server-authoritative route graph sync for MP, and singleplayer cache support.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/CSR_ClearviewGPS-v1.1.2.zip",
+      "description": "Version 1.1.2. Standalone B42.20 Clearview-styled GPS with a movable right-side launcher, persistent local UI layout, movable/resizable GPS window, purple route rendering, server-authoritative route graph sync for MP, and singleplayer cache support.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/CSR_ClearviewGPS-v1.1.2.zip",
       "zip_name": "CSR_ClearviewGPS-v1.1.2.zip",
       "size_bytes": 704464,
-      "sha256": "5ea0444a56db7456c650d896749e185af040b2e83eeb66a6ca16b07d47a58e43",
-      "updated_at": "2026-08-05"
+      "sha256": "fc18d66d87a316a173d8109702b773032bdcfe00c86d9135c63ab6367e60415f"
     },
     {
       "id": "CSRFundamentals",
@@ -202,11 +202,11 @@
       "name": "CSR Fundamentals",
       "version": "0.2.1",
       "description": "Fundamentals-only spin-off of Common Sense Reborn: simple, vanilla-only quality-of-life features. No new items, sprites, GUIs, carry slots, or cheat-like systems. Build 42.20. SP + MP.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/CSRFundamentals-v0.2.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/CSRFundamentals-v0.2.1.zip",
       "zip_name": "CSRFundamentals-v0.2.1.zip",
       "size_bytes": 1206239,
-      "sha256": "a07cbe90daeb0e66f7b5b76373ae251acff6a8f8c78c7e1abf692968960058d0",
-      "updated_at": "2026-08-05"
+      "sha256": "83783408889a48899d54965a9ef92869d57a07b2d85312031dcbfef0bcb5298b"
     },
     {
       "id": "FadedArsenalDeadCountyMunitions",
@@ -214,11 +214,11 @@
       "name": "Faded Arsenal: Dead County Munitions",
       "version": "1.0.2",
       "description": "Adds a full arsenal of firearms, melee weapons, explosives, ammunition, attachments, storage containers, and armory support assets for Project Zomboid Build 42.20. DeadCode Weapons Framework integration is optional.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedArsenalDeadCountyMunitions-v1.0.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedArsenalDeadCountyMunitions-v1.0.2.zip",
       "zip_name": "FadedArsenalDeadCountyMunitions-v1.0.2.zip",
       "size_bytes": 137288990,
-      "sha256": "dbef6142fc5905adcef04224e8849b5e99f06ae189d5a9ca10e003b76164d0f2",
-      "updated_at": "2026-08-05"
+      "sha256": "fbfebcae715d41a2db6174ed52c8007542a0b5960bdfd3d84a2fda3122d1ea03"
     },
     {
       "id": "FadedOriginsOccupationsTraits",
@@ -237,12 +237,12 @@
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
       "version": "2.0.3",
-      "description": "FAM 2.0.2 for Build 42.20: fixes the right-side triage layout scaling crash and keeps the pulse, body-map outlines, native body figure, and selected-part text within their available bounds.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedAdvancedMedical-v2.0.3.zip",
+      "description": "FAM 2.0.3 for Build 42.20: server-authoritative advanced medicine, field surgery, prosthetics, digestive care, pathology, virology, and a responsive three-window green triage workspace.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedAdvancedMedical-v2.0.3.zip",
       "zip_name": "FadedAdvancedMedical-v2.0.3.zip",
       "size_bytes": 33006063,
-      "sha256": "4615a5d4f21284e415119b2e75af1d7aac8ab0e39118c117fadbb5163d38caa8",
-      "updated_at": "2026-08-05"
+      "sha256": "0778f163056143da478fb6695ba6a667ec39bfed80ece687f428dd1878efdad7"
     },
     {
       "id": "FadedAfflictions",
@@ -273,11 +273,11 @@
       "name": "Faded Combat Text",
       "version": "2.1.1",
       "description": "Build 42.20 combat text with optimized purple damage numbers and health bars that fade from green to yellow to red.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedCombatText-v2.1.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedCombatText-v2.1.1.zip",
       "zip_name": "FadedCombatText-v2.1.1.zip",
       "size_bytes": 573229,
-      "sha256": "300bab7a039394414eb0d4ff2a4a3f3ed55a242b17665541d7fa7da76f6c12c9",
-      "updated_at": "2026-08-05"
+      "sha256": "078b07d4c900a976d2fbf26ad1f911456aecf8bdd2949cab9b07fa98664ba24e"
     },
     {
       "id": "FadedFarmingFishingReborn",
@@ -285,11 +285,11 @@
       "name": "Faded Farming & Fishing Reborn",
       "version": "0.2.4-b42.20",
       "description": "Build 42.20 self-contained farming and fishing hub with integrated, namespaced farm-vehicle compatibility and server-authoritative command rails.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedFarmingFishingReborn-v0.2.4-b42.20.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedFarmingFishingReborn-v0.2.4-b42.20.zip",
       "zip_name": "FadedFarmingFishingReborn-v0.2.4-b42.20.zip",
       "size_bytes": 46479956,
-      "sha256": "bc069f364b5e28b10eb5d1dbb1d71db9dd073ea8d8f21c8eb06f0b7779a6755f",
-      "updated_at": "2026-08-05"
+      "sha256": "cef5d3305f87f784b62d458a8443cdb19b0476e4e4d2edb22da95d4e75a10328"
     },
     {
       "id": "FadedFeastcraft",
@@ -297,23 +297,23 @@
       "name": "FFC",
       "version": "0.2.1",
       "description": "Faded's Feastcraft: a Build 42 food command center with in-house cooking, recipe requirements, pantry scanning, preservation, nutrition, station auto-cook, and MP-safe server validation.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedFeastcraft-v0.2.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedFeastcraft-v0.2.1.zip",
       "zip_name": "FadedFeastcraft-v0.2.1.zip",
       "size_bytes": 351806135,
-      "sha256": "cad8b786473180289940adc6a91b4a17e2ed471e319c3e8e142e176f8939a0e3",
-      "updated_at": "2026-08-05"
+      "sha256": "110a49f717bc2b3f9b534839fa2841b32d80e1f2824eb0933fd4c42fb8230313"
     },
     {
       "id": "FadedFieldOperations",
       "server_mod_id": "FadedFieldOperations",
       "name": "Faded Field Operations",
       "version": "1.2.1",
-      "description": "Build 42.20 SP/MP mission and quest framework with split Mission Board and tracker HUD, six factions, reputation and rivalry pressure, supply caches, scripted campaigns, daily rotations, weekly contracts, Knox Event lore, B42 map destinations, MP-authoritative turn-in, Survivors soft integration, and bridges for Faded Trade Network, Common Sense Reborn, and Echoes of Humanity.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedFieldOperations-v1.2.1.zip",
+      "description": "Common Sense Reborn, and the upcoming Echoes of Humanity story layer.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedFieldOperations-v1.2.1.zip",
       "zip_name": "FadedFieldOperations-v1.2.1.zip",
       "size_bytes": 3229036,
-      "sha256": "6dcbdce0dbef9659a082f55ba87e3e8d7d93fe3ef33dcdea8289ef484d535e8c",
-      "updated_at": "2026-08-05"
+      "sha256": "87db8e600fc5eca1f309e53b9483a99b347219402be8feb2cff89b026d1eb7c7"
     },
     {
       "id": "FadedFromTheWindow_ZCTW",
@@ -321,23 +321,23 @@
       "name": "Faded From The Window - Zombies Crash Through Windows",
       "version": "1.1.1",
       "description": "Build 42.20 revival inspired by Zombies Crash Through Windows. Qualifying zombies smash and force their way through windows instead of opening them.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedFromTheWindow_ZCTW-v1.1.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedFromTheWindow_ZCTW-v1.1.1.zip",
       "zip_name": "FadedFromTheWindow_ZCTW-v1.1.1.zip",
       "size_bytes": 561729,
-      "sha256": "50bf2a1e72043e6ea53029cef5bd5f44f789aa4b2cc6710cec45d37a6dc9a34a",
-      "updated_at": "2026-08-05"
+      "sha256": "59b162a872981888e1594a3cc2923e946875e23a5598351e104a44d5c00529a8"
     },
     {
       "id": "MilitaryVehiclesReborn",
       "server_mod_id": "MilitaryVehiclesReborn",
       "name": "Military Vehicles Reborn",
       "version": "2.0.1",
-      "description": "Independent Build 42.20 military vehicle pack by Faded. Replaces the retired Faded Vehicles package and includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, MRAP variants, and a military cargo truck.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/MilitaryVehiclesReborn-v2.0.1.zip",
+      "description": "Independent Build 42.20 military vehicle pack by Faded. Includes hardtop and open-cargo M998M2 Humvees, M1A1 Abrams, M2 Bradley IFV, MRAP variants, and a military cargo truck.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/MilitaryVehiclesReborn-v2.0.1.zip",
       "zip_name": "MilitaryVehiclesReborn-v2.0.1.zip",
       "size_bytes": 86070294,
-      "sha256": "3dd13fbd058b46f92d58e96415cc86948dcfe8c9fb81f3c55dadbb9344896d5d",
-      "updated_at": "2026-08-05"
+      "sha256": "e304061d5968c3e107e4c68c224093862952162b441bccddd8c127e4febe3b9f"
     },
     {
       "id": "FadedNinja",
@@ -345,11 +345,11 @@
       "name": "Faded Ninja",
       "version": "1.2.2",
       "description": "Faded's Build 42.20 ninja survival arsenal: grappling hook traversal, throwing weapons, blades, clothing, fieldcraft literature, smoke bombs, firecrackers, and a rare themed sports car.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedNinja-v1.2.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedNinja-v1.2.2.zip",
       "zip_name": "FadedNinja-v1.2.2.zip",
       "size_bytes": 3593151,
-      "sha256": "6a16da7e283cc964fd48a673ae7be3f280bd70d692cc0d358fd55d4a6d7d6f42",
-      "updated_at": "2026-08-05"
+      "sha256": "a72ce6a61e6df85d453a40fb3887dd629279593d03377fba1251411e79951371"
     },
     {
       "id": "MyOnlyFriend",
@@ -369,11 +369,11 @@
       "name": "Faded's Hunters Calling",
       "version": "1.2.3",
       "description": "A clean-room hunter, trapper and bushcraft platform with a leather-and-amber Hunter Hub GUI for Build 42.20. Live-capture trapping, field dressing, meat drying, hide curing, timed scent lures, animal tracking (yellow outline), trap board, and server QoL.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedHuntersCalling-v1.2.3.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedHuntersCalling-v1.2.3.zip",
       "zip_name": "FadedHuntersCalling-v1.2.3.zip",
       "size_bytes": 439009,
-      "sha256": "8613928eb450f480954037989740f14678c48d90b54899889bb13453b301b04a",
-      "updated_at": "2026-08-05"
+      "sha256": "93b6da2a1c2f398ed2931354521cc349883c3e7d75ec8843e8d9bb298945f961"
     },
     {
       "id": "FadedPacketSavior",
@@ -393,11 +393,11 @@
       "name": "Faded's ClearView UI",
       "version": "0.3.2",
       "description": "Polished charcoal-and-purple UI pass for Project Zomboid Build 42.20. Adds compact inventory styling, rarity accents, a click-safe auto-hiding sidebar with persistent hand slots and injury-aware health access, plus optional Common Sense Reborn surface styling.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsClearViewUI-v0.3.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsClearViewUI-v0.3.2.zip",
       "zip_name": "FadedsClearViewUI-v0.3.2.zip",
       "size_bytes": 1528124,
-      "sha256": "094c865984ba05aad1a1b89a1ec65877f3574b5d94f708e7070053dc219064eb",
-      "updated_at": "2026-08-05"
+      "sha256": "022de7e40f71771c3b0d50e9ec5ebb4ae8a69cf42b73d6eee7bfc947ea2c1633"
     },
     {
       "id": "FadedsErrorDetected",
@@ -405,11 +405,11 @@
       "name": "Faded's Error Detected",
       "version": "0.2.1",
       "description": "Build 42.20 diagnostics, comprehensive copyable details, error attribution, full reports, and Faded installer update visibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsErrorDetected-v0.2.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsErrorDetected-v0.2.1.zip",
       "zip_name": "FadedsErrorDetected-v0.2.1.zip",
       "size_bytes": 426915,
-      "sha256": "a5c5455475ae35c1d13c49860ad9eb2f2132b060409f73355e5b6433931317b1",
-      "updated_at": "2026-08-05"
+      "sha256": "16877f9c893545fb0edd40cc259c1f3b88806e62ab5c916829d5ba7e0ed01949"
     },
     {
       "id": "FadedsLastChance",
@@ -417,11 +417,11 @@
       "name": "Faded's Last Chance",
       "version": "0.3.1",
       "description": "Server-authoritative Build 42.20 life-save charges with defibrillator self-revive.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsLastChance-v0.3.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsLastChance-v0.3.1.zip",
       "zip_name": "FadedsLastChance-v0.3.1.zip",
       "size_bytes": 14361795,
-      "sha256": "af3f7c020ce35912f299181c9f7c4df7f0b5e7d30109cf61b38c2f3b27d66f3a",
-      "updated_at": "2026-08-05"
+      "sha256": "235fcaab12adb0ceb3c954f20902faf12eab3c3f723a20088eb22a3b53e0b308"
     },
     {
       "id": "FadedsLegacyCodex",
@@ -429,23 +429,23 @@
       "name": "Faded's Legacy Codex",
       "version": "1.0.1",
       "description": "Preserve hard-earned survival knowledge in physical Codexes and Compendiums for Build 42. Copyright (c) 2026 Faded. All rights reserved; do not copy, reuse, redistribute, or modify this mod's code without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsLegacyCodex-v1.0.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsLegacyCodex-v1.0.1.zip",
       "zip_name": "FadedsLegacyCodex-v1.0.1.zip",
       "size_bytes": 178899,
-      "sha256": "ba2ae777ad99b14cd085684444cc8ccda1a266f7578794fb1ce3375f4ce0b136",
-      "updated_at": "2026-08-05"
+      "sha256": "dd5f4ca20225d0c1aa6a10a35065a5547dbd014ffc908e6a1430b28a687355b6"
     },
     {
       "id": "FadedsRideOrRot",
       "server_mod_id": "FadedsRideOrRot",
       "name": "Faded's Ride or Rot",
       "version": "0.2.1",
-      "description": "Build 42.19 vehicle utility overhaul with MP-conscious towing and mechanics quality-of-life features.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsRideOrRot-v0.2.1.zip",
+      "description": "Build 42.20 vehicle utility overhaul: rideable vanilla pickup beds, MP-conscious in-vehicle towing, and fast mechanics QoL. Soft-compatible with CSR, MVP, MVR, and RVs Reborn (no hard requires). Load after other Base PickUpTruck script overhauls.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsRideOrRot-v0.2.1.zip",
       "zip_name": "FadedsRideOrRot-v0.2.1.zip",
       "size_bytes": 17886,
-      "sha256": "478b7eb5a66d5985ff523dd3ad6a01eae32b113f0f03360cfc76381d3807036e",
-      "updated_at": "2026-08-05"
+      "sha256": "ccf82a5bee512540ba8df22e5bccdd46fd268153bee41bfd89cf6e6dbf14149a"
     },
     {
       "id": "FadedsTheHive",
@@ -464,11 +464,11 @@
       "name": "Faded Trade Network",
       "version": "0.5.1",
       "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.20 stable. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedTradeNetwork-v0.5.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedTradeNetwork-v0.5.1.zip",
       "zip_name": "FadedTradeNetwork-v0.5.1.zip",
       "size_bytes": 420624,
-      "sha256": "c8ed3ba956a1d66c6dea3fb35180255414f8b233a8739d9b64409ae628bcedfb",
-      "updated_at": "2026-08-05"
+      "sha256": "a46ef4f6d49355a3dae1f4a989b5ff38e64cf2d36c3e83c463392db3fc9999ae"
     },
     {
       "id": "FadedTrenchCoats",
@@ -488,11 +488,11 @@
       "name": "Faded Vehicles Reborn",
       "version": "0.2.1-b42.20",
       "description": "Build 42.20 MP-centric vehicle lifecycle mod with server-authoritative replacement tickets, B42 timed-action complete hooks, safe spawn scans, admin controls, and CSR compatibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedVehiclesReborn-v0.2.1-b42.20.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedVehiclesReborn-v0.2.1-b42.20.zip",
       "zip_name": "FadedVehiclesReborn-v0.2.1-b42.20.zip",
       "size_bytes": 1056576,
-      "sha256": "ad875ba6c36f0c2f3eda248c27ab8c005aca9b8e0d291beddc6ece9f1bd32d76",
-      "updated_at": "2026-08-05"
+      "sha256": "ca55e1e3fa70c4fd514d241a0e33e04f4ef12cbc32eb9d9bd693188b5ac78118"
     },
     {
       "id": "FaithsTraditions",
@@ -512,21 +512,21 @@
       "name": "Faded's Weapon Pack",
       "version": "42.20.20260805.1",
       "description": "Faded's Weapon Pack for Project Zomboid Build 42.20. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
+      "updated_at": "2026-08-05",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsWeaponPack-v42.20.20260805.1-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsWeaponPack-v42.20.20260805.1-part1.zip",
           "zip_name": "FadedsWeaponPack-v42.20.20260805.1-part1.zip",
           "size_bytes": 1111759769,
-          "sha256": "46edf71e83c663dc50840b317103c5f2d9d3eff8500b0ee92ae49d32a699aa40"
+          "sha256": "54289daecccb5c23f6854308e1394ade6c6131a633f5cb458a8350000504f51f"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedsWeaponPack-v42.20.20260805.1-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsWeaponPack-v42.20.20260805.1-part2.zip",
           "zip_name": "FadedsWeaponPack-v42.20.20260805.1-part2.zip",
           "size_bytes": 26955577,
           "sha256": "9f57a28ae7b005be2a768903835a4232c0057f74ce9e030a112f6c01c1a35927"
         }
-      ],
-      "updated_at": "2026-08-05"
+      ]
     },
     {
       "id": "Hydrocraft",
@@ -581,11 +581,11 @@
       "name": "ISyncYouSyncWeAllSyncForDeSync",
       "version": "1.0.1",
       "description": "Build 42.20 multiplayer desync defense suite with bounded server-authoritative vehicle impact validation, adaptive work budgets, zombie remediation, action guards, health telemetry, and an optional Faded Java Loader impact accelerator. Complete Lua fallback. SP + MP.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ISyncYouSyncWeAllSyncForDeSync-v1.0.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ISyncYouSyncWeAllSyncForDeSync-v1.0.1.zip",
       "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.0.1.zip",
       "size_bytes": 290223,
-      "sha256": "2f9445f89ec08efc53a57b8c4cb121ec08c884694eface54f2e9157fc6d60859",
-      "updated_at": "2026-08-05"
+      "sha256": "6b5adf59c2519cb1772ede5893b0c9df910e71a80aceb7b7be41186868f10914"
     },
     {
       "id": "JustFaded",
@@ -605,11 +605,11 @@
       "name": "KnoxNet OS",
       "version": "0.8.1",
       "description": "Build 42.20 simulated computer OS with networked building controls, multi-floor storage logistics, cameras, renewable-power and WEX water/fuel telemetry, printing, banking, medical records, and survivor services.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/KnoxNetOS-v0.8.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/KnoxNetOS-v0.8.1.zip",
       "zip_name": "KnoxNetOS-v0.8.1.zip",
       "size_bytes": 12869182,
-      "sha256": "437a8dc083507b5525e8d08dc6e53777b6131460550f0e74ae3c8a672d1afc28",
-      "updated_at": "2026-08-05"
+      "sha256": "b24d21ba0a2bffb03f1691c66e4472cd26318c09998b58b5454d25c3d7a62e6f"
     },
     {
       "id": "KnoxTransit",
@@ -627,22 +627,22 @@
       "server_mod_id": "LifestyleHobbies",
       "name": "Lifestyle: Hobbies (All-in-One B42.20)",
       "version": "0.4.0-allinone.6",
-      "description": "Lifestyle: Hobbies B42.20 all-in-one compatibility package. Fixes hosted package layout so Project Zomboid discovers the mod from 42/mod.info while preserving the integrated B42.20 inventory UI repairs.",
+      "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
+      "updated_at": "2026-08-05",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/LifestyleHobbies-v0.4.0-allinone.6-part1.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/LifestyleHobbies-v0.4.0-allinone.6-part1.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.6-part1.zip",
           "size_bytes": 1744752524,
-          "sha256": "4a96705e9c3f180b1c9ee8de7af0291ca3a5005ce4c7c9ec7e2562b641541d41"
+          "sha256": "d9e29f95c0b8c241710f8595b1b8b2ec2790b1cf50fee75f480055e5d865ceed"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/LifestyleHobbies-v0.4.0-allinone.6-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/LifestyleHobbies-v0.4.0-allinone.6-part2.zip",
           "zip_name": "LifestyleHobbies-v0.4.0-allinone.6-part2.zip",
           "size_bytes": 473552455,
           "sha256": "6345399fd3d7ff79ae0cfae5c3efe4553d5bab10d48dac4464563cd126f36466"
         }
-      ],
-      "updated_at": "2026-08-05"
+      ]
     },
     {
       "id": "MassiveVehiclePack",
@@ -650,11 +650,11 @@
       "name": "Massive Vehicle Pack",
       "version": "0.3.7",
       "description": "Standalone Build 42.20 vehicle integration pack with a public MVP API and optional RVsReborn interoperability.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/MassiveVehiclePack-v0.3.7.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/MassiveVehiclePack-v0.3.7.zip",
       "zip_name": "MassiveVehiclePack-v0.3.7.zip",
       "size_bytes": 426087381,
-      "sha256": "ab425b721c551c65c72248065e861eff1ebefd4e8c78908277274509a279cf98",
-      "updated_at": "2026-08-05"
+      "sha256": "9d37126191db0b8027565b97bbeec6bf93efb44732be74a0532675775098e945"
     },
     {
       "id": "Military_Tool_Kit",
@@ -674,11 +674,11 @@
       "name": "Just2Faded",
       "version": "2.2.1",
       "description": "Just2Faded for Project Zomboid Build 42.20. Fully standalone narcotics / crafting / farming pack with bundled Just Drugs content and built-in moodle UI.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/Just2Faded-v2.2.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/Just2Faded-v2.2.1.zip",
       "zip_name": "Just2Faded-v2.2.1.zip",
       "size_bytes": 43437329,
-      "sha256": "66501e4214ce210e641690359181117826b15951dcdf40ded3945270285b1f4b",
-      "updated_at": "2026-08-05"
+      "sha256": "22f16cfbf992c17d1c5f6fc273dd5566f592c1f70ca40e00fa06601a53b0f28b"
     },
     {
       "id": "OnTheMove",
@@ -698,23 +698,23 @@
       "name": "Project Faded Car",
       "version": "1.0.2",
       "description": "Project Zomboid B42.20 engine inspection, server-authoritative maintenance, engine swap, wreck restoration, EV support, and CSR-integrated dashboard signals for SP and MP.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ProjectFadedCar-v1.0.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ProjectFadedCar-v1.0.2.zip",
       "zip_name": "ProjectFadedCar-v1.0.2.zip",
       "size_bytes": 968880,
-      "sha256": "7a051fb3bf32b8f258e8dedf5664d5902dafe85c82fe87d072d869408d5d1c81",
-      "updated_at": "2026-08-05"
+      "sha256": "25a004aabd03ca6c4c59c56e982735823f0cc2f728b050619c5bf589c0cc3fc2"
     },
     {
       "id": "ProximityAutoRead",
       "server_mod_id": "ProximityAutoRead",
       "name": "Proximity Auto-Read",
       "version": "1.2.1",
-      "description": "Choose focused literature types or read every nearby unread knowledge item. Separates knowledge magazines from leisure magazines and uses Build 42 native read state and timed actions.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ProximityAutoRead-v1.2.1.zip",
+      "description": "Choose focused literature types or read every nearby unread knowledge item. Separates knowledge magazines from leisure magazines and uses Build 42.20 native read state and timed actions.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ProximityAutoRead-v1.2.1.zip",
       "zip_name": "ProximityAutoRead-v1.2.1.zip",
       "size_bytes": 649947,
-      "sha256": "6e1cfd7e78b6fb8be7903c234955262a2a8deed8f34707aaa29edb1d8563c55f",
-      "updated_at": "2026-08-05"
+      "sha256": "ffa9a13fc0767da4f0695367276dc936b14e7667c631e22b73e044fc98aaaf45"
     },
     {
       "id": "SalvagedFuelRecoveryStation",
@@ -781,11 +781,11 @@
       "name": "Simple Overhaul: Traits and Occupations (SOTO)",
       "version": "1.0.2",
       "description": "B42.20 multiplayer-first overhaul of vanilla and custom traits and occupations, with server-authoritative progression, full localization, polished vanilla-style gameplay icons, and Faded branding.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/SimpleOverhaulTraitsAndOccupations-v1.0.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/SimpleOverhaulTraitsAndOccupations-v1.0.2.zip",
       "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.2.zip",
       "size_bytes": 2497867,
-      "sha256": "20d078202efa2614f8cc091fe9f332a1ee3cf61a8977870234006f8b9fa20a96",
-      "updated_at": "2026-08-05"
+      "sha256": "5d696f3b827a1dea9d5039d2bada778b26aee8da4d4f367cea7f44d8e593c17c"
     },
     {
       "id": "SpongiesFadedClothing_B42Port",
@@ -793,11 +793,11 @@
       "name": "Spongie's Clothing [B42 Port]",
       "version": "21.42.20.1",
       "description": "Build 42.20 compatibility port of Spongie's Clothing. Original mod by Spongie; port prepared by Faded with permission/request from the original developer.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/SpongiesFadedClothing_B42Port-v21.42.20.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/SpongiesFadedClothing_B42Port-v21.42.20.1.zip",
       "zip_name": "SpongiesFadedClothing_B42Port-v21.42.20.1.zip",
       "size_bytes": 4293626,
-      "sha256": "69ea47717221edc1b5173b789f1bc7882b91ac095388758b7cd679d7fb187415",
-      "updated_at": "2026-08-05"
+      "sha256": "7713c4a429614680e7acc541febbfca80eb46a0825878ba5178ae2e33c3de6d7"
     },
     {
       "id": "SpnOpenCloth",
@@ -852,11 +852,11 @@
       "name": "The Price We Pay",
       "version": "0.2.2",
       "description": "Build 42.20 server-authoritative SP/MP arrest, restraint, escort, and prisoner transport mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ThePriceWePay-v0.2.2.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ThePriceWePay-v0.2.2.zip",
       "zip_name": "ThePriceWePay-v0.2.2.zip",
       "size_bytes": 1689236,
-      "sha256": "53a404c90e419daca6076605765969f5380167ed04fa08dbbf6137be8c3f0853",
-      "updated_at": "2026-08-05"
+      "sha256": "5e0c260de0e373e5ea20622d9ae7ec290879b7cdce0f06fbc9625aaf47db0bc7"
     },
     {
       "id": "TheySeeMeRollin",
@@ -897,12 +897,12 @@
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
       "version": "2.3.1",
-      "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, sprinklers, storage, fixtures, gas stations and generators without a bridge hub. Includes gutters, tanks, collectors, purification, drip irrigation, physical petrol routing, a public third-party physical-container API, a plumbing overlay and an optional KnoxNet OS control-station bridge.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/WaterExpanded-v2.3.1.zip",
+      "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, sprinklers, storage, fixtures, gas stations and generators without a bridge hub. Includes gutters, tanks, collectors, purification, drip irrigation, physical petrol routing, a portable fuel-powered water pump, an on-demand nearby water/fuel quick view, a public third-party physical-container API and an optional KnoxNet OS bridge.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/WaterExpanded-v2.3.1.zip",
       "zip_name": "WaterExpanded-v2.3.1.zip",
       "size_bytes": 537430192,
-      "sha256": "10fa9bbc0c47bac46c91c4c7e8466913ebcdc7ca92749328b04795cd1c34ddc9",
-      "updated_at": "2026-08-05"
+      "sha256": "d327e5041bf3bc73157cfc6a480993574f7fe1959c4942c12093e78d03264d38"
     },
     {
       "id": "WaterFaded",
@@ -910,23 +910,23 @@
       "name": "Water Faded",
       "version": "1.1.1",
       "description": "Clean-room Build 42.20 rebuild of the legacy water mod. Server-authoritative fixture expiration, drainage, and tap filters for plumbed tainted water.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/WaterFaded-v1.1.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/WaterFaded-v1.1.1.zip",
       "zip_name": "WaterFaded-v1.1.1.zip",
       "size_bytes": 1353687,
-      "sha256": "a0fec4e01b86ba475c0a180f5b4155d43c41160e5f2ea337b5c52b7c2a36a889",
-      "updated_at": "2026-08-05"
+      "sha256": "2533f1eb8c448d8097f8223ccc074bcd28c8374b0cbefdffce07b1e2d81e6e09"
     },
     {
       "id": "YearsFaded",
       "server_mod_id": "YearsFaded",
       "name": "Years Faded",
       "version": "0.31.1",
-      "description": "Years Faded v0.31.0 for Build 42.20: preservation-safe years-later world aging with B42.20 outdoor floor/curb overlays, geometry-safe blood and generators, overgrown/burnt vehicles, immersivity, seasonal moods, wind sway, till-burnt-land, additive vegetation/screamer zombies, and CSR geometry-safety compatibility. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/YearsFaded-v0.31.1.zip",
+      "description": "Years Faded v0.31.1 for Build 42.20: preservation-safe years-later world aging with B42.20 outdoor floor/curb overlays, geometry-safe blood and generators, overgrown/burnt vehicles, immersivity, seasonal moods, wind sway, till-burnt-land, additive vegetation/screamer zombies, and CSR geometry-safety compatibility. Support: https://discord.gg/nQJS2ejkd Copyright (c) 2026 Luis; unofficial Project Zomboid mod.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/YearsFaded-v0.31.1.zip",
       "zip_name": "YearsFaded-v0.31.1.zip",
       "size_bytes": 392176800,
-      "sha256": "bde0227d7928a53b62db2133ce541424bad0059c49707b6081db1fd24d91814c",
-      "updated_at": "2026-08-05"
+      "sha256": "4e89216183d8e8dd6c1271e9b1ef82e850cc43e8986bb3809806a88cb4c21ab4"
     },
     {
       "id": "ThePathLessTraveled",
@@ -946,11 +946,11 @@
       "name": "Never Survive Alone",
       "version": "0.4.1-alpha",
       "description": "Server-validated, explicit-opt-in adult intimacy interactions for Project Zomboid Build 42.20. MP-ready Afterglow buffs sync with Common Sense Reborn Survivor Bond.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/NeverSurviveAlone-v0.4.1-alpha.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/NeverSurviveAlone-v0.4.1-alpha.zip",
       "zip_name": "NeverSurviveAlone-v0.4.1-alpha.zip",
       "size_bytes": 540846,
-      "sha256": "8f1d750e23defeb0c015a6a6495dfac4ddfb3fc9da85f34bbe8d3fb3f00d0e0c",
-      "updated_at": "2026-08-05"
+      "sha256": "d87c0c3c31cf892fa98071a4dea1b2a628d54dbb07a763cecb0ab555055d8508"
     },
     {
       "id": "NeverForget",
@@ -969,12 +969,12 @@
       "server_mod_id": "FadedConditionGuns",
       "name": "Faded Condition Guns",
       "version": "1.1.1",
-      "description": "Faded Condition Guns v1.1.0. Server-authoritative loot conditioning rebuilt exclusively for Project Zomboid Build 42.20. New firearms spawn at configurable condition ranges based on loot location without global overrides or world rescans.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedConditionGuns-v1.1.1.zip",
+      "description": "Faded Condition Guns v1.1.1. Server-authoritative loot conditioning rebuilt exclusively for Project Zomboid Build 42.20. New firearms spawn at configurable condition ranges based on loot location without global overrides or world rescans.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedConditionGuns-v1.1.1.zip",
       "zip_name": "FadedConditionGuns-v1.1.1.zip",
       "size_bytes": 1295498,
-      "sha256": "0e51ece03b307f936870d9008e453721f71b31bdd34cdf669be097b11f9e5821",
-      "updated_at": "2026-08-05"
+      "sha256": "46ff135b6a560eab9dccc6429e675fbaad88e495fb502a0016fffd9d51589f00"
     },
     {
       "id": "FadedBuildingExpansion",
@@ -982,11 +982,11 @@
       "name": "Faded's Building Expansion",
       "version": "1.1.1",
       "description": "Build 42 construction expansion championed by Faded. Adds reinforced doors and upgrades, gates, fences, barricades, industrial structures, floors, stairs, and realistic fireplace logs through native Build 42 systems. Disable all legacy Jay's component mods before enabling.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/FadedBuildingExpansion-v1.1.1.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedBuildingExpansion-v1.1.1.zip",
       "zip_name": "FadedBuildingExpansion-v1.1.1.zip",
       "size_bytes": 3355989,
-      "sha256": "a0c81eaa293128a2e56573eda668ac8556a03295fbb753f6267a077727714587",
-      "updated_at": "2026-08-05"
+      "sha256": "c92d9036684ce0dd520532b1dadbda1973e8d0f88a02c59b1645168efc4c7cc6"
     },
     {
       "id": "TeaTime",
@@ -1030,23 +1030,23 @@
       "name": "RVsReborn",
       "version": "0.2.6",
       "description": "A cohesive Build 42.20 RV and Faded Locomotion interior, utility, safety, dashboard, compatibility, and administration system.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/RVsReborn-v0.2.6.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/RVsReborn-v0.2.6.zip",
       "zip_name": "RVsReborn-v0.2.6.zip",
       "size_bytes": 9811430,
-      "sha256": "ce9057d3c77ae51adf08ce0cc990a05f71bfd5506df6276ae4103ba4bcb0d0b9",
-      "updated_at": "2026-08-05"
+      "sha256": "4319f5694b2a11f874f94ebc27481489292a48dd01f8f159cb5d584869fa5477"
     },
     {
       "id": "ForMyFurries",
       "server_mod_id": "ForMyFurries",
       "name": "For My Furries",
       "version": "1.2.2",
-      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.1.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/ForMyFurries-v1.2.2.zip",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.2.",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ForMyFurries-v1.2.2.zip",
       "zip_name": "ForMyFurries-v1.2.2.zip",
       "size_bytes": 553540499,
-      "sha256": "85dcbb1151922c586b9928864dd80976079629fab619aca2c65fa6005e4c1a29",
-      "updated_at": "2026-08-05"
+      "sha256": "8a4b70da79834539f0e1a29343f051c52c1aea6f1d960fb9130ff8c568de9abc"
     },
     {
       "id": "WhimsyWeapons",
@@ -1054,11 +1054,11 @@
       "name": "Whimsy Weapons",
       "version": "0.3.3",
       "description": "Five fantastical melee weapons with custom models, textures, icons, and rare world spawns for Project Zomboid Build 42.20.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/WhimsyWeapons-v0.3.3.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/WhimsyWeapons-v0.3.3.zip",
       "zip_name": "WhimsyWeapons-v0.3.3.zip",
       "size_bytes": 17397033,
-      "sha256": "1db6b52da56e45cd41fdd3ea55b6c1145914d507e9f08766175953b4921c464a",
-      "updated_at": "2026-08-05"
+      "sha256": "f655c2eca5e9b36b10842b9798c12cd74a58430a963bbb6a36970203522fd8c6"
     },
     {
       "id": "FadedLocomotion",
@@ -1149,18 +1149,18 @@
       "javaPluginId": "faded.echoesofhumanity",
       "javaPluginVersion": "0.1.2-stage1",
       "javaPluginMode": "HYBRID"
-    }
-  ,
+    },
     {
       "id": "TheBigTreeFix",
       "server_mod_id": "TheBigTreeFix",
       "name": "The Big Tree Fix",
       "version": "0.3.0",
       "description": "Fixes Build 42.20+ jumbo tree visibility indoors, while driving, and on foot. Registered fade canopies are save-loadable, and default-on infrastructure filtering downsizes selected XL/XXL trees near roads and buildings while preserving giant trees in dense forests. Fade textures based on work by movinow.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix/TheBigTreeFix-v0.3.0.zip",
+      "updated_at": "2026-08-05",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/TheBigTreeFix-v0.3.0.zip",
       "zip_name": "TheBigTreeFix-v0.3.0.zip",
       "size_bytes": 9231533,
-      "sha256": "e9f5ea695c88db35a1faf3122606281b0b9e099b6c5b7a08f5f09905b33d7e0a",
-      "updated_at": "2026-08-05"
-    }]
+      "sha256": "7a92059a53b1ec04065f09b2eb7c477da11d5eecff156ceb9e05b5e8c2d07f5b"
+    }
+  ]
 }
