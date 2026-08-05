@@ -767,13 +767,13 @@
       "id": "SolarNeverFaded",
       "server_mod_id": "SolarNeverFaded",
       "name": "Solar Never Faded",
-      "version": "0.2.1",
+      "version": "1.0.0",
       "description": "Standalone Build 42 renewable power network: solar, wind, hydro, controllers, relay nodes, battery banks, portable stations, multiplayer-safe server authority, and optional integration APIs for CSR and KnoxNet OS.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-27-requested-mod-updates/SolarNeverFaded-v0.2.1.zip",
-      "zip_name": "SolarNeverFaded-v0.2.1.zip",
-      "size_bytes": 42232449,
-      "sha256": "ba9ce7e672b1f25b47095fddcdde679e4e5c8418b9021e4aeacf020fa98310c4",
-      "updated_at": "2026-07-27"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-solar-never-faded/SolarNeverFaded-v1.0.0.zip",
+      "zip_name": "SolarNeverFaded-v1.0.0.zip",
+      "size_bytes": 611240323,
+      "sha256": "1b709d2e4b1c2e76ca3e5e27c7ac61dae735359803e52d3dabf51321238cee91",
+      "updated_at": "2026-08-05"
     },
     {
       "id": "SimpleOverhaulTraitsAndOccupations",
