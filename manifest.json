@@ -1040,13 +1040,13 @@
       "id": "ForMyFurries",
       "server_mod_id": "ForMyFurries",
       "name": "For My Furries",
-      "version": "1.2.2",
-      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.2.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ForMyFurries-v1.2.2.zip",
-      "zip_name": "ForMyFurries-v1.2.2.zip",
-      "size_bytes": 553540499,
-      "sha256": "8a4b70da79834539f0e1a29343f051c52c1aea6f1d960fb9130ff8c568de9abc"
+      "version": "1.2.3",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.3.",
+      "updated_at": "2026-08-06",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-06-for-my-furries/ForMyFurries-v1.2.3.zip",
+      "zip_name": "ForMyFurries-v1.2.3.zip",
+      "size_bytes": 553542155,
+      "sha256": "88827c3bdd987da08871213edd07e35adb0dc138c803dd8d78d7254d7b2c385b"
     },
     {
       "id": "WhimsyWeapons",
