@@ -1076,12 +1076,12 @@
       "id": "FadedModSorter",
       "server_mod_id": "FadedModSorter",
       "name": "Faded Mod Sorter",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "description": "Build 42.20 ClearView-styled load-order sorter for Workshop and Faded Installer mods. Topological sort with custom rules, poster previews, and order-only changes (never random activate/deactivate).",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-requested-mod-updates/FadedModSorter-v1.0.1.zip",
-      "zip_name": "FadedModSorter-v1.0.1.zip",
-      "size_bytes": 7658729,
-      "sha256": "f3dd2e8641dcb30caef7b160cb7f657707f8a01ee90e5df2b7837acb6a1fc18a",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-faded-mod-sorter-1.1.0/FadedModSorter-v1.1.0.zip",
+      "zip_name": "FadedModSorter-v1.1.0.zip",
+      "size_bytes": 7661900,
+      "sha256": "5a7863fce55a8acaef8f79d0af4533704145066d59aedd99cec3feb3ffedb6eb",
       "updated_at": "2026-08-07"
     },
     {
