@@ -510,21 +510,21 @@
       "id": "FadedsWeaponPack",
       "server_mod_id": "FadedsWeaponPack",
       "name": "Faded's Weapon Pack",
-      "version": "42.20.20260805.1",
-      "description": "Faded's Weapon Pack for Project Zomboid Build 42.20. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
-      "updated_at": "2026-08-05",
+      "version": "42.20.20260807.2",
+      "description": "Faded's Weapon Pack for Project Zomboid Build 42.20.2. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
+      "updated_at": "2026-08-07",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsWeaponPack-v42.20.20260805.1-part1.zip",
-          "zip_name": "FadedsWeaponPack-v42.20.20260805.1-part1.zip",
-          "size_bytes": 1111759769,
-          "sha256": "54289daecccb5c23f6854308e1394ade6c6131a633f5cb458a8350000504f51f"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-faded-weapon-pack-42.20.20260807.2/FadedsWeaponPack-v42.20.20260807.2-part1.zip",
+          "zip_name": "FadedsWeaponPack-v42.20.20260807.2-part1.zip",
+          "size_bytes": 1112271217,
+          "sha256": "ca08b2c2ba9d304dc37c974432a0698ec3375ebe74b0934511aecb464085ab8a"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsWeaponPack-v42.20.20260805.1-part2.zip",
-          "zip_name": "FadedsWeaponPack-v42.20.20260805.1-part2.zip",
-          "size_bytes": 26955577,
-          "sha256": "9f57a28ae7b005be2a768903835a4232c0057f74ce9e030a112f6c01c1a35927"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-faded-weapon-pack-42.20.20260807.2/FadedsWeaponPack-v42.20.20260807.2-part2.zip",
+          "zip_name": "FadedsWeaponPack-v42.20.20260807.2-part2.zip",
+          "size_bytes": 28022508,
+          "sha256": "ea0b93ebae02d93ca60b6622e4e60bdc51889dfd55a09dba09cb0e5177b392ad"
         }
       ]
     },
