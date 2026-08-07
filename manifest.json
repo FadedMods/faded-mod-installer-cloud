@@ -850,13 +850,13 @@
       "id": "ThePriceWePay",
       "server_mod_id": "ThePriceWePay",
       "name": "The Price We Pay",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "description": "Build 42.20 server-authoritative SP/MP arrest, restraint, escort, and prisoner transport mod.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ThePriceWePay-v0.2.2.zip",
-      "zip_name": "ThePriceWePay-v0.2.2.zip",
-      "size_bytes": 1689236,
-      "sha256": "5e0c260de0e373e5ea20622d9ae7ec290879b7cdce0f06fbc9625aaf47db0bc7"
+      "updated_at": "2026-08-07",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-the-price-we-pay-0.2.3/ThePriceWePay-v0.2.3.zip",
+      "zip_name": "ThePriceWePay-v0.2.3.zip",
+      "size_bytes": 1680928,
+      "sha256": "6cac399d352059b931d865e63001f401837bf37be4efb9edf70c7605229361fb"
     },
     {
       "id": "TheySeeMeRollin",
