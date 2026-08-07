@@ -215,10 +215,10 @@
       "version": "1.0.4",
       "description": "Adds a full arsenal of firearms, melee weapons, explosives, ammunition, attachments, storage containers, and armory support assets for Project Zomboid Build 42.20. DeadCode Weapons Framework integration is optional.",
       "updated_at": "2026-08-07",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-requested-mod-updates/FadedArsenalDeadCountyMunitions-v1.0.4.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/FadedArsenalDeadCountyMunitions-v1.0.4.zip",
       "zip_name": "FadedArsenalDeadCountyMunitions-v1.0.4.zip",
       "size_bytes": 137250712,
-      "sha256": "14b6b330e2888b5af7739c2fac33c51672a51e19a6b8c747a9b5c961d35135c8"
+      "sha256": "77ddf8f11222b61d7f136d8f61c01bf9dab5b2960c944464f33f13c2b0479950"
     },
     {
       "id": "FadedOriginsOccupationsTraits",
@@ -391,13 +391,13 @@
       "id": "FadedsClearViewUI",
       "server_mod_id": "FadedsClearViewUI",
       "name": "Faded's ClearView UI",
-      "version": "0.3.2",
-      "description": "Polished charcoal-and-purple UI pass for Project Zomboid Build 42.20. Adds compact inventory styling, rarity accents, a click-safe auto-hiding sidebar with persistent hand slots and injury-aware health access, plus optional Common Sense Reborn surface styling.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsClearViewUI-v0.3.2.zip",
-      "zip_name": "FadedsClearViewUI-v0.3.2.zip",
-      "size_bytes": 1528124,
-      "sha256": "022de7e40f71771c3b0d50e9ec5ebb4ae8a69cf42b73d6eee7bfc947ea2c1633"
+      "version": "0.4.3",
+      "description": "Faded ergonomic UI overhaul for Project Zomboid Build 42.20. Adds explicit rarity rails and badges, sandbox-selectable inventory views, compact controls, and a live 3D equipment loadout.",
+      "updated_at": "2026-08-07",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/FadedsClearViewUI-v0.4.3.zip",
+      "zip_name": "FadedsClearViewUI-v0.4.3.zip",
+      "size_bytes": 1906094,
+      "sha256": "4115e50ee69f254c8e662f818e05137371e8079f3e382932c7f36030c3d1effb"
     },
     {
       "id": "FadedsErrorDetected",
@@ -464,11 +464,11 @@
       "name": "Faded Trade Network",
       "version": "0.5.1",
       "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.20 stable. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedTradeNetwork-v0.5.1.zip",
+      "updated_at": "2026-08-07",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/FadedTradeNetwork-v0.5.1.zip",
       "zip_name": "FadedTradeNetwork-v0.5.1.zip",
       "size_bytes": 420624,
-      "sha256": "a46ef4f6d49355a3dae1f4a989b5ff38e64cf2d36c3e83c463392db3fc9999ae"
+      "sha256": "9094aa9c92d8658d6153bc5de9c157370e829e629c6605ed4d39a01eb252449a"
     },
     {
       "id": "FadedTrenchCoats",
@@ -674,11 +674,11 @@
       "name": "Just2Faded",
       "version": "2.2.1",
       "description": "Just2Faded for Project Zomboid Build 42.20. Fully standalone narcotics / crafting / farming pack with bundled Just Drugs content and built-in moodle UI.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/Just2Faded-v2.2.1.zip",
+      "updated_at": "2026-08-07",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/Just2Faded-v2.2.1.zip",
       "zip_name": "Just2Faded-v2.2.1.zip",
       "size_bytes": 43437329,
-      "sha256": "22f16cfbf992c17d1c5f6fc273dd5566f592c1f70ca40e00fa06601a53b0f28b"
+      "sha256": "9dca34f3ca45ff30501d3715653b75b57d4d559255b4531701feae609dfd4cbb"
     },
     {
       "id": "OnTheMove",
@@ -698,11 +698,11 @@
       "name": "Project Faded Car",
       "version": "1.1.0",
       "description": "Project Zomboid B42.20 unified vehicle mechanics, automatic training and batch work, server-authoritative maintenance, engine swap, wreck restoration, EV support, and CSR integration for SP and MP.",
-      "updated_at": "2026-08-06",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-06-project-faded-car/ProjectFadedCar-v1.1.0.zip",
+      "updated_at": "2026-08-07",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/ProjectFadedCar-v1.1.0.zip",
       "zip_name": "ProjectFadedCar-v1.1.0.zip",
       "size_bytes": 984054,
-      "sha256": "79547145b2f1ca62adfc43359a9c3a31dd348a147e673106e3a95dac6e84369e"
+      "sha256": "e1816913918c3d0a31f0ca9a791ac986cc764812fce24152d32c0de48a4b1fce"
     },
     {
       "id": "ProximityAutoRead",
@@ -1066,11 +1066,11 @@
       "name": "Faded Locomotion",
       "version": "0.9.4",
       "description": "A comprehensive Build 42 rail system with multiple trains, detachable rolling stock, bidirectional routes, multiplayer track authority, claims integration, and RV-compatible passenger cars.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-01-faded-locomotion-rvbridge-sync/FadedLocomotion-v0.9.4.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-07-fresh-reupload-six-mods/FadedLocomotion-v0.9.4.zip",
       "zip_name": "FadedLocomotion-v0.9.4.zip",
       "size_bytes": 29322408,
-      "sha256": "5a1fdbb344bf81fe1a24512b6fc9c99dbb9501f914df58cfb563fa9b2849954f",
-      "updated_at": "2026-08-01"
+      "sha256": "14e1ba4a08a4748a7ca317e0cdbfc6f0fcddc2a5a6482eff9a3c3e5dcecde6be",
+      "updated_at": "2026-08-07"
     },
     {
       "id": "FadedModSorter",
