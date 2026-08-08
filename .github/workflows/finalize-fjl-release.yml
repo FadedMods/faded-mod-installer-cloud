@@ -1,0 +1,139 @@
+name: Finalize FJL Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: GitHub release tag containing the FJL artifacts
+        required: true
+        default: mod-assets-2026-08-08-faded-java-loader-0.3.0
+      key_id:
+        description: Trusted FJL publisher key id
+        required: true
+        default: faded-fjl-release-2026-08-r3
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      RELEASE_TAG: ${{ inputs.release_tag }}
+      FJL_KEY_ID: ${{ inputs.key_id }}
+      FJL_RELEASE_PRIVATE_KEY_PEM_B64: ${{ secrets.FJL_RELEASE_PRIVATE_KEY_PEM_B64 }}
+    steps:
+      - name: Download release assets
+        run: |
+          set -euo pipefail
+          test -n "$FJL_RELEASE_PRIVATE_KEY_PEM_B64"
+          rm -rf release
+          mkdir -p release
+          gh release download "$RELEASE_TAG" \
+            --repo "$GITHUB_REPOSITORY" \
+            --dir release \
+            --clobber
+
+      - name: Install signing dependency
+        run: python -m pip install --upgrade cryptography
+
+      - name: Finalize manifest and checksums
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import base64
+          import hashlib
+          import json
+          import os
+          from pathlib import Path
+
+          from cryptography.hazmat.primitives import serialization
+          from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PrivateKey
+
+          public_keys = {
+              "faded-fjl-release-2026-08-r3": "MCowBQYDK2VwAyEAt991v7X7VW6xwzEs2QuvTDH3w8KwkS36MDVRrVuVV4w=",
+          }
+
+          def sha256(path: Path) -> str:
+              digest = hashlib.sha256()
+              with path.open("rb") as source:
+                  for chunk in iter(lambda: source.read(1024 * 1024), b""):
+                      digest.update(chunk)
+              return digest.hexdigest()
+
+          release_dir = Path("release").resolve()
+          manifest_path = release_dir / "release-manifest.json"
+          checksums_path = release_dir / "checksums.sha256"
+          key_id = os.environ["FJL_KEY_ID"]
+          expected_public = public_keys.get(key_id)
+          if not expected_public:
+              raise SystemExit(f"Unknown FJL key id: {key_id}")
+
+          encoded_pem = os.environ.get("FJL_RELEASE_PRIVATE_KEY_PEM_B64", "")
+          if not encoded_pem:
+              raise SystemExit("FJL_RELEASE_PRIVATE_KEY_PEM_B64 is not configured")
+          pem = bytearray(base64.b64decode(encoded_pem, validate=True))
+          try:
+              loaded = serialization.load_pem_private_key(bytes(pem), password=None)
+          finally:
+              for index in range(len(pem)):
+                  pem[index] = 0
+          if not isinstance(loaded, Ed25519PrivateKey):
+              raise SystemExit("The release signing key is not an Ed25519 private key")
+
+          actual_public = base64.b64encode(
+              loaded.public_key().public_bytes(
+                  serialization.Encoding.DER,
+                  serialization.PublicFormat.SubjectPublicKeyInfo,
+              )
+          ).decode("ascii")
+          if actual_public != expected_public:
+              raise SystemExit(f"The private key does not match {key_id}")
+
+          manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
+          artifacts = manifest.get("artifacts")
+          if not isinstance(artifacts, dict) or not artifacts:
+              raise SystemExit("release-manifest.json does not contain artifacts")
+
+          base_url = f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/releases/download/{os.environ['RELEASE_TAG']}"
+          for artifact_id, entry in artifacts.items():
+              if not isinstance(entry, dict):
+                  raise SystemExit(f"Invalid artifact entry: {artifact_id}")
+              file_name = str(entry.get("file") or "")
+              artifact_path = release_dir / file_name
+              if not artifact_path.is_file():
+                  raise SystemExit(f"Missing artifact file: {file_name}")
+              expected_hash = str(entry.get("sha256") or "").lower()
+              actual_hash = sha256(artifact_path)
+              if actual_hash != expected_hash:
+                  raise SystemExit(
+                      f"Refusing to sign {file_name}: recorded SHA-256 {expected_hash}, actual {actual_hash}"
+                  )
+              artifact_bytes = artifact_path.read_bytes()
+              entry["url"] = f"{base_url}/{file_name}"
+              entry["signature"] = base64.b64encode(loaded.sign(artifact_bytes)).decode("ascii")
+
+          manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8", newline="")
+          manifest_hash = sha256(manifest_path)
+          lines = checksums_path.read_text(encoding="utf-8-sig").splitlines() if checksums_path.is_file() else []
+          replaced = False
+          for index, line in enumerate(lines):
+              if line.strip().endswith("release-manifest.json"):
+                  lines[index] = f"{manifest_hash}  release-manifest.json"
+                  replaced = True
+          if not replaced:
+              lines.append(f"{manifest_hash}  release-manifest.json")
+          checksums_path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="")
+          print(f"Finalized FJL release manifest with key id {key_id}")
+          print(f"release-manifest.json sha256={manifest_hash}")
+          PY
+
+      - name: Upload finalized manifest
+        run: |
+          set -euo pipefail
+          gh release upload "$RELEASE_TAG" \
+            release/release-manifest.json \
+            release/checksums.sha256 \
+            --clobber \
+            --repo "$GITHUB_REPOSITORY"
