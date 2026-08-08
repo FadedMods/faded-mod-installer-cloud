@@ -753,16 +753,16 @@
       "sha256": "7522af93847a0cecb84871214d98955d05e54399131ecfa73ff5111e6ca627b8"
     },
     {
-      "id": "SleepSpeedController",
-      "server_mod_id": "SleepSpeedController",
-      "name": "Sleep Speed Controller",
-      "version": "1.1.0",
-      "description": "Prevents multiplayer sleep fast-forward from getting stuck on dedicated servers by monitoring sleeping players and resetting time speed when everyone wakes up. Includes a compact MP time-control bar with zombie-proximity safety.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-12-sleep-water-buildcraft-myonlyfriend/SleepSpeedController-v1.1.0.zip",
-      "zip_name": "SleepSpeedController-v1.1.0.zip",
-      "size_bytes": 887593,
-      "sha256": "a78a3590e0c40c8c02d366358df9b841acc70986fdbae0498eb4f42255f7dbea",
-      "updated_at": "2026-07-12"
+      "id": "MPChronoController",
+      "server_mod_id": "MPChronoController",
+      "name": "MP ChronoController",
+      "version": "2.0.0",
+      "description": "Build 42.20.2 server-authoritative multiplayer Pause, Play, fast-forward voting, administrator override, sleep acceleration, safety recovery, and ClearView-style clock controls.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-mp-chrono-controller/MPChronoController-v2.0.0.zip",
+      "zip_name": "MPChronoController-v2.0.0.zip",
+      "size_bytes": 4345993,
+      "sha256": "729927ed91b7949c95f10e9673f940aac0574b4da6a14d60a007d41a61914f06",
+      "updated_at": "2026-08-08"
     },
     {
       "id": "SolarNeverFaded",
