@@ -1,36 +1,36 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "published_at": "2026-08-08",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "source_commit": "c782ef9",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.4",
-  "notes": "Adds in-app self-update support, trusts the FJL r3 signing key, and supports Faded Java Loader 0.3.0.",
+  "source_commit": "69e4d85",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.5",
+  "notes": "Adds in-app self-update support for Windows and Linux, trusts the FJL r3 signing key, and supports Faded Java Loader 0.3.0.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.2.4-windows.zip",
-      "size_bytes": 54100498,
-      "sha256": "abb7d6ced22806029d05d750543c28ff264771225436bdda0bba5e85b0a4204f"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.5/FadedLocalModInstaller-0.2.5-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.5-windows.zip",
+      "size_bytes": 54102305,
+      "sha256": "6573b99210717cd5650ce98a03e2f77be244c5590ad46081ec58d970f5d638cd"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.2.4-windows-multilingual.zip",
-      "size_bytes": 54091053,
-      "sha256": "f8d29a6b276b450ab91232f8f8a18d8a319121b948ea7dc4a7fa89b564dc9488"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.5/FadedLocalModInstaller-0.2.5-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.5-windows-multilingual.zip",
+      "size_bytes": 54092536,
+      "sha256": "80ad6e7a4f156e99210ed00057a3c18ffa6ee1be08240dff6951cda15489d840"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.4-linux-x86_64.tar.gz",
-      "size_bytes": 304034953,
-      "sha256": "4f85eb3fa3745280dbc92f8bad399f09181276330adac4d0f5681054767469d1"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.5/FadedLocalModInstaller-0.2.5-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.5-linux-x86_64.tar.gz",
+      "size_bytes": 304033376,
+      "sha256": "8f5e70099f2969f00b01a3c97e9c7bd06b62b9d02782cd383e14255e74e553e9"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.4-linux-standard-x86_64.tar.gz",
-      "size_bytes": 392793438,
-      "sha256": "ca81afeafa53af06ee6c0412ff89d356fd8b4ccf241874a87080404d80aa633e"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.5/FadedLocalModInstaller-0.2.5-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.5-linux-standard-x86_64.tar.gz",
+      "size_bytes": 392776079,
+      "sha256": "ce0166e874845f2759441904d49a97556ac59d65a303f6ab170a7fd01b393184"
     }
   }
 }
