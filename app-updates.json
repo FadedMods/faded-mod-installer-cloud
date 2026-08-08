@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "app_name": "Faded Local Mod Installer",
+  "version": "0.2.4",
+  "published_at": "2026-08-08",
+  "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
+  "source_commit": "c782ef9",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.4",
+  "notes": "Adds in-app self-update support, trusts the FJL r3 signing key, and supports Faded Java Loader 0.3.0.",
+  "assets": {
+    "windows": {
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.4-windows.zip",
+      "size_bytes": 54100498,
+      "sha256": "abb7d6ced22806029d05d750543c28ff264771225436bdda0bba5e85b0a4204f"
+    },
+    "windows-multilingual": {
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.4-windows-multilingual.zip",
+      "size_bytes": 54091053,
+      "sha256": "f8d29a6b276b450ab91232f8f8a18d8a319121b948ea7dc4a7fa89b564dc9488"
+    },
+    "linux-steamdeck": {
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.4-linux-x86_64.tar.gz",
+      "size_bytes": 304034953,
+      "sha256": "4f85eb3fa3745280dbc92f8bad399f09181276330adac4d0f5681054767469d1"
+    },
+    "linux-standard": {
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.4/FadedLocalModInstaller-0.2.4-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.4-linux-standard-x86_64.tar.gz",
+      "size_bytes": 392793438,
+      "sha256": "ca81afeafa53af06ee6c0412ff89d356fd8b4ccf241874a87080404d80aa633e"
+    }
+  }
+}
