@@ -404,13 +404,13 @@
       "id": "FadedsErrorDetected",
       "server_mod_id": "FadedsErrorDetected",
       "name": "Faded's Error Detected",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "description": "Build 42.20 diagnostics, comprehensive copyable details, error attribution, full reports, and Faded installer update visibility.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/FadedsErrorDetected-v0.2.1.zip",
-      "zip_name": "FadedsErrorDetected-v0.2.1.zip",
-      "size_bytes": 426915,
-      "sha256": "16877f9c893545fb0edd40cc259c1f3b88806e62ab5c916829d5ba7e0ed01949"
+      "updated_at": "2026-08-09",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-fadeds-error-detected-0-2-2-1627/FadedsErrorDetected-v0.2.2.zip",
+      "zip_name": "FadedsErrorDetected-v0.2.2.zip",
+      "size_bytes": 430795,
+      "sha256": "f5eba0474089c327eb7d38b8e7aa16d1a56d5866ab291609ca4e9079e8d2653c"
     },
     {
       "id": "FadedsLastChance",
