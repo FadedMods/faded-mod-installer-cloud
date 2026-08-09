@@ -845,17 +845,6 @@
       "sha256": "6cac399d352059b931d865e63001f401837bf37be4efb9edf70c7605229361fb"
     },
     {
-      "id": "TheySeeMeRollin",
-      "server_mod_id": "TheySeeMeRollin",
-      "name": "They See Me Rollin",
-      "version": "1.0.1",
-      "description": "Unified Build 42.19 vehicle mod pack rebuilt and optimized for multiplayer server authority.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-they-see-me-rollin-3/TheySeeMeRollin-v1.0.1.zip",
-      "zip_name": "TheySeeMeRollin-v1.0.1.zip",
-      "size_bytes": 303197365,
-      "sha256": "deb95c5dcd26a997a2d9b6c8b261a4cb8a00db2b6c5e125c3a590d2a4ecdfb99"
-    },
-    {
       "id": "tsarslib",
       "server_mod_id": "tsarslib",
       "name": "Faded's Tsar Lib",
