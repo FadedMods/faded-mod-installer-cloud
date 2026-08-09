@@ -25,6 +25,30 @@
       "size_bytes": 576735,
       "sha256": "ffdc608d287a56fa67c246493e994155fc49b273e25d70bb31e3a383ab0f5fbd",
       "updated_at": "2026-06-23"
+    },
+    {
+      "id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
+      "server_mod_id": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
+      "name": "IKappalD & Faded's True Real World Vehicle Physics Multiplayer",
+      "version": "2.5.0",
+      "description": "Server-authoritative vehicle physics, trunk capacity, and sandbox sync for Build 42 dedicated multiplayer.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
+      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v2.5.0.zip",
+      "size_bytes": 58922,
+      "sha256": "5a79123d470ca123389886f7e569c671e6dd320b3264398c42554f25d524578d",
+      "updated_at": "2026-07-01"
+    },
+    {
+      "id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
+      "server_mod_id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
+      "name": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
+      "version": "2.5.0",
+      "description": "Vehicle physics, handling, and trunk capacity for Build 42 single-player and listen-host play.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-01-install-error-refresh/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
+      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-SinglePlayer-v2.5.0.zip",
+      "size_bytes": 47561,
+      "sha256": "e6e48c0279a0a240a5c0a31a0a1552a46de2b769e087f3c8f36e30a096555e45",
+      "updated_at": "2026-07-01"
     }
   ]
 }
