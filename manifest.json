@@ -539,13 +539,14 @@
     {
       "id": "Hydrocraft",
       "server_mod_id": "Hydrocraft",
-      "name": "Hydrocraft Build 42.18 Continued",
-      "version": "42.18",
-      "description": "Hydrocraft compatibility continuation for Project Zomboid Build 42.18, preserving the classic item, recipe, crafting, loot, farming, survival, and world-interaction expansion.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Hydrocraft-v42.18.zip",
-      "zip_name": "Hydrocraft-v42.18.zip",
-      "size_bytes": 60188636,
-      "sha256": "4fd3e3d96aee709583786bfec769f8d83bc7867b4234d4ca74702ff84c90d8f8"
+      "name": "Hydrocraft Build 42.20.2 Continued",
+      "version": "42.20.2",
+      "description": "Hydrocraft compatibility continuation for Project Zomboid Build 42.20.2, preserving the classic item, recipe, crafting, loot, farming, survival, and world-interaction expansion.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-hydro-mtk-survivors-openjackets-0849/Hydrocraft-v42.20.2.zip",
+      "zip_name": "Hydrocraft-v42.20.2.zip",
+      "size_bytes": 60445151,
+      "sha256": "fa061af5a4e238e48243cf59d47bf991b3176d15daefc43b7b6a05d0b0eb8f14",
+      "updated_at": "2026-08-09"
     },
     {
       "id": "IntoTheRiver",
@@ -645,13 +646,13 @@
       "id": "Military_Tool_Kit",
       "server_mod_id": "Military_Tool_Kit",
       "name": "Faded's Military Tool Kit Fix",
-      "version": "2.1.7",
-      "description": "Temporary B42.18 compatibility fix for Military Tool Kit by Papa_Chad. Patch work by Faded; testing help by Ghost_Echo.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/Military_Tool_Kit-v2.1.7.zip",
-      "zip_name": "Military_Tool_Kit-v2.1.7.zip",
-      "size_bytes": 16129472,
-      "sha256": "e6ca948591d7d96fa3e9a3a14ac2bdac846f91830b93a7850d9220ac659944a6",
-      "updated_at": "2026-06-21"
+      "version": "2.1.8",
+      "description": "Build 42.20.2 compatibility fix for Military Tool Kit by Papa_Chad. Patch work by Faded; testing help by Ghost_Echo.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-hydro-mtk-survivors-openjackets-0849/Military_Tool_Kit-v2.1.8.zip",
+      "zip_name": "Military_Tool_Kit-v2.1.8.zip",
+      "size_bytes": 16130275,
+      "sha256": "e85d0322d29a745dd1ea255ddb0cde2dc3a9a74ef6ad27eef421f44066c308b1",
+      "updated_at": "2026-08-09"
     },
     {
       "id": "Just2Faded",
@@ -789,25 +790,25 @@
       "id": "SpnOpenCloth",
       "server_mod_id": "SpnOpenCloth",
       "name": "Spongie's Open Jackets",
-      "version": "18",
-      "description": "Alternate wearable styles for vanilla clothing, ported for Build 42.18.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SpnOpenCloth-v18.zip",
-      "zip_name": "SpnOpenCloth-v18.zip",
-      "size_bytes": 5744127,
-      "sha256": "be6624170603a41d09573dbe31d08c31a2147384ea226fa3228072a947d33c91",
-      "updated_at": "2026-06-23"
+      "version": "19",
+      "description": "Alternate wearable styles for vanilla clothing, updated for Build 42.20.2.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-hydro-mtk-survivors-openjackets-0849/SpnOpenCloth-v19.zip",
+      "zip_name": "SpnOpenCloth-v19.zip",
+      "size_bytes": 5722591,
+      "sha256": "70bd40323f20758848dce3300da4b65cb8ed51fa63c706d75ef77065b5da071a",
+      "updated_at": "2026-08-09"
     },
     {
       "id": "Survivors",
       "server_mod_id": "Survivors",
       "name": "Just Survivors",
-      "version": "0.42.18-port",
+      "version": "0.42.20.2-port",
       "description": "Legacy internal namespace retained for compatibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-08-survivors/Survivors-v0.42.18-port.zip",
-      "zip_name": "Survivors-v0.42.18-port.zip",
-      "size_bytes": 101933738,
-      "sha256": "0c1e321fc9ea6f8fe7a7d7648b4efa1412eda5bf4c42849310ec32e33634ad73",
-      "updated_at": "2026-07-08"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-hydro-mtk-survivors-openjackets-0849/Survivors-v0.42.20.2-port.zip",
+      "zip_name": "Survivors-v0.42.20.2-port.zip",
+      "size_bytes": 101934326,
+      "sha256": "2b6462273e42f2d077bb0a7598fb9679e6ad08da8bb919f2634f8f9120f493dc",
+      "updated_at": "2026-08-09"
     },
     {
       "id": "TempControl",
