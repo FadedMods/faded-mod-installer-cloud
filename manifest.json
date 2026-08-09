@@ -574,14 +574,14 @@
     {
       "id": "JustFaded",
       "server_mod_id": "JustFaded",
-      "name": "Just Faded Mask",
-      "version": "42",
-      "description": "A violet-black skull mask for the survivor they only call The Faded.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-07-just-faded-fam/JustFaded-v42.zip",
-      "zip_name": "JustFaded-v42.zip",
-      "size_bytes": 7726161,
-      "sha256": "3993233006a20a024ecd525383f4d43a4d61ac49d18699ea067e807dc878c521",
-      "updated_at": "2026-07-07"
+      "name": "JustFaded: Tactical Faded",
+      "version": "2.0.0",
+      "description": "A self-contained high-detail tactical Faded outfit and luminous skull mask for Project Zomboid Build 42.20.2.",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-just-faded-2-0-0-2/JustFaded-v2.0.0.zip",
+      "zip_name": "JustFaded-v2.0.0.zip",
+      "size_bytes": 59717430,
+      "sha256": "3c955d07f2171bd9444170523eef8a03d52340b594db11d1548b9b2a2e295097",
+      "updated_at": "2026-08-09"
     },
     {
       "id": "KnoxNetOS",
