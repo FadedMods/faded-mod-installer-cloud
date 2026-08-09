@@ -18,13 +18,13 @@
       "id": "OldWorldBandits",
       "server_mod_id": "OldWorldBandits",
       "name": "Criminals from Old World",
-      "version": "1.0",
-      "description": "Adds 12 new occupations based on criminals. Requires SOTO.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-07-04-yosef-old-world-criminals/OldWorldBandits-v1.0.zip",
-      "zip_name": "OldWorldBandits-v1.0.zip",
-      "size_bytes": 966894,
-      "sha256": "b157226b5ced263a9e2d74e62ab0e4e6d0c609a6d9f42b06c1f0582b9b39667f",
-      "updated_at": "2026-07-04"
+      "version": "1.1.0",
+      "description": "Adds 12 criminal occupations for Build 42.20.2. Requires SOTO and integrates with Faded Origins Resolve when installed.",
+      "updated_at": "2026-08-09",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-yosef-old-world-criminals-1-1-0-1326/OldWorldBandits-v1.1.0.zip",
+      "zip_name": "OldWorldBandits-v1.1.0.zip",
+      "size_bytes": 1386713,
+      "sha256": "cdf16d59a242fa6d031caa3b2cbb17b7fd57e67439afc5ea2efb9875e4e94119"
     }
   ]
 }
