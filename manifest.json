@@ -702,11 +702,11 @@
       "name": "Faded's Military Tool Kit Fix",
       "version": "2.2.0",
       "description": "Build 42.20.2 compatibility and dependency release for Military Tool Kit by Papa_Chad. Maintained with permission by Faded; testing help by Ghost_Echo.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-military-tool-kit-2-2-0-1254/Military_Tool_Kit-v2.2.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-military-tool-kit-visual-refresh-0558/Military_Tool_Kit-v2.2.0.zip",
       "zip_name": "Military_Tool_Kit-v2.2.0.zip",
-      "size_bytes": 20172143,
-      "sha256": "8d2da32974f037d5cd48bd6a6b5f0c1f6ec79e63c3ce64dc7f0f31785d333b0a",
-      "updated_at": "2026-08-09"
+      "size_bytes": 20448687,
+      "sha256": "19d6f214c09deac3b1fddc349d2e2b7d5967210ddde6af15c400ffc10c790e6d",
+      "updated_at": "2026-08-10"
     },
     {
       "id": "Just2Faded",
