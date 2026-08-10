@@ -32,37 +32,37 @@
   },
   "java_loader_v2": {
     "product": "FadedJavaLoader",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "minimum_pz_build": "42.20.2",
-    "trusted_key_id": "faded-fjl-release-2026-08-r3",
+    "trusted_key_id": "faded-fjl-release-2026-08-r4",
     "artifacts": {
       "client-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-faded-java-loader-0.3.0/FadedJavaLoader-client-windows-0.3.0.zip",
-        "zip_name": "FadedJavaLoader-client-windows-0.3.0.zip",
-        "size_bytes": 4438450,
-        "sha256": "1eb39fd7e2cf4e579e7c98ff19c7eb9976b6e895f3adc07f42f0636c51c86b13",
-        "signature": "rjhokBy9ew4S5XGANkHMTFDykvRGKaKOAgPR9A2RRHBBHvQTviA34UJ4mv4kiT8EcRQO2rtCxh7bdShvnHNoBQ=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-faded-java-loader-0.3.1/FadedJavaLoader-client-windows-0.3.1.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.3.1.zip",
+        "size_bytes": 4572911,
+        "sha256": "85e0c0ed3ee91f1ad3a048b7dc2ecef4a7fa7296f89bacb69b39df5a166070a4",
+        "signature": "6mM0QGnbpFClP3DeN1t0pXpUrQWWC9EbjN7GPppwJLC3GSoc1vwNZdVjSQOSeXwP0kQ3TxXBzj+/k//dEtiPBA=="
       },
       "client-macos": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-faded-java-loader-0.3.0/FadedJavaLoader-client-macos-0.3.0.zip",
-        "zip_name": "FadedJavaLoader-client-macos-0.3.0.zip",
-        "size_bytes": 4437442,
-        "sha256": "d35788ca2bd9d4c08e0b7fe2c7e72236edf0ce9cd61db8d5207fb5939b655103",
-        "signature": "LJWgtc8QwsuIVs0apV5aceOGbp6QJ4nUQGDvzYfbFVgnnoWSwYxiJkw1NAmZCGg2fJFu3U3MHKtLibnOofrvDg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-faded-java-loader-0.3.1/FadedJavaLoader-client-macos-0.3.1.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.3.1.zip",
+        "size_bytes": 4478895,
+        "sha256": "73e0371a4332065199f4d555cb81d7c1178050592304662ab43b196795c406fd",
+        "signature": "nqy5gjJx9H/h0HjWsHIqu724epQgEIOEZauSE7joZ3gA7Cpa+Or9NVzABAN/GLwYhKJi1Dg2kWBYE/zDLDYwAg=="
       },
       "server-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-faded-java-loader-0.3.0/FadedJavaLoader-server-windows-0.3.0.zip",
-        "zip_name": "FadedJavaLoader-server-windows-0.3.0.zip",
-        "size_bytes": 4442383,
-        "sha256": "12e7959d7cd82867225562c4edf925dad437048909e687f9c1639363fecc188b",
-        "signature": "uDM8/1wPctLCLtCfaZNAG5WPvqMZ7NUh0p22J+zVDES+KxX2fKKJ2EqDODwpLdS+q7y5U1mun4M0/UEQMqi2Cw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-faded-java-loader-0.3.1/FadedJavaLoader-server-windows-0.3.1.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.3.1.zip",
+        "size_bytes": 4576838,
+        "sha256": "045838272685b04b24851fa5216a3e164ec9351dbb68d367d3e97748bc937df8",
+        "signature": "kSGmEdGBjm7EuBTZRyCV4bGtgG2MACHCqd4fo1jl298JgPr62btvZ1aF8mkmldjiEQQ5Bgogep650WO6fdvhBg=="
       },
       "server-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-faded-java-loader-0.3.0/FadedJavaLoader-server-linux-0.3.0.zip",
-        "zip_name": "FadedJavaLoader-server-linux-0.3.0.zip",
-        "size_bytes": 4440642,
-        "sha256": "0f37a6d20d441925f927617bb3da2954e9a28670172901f7f39104108e407e82",
-        "signature": "DdZO7ScbtE/M0XRimkNI8qMioVAjgvgKpJ3NOOI5EoCuuhAredXA7nuzLidj5odQQnk3ZSQaMYpiBmAck4ASAg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-faded-java-loader-0.3.1/FadedJavaLoader-server-linux-0.3.1.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.3.1.zip",
+        "size_bytes": 4482091,
+        "sha256": "6d7e181b60ab1a714545f64720d3ea4bd890e79660d13e2513a40bfebaa91eb6",
+        "signature": "cWFnTNUX7lTyeioXKTpn9VEW18IgVWq9Iw8h7ItEcrgIIILQqRZ/Kb1n9xhhd/BppmmuGDssokwh9NcJTlZBAw=="
       }
     }
   },

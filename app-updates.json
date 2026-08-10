@@ -1,36 +1,36 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.2.7",
-  "published_at": "2026-08-09",
+  "version": "0.2.8",
+  "published_at": "2026-08-10",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "source_commit": "32779c8",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.7",
-  "notes": "Urgent Faded Java Loader hotfix: installer repair/install now migrates old relative javaagent startup paths to absolute platform-safe paths, removes duplicate FJL javaagent entries, and preserves JVM settings such as Xms/Xmx. Existing FJL users should update, open Java Loader, and run Repair.",
+  "source_commit": "add93c6",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.8",
+  "notes": "Faded Java Loader normal-launch hotfix: Windows normal Steam launch now uses the FJL native bootstrap DLL, alternate launchers stay on javaagent, stale hooks are repaired, fallback Java commands are covered, and Windows FJL repair raises low PZ RAM allocation to 12/8/6 GB tiers without lowering higher values. Update, open Java Loader, and run Repair after installing.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.2.7-windows.zip",
-      "size_bytes": 54113009,
-      "sha256": "79c8c9bd3aa180a2f1ebbab79f8d165517307bab60dedf1628b4267a2a58c390"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.8/FadedLocalModInstaller-0.2.8-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.8-windows.zip",
+      "size_bytes": 54119824,
+      "sha256": "9b811277ad5b0abf92d11b0871574a9a973bce935fd435618b40cf2ae256f2ab"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.2.7-windows-multilingual.zip",
-      "size_bytes": 54102253,
-      "sha256": "9c192d8f0fca12e329cd1672db6d2cacbf0228e0437caa57287510f314a0916d"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.8/FadedLocalModInstaller-0.2.8-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.8-windows-multilingual.zip",
+      "size_bytes": 54110495,
+      "sha256": "fa655a1802e93e535e82bff80aae4d56e9302067606ef3d12a6042c0c5380f28"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.7-linux-x86_64.tar.gz",
-      "size_bytes": 304022524,
-      "sha256": "7c34e2aa23e1be9bd5d5d3212050a6b93656d607103c9cff0bfb5b58c1c8d6e1"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.8/FadedLocalModInstaller-0.2.8-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.8-linux-x86_64.tar.gz",
+      "size_bytes": 304063709,
+      "sha256": "6c8182cfa0fb4129177ffdf6bdc31a1a5afbc4596a377b9adcfdb89b3cc0d9dc"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.7-linux-standard-x86_64.tar.gz",
-      "size_bytes": 392790109,
-      "sha256": "506e382a148a0cfc3417cda43a68a327abc2a3b8d606622c774d9b6376e0178d"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.8/FadedLocalModInstaller-0.2.8-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.8-linux-standard-x86_64.tar.gz",
+      "size_bytes": 392798767,
+      "sha256": "85e69ecb485b754e39c830a7d6da1351046b21595e99d658aebfefc20d91b327"
     }
   }
 }
