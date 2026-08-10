@@ -683,6 +683,20 @@
       ]
     },
     {
+      "id": "MassiveKI5Pack",
+      "server_mod_id": "MassiveKI5Pack",
+      "name": "Massive KI5 Pack",
+      "version": "1.0.0",
+      "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2.",
+      "uncompressed_size_bytes": 480787566,
+      "required_free_bytes": 1337826652,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-massive-ki5-pack-0747/MassiveKI5Pack-v1.0.0.zip",
+      "zip_name": "MassiveKI5Pack-v1.0.0.zip",
+      "size_bytes": 320168174,
+      "sha256": "dda152822c4fac7a45ed49fc2461a3cb4fc0f4c53d1e32f2887b10432b95d8fc",
+      "updated_at": "2026-08-10"
+    },
+    {
       "id": "MassiveVehiclePack",
       "server_mod_id": "MassiveVehiclePack",
       "name": "Massive Vehicle Pack",
