@@ -1,36 +1,36 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "published_at": "2026-08-09",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "source_commit": "4d651b9",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.6",
-  "notes": "Improves large mod installs with free-space prechecks, same-volume move installs, multipart ZIP cache cleanup, backup pruning, and packaging metadata for future required-space estimates.",
+  "source_commit": "32779c8",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.7",
+  "notes": "Urgent Faded Java Loader hotfix: installer repair/install now migrates old relative javaagent startup paths to absolute platform-safe paths, removes duplicate FJL javaagent entries, and preserves JVM settings such as Xms/Xmx. Existing FJL users should update, open Java Loader, and run Repair.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.6/FadedLocalModInstaller-0.2.6-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.2.6-windows.zip",
-      "size_bytes": 54106447,
-      "sha256": "55a9b9cfe13dfae39f0cfc51d0442e59598eb57ff1e1cdb765c9daaaaf479744"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.7-windows.zip",
+      "size_bytes": 54113009,
+      "sha256": "79c8c9bd3aa180a2f1ebbab79f8d165517307bab60dedf1628b4267a2a58c390"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.6/FadedLocalModInstaller-0.2.6-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.2.6-windows-multilingual.zip",
-      "size_bytes": 54097094,
-      "sha256": "9b59da74bd499ca180ce28681065fb2fbecdac51c07550e35effd1ad09e71192"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.7-windows-multilingual.zip",
+      "size_bytes": 54102253,
+      "sha256": "9c192d8f0fca12e329cd1672db6d2cacbf0228e0437caa57287510f314a0916d"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.6/FadedLocalModInstaller-0.2.6-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.6-linux-x86_64.tar.gz",
-      "size_bytes": 304040458,
-      "sha256": "096a85b2637ec0802945dee35943fe0e1cdb1f4eea26700e9ead5583b913ba97"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.7-linux-x86_64.tar.gz",
+      "size_bytes": 304022524,
+      "sha256": "7c34e2aa23e1be9bd5d5d3212050a6b93656d607103c9cff0bfb5b58c1c8d6e1"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.6/FadedLocalModInstaller-0.2.6-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.6-linux-standard-x86_64.tar.gz",
-      "size_bytes": 392786307,
-      "sha256": "f79d9664bd3d46008f50d7166324dece4a365b3b024d084abf3d9b72c64a70d2"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.7/FadedLocalModInstaller-0.2.7-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.7-linux-standard-x86_64.tar.gz",
+      "size_bytes": 392790109,
+      "sha256": "506e382a148a0cfc3417cda43a68a327abc2a3b8d606622c774d9b6376e0178d"
     }
   }
 }
