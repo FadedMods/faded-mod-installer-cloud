@@ -1212,13 +1212,15 @@
       "id": "TheBigTreeFix",
       "server_mod_id": "TheBigTreeFix",
       "name": "The Big Tree Fix",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "description": "Fixes Build 42.20+ jumbo tree visibility indoors, while driving, and on foot. Registered fade canopies are save-loadable, and default-on infrastructure filtering downsizes selected XL/XXL trees near roads and buildings while preserving giant trees in dense forests. Fade textures based on work by movinow.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/TheBigTreeFix-v0.3.1.zip",
-      "zip_name": "TheBigTreeFix-v0.3.1.zip",
-      "size_bytes": 9232190,
-      "sha256": "a05abc5b979fd4fe56360d1540c06a3c14f0b9fb27ea9b1570cbce8a78f08a75"
+      "updated_at": "2026-08-10",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-big-tree-fix-20260810-124027/TheBigTreeFix-v0.3.2.zip",
+      "zip_name": "TheBigTreeFix-v0.3.2.zip",
+      "size_bytes": 9232303,
+      "sha256": "819bf72b7a69d3a8fcbb224e4a62da0723d3082d0032ba68707e12036bd2e7fd",
+      "uncompressed_size_bytes": 9372126,
+      "required_free_bytes": 555475341
     },
     {
       "id": "TheYoungDiedToo",
