@@ -604,45 +604,45 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and Java presentation quality. PZF NPC systems are not included.",
-      "uncompressed_size_bytes": 8084340582,
-      "required_free_bytes": 11925897076,
-      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 8084340803,
+      "required_free_bytes": 11925897381,
+      "updated_at": "2026-08-11",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "knoxreborn.hybrid",
-      "javaPluginVersion": "0.3.2",
+      "javaPluginVersion": "0.3.3",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.2-part1.zip",
-          "size_bytes": 413660997,
-          "sha256": "c78363bce263397c7ea56c62df3cecb0e090113edf65504909dff8d480dd684f"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.3-part1.zip",
+          "size_bytes": 413661059,
+          "sha256": "c6fb481e2a32bac235d85868e4c6b8c6bfcb42f7fd7182c50e8b84a82f9e0363"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.2-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.3-part2.zip",
           "size_bytes": 178399382,
           "sha256": "3b1b8ec222cba24d2234495a5e8aa1d59a59168a5a930ef4a32cdb58eb1a8101"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.2-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.3-part3.zip",
           "size_bytes": 357084451,
           "sha256": "8f7fd78693bf0aac3fb6bc1491cacc58acce8acd277819c780ac0c6e3ca2bbdf"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.2-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.3-part4.zip",
           "size_bytes": 1498158299,
           "sha256": "6d8cdd8ee14082e87897999a6b4082708822f008f3dfb9401bf9d3eed4aebdd8"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.2-part5.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part5.zip",
+          "zip_name": "KnoxReborn-v0.3.3-part5.zip",
           "size_bytes": 585819307,
           "sha256": "df08a98c24fa0a3c3106feb3e2ef06cc74a854341cc418646c0c27f44e5124e3"
         }
@@ -1241,6 +1241,20 @@
       "zip_name": "TheYoungDiedToo-v1.0.1.zip",
       "size_bytes": 18482750,
       "sha256": "c60c36fc0b3fd74115109f8b0ce06f81fa4f57e18e9cc2c41c81ac565d40a497"
+    },
+    {
+      "id": "CharacterCreator",
+      "server_mod_id": "CharacterCreator",
+      "name": "Character Creator",
+      "version": "1.2.0",
+      "description": "Character creation overhaul for Build 42.20.2: three-column creator, faces and body details, hair gallery, starting loadout and vehicle pickers, large wardrobe with budgeted loot and zombie clothing, tactical kits (camo uniforms, plates, holsters), and pack API for add-ons.",
+      "uncompressed_size_bytes": 700835714,
+      "required_free_bytes": 1701148570,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/CharacterCreator-v1.2.0.zip",
+      "zip_name": "CharacterCreator-v1.2.0.zip",
+      "size_bytes": 463441944,
+      "sha256": "4d4698a6e2a686dbd4515b7692f98a975138ccbdbfdc214b1c14c5c01fed2f54",
+      "updated_at": "2026-08-11"
     }
   ]
 }
