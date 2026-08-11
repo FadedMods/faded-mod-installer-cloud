@@ -152,29 +152,29 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.9.0",
+      "version": "1.9.1",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 518 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 44621609,
-      "required_free_bytes": 610213239,
+      "uncompressed_size_bytes": 44621767,
+      "required_free_bytes": 610213431,
       "updated_at": "2026-08-10",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-csr-mkp-20260810-144928/CommonSenseReborn-v1.9.0.zip",
-      "zip_name": "CommonSenseReborn-v1.9.0.zip",
-      "size_bytes": 28720718,
-      "sha256": "c5216cc22c7af9787a1828aba1d919be6400fc4f83c03c3af0941f8a8b62ddba"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/CommonSenseReborn-v1.9.1.zip",
+      "zip_name": "CommonSenseReborn-v1.9.1.zip",
+      "size_bytes": 28720752,
+      "sha256": "ee25a10bf2bc5750e28cd7a0d6bd43f00cb877bb27a8d9bd2742f38d9320a0b0"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.9.1",
+      "version": "1.9.2",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 518 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 47855366,
-      "required_free_bytes": 614726235,
+      "uncompressed_size_bytes": 47855524,
+      "required_free_bytes": 614726427,
       "updated_at": "2026-08-10",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-csr-mkp-20260810-144928/CommonSenseRebornTest-v1.9.1.zip",
-      "zip_name": "CommonSenseRebornTest-v1.9.1.zip",
-      "size_bytes": 29999957,
-      "sha256": "544be31085ecfa386ef82ef8387841ba78527c1441d5ceb6bd9b841e21fbd446"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/CommonSenseRebornTest-v1.9.2.zip",
+      "zip_name": "CommonSenseRebornTest-v1.9.2.zip",
+      "size_bytes": 29999991,
+      "sha256": "5751ae9293cec8612fa0c46314f932785fb566ff7e590c68571c9e55d6696761"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -408,13 +408,15 @@
       "id": "FadedsErrorDetected",
       "server_mod_id": "FadedsErrorDetected",
       "name": "Faded's Error Detected",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "description": "Build 42.20 diagnostics, comprehensive copyable details, error attribution, full reports, and Faded installer update visibility.",
-      "updated_at": "2026-08-09",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-fadeds-error-detected-0-2-2-1627/FadedsErrorDetected-v0.2.2.zip",
-      "zip_name": "FadedsErrorDetected-v0.2.2.zip",
-      "size_bytes": 430795,
-      "sha256": "f5eba0474089c327eb7d38b8e7aa16d1a56d5866ab291609ca4e9079e8d2653c"
+      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 508361,
+      "required_free_bytes": 537810575,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/FadedsErrorDetected-v0.2.3.zip",
+      "zip_name": "FadedsErrorDetected-v0.2.3.zip",
+      "size_bytes": 431302,
+      "sha256": "3d14abd1f7ee4f26411f50fe588eb2aa6bb3c28c11f9fb98faf4facf2598c51a"
     },
     {
       "id": "FadedsLastChance",
@@ -550,13 +552,15 @@
       "id": "IntoTheRiver",
       "server_mod_id": "IntoTheRiver",
       "name": "Into The River",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "description": "Standalone Build 42.20.2 river survival with powerboats, sailing yachts, trailers, swimming, makeshift rafts, crafting, marine loot, and dedicated controls.",
-      "updated_at": "2026-08-09",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-eleven-mod-updates/IntoTheRiver-v1.2.3.zip",
-      "zip_name": "IntoTheRiver-v1.2.3.zip",
-      "size_bytes": 60157682,
-      "sha256": "f3b327c1076e7943e77d1845e44086025e1bf2c19612ae202d1057d0d53fb6dd"
+      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 63868911,
+      "required_free_bytes": 660897783,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/IntoTheRiver-v1.2.4.zip",
+      "zip_name": "IntoTheRiver-v1.2.4.zip",
+      "size_bytes": 60157960,
+      "sha256": "eaab46f9646833a42c2dcd1de44b9125bfccf1bd8c089650b77a6bdebe1daa5a"
     },
     {
       "id": "ISyncYouSyncWeAllSyncForDeSync",
@@ -598,53 +602,47 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and Java presentation quality. PZF NPC systems are not included.",
-      "uncompressed_size_bytes": 9585760303,
-      "required_free_bytes": 15062273320,
+      "uncompressed_size_bytes": 8084340582,
+      "required_free_bytes": 11925897076,
       "updated_at": "2026-08-10",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "knoxreborn.hybrid",
-      "javaPluginVersion": "0.3.1",
+      "javaPluginVersion": "0.3.2",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part1.zip",
-          "size_bytes": 414170707,
-          "sha256": "04d90d62ef16f7e8984e629870123a64d6e15f130dc3db0a5c3567252b2aa845"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.2-part1.zip",
+          "size_bytes": 413660997,
+          "sha256": "c78363bce263397c7ea56c62df3cecb0e090113edf65504909dff8d480dd684f"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part2.zip",
-          "size_bytes": 178293432,
-          "sha256": "201a545774da7e6c4b371a9906a78ff9b23c64d922b397c604dc5785d641dfe2"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.2-part2.zip",
+          "size_bytes": 178399382,
+          "sha256": "3b1b8ec222cba24d2234495a5e8aa1d59a59168a5a930ef4a32cdb58eb1a8101"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part3.zip",
-          "size_bytes": 360219788,
-          "sha256": "0ada2c10bdc3f2c94ce0d886c2788b445c9b8211d456cb3b6a847b8f84718aed"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.2-part3.zip",
+          "size_bytes": 357084451,
+          "sha256": "8f7fd78693bf0aac3fb6bc1491cacc58acce8acd277819c780ac0c6e3ca2bbdf"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part4.zip",
-          "size_bytes": 1439538568,
-          "sha256": "80bea193e423cd5fd4587b60a3ae759310c2a120d28b94b0b59e60d372172664"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.2-part4.zip",
+          "size_bytes": 1498158299,
+          "sha256": "6d8cdd8ee14082e87897999a6b4082708822f008f3dfb9401bf9d3eed4aebdd8"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part5.zip",
-          "size_bytes": 1556383924,
-          "sha256": "fc708a092c133d2733ae964189998fd092205469c5d92113ea35fec250d39188"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-knox-reborn-0-3-1/KnoxReborn-v0.3.1-part6.zip",
-          "zip_name": "KnoxReborn-v0.3.1-part6.zip",
-          "size_bytes": 569330568,
-          "sha256": "45c1a7a43ebc27fa60ab2a0e3384638c9ab985d62f2b7f231201198511659fc6"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/KnoxReborn-v0.3.2-part5.zip",
+          "zip_name": "KnoxReborn-v0.3.2-part5.zip",
+          "size_bytes": 585819307,
+          "sha256": "df08a98c24fa0a3c3106feb3e2ef06cc74a854341cc418646c0c27f44e5124e3"
         }
       ]
     },
@@ -836,13 +834,15 @@
       "id": "SimpleOverhaulTraitsAndOccupations",
       "server_mod_id": "SimpleOverhaulTraitsAndOccupations",
       "name": "Simple Overhaul: Traits and Occupations (SOTO)",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "B42.20 multiplayer-first overhaul of vanilla and custom traits and occupations, with server-authoritative progression, full localization, polished vanilla-style gameplay icons, and Faded branding.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/SimpleOverhaulTraitsAndOccupations-v1.0.2.zip",
-      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.2.zip",
-      "size_bytes": 2497867,
-      "sha256": "5d696f3b827a1dea9d5039d2bada778b26aee8da4d4f367cea7f44d8e593c17c"
+      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 2974477,
+      "required_free_bytes": 542343383,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/SimpleOverhaulTraitsAndOccupations-v1.0.3.zip",
+      "zip_name": "SimpleOverhaulTraitsAndOccupations-v1.0.3.zip",
+      "size_bytes": 2497994,
+      "sha256": "ae6c271e179ef159f1a65ed234389b35afbad5f4959d6d2fbadb0d3d3e733673"
     },
     {
       "id": "SpongiesFadedClothing_B42Port",
@@ -882,11 +882,13 @@
       "name": "Just Survivors",
       "version": "0.42.20.2-port",
       "description": "Legacy internal namespace retained for compatibility.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-hydro-mtk-survivors-openjackets-0849/Survivors-v0.42.20.2-port.zip",
+      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 163394986,
+      "required_free_bytes": 802200543,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/Survivors-v0.42.20.2-port.zip",
       "zip_name": "Survivors-v0.42.20.2-port.zip",
-      "size_bytes": 101934326,
-      "sha256": "2b6462273e42f2d077bb0a7598fb9679e6ad08da8bb919f2634f8f9120f493dc",
-      "updated_at": "2026-08-09"
+      "size_bytes": 101934645,
+      "sha256": "7e057e371a61ac3eadb6ad36b8eb72cf0be45833daad45eba7b652b93d4c89f7"
     },
     {
       "id": "TempControl",
@@ -1098,13 +1100,15 @@
       "id": "ForMyFurries",
       "server_mod_id": "ForMyFurries",
       "name": "For My Furries",
-      "version": "1.2.3",
-      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.3.",
-      "updated_at": "2026-08-06",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-06-for-my-furries/ForMyFurries-v1.2.3.zip",
-      "zip_name": "ForMyFurries-v1.2.3.zip",
-      "size_bytes": 553542155,
-      "sha256": "88827c3bdd987da08871213edd07e35adb0dc138c803dd8d78d7254d7b2c385b"
+      "version": "1.2.4",
+      "description": "Unified anthropomorphic survivor, outfit, trait, accessory, decor, animation, and Feastcraft-compatible diet collection for Project Zomboid Build 42.20. Version 1.2.4.",
+      "updated_at": "2026-08-10",
+      "uncompressed_size_bytes": 1583133735,
+      "required_free_bytes": 2673547470,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/ForMyFurries-v1.2.4.zip",
+      "zip_name": "ForMyFurries-v1.2.4.zip",
+      "size_bytes": 553542823,
+      "sha256": "d4e4f9ab9f63336000ab293247ebc0e7d10bbb3afc6b272b8ae5f14e15ddb4b8"
     },
     {
       "id": "WhimsyWeapons",
@@ -1194,19 +1198,21 @@
       "id": "EchoesOfHumanity",
       "server_mod_id": "EchoesOfHumanity",
       "name": "Echoes of Humanity",
-      "version": "0.1.5-stage1",
+      "version": "0.1.6-stage1",
       "description": "Native Java NPC framework for Project Zomboid Build 42.20, loaded by Faded's Java Loader.",
-      "updated_at": "2026-08-08",
+      "updated_at": "2026-08-10",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "faded.echoesofhumanity",
-      "javaPluginVersion": "0.1.4-stage1",
+      "javaPluginVersion": "0.1.6-stage1",
       "javaPluginMode": "HYBRID",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/EchoesOfHumanity-v0.1.5-stage1.zip",
-      "zip_name": "EchoesOfHumanity-v0.1.5-stage1.zip",
-      "size_bytes": 18302857,
-      "sha256": "f1f053435af55a1a0398eec32d9a0f62b94a56fcbbff425032322ce3b06585b3"
+      "uncompressed_size_bytes": 22633150,
+      "required_free_bytes": 577807868,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-batch-csr-knox-echoes-20260810-225721/EchoesOfHumanity-v0.1.6-stage1.zip",
+      "zip_name": "EchoesOfHumanity-v0.1.6-stage1.zip",
+      "size_bytes": 18303806,
+      "sha256": "216f898caa688f2fe9821a4d2651727a6a4bacb84b3c6afffd95db3f52bd5f42"
     },
     {
       "id": "TheBigTreeFix",
