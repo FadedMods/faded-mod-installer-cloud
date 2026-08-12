@@ -228,13 +228,15 @@
       "id": "FadedOriginsOccupationsTraits",
       "server_mod_id": "FadedOriginsOccupationsTraits",
       "name": "Faded Origins - Occupations & Traits",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Dark-edged occupations and traits with server-authoritative Resolve progression for Build 42.20.2. Integrates with SOTO and Old World Criminals.",
-      "updated_at": "2026-08-09",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-chaded-convoy-faded-origins-1326/FadedOriginsOccupationsTraits-v1.0.0.zip",
-      "zip_name": "FadedOriginsOccupationsTraits-v1.0.0.zip",
-      "size_bytes": 1726620,
-      "sha256": "80271e03e1257667eba5108aa676b6d00e40d4739f4bd368e13548e92d09ee96"
+      "updated_at": "2026-08-12",
+      "uncompressed_size_bytes": 1828832,
+      "required_free_bytes": 540428598,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-faded-origins-20260811-213727/FadedOriginsOccupationsTraits-v1.0.1.zip",
+      "zip_name": "FadedOriginsOccupationsTraits-v1.0.1.zip",
+      "size_bytes": 1728854,
+      "sha256": "328695709573fd6dbd5a260538cd8ca7463dec1a107a53de9f44fc122a57426f"
     },
     {
       "id": "FadedAdvancedMedical",
