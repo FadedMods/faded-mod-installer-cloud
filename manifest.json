@@ -572,13 +572,15 @@
       "id": "ISyncYouSyncWeAllSyncForDeSync",
       "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
-      "version": "1.0.1",
-      "description": "Build 42.20 multiplayer desync defense suite with bounded server-authoritative vehicle impact validation, adaptive work budgets, zombie remediation, action guards, health telemetry, and an optional Faded Java Loader impact accelerator. Complete Lua fallback. SP + MP.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ISyncYouSyncWeAllSyncForDeSync-v1.0.1.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.0.1.zip",
-      "size_bytes": 290223,
-      "sha256": "6b5adf59c2519cb1772ede5893b0c9df910e71a80aceb7b7be41186868f10914"
+      "version": "1.1.0",
+      "description": "Build 42.20.2 multiplayer diagnostics and bounded remediation with server-owned vehicle impact validation, adaptive budgets, zombie path recovery, and an optional Faded Java Loader CPU/OpenCL numeric accelerator API. Complete Lua fallback. SP + MP.",
+      "updated_at": "2026-08-12",
+      "uncompressed_size_bytes": 953831,
+      "required_free_bytes": 538551440,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-isync-desync-20260812-142010/ISyncYouSyncWeAllSyncForDeSync-v1.1.0.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.0.zip",
+      "size_bytes": 726697,
+      "sha256": "3c1df4ad2dd5695bf90e24adc134c63cf57feafe9ca6bdc9fc0ab83b25dad1ed"
     },
     {
       "id": "JustFaded",
