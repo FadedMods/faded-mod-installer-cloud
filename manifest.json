@@ -242,13 +242,15 @@
       "id": "FadedAdvancedMedical",
       "server_mod_id": "FadedAdvancedMedical",
       "name": "Faded's Advanced Medical",
-      "version": "2.0.4",
-      "description": "FAM 2.0.4 for Build 42.20: server-authoritative advanced medicine, field surgery, prosthetics, digestive care, pathology, virology, and a responsive three-window green triage workspace.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/FadedAdvancedMedical-v2.0.4.zip",
-      "zip_name": "FadedAdvancedMedical-v2.0.4.zip",
-      "size_bytes": 33006336,
-      "sha256": "d4aa95daec292f5d506e193ad258dc8764564223258b646b96b26b6ab65e6f01"
+      "version": "2.1.2",
+      "description": "FAM 2.1.2 for Build 42.20: server-authoritative advanced medicine, veterinary companion triage, typed blood, diagnostics, and a polished three-window green workspace.",
+      "updated_at": "2026-08-12",
+      "uncompressed_size_bytes": 69816679,
+      "required_free_bytes": 663228541,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-faded-advanced-medical-20260812-161559/FadedAdvancedMedical-v2.1.2.zip",
+      "zip_name": "FadedAdvancedMedical-v2.1.2.zip",
+      "size_bytes": 56540950,
+      "sha256": "182c4d5bd56e14f7cbf5fa35513c1930eaf8e22982abe6f5270ed2ee90a97b86"
     },
     {
       "id": "FadedAfflictions",
