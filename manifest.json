@@ -140,13 +140,15 @@
       "id": "BuildcraftReborn",
       "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
-      "version": "0.3.1",
-      "description": "Build 42.20 unified Make / Build UI. ClearView-themed Craft/Build hub with virtual lists, intelligent context menus, sidebar icon that follows ClearView auto-hide, CSR-safe containers. Vanilla logic only.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/BuildcraftReborn-v0.3.1.zip",
-      "zip_name": "BuildcraftReborn-v0.3.1.zip",
-      "size_bytes": 980908,
-      "sha256": "a18a5a644410b24887247c1d4000155f691a76d7dafa31a86ef9bf93621881ef"
+      "version": "0.5.0",
+      "description": "Build 42.20.2 three-window Craft / Build / Projects workspace with fast virtual catalogs, full-width project dock, native basements, reconstruction, manufacturing, planning, sewing, and CSR-safe repair ownership. No dependencies.",
+      "updated_at": "2026-08-12",
+      "uncompressed_size_bytes": 26595866,
+      "required_free_bytes": 587814591,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-buildcraft-reborn-20260812-183529/BuildcraftReborn-v0.5.0.zip",
+      "zip_name": "BuildcraftReborn-v0.5.0.zip",
+      "size_bytes": 24347813,
+      "sha256": "efd927543a100f04897047f7392fd0f9ff8d0d9201bb9d9a806ffdb5404bd252"
     },
     {
       "id": "CommonSenseReborn",
