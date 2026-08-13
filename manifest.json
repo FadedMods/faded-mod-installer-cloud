@@ -384,15 +384,15 @@
       "id": "FadedHuntersCalling",
       "server_mod_id": "FadedHuntersCalling",
       "name": "Faded's Hunters Calling",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "description": "A comprehensive Build 42.20.2 hunting system with a responsive three-pane fieldbook, five .308 rifles, four bows, native Crafting and Building tabs, tracking with an optional Java accelerator and complete Lua fallback, field dressing, preservation, calls, scents, trapping, and multiplayer-safe administration.",
       "updated_at": "2026-08-13",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-13-faded-hunters-calling-20260813-091655/FadedHuntersCalling-v2.1.1.zip",
-      "zip_name": "FadedHuntersCalling-v2.1.1.zip",
-      "size_bytes": 8229237,
-      "uncompressed_size_bytes": 16044873,
-      "required_free_bytes": 561145022,
-      "sha256": "29a54d81b905b3841798b71998f72a9e599cead98c4e97399e5a8e6dee81bd42"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-13-faded-hunters-calling-20260813-161019/FadedHuntersCalling-v2.1.2.zip",
+      "zip_name": "FadedHuntersCalling-v2.1.2.zip",
+      "size_bytes": 8230393,
+      "uncompressed_size_bytes": 16048629,
+      "required_free_bytes": 561149934,
+      "sha256": "06221807b7501590c84be915ad5d926f75e047a988df105bee5d1df110181cfc"
     },
     {
       "id": "FadedPacketSavior",
