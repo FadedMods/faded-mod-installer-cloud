@@ -366,15 +366,15 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "2.1.2",
+      "version": "2.1.3",
       "description": "Start with a configurable dog or cat companion, then care, command, fight, persist, and recover it with server-authoritative multiplayer sync. Optional FJL 0.3.1 hybrid layer adds engine AI control, safe tick throttling, and a shared GPU compute fabric.",
       "updated_at": "2026-08-12",
-      "uncompressed_size_bytes": 28965522,
-      "required_free_bytes": 589554451,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-my-only-friend-20260812-184752/MyOnlyFriend-v2.1.2.zip",
-      "zip_name": "MyOnlyFriend-v2.1.2.zip",
-      "size_bytes": 23718017,
-      "sha256": "3d53d2c44d0a82ff65587b3fd1d32e6d0cde25da05fed99e4325d0071961056f"
+      "uncompressed_size_bytes": 28965567,
+      "required_free_bytes": 589554535,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-charactercreator-mkp-mof-20260812-225831/MyOnlyFriend-v2.1.3.zip",
+      "zip_name": "MyOnlyFriend-v2.1.3.zip",
+      "size_bytes": 23718056,
+      "sha256": "3037717ca3dde7904abff6ddf51f56a31412563124b6a31564fa6265081940a0"
     },
     {
       "id": "FadedHuntersCalling",
@@ -696,14 +696,14 @@
       "id": "MassiveKI5Pack",
       "server_mod_id": "MassiveKI5Pack",
       "name": "Massive KI5 Pack",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2.",
-      "uncompressed_size_bytes": 487112929,
-      "required_free_bytes": 1348430218,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-massive-ki5-pack-20260812-203344/MassiveKI5Pack-v1.2.1.zip",
-      "zip_name": "MassiveKI5Pack-v1.2.1.zip",
-      "size_bytes": 324446377,
-      "sha256": "69bad73b4dfc8947c4b3899f5511c49d5d275fb99fd655dc572c2ed7cf3ac1fa",
+      "uncompressed_size_bytes": 487118009,
+      "required_free_bytes": 1348437225,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-charactercreator-mkp-mof-20260812-225831/MassiveKI5Pack-v1.2.2.zip",
+      "zip_name": "MassiveKI5Pack-v1.2.2.zip",
+      "size_bytes": 324448304,
+      "sha256": "7dd55f336235b35225f310bb90c99ffc204ffa0a68ab29e3351d88f4a190f4a4",
       "updated_at": "2026-08-12"
     },
     {
@@ -1260,15 +1260,15 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Character creation overhaul for Build 42.20.2: three-column creator, faces and body details, hair gallery, starting loadout and vehicle pickers, large wardrobe with budgeted loot and zombie clothing, tactical kits (camo uniforms, plates, holsters), and pack API for add-ons.",
-      "uncompressed_size_bytes": 700835714,
-      "required_free_bytes": 1701148570,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/CharacterCreator-v1.2.0.zip",
-      "zip_name": "CharacterCreator-v1.2.0.zip",
-      "size_bytes": 463441944,
-      "sha256": "4d4698a6e2a686dbd4515b7692f98a975138ccbdbfdc214b1c14c5c01fed2f54",
-      "updated_at": "2026-08-11"
+      "uncompressed_size_bytes": 700836908,
+      "required_free_bytes": 1701150640,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-charactercreator-mkp-mof-20260812-225831/CharacterCreator-v1.2.1.zip",
+      "zip_name": "CharacterCreator-v1.2.1.zip",
+      "size_bytes": 463442820,
+      "sha256": "e309a9c6fddfa1fb3e2373edb606711813ce653e0f9c227bbd5c96be3ad9b652",
+      "updated_at": "2026-08-12"
     }
   ]
 }
