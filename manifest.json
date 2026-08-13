@@ -140,15 +140,15 @@
       "id": "BuildcraftReborn",
       "server_mod_id": "BuildcraftReborn",
       "name": "Buildcraft Reborn",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "description": "Build 42.20.2 three-window Craft / Build / Projects workspace with fast virtual catalogs, full-width project dock, native basements, reconstruction, manufacturing, planning, sewing, and CSR-safe repair ownership. No dependencies.",
-      "updated_at": "2026-08-12",
+      "updated_at": "2026-08-13",
       "uncompressed_size_bytes": 26595866,
       "required_free_bytes": 587814591,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-12-buildcraft-reborn-20260812-183529/BuildcraftReborn-v0.5.0.zip",
-      "zip_name": "BuildcraftReborn-v0.5.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-13-buildcraft-reborn-refresh-20260813-094035/BuildcraftReborn-v0.5.1.zip",
+      "zip_name": "BuildcraftReborn-v0.5.1.zip",
       "size_bytes": 24347813,
-      "sha256": "efd927543a100f04897047f7392fd0f9ff8d0d9201bb9d9a806ffdb5404bd252"
+      "sha256": "2251703aad1c30ba03016b8afcf84cb2f71582b068782ae081d976d62b94c0cd"
     },
     {
       "id": "CommonSenseReborn",
