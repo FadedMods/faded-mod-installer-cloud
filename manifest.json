@@ -478,27 +478,35 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.0.0",
+      "version": "2.0.2",
       "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20.2. The Hive occupies roosts by day, selects one persistent quarry, hunts through the night, and may carry the hunt into a Hollow Dawn. Includes controlled population recovery and an optional Java accelerator; no dependency is required.",
-      "updated_at": "2026-08-09",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-fadeds-the-hive-java-hybrid/FadedsTheHive-v2.0.0.zip",
-      "zip_name": "FadedsTheHive-v2.0.0.zip",
-      "size_bytes": 982711,
-      "sha256": "46ec04c1eadcae72b93bed608cad7da5713cc77573aea3cf41fbad6c13684a52"
+      "updated_at": "2026-08-14",
+      "uncompressed_size_bytes": 2271997,
+      "required_free_bytes": 540125806,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/FadedsTheHive-v2.0.2.zip",
+      "zip_name": "FadedsTheHive-v2.0.2.zip",
+      "size_bytes": 982897,
+      "sha256": "9c41599eae1bdd422ea77bf02ae67afe44a253b7ab838b5c9dfc19763a719ff8",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.2.2",
+      "javaEnvironment": "SERVER",
+      "javaPluginId": "faded.fadedsthehive.ecology",
+      "javaPluginVersion": "1.0.1",
+      "javaPluginMode": "HYBRID"
     },
     {
       "id": "FadedTradeNetwork",
       "server_mod_id": "FadedTradeNetwork",
       "name": "Faded Trade Network",
-      "version": "0.5.3",
+      "version": "0.5.4",
       "description": "Server-authoritative economy, multi-shop commerce, property ownership and leasing, Faction IDs and treasury finance, wealth rankings, and KnoxNet cash integration for Build 42.20 stable. Requires Common Sense Reborn or Common Sense Reborn (Test). Copyright (c) 2026 Faded / Faded Trade Network. All rights reserved; no reupload, redistribution, modpack bundling, forks, or modified releases without written permission.",
       "updated_at": "2026-08-14",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-trap-trade-origins-fixes/FadedTradeNetwork-v0.5.3.zip",
-      "zip_name": "FadedTradeNetwork-v0.5.3.zip",
-      "size_bytes": 421254,
-      "sha256": "bd65281c21bd585ab39c0ddd9dc561cdfd224bcebb2952ef206e5312ec914602",
-      "uncompressed_size_bytes": 760618,
-      "required_free_bytes": 538052784
+      "uncompressed_size_bytes": 761040,
+      "required_free_bytes": 538053260,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/FadedTradeNetwork-v0.5.4.zip",
+      "zip_name": "FadedTradeNetwork-v0.5.4.zip",
+      "size_bytes": 421308,
+      "sha256": "40468d14f2c3ce4ecd46bf97d8bf591ca6f2e42385450a70cd293da21976bdb6"
     },
     {
       "id": "FadedTrenchCoats",
@@ -626,11 +634,11 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and Java presentation quality. PZF NPC systems are not included.",
-      "uncompressed_size_bytes": 8084340803,
+      "uncompressed_size_bytes": 8084340804,
       "required_free_bytes": 11925897381,
-      "updated_at": "2026-08-11",
+      "updated_at": "2026-08-14",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
@@ -639,32 +647,32 @@
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.3-part1.zip",
-          "size_bytes": 413661059,
-          "sha256": "c6fb481e2a32bac235d85868e4c6b8c6bfcb42f7fd7182c50e8b84a82f9e0363"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/KnoxReborn-v0.3.4-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.4-part1.zip",
+          "size_bytes": 413661058,
+          "sha256": "de33a2447e5c9618e5abb28051bb26358ff4ca49c24d42be1bba661e7753444d"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.3-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/KnoxReborn-v0.3.4-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.4-part2.zip",
           "size_bytes": 178399382,
           "sha256": "3b1b8ec222cba24d2234495a5e8aa1d59a59168a5a930ef4a32cdb58eb1a8101"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.3-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/KnoxReborn-v0.3.4-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.4-part3.zip",
           "size_bytes": 357084451,
           "sha256": "8f7fd78693bf0aac3fb6bc1491cacc58acce8acd277819c780ac0c6e3ca2bbdf"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.3-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/KnoxReborn-v0.3.4-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.4-part4.zip",
           "size_bytes": 1498158299,
           "sha256": "6d8cdd8ee14082e87897999a6b4082708822f008f3dfb9401bf9d3eed4aebdd8"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-11-knoxreborn-charactercreator/KnoxReborn-v0.3.3-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.3-part5.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/KnoxReborn-v0.3.4-part5.zip",
+          "zip_name": "KnoxReborn-v0.3.4-part5.zip",
           "size_bytes": 585819307,
           "sha256": "df08a98c24fa0a3c3106feb3e2ef06cc74a854341cc418646c0c27f44e5124e3"
         }
@@ -1276,15 +1284,15 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "description": "Character creation overhaul for Build 42.20.2: three-column creator, faces and body details, hair gallery, starting loadout and vehicle pickers, large wardrobe with budgeted loot and zombie clothing, tactical kits (camo uniforms, plates, holsters), and pack API for add-ons.",
-      "uncompressed_size_bytes": 701128137,
-      "required_free_bytes": 1701532764,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-log-fixes/CharacterCreator-v1.2.3.zip",
-      "zip_name": "CharacterCreator-v1.2.3.zip",
-      "size_bytes": 463533715,
-      "sha256": "888cfb4b3a6c12efe7057110ef3406c5b0d9f543cb1f8cdecf2895d6699641ad",
-      "updated_at": "2026-08-14"
+      "uncompressed_size_bytes": 701130722,
+      "required_free_bytes": 1701535781,
+      "updated_at": "2026-08-14",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/CharacterCreator-v1.2.4.zip",
+      "zip_name": "CharacterCreator-v1.2.4.zip",
+      "size_bytes": 463534147,
+      "sha256": "7686f7bd45a813b9f002c0f881301c04eb418ff82450bcee6a7673434eed3347"
     }
   ]
 }
