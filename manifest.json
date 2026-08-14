@@ -179,16 +179,18 @@
       "sha256": "3b7e40770969bb211136c775e97bf15ca4f8cf36e63b347727949d20b00dedbc"
     },
     {
-      "id": "CSRAdminCommandCenter",
-      "server_mod_id": "CSRAdminCommandCenter",
-      "name": "CSR Admin Command Center",
-      "version": "0.2.7",
-      "description": "Standalone admin command center companion for Common Sense Reborn. B42.20-ready with reduced FPS impact and MP server authority. Runs in limited mode when CSR is not present. Copyright (c) 2026 CSR Admin Tools. All rights reserved. Common Sense Reborn remains property of its respective author(s); this mod does not include or modify CSR.",
-      "updated_at": "2026-08-05",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/CSRAdminCommandCenter-v0.2.7.zip",
-      "zip_name": "CSRAdminCommandCenter-v0.2.7.zip",
-      "size_bytes": 2819576,
-      "sha256": "a2e2bafb484147acf7578e5cfb14a10a2ddc61885720d239332b9f801202323b"
+      "id": "FadedTacticalOperationsCenter",
+      "server_mod_id": "FadedTacticalOperationsCenter",
+      "name": "Tactical Operations Center",
+      "version": "1.1.1",
+      "description": "A server-authoritative admin and player operations suite for Project Zomboid Build 42.20.2. Includes a full Command Center replacement, Covert Event social deduction, location reports, mod-aware Operator and Blueprint tools, CSR authority handoff, FTN trade intelligence, mission routing, Echoes conflict monitoring, scalable 4K UI, and optional FJL/OpenCL dispatch acceleration with Lua fallback.",
+      "updated_at": "2026-08-14",
+      "uncompressed_size_bytes": 5080457,
+      "required_free_bytes": 544675988,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-tactical-operations-center-20260813-205136/FadedTacticalOperationsCenter-v1.1.1.zip",
+      "zip_name": "FadedTacticalOperationsCenter-v1.1.1.zip",
+      "size_bytes": 2724619,
+      "sha256": "63db03a0825ecf48a6c78041d8f02a6d2eefc82c053a7deb1baba926855495c4"
     },
     {
       "id": "CSR_ClearviewGPS",
