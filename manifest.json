@@ -374,15 +374,15 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "description": "Start with a configurable dog or cat companion, then care, command, fight, persist, and recover it with server-authoritative multiplayer sync. Optional FJL 0.3.1 hybrid layer adds engine AI control, safe tick throttling, and a shared GPU compute fabric.",
       "updated_at": "2026-08-14",
-      "uncompressed_size_bytes": 30522737,
-      "required_free_bytes": 591708623,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-my-only-friend-20260813-201836/MyOnlyFriend-v2.1.5.zip",
-      "zip_name": "MyOnlyFriend-v2.1.5.zip",
-      "size_bytes": 24314974,
-      "sha256": "80bbe90122c317c040964d06531943d9cd30c94168ab880bcdad9996b749f816"
+      "uncompressed_size_bytes": 30525609,
+      "required_free_bytes": 591716112,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-my-only-friend-2.1.6/MyOnlyFriend-v2.1.6.zip",
+      "zip_name": "MyOnlyFriend-v2.1.6.zip",
+      "size_bytes": 24319591,
+      "sha256": "e3d847a4ebd9dc8832e80121c6dff84e8e9326e07505d145242d8ed0ba0048b1"
     },
     {
       "id": "FadedHuntersCalling",
