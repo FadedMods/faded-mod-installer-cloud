@@ -1278,15 +1278,15 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "1.2.4",
+      "version": "1.2.5",
       "description": "Character creation overhaul for Build 42.20.2: three-column creator, faces and body details, hair gallery, starting loadout and vehicle pickers, large wardrobe with budgeted loot and zombie clothing, tactical kits (camo uniforms, plates, holsters), and pack API for add-ons.",
-      "uncompressed_size_bytes": 701130722,
-      "required_free_bytes": 1701535781,
+      "uncompressed_size_bytes": 701130872,
+      "required_free_bytes": 1701588952,
       "updated_at": "2026-08-14",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/CharacterCreator-v1.2.4.zip",
-      "zip_name": "CharacterCreator-v1.2.4.zip",
-      "size_bytes": 463534147,
-      "sha256": "7686f7bd45a813b9f002c0f881301c04eb418ff82450bcee6a7673434eed3347"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-character-creator-1.2.5/CharacterCreator-v1.2.5.zip",
+      "zip_name": "CharacterCreator-v1.2.5.zip",
+      "size_bytes": 463587168,
+      "sha256": "4aeab1d03d4dbb7d7cc14bcaa50206671fb39283ae190c96198421bb5289d724"
     }
   ]
 }
