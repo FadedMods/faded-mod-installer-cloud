@@ -414,15 +414,15 @@
       "id": "FadedsClearViewUI",
       "server_mod_id": "FadedsClearViewUI",
       "name": "Faded's ClearView UI",
-      "version": "0.5.2",
+      "version": "0.5.3",
       "description": "Faded ergonomic UI suite for Project Zomboid Build 42.20. Adds integrated inventory tools, a responsive character/health window, controller navigation, world and storage helpers, configurable HUDs, rarity styling, and a live 3D loadout while preserving vanilla, CSR, and mod-owned behavior.",
       "updated_at": "2026-08-14",
-      "uncompressed_size_bytes": 5234261,
-      "required_free_bytes": 545189220,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-clearview-ui-20260813-202125/FadedsClearViewUI-v0.5.2.zip",
-      "zip_name": "FadedsClearViewUI-v0.5.2.zip",
-      "size_bytes": 3084047,
-      "sha256": "34f2a9e06b00abf8caf3a8300d7c48268dceb0c83cfb0f162ffbbc573ba5a4bc"
+      "uncompressed_size_bytes": 5252959,
+      "required_free_bytes": 545236814,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-clearview-ui-0.5.3/FadedsClearViewUI-v0.5.3.zip",
+      "zip_name": "FadedsClearViewUI-v0.5.3.zip",
+      "size_bytes": 3112943,
+      "sha256": "aa5c966b505527012d78ba7a772019c6509c38e0d6a677abbebee8a6ef07509b"
     },
     {
       "id": "FadedsErrorDetected",
