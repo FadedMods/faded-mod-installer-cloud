@@ -846,13 +846,13 @@
       "id": "MPChronoController",
       "server_mod_id": "MPChronoController",
       "name": "MP ChronoController",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "description": "Build 42.20.2 server-authoritative multiplayer Pause, Play, fast-forward voting, administrator override, sleep acceleration, safety recovery, and ClearView-style clock controls.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-mp-chrono-controller/MPChronoController-v2.0.0.zip",
-      "zip_name": "MPChronoController-v2.0.0.zip",
-      "size_bytes": 4345993,
-      "sha256": "729927ed91b7949c95f10e9673f940aac0574b4da6a14d60a007d41a61914f06",
-      "updated_at": "2026-08-08"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-mp-chrono-controller-2.0.1/MPChronoController-v2.0.1.zip",
+      "zip_name": "MPChronoController-v2.0.1.zip",
+      "size_bytes": 4346881,
+      "sha256": "ebd80101535778ed88c1da9a31b78dc53c188d42e8724124ed756a65a14f8066",
+      "updated_at": "2026-08-14"
     },
     {
       "id": "SolarNeverFaded",
