@@ -486,13 +486,7 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/FadedsTheHive-v2.0.2.zip",
       "zip_name": "FadedsTheHive-v2.0.2.zip",
       "size_bytes": 982897,
-      "sha256": "9c41599eae1bdd422ea77bf02ae67afe44a253b7ab838b5c9dfc19763a719ff8",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.2.2",
-      "javaEnvironment": "SERVER",
-      "javaPluginId": "faded.fadedsthehive.ecology",
-      "javaPluginVersion": "1.0.1",
-      "javaPluginMode": "HYBRID"
+      "sha256": "9c41599eae1bdd422ea77bf02ae67afe44a253b7ab838b5c9dfc19763a719ff8"
     },
     {
       "id": "FadedTradeNetwork",
