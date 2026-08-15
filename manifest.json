@@ -1172,13 +1172,15 @@
       "id": "FadedModSorter",
       "server_mod_id": "FadedModSorter",
       "name": "Faded Mod Sorter",
-      "version": "1.1.2",
-      "description": "Build 42.20 ClearView load-order studio with durable vanilla-panel replacement, topological sorting, and Faded/Yosef/IKappaID provider catalogs. Order-only changes; never random activate/deactivate.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/FadedModSorter-v1.1.2.zip",
-      "zip_name": "FadedModSorter-v1.1.2.zip",
-      "size_bytes": 7661856,
-      "sha256": "297569621396e6403ead8adbcec1fd17bb1de697b30246637e949d4f653d1548"
+      "version": "1.4.0",
+      "description": "Build 42.20 ClearView mod studio: topological load-order sorting, full installed-mod library with enable/disable and presets, an interactive world-cell map atlas that plots every map footprint and shows overlaps before you install anything, mod change alerts, and Faded/Yosef/IKappaID provider catalogs. Activation only ever changes on an explicit click.",
+      "updated_at": "2026-08-14",
+      "uncompressed_size_bytes": 8160784,
+      "required_free_bytes": 552741917,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-faded-mod-sorter/FadedModSorter-v1.4.0.zip",
+      "zip_name": "FadedModSorter-v1.4.0.zip",
+      "size_bytes": 7710221,
+      "sha256": "3d1bfc20933a775601046ae966f4e4d5e1f5358d737f407dcf3957e883c0de57"
     },
     {
       "id": "FadedSkies",
