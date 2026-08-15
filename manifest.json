@@ -776,15 +776,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP.",
-      "updated_at": "2026-08-13",
-      "uncompressed_size_bytes": 33193149,
-      "required_free_bytes": 590816201,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-13-project-faded-car-20260813-174004/ProjectFadedCar-v2.0.2.zip",
-      "zip_name": "ProjectFadedCar-v2.0.2.zip",
-      "size_bytes": 20752140,
-      "sha256": "94962b0d4be49bd9b2aa3eb2ccee3a7260e2abac22674133f16ef290102fefba"
+      "updated_at": "2026-08-14",
+      "uncompressed_size_bytes": 33193604,
+      "required_free_bytes": 590821569,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-project-faded-car/ProjectFadedCar-v2.0.3.zip",
+      "zip_name": "ProjectFadedCar-v2.0.3.zip",
+      "size_bytes": 20757053,
+      "sha256": "5719cdcb38e8f8970f79444d28209dab308082c4c9d180a16da87eb9e03666a5"
     },
     {
       "id": "ProximityAutoRead",
