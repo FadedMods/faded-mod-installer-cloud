@@ -1308,15 +1308,15 @@
       "id": "FadedJavaLoaderBridge",
       "server_mod_id": "FadedJavaLoaderBridge",
       "name": "Faded Java Loader Bridge",
-      "version": "0.3.0",
-      "description": "FJL multiplayer compatibility bridge with client/server plugin hash verification.",
-      "updated_at": "2026-08-16",
-      "uncompressed_size_bytes": 9442,
-      "required_free_bytes": 536886477,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-16-faded-java-loader-bridge/FadedJavaLoaderBridge-v0.3.0.zip",
-      "zip_name": "FadedJavaLoaderBridge-v0.3.0.zip",
-      "size_bytes": 6123,
-      "sha256": "f0c5779bb038b2c3adea96d83fd853e55d7c0bb00040b80cb7cec188259c31b3"
+      "version": "0.3.1",
+      "description": "FJL multiplayer compatibility bridge with client/server plugin hash verification. Uses the Build 42 folder layout (42/mod.info).",
+      "updated_at": "2026-08-17",
+      "uncompressed_size_bytes": 9464,
+      "required_free_bytes": 536885572,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-faded-java-loader-bridge/FadedJavaLoaderBridge-v0.3.1.zip",
+      "zip_name": "FadedJavaLoaderBridge-v0.3.1.zip",
+      "size_bytes": 5196,
+      "sha256": "ae6f41b8047b301bb838f42baf17dfc7adf32d9f1a73c27cb031cfb3260783bb"
     }
   ]
 }
