@@ -1303,6 +1303,20 @@
       "zip_name": "CharacterCreator-v1.2.7.zip",
       "size_bytes": 463588486,
       "sha256": "813ba6a40ccd37fa04a4e3fefe4ee4fd410cf241b84154b2bcb675353818526a"
+    },
+    {
+      "id": "FadedJavaLoaderBridge",
+      "server_mod_id": "FadedJavaLoaderBridge",
+      "name": "Faded Java Loader Bridge",
+      "version": "0.3.0",
+      "description": "FJL multiplayer compatibility bridge with client/server plugin hash verification.",
+      "updated_at": "2026-08-16",
+      "uncompressed_size_bytes": 9442,
+      "required_free_bytes": 536886477,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-16-faded-java-loader-bridge/FadedJavaLoaderBridge-v0.3.0.zip",
+      "zip_name": "FadedJavaLoaderBridge-v0.3.0.zip",
+      "size_bytes": 6123,
+      "sha256": "f0c5779bb038b2c3adea96d83fd853e55d7c0bb00040b80cb7cec188259c31b3"
     }
   ]
 }
