@@ -305,15 +305,15 @@
       "id": "FadedFarmingFishingReborn",
       "server_mod_id": "FadedFarmingFishingReborn",
       "name": "Faded Farming & Fishing Reborn",
-      "version": "0.3.6-b42.20.2",
+      "version": "0.3.7-b42.20.2",
       "description": "Unified B42.20.2 farming, fishing, orchards, husbandry, hydroponics, food production, and farm vehicles with a scalable three-window field console. Server-authoritative multiplayer actions; optional Common Sense Reborn release or test integration.",
       "updated_at": "2026-08-18",
-      "uncompressed_size_bytes": 62715529,
-      "required_free_bytes": 650202721,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-faded-farming-fishing-reborn-0.3.6/FadedFarmingFishingReborn-v0.3.6-b42.20.2.zip",
-      "zip_name": "FadedFarmingFishingReborn-v0.3.6-b42.20.2.zip",
-      "size_bytes": 50616280,
-      "sha256": "4aa434e1edb57e7ec1a00bd8f0680f94e6977e56199a24fd1a1870872a209cce"
+      "uncompressed_size_bytes": 62714880,
+      "required_free_bytes": 650201980,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-faded-farming-fishing-reborn-0.3.7/FadedFarmingFishingReborn-v0.3.7-b42.20.2.zip",
+      "zip_name": "FadedFarmingFishingReborn-v0.3.7-b42.20.2.zip",
+      "size_bytes": 50616188,
+      "sha256": "b8c5d2ef0ed56f126c1ed1b20e94c74e63dd636a2e5545cb4950fc162e073af8"
     },
     {
       "id": "FadedFeastcraft",
