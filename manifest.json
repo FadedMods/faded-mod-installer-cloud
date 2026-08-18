@@ -96,23 +96,26 @@
     {
       "id": "ArmorPK",
       "name": "Faded's Armor Pack",
-      "version": "2.0.1",
+      "version": "2.1.0",
       "description": "Standalone Build 42.20 tactical armor collection with native night vision support, zombie outfits, and sandbox-controlled loot rarity.",
-      "updated_at": "2026-08-05",
+      "updated_at": "2026-08-17",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ArmorPK-v2.0.1-part1.zip",
-          "zip_name": "ArmorPK-v2.0.1-part1.zip",
-          "size_bytes": 1764940931,
-          "sha256": "26d79a021a2d7a3b0306bb3489b340e7e745f6c57addb98df0582f4411d7d57f"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-four-mod-update/ArmorPK-v2.1.0-part1.zip",
+          "zip_name": "ArmorPK-v2.1.0-part1.zip",
+          "size_bytes": 1764955055,
+          "sha256": "c78379aa861315ee1e423e95748d805824ff7a44f8bc36bbc9123461c18f6fe1"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-05-b42-20-2-hotfix-2/ArmorPK-v2.0.1-part2.zip",
-          "zip_name": "ArmorPK-v2.0.1-part2.zip",
-          "size_bytes": 1485348681,
-          "sha256": "466e97f93b1000da2b8074ca244f1ebf8f5c0764448a8b74d1f15f875813f266"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-four-mod-update/ArmorPK-v2.1.0-part2.zip",
+          "zip_name": "ArmorPK-v2.1.0-part2.zip",
+          "size_bytes": 1485343707,
+          "sha256": "222aae54c8356d8a174fe7b2030164c5f36ec3eeb42d30fc52f8456b01c75b53"
         }
-      ]
+      ],
+      "uncompressed_size_bytes": 3373189923,
+      "required_free_bytes": 7160359597,
+      "server_mod_id": "ArmorPK"
     },
     {
       "id": "Authentic Z - Current",
@@ -158,29 +161,29 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.9.18",
+      "version": "1.9.22",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 568 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 52128734,
-      "required_free_bytes": 620007287,
+      "uncompressed_size_bytes": 51914977,
+      "required_free_bytes": 619894132,
       "updated_at": "2026-08-17",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-eight-mod-update/CommonSenseReborn-v1.9.18.zip",
-      "zip_name": "CommonSenseReborn-v1.9.18.zip",
-      "size_bytes": 31007641,
-      "sha256": "4aabfd6907004b44765d1d00e87d00bfa03084416e854483fc653ad28aa46ebc"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-four-mod-update/CommonSenseReborn-v1.9.22.zip",
+      "zip_name": "CommonSenseReborn-v1.9.22.zip",
+      "size_bytes": 31108243,
+      "sha256": "294bff49df96747f72ee3e737b7d8dc3545ff0042671e481b554460780c62e51"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.9.18",
+      "version": "1.9.22",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 568 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 55363138,
-      "required_free_bytes": 624525853,
+      "uncompressed_size_bytes": 55148734,
+      "required_free_bytes": 624411171,
       "updated_at": "2026-08-17",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-eight-mod-update/CommonSenseRebornTest-v1.9.18.zip",
-      "zip_name": "CommonSenseRebornTest-v1.9.18.zip",
-      "size_bytes": 32291803,
-      "sha256": "3f9c3f7e85fdb5c104ad40fcb1ec2a69f257f0221705b81167289869192b81be"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-four-mod-update/CommonSenseRebornTest-v1.9.22.zip",
+      "zip_name": "CommonSenseRebornTest-v1.9.22.zip",
+      "size_bytes": 32391525,
+      "sha256": "032326e2b38fbaaba5f1840810c5c52313113e5c8e1b5806356c0c87d5a68d6e"
     },
     {
       "id": "FadedTacticalOperationsCenter",
@@ -378,15 +381,15 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "2.1.9",
+      "version": "2.1.11",
       "description": "Start with a configurable dog or cat companion, then care, command, fight, persist, and recover it with server-authoritative multiplayer sync. Optional FJL 0.3.1 hybrid layer adds engine AI control, safe tick throttling, and a shared GPU compute fabric.",
-      "updated_at": "2026-08-16",
-      "uncompressed_size_bytes": 30545275,
-      "required_free_bytes": 591679684,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-16-sixteen-mod-update/MyOnlyFriend-v2.1.9.zip",
-      "zip_name": "MyOnlyFriend-v2.1.9.zip",
-      "size_bytes": 24263497,
-      "sha256": "7489ea948b34449d7e81930788034f4f1c9e04034b20bc10e31de013120f76d2"
+      "updated_at": "2026-08-17",
+      "uncompressed_size_bytes": 30552324,
+      "required_free_bytes": 591689103,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-17-four-mod-update/MyOnlyFriend-v2.1.11.zip",
+      "zip_name": "MyOnlyFriend-v2.1.11.zip",
+      "size_bytes": 24265867,
+      "sha256": "58f927d184d23dbd1abba2eaafc2a2b71854c1bd7ea25237b3421a2a216925e3"
     },
     {
       "id": "FadedHuntersCalling",
