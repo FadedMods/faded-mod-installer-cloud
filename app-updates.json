@@ -1,36 +1,35 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.2.9",
-  "published_at": "2026-08-14",
+  "version": "0.2.10",
+  "published_at": "2026-08-18",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "source_commit": "5f1fba1",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.9",
-  "notes": "Installer 0.2.9 refreshes the mod browser with built-in manifest source tabs, search, status filters, sort controls, Install All for the current filtered view, and a cleaner Faded Mods Installer visual pass while preserving Update All, cache repair, and Java Loader workflows.",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.10",
+  "notes": "Installer 0.2.10 syncs Java plugin enablement from the current manifest on Refresh and Install All, so players joining a FadedMods server get the required FJL plugins without hand-picking them. Other servers stay unaffected unless their manifest declares Java plugins.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.9/FadedLocalModInstaller-0.2.9-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.2.9-windows.zip",
-      "size_bytes": 54125460,
-      "sha256": "5c95bc13f637a86f572ccfc228687f7cb63cf581496cfde43c4822b9d216f3b3"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.10/FadedLocalModInstaller-0.2.10-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.10-windows.zip",
+      "size_bytes": 54127859,
+      "sha256": "34d0896f31adbe6bf4cdbc0ee3025069e8ef27019c9123c4800a5a98cde0a3f5"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.9/FadedLocalModInstaller-0.2.9-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.2.9-windows-multilingual.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.10/FadedLocalModInstaller-0.2.10-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.10-windows-multilingual.zip",
       "size_bytes": 54117096,
       "sha256": "8b7cfa1e50b03065fb7dd0c453ef50ae5fd15795a853413cdd4757ae574ed243"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.9/FadedLocalModInstaller-0.2.9-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.9-linux-x86_64.tar.gz",
-      "size_bytes": 304034150,
-      "sha256": "cc602ff4b61d465ab399d8cf0290167f7f58f7c148ddbb2baa13bb9abf139bf5"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.10/FadedLocalModInstaller-0.2.10-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.10-linux-x86_64.tar.gz",
+      "size_bytes": 304071670,
+      "sha256": "c632ba276665a190569dd2d7658107a0adf5cda3054c9aa183e0cb8b734f0335"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.9/FadedLocalModInstaller-0.2.9-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.9-linux-standard-x86_64.tar.gz",
-      "size_bytes": 392819707,
-      "sha256": "b5fb122d7f1c0b599ed54d923cb85e37e985960d1f1bb93b974fad34b0d5e6d3"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.10/FadedLocalModInstaller-0.2.10-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.10-linux-standard-x86_64.tar.gz",
+      "size_bytes": 393070803,
+      "sha256": "a7df79e12451382644c71e2ecbd0e2f4f2a224b073f55c1f3f89308fe591e69a"
     }
   }
 }
