@@ -1356,6 +1356,20 @@
       "zip_name": "GunzOfFaded-v1.1.0.zip",
       "size_bytes": 31410296,
       "sha256": "71ff6c99355bf0352b08f5fea8d7770a42dc76a8c2a8538255416ff12d8f9220"
+    },
+    {
+      "id": "FadedLegendaryKit",
+      "server_mod_id": "FadedLegendaryKit",
+      "name": "Faded Legendary Kit",
+      "version": "1.0.2",
+      "description": "FadedLegendaryKit 1.0.2. Unified faded kit: packs, cap lamp, naginata, katana, wakizashi, and tactical weapons. Ultra-rare world loot. B42.20.3.",
+      "updated_at": "2026-08-19",
+      "uncompressed_size_bytes": 37695689,
+      "required_free_bytes": 573695689,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-faded-legendary-kit-1.0.2/FadedLegendaryKit-v1.0.2.zip",
+      "zip_name": "FadedLegendaryKit-v1.0.2.zip",
+      "size_bytes": 35468740,
+      "sha256": "5b028c19a9749e5673f32edc50c581ed92c5080f4b953619b3952083117097e5"
     }
   ]
 }
