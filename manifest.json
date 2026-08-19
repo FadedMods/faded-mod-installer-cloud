@@ -1342,6 +1342,20 @@
       "zip_name": "FadedJavaLoaderBridge-v0.3.2.zip",
       "size_bytes": 5204,
       "sha256": "b9e69468bc9b45d97fc84d066b71cdfa83e40f45ea509493b3200b063b26b479"
+    },
+    {
+      "id": "GunzOfFaded",
+      "server_mod_id": "GunzOfFaded",
+      "name": "Gunz of Faded",
+      "version": "1.1.0",
+      "description": "Gunz of Faded 1.1.0. Standalone firearms pack. Item types stay MarzGuns / HBVCEF so existing saves load. Tracers patched. Compatible with Common Sense Reborn Main and Test. Optional Faded Java Loader jar in 42/java.",
+      "updated_at": "2026-08-19",
+      "uncompressed_size_bytes": 39931988,
+      "required_free_bytes": 575931988,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-gunz-of-faded-1.1.0/GunzOfFaded-v1.1.0.zip",
+      "zip_name": "GunzOfFaded-v1.1.0.zip",
+      "size_bytes": 31410296,
+      "sha256": "71ff6c99355bf0352b08f5fea8d7770a42dc76a8c2a8538255416ff12d8f9220"
     }
   ]
 }
