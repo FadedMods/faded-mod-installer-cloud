@@ -491,15 +491,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.0.2",
-      "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20.2. The Hive occupies roosts by day, selects one persistent quarry, hunts through the night, and may carry the hunt into a Hollow Dawn. Includes controlled population recovery and an optional Java accelerator; no dependency is required.",
-      "updated_at": "2026-08-14",
-      "uncompressed_size_bytes": 2271997,
-      "required_free_bytes": 540125806,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-14-server-cleanup-fixes/FadedsTheHive-v2.0.2.zip",
-      "zip_name": "FadedsTheHive-v2.0.2.zip",
-      "size_bytes": 982897,
-      "sha256": "9c41599eae1bdd422ea77bf02ae67afe44a253b7ab838b5c9dfc19763a719ff8"
+      "version": "2.1.0",
+      "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20.2. The Hive occupies roosts by day, selects one persistent quarry, hunts through the night, and may carry the hunt into a Hollow Dawn. Includes controlled population recovery and an optional Java accelerator; no dependency is required. Echoes of Humanity and My Only Friend are optional peers.",
+      "updated_at": "2026-08-18",
+      "uncompressed_size_bytes": 7735923,
+      "required_free_bytes": 550997001,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/FadedsTheHive-v2.1.0.zip",
+      "zip_name": "FadedsTheHive-v2.1.0.zip",
+      "size_bytes": 6390166,
+      "sha256": "5559ff30d071b8830eece5320682f9dd374bb027764efc830e872485930d56be"
     },
     {
       "id": "FadedTradeNetwork",
@@ -641,10 +641,10 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.9",
+      "version": "0.3.10",
       "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and Java presentation quality. PZF NPC systems are not included.",
-      "uncompressed_size_bytes": 8084355484,
-      "required_free_bytes": 11925942405,
+      "uncompressed_size_bytes": 8084357984,
+      "required_free_bytes": 11925946070,
       "updated_at": "2026-08-18",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
@@ -654,32 +654,32 @@
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.9/KnoxReborn-v0.3.9-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.9-part1.zip",
-          "size_bytes": 413689521,
-          "sha256": "aad267b834811c904a075abc366ff2e80e3cf5e1420c88e83ef08f9ba8d96043"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/KnoxReborn-v0.3.10-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.10-part1.zip",
+          "size_bytes": 413690436,
+          "sha256": "d0c9094fde70d69c39a58e092ea1251906db324e0bcafd7d1e84483be218d9d2"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.9/KnoxReborn-v0.3.9-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.9-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/KnoxReborn-v0.3.10-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.10-part2.zip",
           "size_bytes": 178399382,
           "sha256": "195c11413f5f24df67fddc6f85f324f635094c3df36e6603161d130c29247f3f"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.9/KnoxReborn-v0.3.9-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.9-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/KnoxReborn-v0.3.10-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.10-part3.zip",
           "size_bytes": 357084451,
           "sha256": "f44f296ca2b8b4e7b76fc6f5d0b18351c2ea43e3378add006779ce382ad375c6"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.9/KnoxReborn-v0.3.9-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.9-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/KnoxReborn-v0.3.10-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.10-part4.zip",
           "size_bytes": 1498158299,
           "sha256": "c79e36eee03c7ace6cf179c7d981dc98858d178b609071b0288f62c512614b2a"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.9/KnoxReborn-v0.3.9-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.9-part5.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/KnoxReborn-v0.3.10-part5.zip",
+          "zip_name": "KnoxReborn-v0.3.10-part5.zip",
           "size_bytes": 585819720,
           "sha256": "b2df696d5191a132972401e6d381a33a516fc85c56c59ef97649ca1f40b6b948"
         }
