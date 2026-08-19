@@ -161,29 +161,29 @@
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
-      "version": "1.9.25",
+      "version": "1.9.26",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 568 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 51916899,
+      "uncompressed_size_bytes": 51917555,
       "required_free_bytes": 619896982,
       "updated_at": "2026-08-19",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-csr-1.9.25-1.9.26/CommonSenseReborn-v1.9.25.zip",
-      "zip_name": "CommonSenseReborn-v1.9.25.zip",
-      "size_bytes": 31109171,
-      "sha256": "3b3dadedd402b959d9b8bfc312e7e08ea0b05d94ead55e60dde83024260b2475"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/CommonSenseReborn-v1.9.26.zip",
+      "zip_name": "CommonSenseReborn-v1.9.26.zip",
+      "size_bytes": 31109212,
+      "sha256": "ca2f521febb26103a11c3693ca1a151f7dd52418d8eb787053c16e32f623aa43"
     },
     {
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "1.9.26",
+      "version": "1.9.27",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 568 sandbox options. SP + MP. No dependencies.",
-      "uncompressed_size_bytes": 56110105,
+      "uncompressed_size_bytes": 55151312,
       "required_free_bytes": 626333859,
       "updated_at": "2026-08-19",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-csr-1.9.25-1.9.26/CommonSenseRebornTest-v1.9.26.zip",
-      "zip_name": "CommonSenseRebornTest-v1.9.26.zip",
-      "size_bytes": 33352842,
-      "sha256": "909fd7c0708aafc97d8b877f4384d0864b1195acc626028daa432a44eb8e370f"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/CommonSenseRebornTest-v1.9.27.zip",
+      "zip_name": "CommonSenseRebornTest-v1.9.27.zip",
+      "size_bytes": 32392494,
+      "sha256": "46f6dffc60c04c7fe684961ac55d7311f679f0a1524cdd903d5e38589eaf05ae"
     },
     {
       "id": "FadedTacticalOperationsCenter",
@@ -491,15 +491,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20.2. The Hive occupies roosts by day, selects one persistent quarry, hunts through the night, and may carry the hunt into a Hollow Dawn. Includes controlled population recovery and an optional Java accelerator; no dependency is required. Echoes of Humanity and My Only Friend are optional peers.",
-      "updated_at": "2026-08-18",
-      "uncompressed_size_bytes": 7735923,
+      "updated_at": "2026-08-19",
+      "uncompressed_size_bytes": 7298067,
       "required_free_bytes": 550997001,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-0.3.10-hive-2.1.0/FadedsTheHive-v2.1.0.zip",
-      "zip_name": "FadedsTheHive-v2.1.0.zip",
-      "size_bytes": 6390166,
-      "sha256": "5559ff30d071b8830eece5320682f9dd374bb027764efc830e872485930d56be"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/FadedsTheHive-v2.1.1.zip",
+      "zip_name": "FadedsTheHive-v2.1.1.zip",
+      "size_bytes": 5965372,
+      "sha256": "579583d25ec2bdb741aa643c06f2f2b867b5e72965e0fc06cd7609cdb200ea16"
     },
     {
       "id": "FadedTradeNetwork",
@@ -701,21 +701,21 @@
       "id": "LifestyleHobbies",
       "server_mod_id": "LifestyleHobbies",
       "name": "Lifestyle: Hobbies (All-in-One B42.20)",
-      "version": "0.4.0-allinone.8",
+      "version": "0.4.0-allinone.9",
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
-      "updated_at": "2026-08-08",
+      "updated_at": "2026-08-19",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/LifestyleHobbies-v0.4.0-allinone.8-part1.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.8-part1.zip",
-          "size_bytes": 1744747550,
-          "sha256": "7dc115566cd2c3ff53ac6ca77438c5ec4e3e08d1f4ff776c249d2333c756f78b"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/LifestyleHobbies-v0.4.0-allinone.9-part1.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.9-part1.zip",
+          "size_bytes": 1744780924,
+          "sha256": "e63145221dd4c61428a6ff544770f9ca566d0d10ffebf2fe866d37dac60c8b4b"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/LifestyleHobbies-v0.4.0-allinone.8-part2.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.8-part2.zip",
-          "size_bytes": 473546977,
-          "sha256": "a4162ec97d4d72bb04fd91a25e6dd34871e57599ea905a91269a57f7caeef13d"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/LifestyleHobbies-v0.4.0-allinone.9-part2.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.9-part2.zip",
+          "size_bytes": 473567231,
+          "sha256": "7e79e72033763db16efec835dea857bc4d6e6e68cda9cc6c3d50e078ef250333"
         }
       ]
     },
@@ -1313,21 +1313,21 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "description": "Character creation overhaul for Build 42.20.2: three-column creator, faces and body details, hair gallery, starting loadout and vehicle pickers, large wardrobe with budgeted loot and zombie clothing, tactical kits (camo uniforms, plates, holsters), and pack API for add-ons.",
-      "uncompressed_size_bytes": 786284343,
+      "uncompressed_size_bytes": 786551065,
       "required_free_bytes": 1847320455,
-      "updated_at": "2026-08-18",
+      "updated_at": "2026-08-19",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "charactercreator.hybrid",
       "javaPluginVersion": "1.2.7",
       "javaPluginMode": "HYBRID",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-session-ui-fixes/CharacterCreator-v1.3.3.zip",
-      "zip_name": "CharacterCreator-v1.3.3.zip",
-      "size_bytes": 524431072,
-      "sha256": "c251a381ed6f35680af0b6ea9fd36829b96a082ce1dad007c85891cf86c2b6f3"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-repo-fixes/CharacterCreator-v1.3.4.zip",
+      "zip_name": "CharacterCreator-v1.3.4.zip",
+      "size_bytes": 524431197,
+      "sha256": "b80a841407473125f2e8c9c945b1a105c03f9ffcd7bd9ce3d15d8867636fd02d"
     },
     {
       "id": "FadedJavaLoaderBridge",
