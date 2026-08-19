@@ -189,15 +189,15 @@
       "id": "FadedTacticalOperationsCenter",
       "server_mod_id": "FadedTacticalOperationsCenter",
       "name": "Tactical Operations Center",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "description": "A server-authoritative admin and player operations suite for Project Zomboid Build 42.20.2. Includes a full Command Center replacement, Covert Event social deduction, location reports, mod-aware Operator and Blueprint tools, CSR authority handoff, FTN trade intelligence, mission routing, Echoes conflict monitoring, scalable 4K UI, and optional FJL/OpenCL dispatch acceleration with Lua fallback.",
       "updated_at": "2026-08-19",
-      "uncompressed_size_bytes": 5088157,
+      "uncompressed_size_bytes": 5136854,
       "required_free_bytes": 544689209,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-toc-1.1.5/FadedTacticalOperationsCenter-v1.1.5.zip",
-      "zip_name": "FadedTacticalOperationsCenter-v1.1.5.zip",
-      "size_bytes": 2730140,
-      "sha256": "7e8a3248e07fa710e2b14bde781721749bd1113dadcbb14667631ce035d1f954"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-19-toc-1.1.6/FadedTacticalOperationsCenter-v1.1.6.zip",
+      "zip_name": "FadedTacticalOperationsCenter-v1.1.6.zip",
+      "size_bytes": 2741659,
+      "sha256": "f2efb61d5cb8803266ec2fab13955ee7c25658dfcc34494b7bfd447edb544c68"
     },
     {
       "id": "CSR_ClearviewGPS",
