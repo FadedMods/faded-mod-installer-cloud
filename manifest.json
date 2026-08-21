@@ -641,47 +641,47 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.11",
-      "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and Java presentation quality. PZF NPC systems are not included.",
-      "uncompressed_size_bytes": 8084442029,
-      "required_free_bytes": 11926040510,
-      "updated_at": "2026-08-18",
+      "version": "0.3.12",
+      "description": "Knox Reborn hybrid map mod for B42.20.2. Full PZF map stack and Lua features; optional FJL enables the server-authoritative Tikitown power-restoration mission and memory-efficient GPU-generated texture mipmaps without texture compression. PZF NPC systems are not included.",
+      "uncompressed_size_bytes": 8084440776,
+      "required_free_bytes": 11926038529,
+      "updated_at": "2026-08-20",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.2.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "knoxreborn.hybrid",
-      "javaPluginVersion": "0.3.11",
+      "javaPluginVersion": "0.3.12",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.11/KnoxReborn-v0.3.11-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.11-part1.zip",
-          "size_bytes": 413692427,
-          "sha256": "9c2a0e5ab025a537cd10aa2131ac441739fe0740ecced083820f01652a14d11a"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-20-knox-reborn-0.3.12/KnoxReborn-v0.3.12-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.12-part1.zip",
+          "size_bytes": 413692237,
+          "sha256": "da3359fe8be8e0f86eb48d6cb8b93676ee152e4ded6022c3c7163595f857a769"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.11/KnoxReborn-v0.3.11-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.11-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-20-knox-reborn-0.3.12/KnoxReborn-v0.3.12-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.12-part2.zip",
           "size_bytes": 178399382,
-          "sha256": "195c11413f5f24df67fddc6f85f324f635094c3df36e6603161d130c29247f3f"
+          "sha256": "3b1b8ec222cba24d2234495a5e8aa1d59a59168a5a930ef4a32cdb58eb1a8101"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.11/KnoxReborn-v0.3.11-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.11-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-20-knox-reborn-0.3.12/KnoxReborn-v0.3.12-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.12-part3.zip",
           "size_bytes": 357084451,
-          "sha256": "f44f296ca2b8b4e7b76fc6f5d0b18351c2ea43e3378add006779ce382ad375c6"
+          "sha256": "8f7fd78693bf0aac3fb6bc1491cacc58acce8acd277819c780ac0c6e3ca2bbdf"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.11/KnoxReborn-v0.3.11-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.11-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-20-knox-reborn-0.3.12/KnoxReborn-v0.3.12-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.12-part4.zip",
           "size_bytes": 1498158299,
-          "sha256": "c79e36eee03c7ace6cf179c7d981dc98858d178b609071b0288f62c512614b2a"
+          "sha256": "6d8cdd8ee14082e87897999a6b4082708822f008f3dfb9401bf9d3eed4aebdd8"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-knox-reborn-0.3.11/KnoxReborn-v0.3.11-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.11-part5.zip",
-          "size_bytes": 585819720,
-          "sha256": "b2df696d5191a132972401e6d381a33a516fc85c56c59ef97649ca1f40b6b948"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-20-knox-reborn-0.3.12/KnoxReborn-v0.3.12-part5.zip",
+          "zip_name": "KnoxReborn-v0.3.12-part5.zip",
+          "size_bytes": 585819307,
+          "sha256": "df08a98c24fa0a3c3106feb3e2ef06cc74a854341cc418646c0c27f44e5124e3"
         }
       ]
     },
