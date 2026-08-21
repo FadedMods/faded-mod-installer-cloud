@@ -1049,13 +1049,15 @@
                      "id":  "ThePathLessTraveled",
                      "server_mod_id":  "ThePathLessTraveled",
                      "name":  "The Path Less Traveled",
-                     "version":  "1.0.2",
+                     "version":  "1.0.3",
                      "description":  "Build 42.20.2 native Skills-tab progression from level 10 to 15 with ClearView-style mastery cells and server-authoritative permanent category buffs.",
-                     "updated_at":  "2026-08-09",
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-09-b42-20-2-eleven-mod-updates/ThePathLessTraveled-v1.0.2.zip",
-                     "zip_name":  "ThePathLessTraveled-v1.0.2.zip",
-                     "size_bytes":  19955,
-                     "sha256":  "2fc4f6e1a8331b350db5059aa6e15d5b9939759028210158a46e22973ce95bdd"
+                     "updated_at":  "2026-08-21",
+                     "uncompressed_size_bytes":  69728,
+                     "required_free_bytes":  536964073,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-the-path-less-traveled-1.0.3/ThePathLessTraveled-v1.0.3.zip",
+                     "zip_name":  "ThePathLessTraveled-v1.0.3.zip",
+                     "size_bytes":  23433,
+                     "sha256":  "f8f032d57b84c19a41236265cc3a25a9dd9422fbfa70ed25b91f27530818d210"
                  },
                  {
                      "id":  "FadedNinja",
