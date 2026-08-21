@@ -1,35 +1,35 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "published_at": "2026-08-21",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.12",
-  "notes": "Installer 0.2.12 adds the built-in Faded Realms server mod tab and Repair Required detection for missing or disabled FJL hybrid Java plugins, including Knox Reborn.",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.13",
+  "notes": "Installer 0.2.13 repairs the complete FJL client chain, pins the official loader and Bridge 0.3.3, installs the bridge last, follows the FJL-reported Zomboid home, and refuses loader downgrades.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.12/FadedLocalModInstaller-0.2.12-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.2.12-windows.zip",
-      "size_bytes": 54129370,
-      "sha256": "df27636aaa9e863e2ab1d971f1861c17dcb2814cfb031fd7cc9391017722144e"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.13/FadedLocalModInstaller-0.2.13-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.2.13-windows.zip",
+      "size_bytes": 54137617,
+      "sha256": "001d69780c963d303a6b4204e086811cfe9ee8d05d44f5a0b8729ed9cec94e7d"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.12/FadedLocalModInstaller-0.2.12-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.2.12-windows-multilingual.zip",
-      "size_bytes": 54121879,
-      "sha256": "98b93bf15f584e80dbfdf3aaf343f1f8a40bb709b53e57c497ee69c49e212c76"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.13/FadedLocalModInstaller-0.2.13-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.2.13-windows-multilingual.zip",
+      "size_bytes": 54126981,
+      "sha256": "509e469554fbad0e7601bd958e6b62a332a442f8f4069810fc50eea936ff8109"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.12/FadedLocalModInstaller-0.2.12-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.12-linux-x86_64.tar.gz",
-      "size_bytes": 304045466,
-      "sha256": "004c29d48634d8e08ad2bee455beaedbee8c653d83463e188bb433ee18d7071b"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.13/FadedLocalModInstaller-0.2.13-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.13-linux-x86_64.tar.gz",
+      "size_bytes": 304050634,
+      "sha256": "c8fe538831598dd4ebc446bff1b8730d4f547b93fb3a84e1aaae551c0f557c45"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.12/FadedLocalModInstaller-0.2.12-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.2.12-linux-standard-x86_64.tar.gz",
-      "size_bytes": 393048446,
-      "sha256": "08be8bee32c0d370df1c84b5216d5c33c1bdfb55b7e7ca0e20cdef031c7d9ce5"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.2.13/FadedLocalModInstaller-0.2.13-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.2.13-linux-standard-x86_64.tar.gz",
+      "size_bytes": 393050817,
+      "sha256": "6a68a88539557e7615567a4f738cebff5343eda1452e7cc60e704c62ac5b7336"
     }
   }
 }
