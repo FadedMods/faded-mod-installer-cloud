@@ -253,15 +253,15 @@
                      "id":  "BuildcraftReborn",
                      "server_mod_id":  "BuildcraftReborn",
                      "name":  "Buildcraft Reborn",
-                     "version":  "0.5.4",
+                     "version":  "0.5.5",
                      "description":  "Build 42.20.2 three-window Craft / Build / Projects workspace with fast virtual catalogs, full-width project dock, native basements, reconstruction, manufacturing, planning, sewing, and CSR-safe repair ownership. No dependencies.",
                      "updated_at":  "2026-08-21",
-                     "uncompressed_size_bytes":  26596769,
-                     "required_free_bytes":  587839609,
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-server-fixes-v1/BuildcraftReborn-v0.5.4.zip",
-                     "zip_name":  "BuildcraftReborn-v0.5.4.zip",
-                     "size_bytes":  24371928,
-                     "sha256":  "2fea07cd63e1714c840c6777315733272d85ac8d2dd21a5bc7589324ade6593d"
+                     "uncompressed_size_bytes":  26598396,
+                     "required_free_bytes":  587842147,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-buildcraft-0.5.5-worlddictionary-recovery/BuildcraftReborn-v0.5.5.zip",
+                     "zip_name":  "BuildcraftReborn-v0.5.5.zip",
+                     "size_bytes":  24372839,
+                     "sha256":  "d4ed7fc81265a4569ce5e11e1efd1fa7c5c599aa165af7f0da717c11f142818c"
                  },
                  {
                      "id":  "FadedOriginsOccupationsTraits",
