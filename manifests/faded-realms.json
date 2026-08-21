@@ -271,11 +271,11 @@
                      "description":  "Dark-edged occupations and traits with server-authoritative Resolve progression for Build 42.20.2. Integrates with SOTO and Old World Criminals.",
                      "updated_at":  "2026-08-21",
                      "uncompressed_size_bytes":  1842070,
-                     "required_free_bytes":  540436260,
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs/FadedOriginsOccupationsTraits-v1.0.4.zip",
+                     "required_free_bytes":  540437884,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs-folder-fix/FadedOriginsOccupationsTraits-v1.0.4.zip",
                      "zip_name":  "FadedOriginsOccupationsTraits-v1.0.4.zip",
-                     "size_bytes":  1723278,
-                     "sha256":  "cf9c19304324d64fb0b4067036794d0bbcc755815dcdbce58bd8300d10ee4fd3"
+                     "size_bytes":  1724902,
+                     "sha256":  "b7d71c522816697f07c50dbea3a9eb015f206942e16886d4d845b0170fe39711"
                  },
                  {
                      "id":  "KnoxReborn",
@@ -386,7 +386,7 @@
                      "version":  "2.4.3",
                      "description":  "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, seep channels, building-wide liquid plumbing, storage, fixtures, gas stations and generators without a bridge hub. Includes calibrated rain collectors, liquid-effect details, mains reconnection, physical petrol routing, portable pumping, quick view, public physical-container API, optional Faded Java Loader acceleration and KnoxNet OS bridge.",
                      "uncompressed_size_bytes":  585412451,
-                     "required_free_bytes":  1659848178,
+                     "required_free_bytes":  1659852392,
                      "updated_at":  "2026-08-21",
                      "requiresJavaLoader":  true,
                      "minimumJavaLoaderVersion":  "0.3.1",
@@ -394,10 +394,10 @@
                      "javaPluginId":  "faded.waterexpanded.hybrid",
                      "javaPluginVersion":  "1.0.0",
                      "javaPluginMode":  "HYBRID",
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs/WaterExpanded-v2.4.3.zip",
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs-folder-fix/WaterExpanded-v2.4.3.zip",
                      "zip_name":  "WaterExpanded-v2.4.3.zip",
-                     "size_bytes":  537564815,
-                     "sha256":  "702848f1d7d0193ae6d9f541b6652d606ef0c2c9f2e456437e2a3c63d8fe9dfb"
+                     "size_bytes":  537569029,
+                     "sha256":  "e3647ba8313ab6b269c5178dd23c44ade570512809b7e51b046cf024a4d010a1"
                  },
                  {
                      "id":  "SolarNeverFaded",
