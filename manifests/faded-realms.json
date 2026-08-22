@@ -85,15 +85,15 @@
                      "id":  "CommonSenseRebornTest",
                      "server_mod_id":  "CommonSenseRebornTest",
                      "name":  "Common Sense Reborn (Test)",
-                     "version":  "1.9.37",
+                     "version":  "1.9.38",
                      "description":  "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, parties, and more. 609 sandbox options. SP + MP. No dependencies.",
-                     "uncompressed_size_bytes":  52805904,
-                     "required_free_bytes":  621518831,
+                     "uncompressed_size_bytes":  52813990,
+                     "required_free_bytes":  621529484,
                      "updated_at":  "2026-08-21",
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-server-stability-hotfix/CommonSenseRebornTest-v1.9.37.zip",
-                     "zip_name":  "CommonSenseRebornTest-v1.9.37.zip",
-                     "size_bytes":  31842015,
-                     "sha256":  "13c766905d65e41a5bab04015037a4c7542b478d18618ad5fc5230421d93097d"
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-csr-1.9.38-back-slot-hotfix/CommonSenseRebornTest-v1.9.38.zip",
+                     "zip_name":  "CommonSenseRebornTest-v1.9.38.zip",
+                     "size_bytes":  31844582,
+                     "sha256":  "040e111c3b0eeb166b4b9f2928b024d4343876ce2319af2477547030767a40fc"
                  },
                  {
                      "id":  "FadedsClearViewUI",
