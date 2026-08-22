@@ -588,7 +588,7 @@
                    "server_mod_id": "FadedAdvancedMedical",
                    "name": "Faded's Advanced Medical",
                    "version": "2.1.5",
-                   "description": "FAM 2.1.5 for Build 42.20.2: server-authoritative medicine with FAM triage plus an explicit native Health compatibility bridge.",
+                   "description": "FAM 2.1.5 for Build 42.20.2: server-authoritative medicine with FAM triage plus a scoped native Character/Health compatibility bridge.",
                    "updated_at": "2026-08-22",
                    "uncompressed_size_bytes": 69833956,
                    "required_free_bytes": 663242050,
