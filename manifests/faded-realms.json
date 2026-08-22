@@ -88,12 +88,12 @@
                    "version": "1.9.42",
                    "description": "Build 42.20.3 QoL mega-mod test identity with stable melee/custom outlines, independent fist combat, tactical hold, ladder climbing, push-door interactions, ordinary dual-wield support, secondary-hand recovery, and broader food, tool, vehicle, loot, HUD, and party features. SP + MP. No dependencies.",
                    "uncompressed_size_bytes": 52463268,
-                   "required_free_bytes": 621496947,
+                   "required_free_bytes": 621518247,
                    "updated_at": "2026-08-22",
-                   "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-22-independent-combat-ui-wearables/CommonSenseRebornTest-v1.9.42.zip",
+                   "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-22-independent-combat-ui-wearables-test-folder-fix/CommonSenseRebornTest-v1.9.42.zip",
                    "zip_name": "CommonSenseRebornTest-v1.9.42.zip",
-                   "size_bytes": 32162767,
-                   "sha256": "9d29aea4fd3c6fa5354ea025cb26f3024b9d8345453b3be799169474ff41288b"
+                   "size_bytes": 32184067,
+                   "sha256": "3d0b0a29bc2fe06bf6a1593942fbe46570b35a798a6154008d2b3977c0bab8bf"
                  },
                  {
                    "id": "FadedsClearViewUI",
