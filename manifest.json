@@ -1491,6 +1491,30 @@
       "zip_name": "WhatAWorldTreeVisibility-v1.0.0.zip",
       "size_bytes": 108227,
       "sha256": "cdfb048730d57f1372a7a37f0f8f9a951e39a38690db28ebf8e0fd5563fac53e"
+    },
+    {
+      "id": "FadedModernFirearmsPlus",
+      "server_mod_id": "FadedModernFirearmsPlus",
+      "name": "Faded Modern Firearms Plus",
+      "version": "0.2.0",
+      "description": "A standalone modern firearms overhaul for Build 42.20: 200+ firearms with full attachment systems, magazine and drum variants, smart magazine select, weapon inspection, laser/light control, flashlight Harries stance, muzzle flash, ejected brass, tracers and phosphorus loads, exact cyclic RPM, custom gunshot layering, underbarrel launchers, and configurable loot rarity tiers. Fully self-contained for singleplayer and multiplayer - no external firearm framework required.",
+      "updated_at": "2026-08-23",
+      "uncompressed_size_bytes": 3397534985,
+      "required_free_bytes": 5239780466,
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-faded-modern-firearms-plus-0.2.0/FadedModernFirearmsPlus-v0.2.0-part1.zip",
+          "zip_name": "FadedModernFirearmsPlus-v0.2.0-part1.zip",
+          "size_bytes": 278550747,
+          "sha256": "5c745698f21d0b90018c85158679053967fc41024294e55b03cf33c99cb27167"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-faded-modern-firearms-plus-0.2.0/FadedModernFirearmsPlus-v0.2.0-part2.zip",
+          "zip_name": "FadedModernFirearmsPlus-v0.2.0-part2.zip",
+          "size_bytes": 1026823822,
+          "sha256": "d777e00b5f60fb757c10207af20e9f78ac81afd749acd16222b5d5ca96fba147"
+        }
+      ]
     }
   ]
 }
