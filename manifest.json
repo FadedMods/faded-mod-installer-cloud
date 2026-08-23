@@ -1448,7 +1448,13 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-what-a-world-1.0.0/WhatAWorld-v1.0.0.zip",
       "zip_name": "WhatAWorld-v1.0.0.zip",
       "size_bytes": 2489309,
-      "sha256": "8b409a3d28f3fba11411567ac059390fe0b399a5001e23c655e52b4a4bd75e72"
+      "sha256": "8b409a3d28f3fba11411567ac059390fe0b399a5001e23c655e52b4a4bd75e72",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.0",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "faded.whataworld.textures",
+      "javaPluginVersion": "1.0.0",
+      "javaPluginMode": "HYBRID"
     },
     {
       "id": "WhatAWorldTexturesPotato",
