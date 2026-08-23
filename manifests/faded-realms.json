@@ -233,13 +233,13 @@
                      "id":  "KnoxNetOS",
                      "server_mod_id":  "KnoxNetOS",
                      "name":  "KnoxNet OS",
-                     "version":  "0.9.0",
-                     "description":  "Build 42.20 networked computer OS with a borderless desktop, managed app windows, secure terminal sessions, multi-floor storage logistics, server-authoritative CCTV and alarms, renewable-power and WEX telemetry, printing, banking, medical records, and survivor services.",
+                     "version":  "0.9.1",
+                     "description":  "Build 42.20 networked computer OS with a borderless desktop, managed app windows, secure terminal sessions, multi-floor storage logistics, server-authoritative CCTV and alarms, optional What A World weather reports, renewable-power and WEX telemetry, printing, banking, medical records, and survivor services.",
                      "updated_at":  "2026-08-23",
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-knoxnet-os-0.9.0/KnoxNetOS-v0.9.0.zip",
-                     "zip_name":  "KnoxNetOS-v0.9.0.zip",
-                     "size_bytes":  12910848,
-                     "sha256":  "f6c05c41e5571858d11816fe9602c7dc7d58a6fbc823243e91a0126b3ab38b1c"
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-knoxnet-os-0.9.1/KnoxNetOS-v0.9.1.zip",
+                     "zip_name":  "KnoxNetOS-v0.9.1.zip",
+                     "size_bytes":  12919840,
+                     "sha256":  "4c6a2a28990a44b4a7ebfeebb3dc2c80d91b4eb08fed51294f46efe30282e7f9"
                  },
                  {
                    "id": "FadedTradeNetwork",
