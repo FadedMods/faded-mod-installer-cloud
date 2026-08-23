@@ -649,13 +649,13 @@
       "id": "KnoxNetOS",
       "server_mod_id": "KnoxNetOS",
       "name": "KnoxNet OS",
-      "version": "0.8.2",
-      "description": "Build 42.20 simulated computer OS with networked building controls, multi-floor storage logistics, cameras, renewable-power and WEX water/fuel telemetry, printing, banking, medical records, and survivor services.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/KnoxNetOS-v0.8.2.zip",
-      "zip_name": "KnoxNetOS-v0.8.2.zip",
-      "size_bytes": 12869185,
-      "sha256": "b43c5d1903e05210e30465513ca663db92fb2e1cf6a64372cd2a5f4468e96f4b"
+      "version": "0.9.0",
+      "description": "Build 42.20 networked computer OS with a borderless desktop, managed app windows, secure terminal sessions, multi-floor storage logistics, server-authoritative CCTV and alarms, renewable-power and WEX telemetry, printing, banking, medical records, and survivor services.",
+      "updated_at": "2026-08-23",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-knoxnet-os-0.9.0/KnoxNetOS-v0.9.0.zip",
+      "zip_name": "KnoxNetOS-v0.9.0.zip",
+      "size_bytes": 12910848,
+      "sha256": "f6c05c41e5571858d11816fe9602c7dc7d58a6fbc823243e91a0126b3ab38b1c"
     },
     {
       "id": "KnoxReborn",
