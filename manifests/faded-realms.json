@@ -499,15 +499,15 @@
                      "id":  "ProjectFadedCar",
                      "server_mod_id":  "ProjectFadedCar",
                      "name":  "Project Faded Car",
-                     "version":  "2.0.4",
+                     "version":  "2.0.5",
                      "description":  "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP.",
-                     "updated_at":  "2026-08-16",
-                     "uncompressed_size_bytes":  33193780,
-                     "required_free_bytes":  590823290,
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-16-sixteen-mod-update/ProjectFadedCar-v2.0.4.zip",
-                     "zip_name":  "ProjectFadedCar-v2.0.4.zip",
-                     "size_bytes":  20758598,
-                     "sha256":  "05a5cf8773372d45fc1db0fa20cf22c3400ad92f7cbb60ae2d2166548f4d95f6"
+                     "updated_at":  "2026-08-23",
+                     "uncompressed_size_bytes":  33195815,
+                     "required_free_bytes":  590826033,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-project-faded-car-2.0.5/ProjectFadedCar-v2.0.5.zip",
+                     "zip_name":  "ProjectFadedCar-v2.0.5.zip",
+                     "size_bytes":  20759306,
+                     "sha256":  "e3ac24bb7fefd8f3e2e6f2c9eb1db71d7335ed6794f1c2690a82b0ff3de9bbff"
                  },
                  {
                      "id":  "MassiveKI5Pack",
@@ -1110,6 +1110,34 @@
                      "zip_name":  "BlanketsFade-v1.2.2.zip",
                      "size_bytes":  42807225,
                      "sha256":  "dfba8b8cb57aae98d51bdbd343925ac0627f875a360f0b2c8d42d93b2faa3e80"
+                 },
+                 {
+                     "id":  "WhatAWorld",
+                     "server_mod_id":  "WhatAWorld",
+                     "name":  "What A World",
+                     "version":  "1.0.0",
+                     "description":  "Per-player visual quality and performance control for Build 42, with integrated cold-winter events, weather damage, weather stations, receivers, forecasts, seasonal decay, bounded effects, and an optional Faded Java Loader performance layer.",
+                     "updated_at":  "2026-08-23",
+                     "uncompressed_size_bytes":  2912931,
+                     "required_free_bytes":  542273152,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-what-a-world-1.0.0/WhatAWorld-v1.0.0.zip",
+                     "zip_name":  "WhatAWorld-v1.0.0.zip",
+                     "size_bytes":  2489309,
+                     "sha256":  "8b409a3d28f3fba11411567ac059390fe0b399a5001e23c655e52b4a4bd75e72"
+                 },
+                 {
+                     "id":  "WhatAWorldTreeVisibility",
+                     "server_mod_id":  "WhatAWorldTreeVisibility",
+                     "name":  "What A World - Tree Visibility",
+                     "version":  "1.0.0",
+                     "description":  "Optional TreeZ-derived companion shaders that keep foliage from hiding what is behind it. Published separately so servers and players can opt in deliberately.",
+                     "updated_at":  "2026-08-23",
+                     "uncompressed_size_bytes":  210513,
+                     "required_free_bytes":  537189652,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-what-a-world-1.0.0/WhatAWorldTreeVisibility-v1.0.0.zip",
+                     "zip_name":  "WhatAWorldTreeVisibility-v1.0.0.zip",
+                     "size_bytes":  108227,
+                     "sha256":  "cdfb048730d57f1372a7a37f0f8f9a951e39a38690db28ebf8e0fd5563fac53e"
                  }
              ]
 }
