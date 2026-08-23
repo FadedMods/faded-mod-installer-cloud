@@ -71,15 +71,15 @@
                      "id":  "FadedJavaLoaderBridge",
                      "server_mod_id":  "FadedJavaLoaderBridge",
                      "name":  "Faded Java Loader Bridge",
-                     "version":  "0.3.3",
+                     "version":  "0.3.4",
                      "description":  "FJL multiplayer compatibility bridge with client/server plugin hash verification. Uses the Build 42 folder layout (42/mod.info).",
-                     "updated_at":  "2026-08-21",
-                     "uncompressed_size_bytes":  10008,
-                     "required_free_bytes":  536885572,
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-faded-java-loader-bridge-0.3.3/FadedJavaLoaderBridge-v0.3.3.zip",
-                     "zip_name":  "FadedJavaLoaderBridge-v0.3.3.zip",
-                     "size_bytes":  5403,
-                     "sha256":  "d80dd3dbe769c81cadcfd83bbfd0878da18a41ce2be910e0cd1153f3dda6659c"
+                     "updated_at":  "2026-08-23",
+                     "uncompressed_size_bytes":  318944,
+                     "required_free_bytes":  537501359,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-faded-java-loader-bridge-0.3.4/FadedJavaLoaderBridge-v0.3.4.zip",
+                     "zip_name":  "FadedJavaLoaderBridge-v0.3.4.zip",
+                     "size_bytes":  311503,
+                     "sha256":  "54e3556b4e08acb4e0dd8b6d602925ea393296a513c54323917f157b05c734fb"
                  },
                  {
                    "id": "CommonSenseRebornTest",
