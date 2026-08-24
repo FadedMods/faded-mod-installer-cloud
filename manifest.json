@@ -250,11 +250,11 @@
       "description": "A server-authoritative admin and player operations suite for Project Zomboid Build 42.20.2. Includes a full Command Center replacement, Covert Event social deduction, location reports, a true owning-mod-tabbed Item Spawn browser with fixed controls and contained list scrolling, mod-aware Operator and Blueprint tools, CSR authority handoff, FTN trade intelligence, mission routing, Echoes conflict monitoring, scalable 4K UI, and optional FJL/OpenCL dispatch acceleration with Lua fallback.",
       "updated_at": "2026-08-24",
       "uncompressed_size_bytes": 5116020,
-      "required_free_bytes": 544691852,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-24-pfc-toc-repair/FadedTacticalOperationsCenter-v1.1.12.zip",
+      "required_free_bytes": 544692346,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-24-toc-linux-server-sync/FadedTacticalOperationsCenter-v1.1.12.zip",
       "zip_name": "FadedTacticalOperationsCenter-v1.1.12.zip",
-      "size_bytes": 2704920,
-      "sha256": "9e9fb3693c6107d7e209cafbb05d8f7c1d79115f714611c8e99435166c2e0bc1"
+      "size_bytes": 2705414,
+      "sha256": "4e01aa5659e2ca54dd10768657b891c2cec905705a95feec43853cbf06a1489b"
     },
     {
       "id": "CSR_ClearviewGPS",
