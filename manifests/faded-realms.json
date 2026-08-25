@@ -517,15 +517,15 @@
                      "id":  "MassiveKI5Pack",
                      "server_mod_id":  "MassiveKI5Pack",
                      "name":  "Massive KI5 Pack",
-                     "version":  "1.2.5",
+                     "version":  "1.2.6",
                      "description":  "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2 through 42.20.3, now including Daimler Ferret Mk2, Mk3, and Faded Mk2 variants with server-authoritative turret ammo, firing, hits, and reloads.",
-                     "uncompressed_size_bytes":  492265140,
-                     "required_free_bytes":  1355342117,
-                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-24-massive-ki5-pack-1.2.5/MassiveKI5Pack-v1.2.5.zip",
-                     "zip_name":  "MassiveKI5Pack-v1.2.5.zip",
-                     "size_bytes":  326206065,
-                     "sha256":  "b3632a4b053765a9f844ecf33ba665f36b32c55b3a47745a884bf1852b8a7e87",
-                     "updated_at":  "2026-08-24"
+                     "uncompressed_size_bytes":  492281732,
+                     "required_free_bytes":  1355363406,
+                     "download_url":  "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-25-massive-ki5-pack-1.2.6/MassiveKI5Pack-v1.2.6.zip",
+                     "zip_name":  "MassiveKI5Pack-v1.2.6.zip",
+                     "size_bytes":  326210762,
+                     "sha256":  "6b17860461426791fe47b9f977f728ea5e64062c0091554ae5ce2a9f9de61c94",
+                     "updated_at":  "2026-08-25"
                  },
                  {
                      "id":  "MassiveVehiclePack",
