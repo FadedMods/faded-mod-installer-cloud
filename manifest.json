@@ -872,15 +872,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.0.9",
-      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.0.9 keeps the raised Hauler hitch and cuts idle overlay/tick allocation.",
+      "version": "2.0.10",
+      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.0.10 clears the carrier underpass wall, lets any vehicle hitch, auto-attaches large trucks, and adds seated V unhitch.",
       "updated_at": "2026-08-26",
-      "uncompressed_size_bytes": 33209551,
-      "required_free_bytes": 590842800,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-project-faded-car-2.0.9/ProjectFadedCar-v2.0.9.zip",
-      "zip_name": "ProjectFadedCar-v2.0.9.zip",
-      "size_bytes": 20762337,
-      "sha256": "40e5a00fc95fabbab37c540be05b3fef665ce75bde8b47e7c264fcee92d44bab"
+      "uncompressed_size_bytes": 33215950,
+      "required_free_bytes": 590850538,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-project-faded-car-2.0.10/ProjectFadedCar-v2.0.10.zip",
+      "zip_name": "ProjectFadedCar-v2.0.10.zip",
+      "size_bytes": 20763676,
+      "sha256": "e52b2a7896737655487369bedd03f8802bc808d0c6cf8d73a0bc0ce1f5d63908"
     },
     {
       "id": "ProximityAutoRead",
