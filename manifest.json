@@ -292,7 +292,13 @@
       "size_bytes": 173291800,
       "sha256": "32b29d28411afd72d204cb59f17e7fb26cc41a25a6e47de82fc5021fa4358052",
       "uncompressed_size_bytes": 984718611,
-      "required_free_bytes": 1694881323
+      "required_free_bytes": 1694881323,
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "faded.fadcm.ballistics",
+      "javaPluginVersion": "1.2.0",
+      "javaPluginMode": "HYBRID"
     },
     {
       "id": "FadedOriginsOccupationsTraits",
