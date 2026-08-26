@@ -505,15 +505,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.0.8",
-      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.0.8 raises the Hauler gooseneck/hitch so trucks can reach the kingpin and tow it.",
+      "version": "2.0.9",
+      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.0.9 keeps the raised Hauler hitch and cuts idle overlay/tick allocation.",
       "updated_at": "2026-08-26",
-      "uncompressed_size_bytes": 33396255,
-      "required_free_bytes": 591202117,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-six-mod-update/ProjectFadedCar-v2.0.8.zip",
-      "zip_name": "ProjectFadedCar-v2.0.8.zip",
-      "size_bytes": 20934950,
-      "sha256": "97f4e16c73925141dd5ff812bc4ef629abbf3149e438eaad304dd61b619a7702"
+      "uncompressed_size_bytes": 33209551,
+      "required_free_bytes": 590842800,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-project-faded-car-2.0.9/ProjectFadedCar-v2.0.9.zip",
+      "zip_name": "ProjectFadedCar-v2.0.9.zip",
+      "size_bytes": 20762337,
+      "sha256": "40e5a00fc95fabbab37c540be05b3fef665ce75bde8b47e7c264fcee92d44bab"
     },
     {
       "id": "MassiveKI5Pack",
