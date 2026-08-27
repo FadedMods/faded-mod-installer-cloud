@@ -153,15 +153,15 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "description": "Character creation overhaul for Build 42.20.3: fully themed identity and wardrobe workspaces, faces and body details, hair gallery, saved-survivor bios with 3D previews, starting loadout and vehicle pickers, exact-slot equipment sorting, budgeted loot, and a pack API for add-ons.",
-      "uncompressed_size_bytes": 897809016,
-      "required_free_bytes": 2050985912,
+      "uncompressed_size_bytes": 897798838,
+      "required_free_bytes": 2050970521,
       "updated_at": "2026-08-27",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-character-creator-2.1.0/CharacterCreator-v2.1.0.zip",
-      "zip_name": "CharacterCreator-v2.1.0.zip",
-      "size_bytes": 616305984,
-      "sha256": "b28b979003c2414875cfceff5ebad722218c1ace6c6960e5f9117e90434b0b2a"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-character-creator-2.1.1/CharacterCreator-v2.1.1.zip",
+      "zip_name": "CharacterCreator-v2.1.1.zip",
+      "size_bytes": 616300771,
+      "sha256": "bea5c9eef3988ad7e2c298bc19fbfd05f0f53bbd972f49ce6da69de02e45ad89"
     },
     {
       "id": "FadedsErrorDetected",
