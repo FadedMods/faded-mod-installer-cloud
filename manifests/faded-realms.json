@@ -79,13 +79,7 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-b42-20-4-ui-java/FadedJavaLoaderBridge-v0.3.6.zip",
       "zip_name": "FadedJavaLoaderBridge-v0.3.6.zip",
       "size_bytes": 320159,
-      "sha256": "c3f4a3a109560780d4378f51bd59e80be105c4b9bf4849d468bf94aa170be57f",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "BOTH",
-      "javaPluginId": "faded.stack.coop",
-      "javaPluginVersion": "1.0.1",
-      "javaPluginMode": "HYBRID"
+      "sha256": "c3f4a3a109560780d4378f51bd59e80be105c4b9bf4849d468bf94aa170be57f"
     },
     {
       "id": "CommonSenseRebornTest",
