@@ -816,15 +816,15 @@
       "id": "MassiveKI5Pack",
       "server_mod_id": "MassiveKI5Pack",
       "name": "Massive KI5 Pack",
-      "version": "1.2.7",
-      "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2 through 42.20.3, now including Daimler Ferret Mk2, Mk3, and Faded Mk2 variants with server-authoritative turret ammo, firing, hits, and reloads.",
-      "uncompressed_size_bytes": 492282544,
-      "required_free_bytes": 1355364970,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-25-player-upgrades/MassiveKI5Pack-v1.2.7.zip",
-      "zip_name": "MassiveKI5Pack-v1.2.7.zip",
-      "size_bytes": 326211514,
-      "sha256": "8851144436d88cb96aa5355f9dd63150d8a5af58fe50dcb7202598f832425464",
-      "updated_at": "2026-08-25"
+      "version": "1.2.8",
+      "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2 through 42.20.4, with 532 vehicles and unified per-vehicle controls for direct spawns and vanilla replacements while preserving server-authoritative Ferret turret gameplay.",
+      "uncompressed_size_bytes": 492367432,
+      "required_free_bytes": 1355150736,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-mkp-nsa-buckshot/MassiveKI5Pack-v1.2.8.zip",
+      "zip_name": "MassiveKI5Pack-v1.2.8.zip",
+      "size_bytes": 325912392,
+      "sha256": "c200200cf9b3054b50a38f970704268f7289734f76fc8c0b56513e14e38dbb03",
+      "updated_at": "2026-08-27"
     },
     {
       "id": "MassiveVehiclePack",
@@ -1158,15 +1158,15 @@
       "id": "NeverSurviveAlone",
       "server_mod_id": "NeverSurviveAlone",
       "name": "Never Survive Alone",
-      "version": "0.4.3-alpha",
-      "description": "Server-validated, explicit-opt-in adult intimacy interactions for Project Zomboid Build 42.20. MP-ready Afterglow buffs sync with Common Sense Reborn Survivor Bond.",
-      "updated_at": "2026-08-18",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-18-session-ui-fixes/NeverSurviveAlone-v0.4.3-alpha.zip",
-      "zip_name": "NeverSurviveAlone-v0.4.3-alpha.zip",
-      "size_bytes": 547287,
-      "sha256": "b2e5345e7e776beb975683209eb1db1ac88f2e4d8364c1ec7ee93939752a396e",
-      "uncompressed_size_bytes": 614614,
-      "required_free_bytes": 538030216
+      "version": "0.5.0-alpha",
+      "description": "Server-validated, explicit-opt-in adult intimacy for Project Zomboid Build 42.20. Toys, lingerie, magazines and wall posters feed one Desire and scene-bonus system: an equipped toy lengthens the scene and the Afterglow it leaves behind. MP-ready, with Common Sense Reborn Survivor Bond sync.",
+      "updated_at": "2026-08-27",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-mkp-nsa-buckshot/NeverSurviveAlone-v0.5.0-alpha.zip",
+      "zip_name": "NeverSurviveAlone-v0.5.0-alpha.zip",
+      "size_bytes": 32295856,
+      "sha256": "5f3f489be425b7bbbec630133f3fd7d4d8260274ab16cf1a1888d3474a380bc7",
+      "uncompressed_size_bytes": 36549189,
+      "required_free_bytes": 605715957
     },
     {
       "id": "NeverForget",
@@ -1549,6 +1549,20 @@
           "sha256": "d777e00b5f60fb757c10207af20e9f78ac81afd749acd16222b5d5ca96fba147"
         }
       ]
+    },
+    {
+      "id": "BuckShotRoulette",
+      "server_mod_id": "BuckShotRoulette",
+      "name": "BuckShot Roulette",
+      "version": "1.0.0",
+      "description": "A lethal, server-authoritative Buckshot Roulette simulation for one survivor against the Dealer or two nearby survivors. Requires at least one loaded revolver or shotgun to open the table. Includes the complete shell game, tactical items, custom Faded UI, prizes, and a one-use curative pill for PvP winners.",
+      "updated_at": "2026-08-27",
+      "uncompressed_size_bytes": 14138879,
+      "required_free_bytes": 565075494,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-mkp-nsa-buckshot/BuckShotRoulette-v1.0.0.zip",
+      "zip_name": "BuckShotRoulette-v1.0.0.zip",
+      "size_bytes": 14065703,
+      "sha256": "10f815ecadcdf91d3670b157d1bee2456e81f99330331b74748c274167ede09d"
     }
   ]
 }
