@@ -181,13 +181,7 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-b42-20-4-ui-java/FadedsErrorDetected-v0.2.7.zip",
       "zip_name": "FadedsErrorDetected-v0.2.7.zip",
       "size_bytes": 463665,
-      "sha256": "0edb78e42c2d26ea56a09319dda892a21ac426eaec6d6b9bbe119b84f0faf122",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "SERVER",
-      "javaPluginId": "faded.fed.performance",
-      "javaPluginVersion": "1.0.2",
-      "javaPluginMode": "HYBRID"
+      "sha256": "0edb78e42c2d26ea56a09319dda892a21ac426eaec6d6b9bbe119b84f0faf122"
     },
     {
       "id": "KnoxTransit",
@@ -241,13 +235,7 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-b42-20-4-ui-java/ISyncYouSyncWeAllSyncForDeSync-v1.1.7.zip",
       "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.7.zip",
       "size_bytes": 1175068,
-      "sha256": "7db97f2aaa81914dca16b01cc08f248b0a7a6a5896bc07ad83693eda8b32597e",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "SERVER",
-      "javaPluginId": "faded.isywasfd.impact",
-      "javaPluginVersion": "1.1.3",
-      "javaPluginMode": "HYBRID"
+      "sha256": "7db97f2aaa81914dca16b01cc08f248b0a7a6a5896bc07ad83693eda8b32597e"
     },
     {
       "id": "KnoxNetOS",
@@ -397,13 +385,7 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-b42-20-4-ui-java/FadedsTheHive-v2.1.4.zip",
       "zip_name": "FadedsTheHive-v2.1.4.zip",
       "size_bytes": 6393283,
-      "sha256": "e647a82fd2a268d54610437addc21895591cfa6e18262f2ec3ca157e7bed2c24",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "SERVER",
-      "javaPluginId": "faded.fadedsthehive.ecology",
-      "javaPluginVersion": "1.0.2",
-      "javaPluginMode": "HYBRID"
+      "sha256": "e647a82fd2a268d54610437addc21895591cfa6e18262f2ec3ca157e7bed2c24"
     },
     {
       "id": "TheBigTreeFix",
