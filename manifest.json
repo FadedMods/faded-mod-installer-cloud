@@ -872,15 +872,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.0.10",
-      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.0.10 clears the carrier underpass wall, lets any vehicle hitch, auto-attaches large trucks, and adds seated V unhitch.",
+      "version": "2.1.0",
+      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, a heavy truck and trailer fleet, engine swaps, wreck restoration, EV support, and CSR integration for SP and MP. Version 2.1.0 adds the fleet with durable load/unload identity and RVs Reborn interior registration.",
       "updated_at": "2026-08-26",
-      "uncompressed_size_bytes": 33215950,
-      "required_free_bytes": 590850538,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-project-faded-car-2.0.10/ProjectFadedCar-v2.0.10.zip",
-      "zip_name": "ProjectFadedCar-v2.0.10.zip",
-      "size_bytes": 20763676,
-      "sha256": "e52b2a7896737655487369bedd03f8802bc808d0c6cf8d73a0bc0ce1f5d63908"
+      "uncompressed_size_bytes": 92149490,
+      "required_free_bytes": 704495390,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-26-project-faded-car-2.1.0/ProjectFadedCar-v2.1.0.zip",
+      "zip_name": "ProjectFadedCar-v2.1.0.zip",
+      "size_bytes": 75474988,
+      "sha256": "07927e0a8a470699a5b593516128e52294680f7e87093c2f6920317307fba631"
     },
     {
       "id": "ProximityAutoRead",
