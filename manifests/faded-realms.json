@@ -517,15 +517,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.1.2",
-      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, CSR integration, and the complete heavy truck/trailer fleet for SP and MP. Version 2.1.2 gives the vehicle carrier one explicit server-authoritative hitch and cargo control surface, removes ambient auto-hooking, corrects the hitch pivot, and validates six-position cargo while preserving PFC namespaces and IntoTheRiver WorldDictionary ownership.",
-      "updated_at": "2026-08-27",
+      "version": "2.1.3",
+      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, CSR integration, and the complete heavy truck/trailer fleet for SP and MP. Version 2.1.3 preserves the validated 2.1.2 gameplay payload while rebuilding the archive with portable entry headers for Linux dedicated-server installation.",
+      "updated_at": "2026-08-28",
       "uncompressed_size_bytes": 92171846,
-      "required_free_bytes": 704435693,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-27-clearview-health-pfc-hauler/ProjectFadedCar-v2.1.2.zip",
-      "zip_name": "ProjectFadedCar-v2.1.2.zip",
-      "size_bytes": 75392935,
-      "sha256": "2d0d9856b8d05fd5b53c5e1efd209f56ebb9eb010ae2c6b8f8b5fd4e9a3348cd"
+      "required_free_bytes": 704433618,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-pfc-2.1.3-portable/ProjectFadedCar-v2.1.3.zip",
+      "zip_name": "ProjectFadedCar-v2.1.3.zip",
+      "size_bytes": 75390860,
+      "sha256": "33de88ff737e720b9152f7b457dd28291b218f3aa3d3e3a4bff0af7d2b7343a0"
     },
     {
       "id": "MassiveKI5Pack",
