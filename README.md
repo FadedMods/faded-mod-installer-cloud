@@ -7,8 +7,27 @@ Public manifest and release-asset host for Faded Local Mod Installer.
 Use this URL in the installer's **Manifest URL** setting:
 
 ```text
-https://raw.githubusercontent.com/Torres1188/faded-mod-installer-cloud/main/manifest.json
+https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifest.json
 ```
+
+Faded Realms uses:
+
+```text
+https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifests/faded-realms.json
+```
+
+The URL remains stable when mods are updated. Players click **Refresh Mod
+List** in the installer after a publication.
+
+## Current release state
+
+As of August 28, 2026, the Main manifest contains 99 entries and the Faded
+Realms manifest contains 75. The current installer is `0.2.16`:
+
+<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.2.16>
+
+The complete August 28 manifest commit and mod-release sequence is recorded in
+[`docs/RELEASE_LEDGER_2026-08-28.md`](docs/RELEASE_LEDGER_2026-08-28.md).
 
 ## Legal Notice
 
