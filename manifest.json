@@ -1439,12 +1439,12 @@
       "version": "0.3.8",
       "description": "Optional FJL multiplayer compatibility bridge with client/server plugin hash verification, CSR Test identity aliasing, and Kahlua-safe FadedStack 1.1.1 lazy scheduling plus owner-keyed client/server command buses for Project Zomboid 42.20.3/42.20.4.",
       "updated_at": "2026-08-28",
-      "uncompressed_size_bytes": 334077,
-      "required_free_bytes": 537521637,
+      "uncompressed_size_bytes": 339760,
+      "required_free_bytes": 537530677,
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-stack-command-bridge/FadedJavaLoaderBridge-v0.3.8.zip",
       "zip_name": "FadedJavaLoaderBridge-v0.3.8.zip",
-      "size_bytes": 316648,
-      "sha256": "6cf8bd6f2ce128dc4185bcc72ea73573e6a37b0d9beb5461831c334f4e853246"
+      "size_bytes": 320005,
+      "sha256": "626333c10c4f4e0ae5b85805f610e746394bee213472adb33bced23bb5234361"
     },
     {
       "id": "GunzOfFaded",
