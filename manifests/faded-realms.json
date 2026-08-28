@@ -272,12 +272,7 @@
       "zip_name": "BuildcraftReborn-v0.5.15.zip",
       "size_bytes": 24435898,
       "sha256": "d721a1980869b8f95ab9bef22dfed90343dd39c07c9e34acf930f10367447ed4",
-      "requiresJavaLoader": false,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "BOTH",
-      "javaPluginId": "faded.buildcraftreborn.hybrid",
-      "javaPluginVersion": "0.5.15",
-      "javaPluginMode": "HYBRID"
+      "requiresJavaLoader": false
     },
     {
       "id": "FadedOriginsOccupationsTraits",
@@ -411,11 +406,6 @@
       "required_free_bytes": 1658316028,
       "updated_at": "2026-08-28",
       "requiresJavaLoader": false,
-      "minimumJavaLoaderVersion": "0.3.1",
-      "javaEnvironment": "BOTH",
-      "javaPluginId": "faded.waterexpanded.hybrid",
-      "javaPluginVersion": "1.0.0",
-      "javaPluginMode": "HYBRID",
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-stack-command-bridge/WaterExpanded-v2.4.7.zip",
       "zip_name": "WaterExpanded-v2.4.7.zip",
       "size_bytes": 536697157,
