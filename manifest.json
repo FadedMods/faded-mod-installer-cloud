@@ -639,10 +639,10 @@
       "updated_at": "2026-08-28",
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-stack-command-bridge/FaithsTraditions-v1.1.2.zip",
       "zip_name": "FaithsTraditions-v1.1.2.zip",
-      "size_bytes": 534967,
-      "sha256": "3508b12e376f81cb9e811e61c25898331ad7865389faaba8aba4272d5c595a6e",
-      "uncompressed_size_bytes": 721614,
-      "required_free_bytes": 538127493
+      "size_bytes": 537459,
+      "sha256": "3d9a24ef34a58a9c116173823328b2cf4d8370eed8356801a471ea22e910319e",
+      "uncompressed_size_bytes": 721862,
+      "required_free_bytes": 538130233
     },
     {
       "id": "FadedsWeaponPack",
