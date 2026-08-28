@@ -39,6 +39,13 @@ QUARANTINED_URL = (
     "mod-assets-2026-08-26-project-faded-car-2.1.0/ProjectFadedCar-v2.1.0.zip"
 )
 QUARANTINED_ZIP_NAME = "ProjectFadedCar-v2.1.0.zip"
+JAVA_PLUGIN_FIELDS = (
+    "minimumJavaLoaderVersion",
+    "javaEnvironment",
+    "javaPluginId",
+    "javaPluginVersion",
+    "javaPluginMode",
+)
 
 
 def _download_entries(mod: dict[str, Any]) -> Iterable[dict[str, Any]]:
@@ -67,6 +74,19 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
         if not isinstance(mods, list):
             errors.append(f"{path}: root mods must be a list")
             continue
+
+        for mod in (entry for entry in mods if isinstance(entry, dict)):
+            populated_java_fields = [
+                field
+                for field in JAVA_PLUGIN_FIELDS
+                if str(mod.get(field) or "").strip()
+            ]
+            if populated_java_fields and mod.get("requiresJavaLoader") is not True:
+                errors.append(
+                    f"{path}: {mod.get('id') or '<missing id>'} includes "
+                    f"{', '.join(populated_java_fields)} but requiresJavaLoader is not true; "
+                    "legacy installer clients reject the entire catalog"
+                )
 
         pfc_matches = [mod for mod in mods if isinstance(mod, dict) and mod.get("id") == PFC_ID]
         if len(pfc_matches) != 1:
