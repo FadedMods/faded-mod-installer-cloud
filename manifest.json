@@ -1557,6 +1557,62 @@
       "zip_name": "BuckShotRoulette-v1.0.0.zip",
       "size_bytes": 14065703,
       "sha256": "10f815ecadcdf91d3670b157d1bee2456e81f99330331b74748c274167ede09d"
+    },
+    {
+      "id": "FadedNexus",
+      "server_mod_id": "FadedNexus",
+      "name": "F.A.D.E.D Nexus",
+      "version": "0.3.0",
+      "description": "Federated Access & Data Exchange for Dedicated Servers. Three-window Worlds, Comms, and safety-locked Exchange workspace with secure cross-server presence, chat, and opt-in live survivor information.",
+      "updated_at": "2026-08-28",
+      "uncompressed_size_bytes": 957891,
+      "required_free_bytes": 538715834,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-faded-nexus-series/FadedNexus-v0.3.0.zip",
+      "zip_name": "FadedNexus-v0.3.0.zip",
+      "size_bytes": 887031,
+      "sha256": "0a65d23df2d973f53aea955fa9d875d7c821e847cc9967f39cb8e715e51e16ca"
+    },
+    {
+      "id": "FadedNexusPulse",
+      "server_mod_id": "FadedNexusPulse",
+      "name": "F.A.D.E.D Nexus // Survivor Pulse",
+      "version": "1.1.2-nexus.1",
+      "description": "Private-by-default offline survivor dashboard for health, wounds, protection, body temperature, moodles, skills, equipment, loadout, encumbrance, nutrition extensions, and manifest-listed Faded mods. No Nexus connection or broadcast required.",
+      "updated_at": "2026-08-28",
+      "uncompressed_size_bytes": 1568367,
+      "required_free_bytes": 539432118,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-faded-nexus-series/FadedNexusPulse-v1.1.2-nexus.1.zip",
+      "zip_name": "FadedNexusPulse-v1.1.2-nexus.1.zip",
+      "size_bytes": 992839,
+      "sha256": "3abb719e3021ff3986ded8848c08702fa5e8fafd3ac68e5206b27138cc28c43c"
+    },
+    {
+      "id": "FadedNexusNutrition",
+      "server_mod_id": "FadedNexusNutrition",
+      "name": "F.A.D.E.D Nexus // Nutrition Matrix",
+      "version": "1.0.2-nexus.1",
+      "description": "Offline nutrition matrix for F.A.D.E.D Nexus Survivor Pulse. Tracks calories, carbohydrates, proteins, lipids, weight direction, and strength-training nutrition state without connecting or broadcasting.",
+      "updated_at": "2026-08-28",
+      "uncompressed_size_bytes": 448452,
+      "required_free_bytes": 537761941,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-faded-nexus-series/FadedNexusNutrition-v1.0.2-nexus.1.zip",
+      "zip_name": "FadedNexusNutrition-v1.0.2-nexus.1.zip",
+      "size_bytes": 442577,
+      "sha256": "da3a3d10f5af911e2f5dae67fd75653cebe0dbd65cb1dc5502e862086719dabf"
+    },
+    {
+      "id": "FadedNexusMap",
+      "server_mod_id": "FadedNexusMap",
+      "name": "F.A.D.E.D Nexus // World Atlas",
+      "version": "0.5.1-nexus.1",
+      "description": "Private-by-default offline second-screen world atlas with exploration fog, notes, custom-map baking, and vanilla-respecting multiplayer peer markers. No Nexus connection or broadcast required.",
+      "updated_at": "2026-08-28",
+      "uncompressed_size_bytes": 24424891,
+      "required_free_bytes": 571311091,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-faded-nexus-series/FadedNexusMap-v0.5.1-nexus.1.zip",
+      "zip_name": "FadedNexusMap-v0.5.1-nexus.1.zip",
+      "size_bytes": 10015288,
+      "sha256": "093c9a7ebb15ff35cf8f94efa9405b0b6861b08d1adb0a193cc7a3d5a78a9fc1"
     }
   ]
 }
