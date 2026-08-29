@@ -1562,15 +1562,15 @@
       "id": "FadedNexus",
       "server_mod_id": "FadedNexus",
       "name": "F.A.D.E.D Nexus",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "description": "Federated Access & Data Exchange for Dedicated Servers. Three-window Worlds, Comms, and safety-locked Exchange workspace with secure cross-server presence, chat, and opt-in live survivor information.",
-      "updated_at": "2026-08-28",
-      "uncompressed_size_bytes": 957891,
-      "required_free_bytes": 538715834,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-faded-nexus-series/FadedNexus-v0.3.0.zip",
-      "zip_name": "FadedNexus-v0.3.0.zip",
-      "size_bytes": 887031,
-      "sha256": "0a65d23df2d973f53aea955fa9d875d7c821e847cc9967f39cb8e715e51e16ca"
+      "updated_at": "2026-08-29",
+      "uncompressed_size_bytes": 958178,
+      "required_free_bytes": 538716381,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-faded-nexus-0.3.1/FadedNexus-v0.3.1.zip",
+      "zip_name": "FadedNexus-v0.3.1.zip",
+      "size_bytes": 887291,
+      "sha256": "0986315958ca7232208bd9167f2a9706c294b9ccfe244e0359e5e60c9eff1d81"
     },
     {
       "id": "FadedNexusPulse",
