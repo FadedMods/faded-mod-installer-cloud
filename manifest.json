@@ -693,15 +693,15 @@
       "id": "ISyncYouSyncWeAllSyncForDeSync",
       "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
-      "version": "1.1.8-b42.20.4-fpse",
-      "description": "Build 42.20.2-42.20.4 multiplayer diagnostics and bounded remediation. Version 1.1.8-b42.20.4-fpse adds binary-pinned fixed-memory client/server driving and streaming diagnostics plus an experimental whole-chunk integration cap that remains off by default pending live A/B evidence. No vehicle or network authority changes; complete Lua fallback without FJL. SP + MP.",
+      "version": "1.1.9-b42.20.4-fpse",
+      "description": "Build 42.20.2-42.20.4 multiplayer diagnostics and bounded remediation. Version 1.1.9-b42.20.4-fpse enables bounded Java/FJL local-vehicle prediction for vanilla's already-pending chunk priorities by default and adds visual-only, no-packet door reconciliation after entry or seat changes. No custom transform stream or authority changes; complete Lua fallback without FJL. SP + MP.",
       "updated_at": "2026-08-29",
-      "uncompressed_size_bytes": 1494273,
-      "required_free_bytes": 539597681,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-map-driving-fpse/ISyncYouSyncWeAllSyncForDeSync-v1.1.8-b42.20.4-fpse.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.8-b42.20.4-fpse.zip",
-      "size_bytes": 1232496,
-      "sha256": "74dc5df1cac0c72fc220e312f2c98833837403560a5872285dd355c785a026af"
+      "uncompressed_size_bytes": 1507585,
+      "required_free_bytes": 539605972,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-isync-predictive-streaming/ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
+      "size_bytes": 1227475,
+      "sha256": "db1fe13f17d8ec2cc445b0976b90198235287f98e6d15b733dc504900170a3a8"
     },
     {
       "id": "JustFaded",
