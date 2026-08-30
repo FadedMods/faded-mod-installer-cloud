@@ -1524,23 +1524,23 @@
       "id": "FadedModernFirearmsPlus",
       "server_mod_id": "FadedModernFirearmsPlus",
       "name": "Faded Modern Firearms Plus",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "A standalone modern firearms overhaul for Build 42.20: 200+ firearms with full attachment systems, magazine and drum variants, smart magazine select, weapon inspection, laser/light control, flashlight Harries stance, muzzle flash, ejected brass, tracers and phosphorus loads, exact cyclic RPM, custom gunshot layering, underbarrel launchers, and configurable loot rarity tiers. Fully self-contained for singleplayer and multiplayer - no external firearm framework required.",
-      "updated_at": "2026-08-23",
-      "uncompressed_size_bytes": 3397534985,
-      "required_free_bytes": 5239780466,
+      "updated_at": "2026-08-30",
+      "uncompressed_size_bytes": 3397537882,
+      "required_free_bytes": 5241831067,
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-faded-modern-firearms-plus-0.2.0/FadedModernFirearmsPlus-v0.2.0-part1.zip",
-          "zip_name": "FadedModernFirearmsPlus-v0.2.0-part1.zip",
-          "size_bytes": 278550747,
-          "sha256": "5c745698f21d0b90018c85158679053967fc41024294e55b03cf33c99cb27167"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-modern-firearms-plus-0.2.1/FadedModernFirearmsPlus-v0.2.1-part1.zip",
+          "zip_name": "FadedModernFirearmsPlus-v0.2.1-part1.zip",
+          "size_bytes": 279279311,
+          "sha256": "63c9cac2e6a45c33da510ee8a9d98dc22d9ef4aaf2a6e2f3ee33dfb9203e312e"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-23-faded-modern-firearms-plus-0.2.0/FadedModernFirearmsPlus-v0.2.0-part2.zip",
-          "zip_name": "FadedModernFirearmsPlus-v0.2.0-part2.zip",
-          "size_bytes": 1026823822,
-          "sha256": "d777e00b5f60fb757c10207af20e9f78ac81afd749acd16222b5d5ca96fba147"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-modern-firearms-plus-0.2.1/FadedModernFirearmsPlus-v0.2.1-part2.zip",
+          "zip_name": "FadedModernFirearmsPlus-v0.2.1-part2.zip",
+          "size_bytes": 1028142962,
+          "sha256": "9f3324365bda7979cdfdec9e7ecfdcf32f669db2ad86e0b6bcb26a6fb1954658"
         }
       ]
     },
