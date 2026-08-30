@@ -521,15 +521,15 @@
       "id": "MassiveKI5Pack",
       "server_mod_id": "MassiveKI5Pack",
       "name": "Massive KI5 Pack",
-      "version": "1.2.11",
-      "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2 through 42.20.4. Version 1.2.11 prevents the Power Wagon rear-passenger door-alarm crash, self-heals already-saved vehicles on script reload, and restores the missing Tire container-access callback without overwriting future game support; the 1.2.10 trunk and tanker repairs remain intact across all 532 vehicles.",
-      "uncompressed_size_bytes": 492499584,
+      "version": "1.2.12",
+      "description": "Comprehensive performance-focused vehicle pack for Project Zomboid Build 42.20.2 through 42.20.4. Version 1.2.12 prevents gas tanks, water tanks, and tire-air components from being treated as item-storage containers and safely repairs vehicles contaminated by the previous audit without losing cargo; all prior 1.2.11 fixes remain intact across all 532 vehicles.",
+      "uncompressed_size_bytes": 492504588,
       "required_free_bytes": 1355344879,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-vehicle-audio-ui-repair/MassiveKI5Pack-v1.2.11.zip",
-      "zip_name": "MassiveKI5Pack-v1.2.11.zip",
-      "size_bytes": 325974383,
-      "sha256": "64183097f1354a0646ac7053153dcb2769823a97670dd25ebb0803f700ad99ac",
-      "updated_at": "2026-08-29"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-mkp-fuel-container-repair/MassiveKI5Pack-v1.2.12.zip",
+      "zip_name": "MassiveKI5Pack-v1.2.12.zip",
+      "size_bytes": 325975389,
+      "sha256": "56c1556e82c226307e82822d582aca9db811bb905dca0c9ba8c5ce45f139003b",
+      "updated_at": "2026-08-30"
     },
     {
       "id": "MassiveVehiclePack",
