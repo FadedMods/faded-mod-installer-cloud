@@ -1562,15 +1562,15 @@
       "id": "FadedNexus",
       "server_mod_id": "FadedNexus",
       "name": "F.A.D.E.D Nexus",
-      "version": "0.4.0",
-      "description": "Federated Access & Data Exchange for Dedicated Servers. Additive main-menu gateway, live Worlds directory, device pairing, native PZ join handoff, three-window Comms workspace, and safety-locked Exchange.",
+      "version": "0.4.1",
+      "description": "Federated Access & Data Exchange for Dedicated Servers. Native in-game Faded content gate with exact catalog resolution, verified World-pack staging, safe restart/resume, approved Nexus main-menu gateway, device pairing, connected Worlds, Comms workspace, and safety-locked Exchange.",
       "updated_at": "2026-08-30",
-      "uncompressed_size_bytes": 3230100,
-      "required_free_bytes": 543230387,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/FadedNexusMain-v0.4.0.zip",
-      "zip_name": "FadedNexusMain-v0.4.0.zip",
-      "size_bytes": 3129375,
-      "sha256": "2acbd4c8c5e52a5d8f5729cb3c4863b3014dc73bcf867a73a11b22814d60caea"
+      "uncompressed_size_bytes": 3286894,
+      "required_free_bytes": 543330449,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-nexus-0.4.1/FadedNexusMain-v0.4.1.zip",
+      "zip_name": "FadedNexusMain-v0.4.1.zip",
+      "size_bytes": 3172643,
+      "sha256": "8d943461d2ba6821a9d09fb19fa88b467fe7070bedf08842d2166a8997133560"
     },
     {
       "id": "FadedNexusPulse",
