@@ -19,6 +19,8 @@ SYNCHRONIZED_RELEASE_IDS = (
     "MassiveKI5Pack",
     "NeverSurviveAlone",
     "BuckShotRoulette",
+    "FadedJavaLoaderBridge",
+    "ISyncYouSyncWeAllSyncForDeSync",
 )
 SHARED_RELEASE_FIELDS = (
     "version",
@@ -39,6 +41,15 @@ QUARANTINED_URL = (
     "mod-assets-2026-08-26-project-faded-car-2.1.0/ProjectFadedCar-v2.1.0.zip"
 )
 QUARANTINED_ZIP_NAME = "ProjectFadedCar-v2.1.0.zip"
+NONPORTABLE_ARCHIVE_SHA256S = frozenset(
+    {
+        # Windows ZipArchive wrote backslashes into both ZIP filename indexes.
+        "626333c10c4f4e0ae5b85805f610e746394bee213472adb33bced23bb5234361",
+        "db1fe13f17d8ec2cc445b0976b90198235287f98e6d15b733dc504900170a3a8",
+        "1cc23f0558909f31d6cd68bf4eef167defc35661568205daacf2daea0a07e922",
+        "060acbccc8f57dcd19a22bb57ff997930cf3fcd76c919d4f8f1b000a71a52729",
+    }
+)
 JAVA_PLUGIN_FIELDS = (
     "minimumJavaLoaderVersion",
     "javaEnvironment",
@@ -87,6 +98,14 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
                     f"{', '.join(populated_java_fields)} but requiresJavaLoader is not true; "
                     "legacy installer clients reject the entire catalog"
                 )
+
+            for download in _download_entries(mod):
+                sha256 = str(download.get("sha256", "")).casefold()
+                if sha256 in NONPORTABLE_ARCHIVE_SHA256S:
+                    errors.append(
+                        f"{path}: {mod.get('id') or '<missing id>'} references a quarantined "
+                        "Windows-path ZIP that cannot be extracted normally on Linux"
+                    )
 
         pfc_matches = [mod for mod in mods if isinstance(mod, dict) and mod.get("id") == PFC_ID]
         if len(pfc_matches) != 1:
@@ -153,7 +172,7 @@ def main() -> int:
         return 1
     print(
         "Manifest safety validation passed; ProjectFadedCar metadata is synchronized "
-        "and 2.1.0 is quarantined; MKP, Never Survive Alone, and BuckShot Roulette "
+        "and 2.1.0 is quarantined; known Windows-path ZIPs are quarantined; shared "
         "release metadata is synchronized."
     )
     return 0

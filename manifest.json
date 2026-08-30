@@ -695,13 +695,13 @@
       "name": "ISyncYouSyncWeAllSyncForDeSync",
       "version": "1.1.9-b42.20.4-fpse",
       "description": "Build 42.20.2-42.20.4 multiplayer diagnostics and bounded remediation. Version 1.1.9-b42.20.4-fpse enables bounded Java/FJL local-vehicle prediction for vanilla's already-pending chunk priorities by default and adds visual-only, no-packet door reconciliation after entry or seat changes. No custom transform stream or authority changes; complete Lua fallback without FJL. SP + MP.",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 1507585,
       "required_free_bytes": 539605972,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-isync-predictive-streaming/ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
       "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
       "size_bytes": 1227475,
-      "sha256": "db1fe13f17d8ec2cc445b0976b90198235287f98e6d15b733dc504900170a3a8"
+      "sha256": "16f2f0bac9f6773ac44fd2ae89e500af20b89e5b5e78e1c7620a807e175cee2a"
     },
     {
       "id": "JustFaded",
@@ -1428,13 +1428,13 @@
       "name": "Faded Java Loader Bridge",
       "version": "0.3.8",
       "description": "Optional FJL multiplayer compatibility bridge with client/server plugin hash verification, CSR Test identity aliasing, and Kahlua-safe FadedStack 1.1.1 lazy scheduling plus owner-keyed client/server command buses for Project Zomboid 42.20.3/42.20.4.",
-      "updated_at": "2026-08-28",
+      "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 339760,
       "required_free_bytes": 537530677,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-stack-command-bridge/FadedJavaLoaderBridge-v0.3.8.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/FadedJavaLoaderBridge-v0.3.8.zip",
       "zip_name": "FadedJavaLoaderBridge-v0.3.8.zip",
       "size_bytes": 320005,
-      "sha256": "626333c10c4f4e0ae5b85805f610e746394bee213472adb33bced23bb5234361"
+      "sha256": "640b9a912bc38def57e3f1359d3376a406a665143f35cfb27aec88bac741a8bc"
     },
     {
       "id": "GunzOfFaded",
@@ -1567,10 +1567,10 @@
       "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 3230100,
       "required_free_bytes": 543230387,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-nexus-0.4.0/FadedNexusMain-v0.4.0.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/FadedNexusMain-v0.4.0.zip",
       "zip_name": "FadedNexusMain-v0.4.0.zip",
       "size_bytes": 3129375,
-      "sha256": "1cc23f0558909f31d6cd68bf4eef167defc35661568205daacf2daea0a07e922"
+      "sha256": "2acbd4c8c5e52a5d8f5729cb3c4863b3014dc73bcf867a73a11b22814d60caea"
     },
     {
       "id": "FadedNexusPulse",
@@ -1581,10 +1581,10 @@
       "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 1580955,
       "required_free_bytes": 539450095,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-nexus-0.4.0/FadedNexusPulse-v1.1.2-nexus.2.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/FadedNexusPulse-v1.1.2-nexus.2.zip",
       "zip_name": "FadedNexusPulse-v1.1.2-nexus.2.zip",
       "size_bytes": 998228,
-      "sha256": "060acbccc8f57dcd19a22bb57ff997930cf3fcd76c919d4f8f1b000a71a52729"
+      "sha256": "0b25e7dd0e1fd453019925ed026e5696cb42d50756b225ab72b83870e4058d43"
     },
     {
       "id": "FadedNexusNutrition",

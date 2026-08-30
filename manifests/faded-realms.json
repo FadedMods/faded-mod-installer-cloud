@@ -73,13 +73,13 @@
       "name": "Faded Java Loader Bridge",
       "version": "0.3.8",
       "description": "Optional FJL multiplayer compatibility bridge with client/server plugin hash verification, CSR Test identity aliasing, and Kahlua-safe FadedStack 1.1.1 lazy scheduling plus owner-keyed client/server command buses for Project Zomboid 42.20.3/42.20.4.",
-      "updated_at": "2026-08-28",
+      "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 339760,
       "required_free_bytes": 537530677,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-stack-command-bridge/FadedJavaLoaderBridge-v0.3.8.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/FadedJavaLoaderBridge-v0.3.8.zip",
       "zip_name": "FadedJavaLoaderBridge-v0.3.8.zip",
       "size_bytes": 320005,
-      "sha256": "626333c10c4f4e0ae5b85805f610e746394bee213472adb33bced23bb5234361"
+      "sha256": "640b9a912bc38def57e3f1359d3376a406a665143f35cfb27aec88bac741a8bc"
     },
     {
       "id": "CommonSenseRebornTest",
@@ -223,13 +223,13 @@
       "name": "ISyncYouSyncWeAllSyncForDeSync",
       "version": "1.1.9-b42.20.4-fpse",
       "description": "Build 42.20.2-42.20.4 multiplayer diagnostics and bounded remediation. Version 1.1.9-b42.20.4-fpse enables bounded Java/FJL local-vehicle prediction for vanilla's already-pending chunk priorities by default and adds visual-only, no-packet door reconciliation after entry or seat changes. No custom transform stream or authority changes; complete Lua fallback without FJL. SP + MP.",
-      "updated_at": "2026-08-29",
+      "updated_at": "2026-08-30",
       "uncompressed_size_bytes": 1507585,
       "required_free_bytes": 539605972,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-isync-predictive-streaming/ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-portable-linux-repair/ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
       "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.1.9-b42.20.4-fpse.zip",
       "size_bytes": 1227475,
-      "sha256": "db1fe13f17d8ec2cc445b0976b90198235287f98e6d15b733dc504900170a3a8"
+      "sha256": "16f2f0bac9f6773ac44fd2ae89e500af20b89e5b5e78e1c7620a807e175cee2a"
     },
     {
       "id": "KnoxNetOS",
