@@ -889,15 +889,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.1.5",
-      "description": "Project Zomboid B42.20.2 unified vehicle workshop with automatic mechanics, roadside systems, vehicle carrier storage, engine swaps, wreck restoration, EV support, CSR integration, and the complete heavy truck/trailer fleet for SP and MP. Version 2.1.5 fixes the B42.20.x Java Set traversal crash in the bounded fleet tire authority and prevents that server authority from registering on multiplayer clients while preserving 2.1.4 carrier, tire-repair, ISync, and cargo-identity behavior.",
+      "version": "2.1.6",
+      "description": "Project Zomboid B42.20.x unified vehicle workshop, roadside systems, durable multi-position vehicle carriers, engine swaps, wreck restoration, EV/CSR integration, and heavy truck/trailer fleet for SP and MP. Version 2.1.6 repairs car-hauler loading with whole-cell ramp detection and atomic store/restore rollback, and adds optional FJL Java-authoritative carrier transactions plus bounded Bullet-torque trailer articulation. A complete Lua fallback remains active without FJL.",
       "updated_at": "2026-08-30",
-      "uncompressed_size_bytes": 92177189,
+      "uncompressed_size_bytes": 92210755,
       "required_free_bytes": 704439699,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-pfc-2.1.5/ProjectFadedCar-v2.1.5.zip",
-      "zip_name": "ProjectFadedCar-v2.1.5.zip",
-      "size_bytes": 75392713,
-      "sha256": "616313bb6d3176f68199e91df2e256bb0d7ea06c91cb3eef53dc634dd273fdd6"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-pfc-2.1.6-carrier-core/ProjectFadedCar-v2.1.6.zip",
+      "zip_name": "ProjectFadedCar-v2.1.6.zip",
+      "size_bytes": 75415038,
+      "sha256": "27141457830132815fbff01c332d97ee0368852112300acae49b6ced2770c5f0"
     },
     {
       "id": "ProximityAutoRead",
