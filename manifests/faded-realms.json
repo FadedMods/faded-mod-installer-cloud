@@ -292,47 +292,41 @@
       "id": "KnoxReborn",
       "server_mod_id": "KnoxReborn",
       "name": "Knox Reborn",
-      "version": "0.3.16",
-      "description": "Knox Reborn hybrid map mod for B42.20.4. Version 0.3.16 removes three full vanilla map-class shadows in favor of narrow live extensions, preserves the PZF canvas, minimap, and zone controls, and adds the owner-safe ClearView provider bridge. Strict Grapeseed and PZF cutaway audits found no source geometry defect, so no map binary was rewritten. Optional 0.3.14 FJL hybrid unchanged.",
-      "uncompressed_size_bytes": 7169792867,
-      "required_free_bytes": 9880006311,
-      "updated_at": "2026-08-29",
+      "version": "0.3.17",
+      "description": "Knox Reborn hybrid map mod for B42.20.4. Version 0.3.17 keeps the PZF map style and 0.3.16 map cooperation while repairing stale multi-floor cutaways after stair travel. It also reduces recurring client lighting work and adds optional Java floor-transition cache acceleration without changing maps, saves, multiplayer authority, or player graphics settings. Lua fallback remains fully playable without FJL.",
+      "uncompressed_size_bytes": 7169800805,
+      "required_free_bytes": 9879570148,
+      "updated_at": "2026-08-30",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
       "javaEnvironment": "BOTH",
       "javaPluginId": "knoxreborn.hybrid",
-      "javaPluginVersion": "0.3.14",
+      "javaPluginVersion": "0.3.17",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-map-driving-fpse/KnoxReborn-v0.3.16-part1.zip",
-          "zip_name": "KnoxReborn-v0.3.16-part1.zip",
-          "size_bytes": 427414670,
-          "sha256": "cc44fe1cfb67706d3c56ca4688712de6ee4aa3dedadb3250d326dbbe9ece5694"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-knox-reborn-0.3.17/KnoxReborn-v0.3.17-part1.zip",
+          "zip_name": "KnoxReborn-v0.3.17-part1.zip",
+          "size_bytes": 427089570,
+          "sha256": "a754fd65fe17e08714d19c293a7c62d7447ba09f5efbb8b2c1da1e8407698ccc"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-knox-reborn-0.3.14/KnoxReborn-v0.3.14-part2.zip",
-          "zip_name": "KnoxReborn-v0.3.14-part2.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-knox-reborn-0.3.17/KnoxReborn-v0.3.17-part2.zip",
+          "zip_name": "KnoxReborn-v0.3.17-part2.zip",
           "size_bytes": 189914867,
-          "sha256": "9a4aa65ceae168f576cba67b5ce86e2db18920a9c4a5bd3a7fc78e33dd5b4f29"
+          "sha256": "f4ae03c43f4e52949961cdfdfed89d5706ce8d71c470e4ef5d3e5c82f9178d39"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-knox-reborn-0.3.14/KnoxReborn-v0.3.14-part3.zip",
-          "zip_name": "KnoxReborn-v0.3.14-part3.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-knox-reborn-0.3.17/KnoxReborn-v0.3.17-part3.zip",
+          "zip_name": "KnoxReborn-v0.3.17-part3.zip",
           "size_bytes": 374323352,
-          "sha256": "a724d510882f8b1d4548a3da503526bbe7fe8ea1e235b5cbb1828e9aa9b0c772"
+          "sha256": "6f9a3d29f59351bcec01656964287009e7a50df917f374548b6c121d7bd2e67a"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-28-knox-reborn-0.3.14/KnoxReborn-v0.3.14-part4.zip",
-          "zip_name": "KnoxReborn-v0.3.14-part4.zip",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-knox-reborn-0.3.17/KnoxReborn-v0.3.17-part4.zip",
+          "zip_name": "KnoxReborn-v0.3.17-part4.zip",
           "size_bytes": 1181570642,
-          "sha256": "24ac7d4f4c13aebe2ea6e8abd314f7ff1e354ab33413f7d1176d6499ee5b057c"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-29-map-driving-fpse/KnoxReborn-v0.3.16-part5.zip",
-          "zip_name": "KnoxReborn-v0.3.16-part5.zip",
-          "size_bytes": 119001,
-          "sha256": "5978be5886293ccbf2c76f98b23dfef3149e4765d3cc4f18a6ebc1e28fe069f6"
+          "sha256": "5509e5b10763a34c776d6e746cbc8cd8dce648fef3e79e4ba9b8842c7c4cac6b"
         }
       ]
     },
