@@ -790,24 +790,24 @@
     {
       "id": "LifestyleHobbies",
       "server_mod_id": "LifestyleHobbies",
-      "name": "Lifestyle: Hobbies (All-in-One B42.20)",
-      "version": "0.4.0-allinone.10",
-      "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
-      "uncompressed_size_bytes": 2453893940,
-      "required_free_bytes": 5209113119,
-      "updated_at": "2026-08-21",
+      "name": "Faded's Lifestyle: Hobbies (All-in-One B42.20)",
+      "version": "0.4.0-allinone.12",
+      "description": "Faded's Lifestyle: Hobbies Original author: Angry | Faded rebuild: Faded A Build 42.20 all-in-one Lifestyle rebuild with custom Faded ClearView presentation and targeted performance hardening. Highlights: - Discover hobbies that pass time and improve morale. - Play instruments, learn songs, sing, and form a band. - Dance around functional jukeboxes, DJ booths, and disco equipment. - Develop art, yoga, cleanliness, invention, beauty, and ambition systems. - Uses original Faded survivor illustrations, semantic pictograms, and charcoal ClearView interfaces with restrained violet accents. - Replaces recurring world scans and high-frequency inventory refreshes with event-driven, bounded work. Keep a little humanity in the apocalypse. Has sandbox options. Compatible with most other mods, except mods that reduce timed-action duration.",
+      "uncompressed_size_bytes": 2402757570,
+      "required_free_bytes": 5109196862,
+      "updated_at": "2026-08-31",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs/LifestyleHobbies-v0.4.0-allinone.10-part1.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.10-part1.zip",
-          "size_bytes": 1744781036,
-          "sha256": "71804cca0fbf9403a7f84e90c86526da776e73f16d49a5465d9e6683ab1937e6"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-31-lifestyle-hobbies-0.4.0-allinone.12/LifestyleHobbies-v0.4.0-allinone.12-part1.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.12-part1.zip",
+          "size_bytes": 1746990430,
+          "sha256": "1db5b1c1f7fe05317140d8c8c7e4c75fe91e081eca15a2aef96bb346d9eea40a"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs/LifestyleHobbies-v0.4.0-allinone.10-part2.zip",
-          "zip_name": "LifestyleHobbies-v0.4.0-allinone.10-part2.zip",
-          "size_bytes": 473567231,
-          "sha256": "7e79e72033763db16efec835dea857bc4d6e6e68cda9cc6c3d50e078ef250333"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-31-lifestyle-hobbies-0.4.0-allinone.12/LifestyleHobbies-v0.4.0-allinone.12-part2.zip",
+          "zip_name": "LifestyleHobbies-v0.4.0-allinone.12-part2.zip",
+          "size_bytes": 422577950,
+          "sha256": "32e68c809622f87ed94b3e7f6a4a70c129f22cf148846fadb22849ae804523ec"
         }
       ]
     },
