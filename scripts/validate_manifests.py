@@ -20,6 +20,7 @@ SYNCHRONIZED_RELEASE_IDS = (
     "NeverSurviveAlone",
     "BuckShotRoulette",
     "FadedJavaLoaderBridge",
+    "FadedNexus",
     "ISyncYouSyncWeAllSyncForDeSync",
 )
 SHARED_RELEASE_FIELDS = (
