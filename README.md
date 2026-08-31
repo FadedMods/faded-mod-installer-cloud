@@ -21,10 +21,10 @@ List** in the installer after a publication.
 
 ## Current release state
 
-As of August 30, 2026, the Main manifest contains 103 entries and the Faded
-Realms manifest contains 79. The current installer is `0.3.0`:
+As of August 31, 2026, the Main manifest contains 103 entries and the Faded
+Realms manifest contains 79. The current installer is `0.3.1`:
 
-<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.0>
+<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.1>
 
 The complete August 28 manifest commit and mod-release sequence is recorded in
 [`docs/RELEASE_LEDGER_2026-08-28.md`](docs/RELEASE_LEDGER_2026-08-28.md).
