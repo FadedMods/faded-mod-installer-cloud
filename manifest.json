@@ -626,6 +626,20 @@
       "sha256": "25a4f70939d5f7c76de38db399c8a85f7682d11fd58ada97b53284c054101be2"
     },
     {
+      "id": "VehiclesByFaded",
+      "server_mod_id": "VehiclesByFaded",
+      "name": "Vehicles by Faded",
+      "version": "1.0.0",
+      "description": "Flagship vehicle pack for Build 42: 42 real-world vehicles with spinning wheels, working trunks, headlights, mechanic parts, police sirens, and a refrigerated ice cream truck. Compatible with Project Faded Car, Common Sense Reborn, Faded Vehicles Reborn, Massive KI5 Pack, Military Vehicles Reborn and RVs Reborn.",
+      "uncompressed_size_bytes": 64415687,
+      "required_free_bytes": 661835134,
+      "updated_at": "2026-09-01",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-vehicles-by-faded-1.0.0/VehiclesByFaded-v1.0.0.zip",
+      "zip_name": "VehiclesByFaded-v1.0.0.zip",
+      "size_bytes": 60548535,
+      "sha256": "0e16ad50b31443d7989a901ee4fdca15f01b3d452f329f4004b3e3b70c10592d"
+    },
+    {
       "id": "FaithsTraditions",
       "server_mod_id": "FaithsTraditions",
       "name": "Faiths & Traditions: Miracles of the End",
