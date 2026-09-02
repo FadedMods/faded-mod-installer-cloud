@@ -1621,6 +1621,26 @@
       "zip_name": "FadedNexusMap-v0.5.1-nexus.1.zip",
       "size_bytes": 10015288,
       "sha256": "093c9a7ebb15ff35cf8f94efa9405b0b6861b08d1adb0a193cc7a3d5a78a9fc1"
+    },
+    {
+      "id": "FadedDepths",
+      "server_mod_id": "FadedDepths",
+      "name": "Faded Depths [WIP]",
+      "version": "1.0.0",
+      "description": "WIP TESTER BUILD - live mid-save, restart, descent, death-save, and dedicated-server validation is incomplete; use backed-up test worlds. Java-first procedural underground dungeon and Louisville train station for Build 42.20.4 with server authority and SAFE_INSTANCE support for existing saves. Requires Faded Java Loader Bridge 0.3.4 or newer. Add FadedDepths to Mods= only; never add it to Map=.",
+      "updated_at": "2026-09-01",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "faded.fadeddepths",
+      "javaPluginVersion": "1.0.0",
+      "javaPluginMode": "HYBRID",
+      "uncompressed_size_bytes": 6839789,
+      "required_free_bytes": 550509729,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-faded-depths-1.0.0-wip/FadedDepths-v1.0.0.zip",
+      "zip_name": "FadedDepths-v1.0.0.zip",
+      "size_bytes": 6799028,
+      "sha256": "12cff0f1b0108829c3345d6cdf5f7d2645839908371526cefac17600c50728b7"
     }
   ]
 }
