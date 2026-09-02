@@ -911,15 +911,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.1.10",
-      "description": "Project Zomboid B42.20.4 unified vehicle workshop and roadside suite. Version 2.1.10 repairs dedicated-server loading by canonicalizing the required Tsar library and load-order mod IDs. The complete licensed W900 truck/trailer runtime, wheel and axle templates, vehicle entry, fifth-wheel towing, multi-vehicle storage, safe legacy migration, and server-authoritative CSR salvage remain unchanged. Requires Tsar's Common Library 3.30 or newer.",
+      "version": "2.1.11",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop, roadside suite, heavy fleet, and carrier system. Version 2.1.11 integrates the complete licensed fleet framework under PFC-only namespaces, removes the external TsarLib dependency, restores optional FJL carrier transactions plus a full Lua fallback, and retains wheel, storage identity, vehicle-entry, towing, salvage, and same-save registry repairs. It loads alone and safely coexists with TsarLib when another mod uses it.",
       "updated_at": "2026-09-02",
-      "uncompressed_size_bytes": 132738395,
-      "required_free_bytes": 780785662,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-02-pfc-2.1.10-arsenal-1.5.1/ProjectFadedCar-v2.1.10.zip",
-      "zip_name": "ProjectFadedCar-v2.1.10.zip",
-      "size_bytes": 111176355,
-      "sha256": "0e8bde84360f58d889398ef2b2c7e5d3b0634dfd173e3cb4a6e085f39eec27ad"
+      "uncompressed_size_bytes": 92424498,
+      "required_free_bytes": 704739157,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-02-pfc-2.1.11-self-contained/ProjectFadedCar-v2.1.11.zip",
+      "zip_name": "ProjectFadedCar-v2.1.11.zip",
+      "size_bytes": 75443747,
+      "sha256": "0236a0b82dc7ab7f372746b2089816fe6fbf679416a0bcdf1bbccc3bdcbcfda7"
     },
     {
       "id": "ProximityAutoRead",
