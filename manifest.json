@@ -1643,6 +1643,20 @@
       "zip_name": "FadedDepths-v1.0.0.zip",
       "size_bytes": 6799028,
       "sha256": "12cff0f1b0108829c3345d6cdf5f7d2645839908371526cefac17600c50728b7"
+    },
+    {
+      "id": "MobileSuitDeployed",
+      "server_mod_id": "MobileSuitDeployed",
+      "name": "Mobile Suit Deployed [WIP]",
+      "version": "0.1.0",
+      "description": "WIP TESTER BUILD - active development and live in-game validation are incomplete; use backed-up test worlds. Pilot the RX-79[G] Gundam Ground Type and Zaku Mk II Heavy Desert Type as vehicle-backed mobile suits with cockpit entry, server-authoritative combat, power, heat, and sandbox controls for Project Zomboid Build 42.20.4.",
+      "updated_at": "2026-09-02",
+      "uncompressed_size_bytes": 37259031,
+      "required_free_bytes": 588532699,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-02-mobile-suit-deployed-0.1.0-wip/MobileSuitDeployed-v0.1.0.zip",
+      "zip_name": "MobileSuitDeployed-v0.1.0.zip",
+      "size_bytes": 14402756,
+      "sha256": "9798c3ffbce35315307db81f2c85d53e7a7fd25563684fc1c42dd5984732a0ae"
     }
   ]
 }
