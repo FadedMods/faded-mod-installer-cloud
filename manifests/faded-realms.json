@@ -484,6 +484,20 @@
       "required_free_bytes": 631965908
     },
     {
+      "id": "tsarslib",
+      "server_mod_id": "tsarslib",
+      "name": "Tsar's Common Library",
+      "version": "3.30",
+      "description": "Build 42.20.4-compatible common vehicle library required by Project Faded Car's licensed W900 truck and trailer runtime. Version 3.30 includes the current multiplayer VirtualVehicle fixes.",
+      "updated_at": "2026-09-01",
+      "uncompressed_size_bytes": 9742201,
+      "required_free_bytes": 554813534,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-pfc-2.1.9-w900-salvage-tsar-3.30/tsarslib-v3.30.zip",
+      "zip_name": "tsarslib-v3.30.zip",
+      "size_bytes": 8200421,
+      "sha256": "0fa8be85bbf6f862dea714a94837cbc851946b9369e6178a614e719bbe1445e2"
+    },
+    {
       "id": "IntoTheRiver",
       "server_mod_id": "IntoTheRiver",
       "name": "Into The River",
@@ -501,15 +515,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.1.8",
-      "description": "Project Zomboid B42.20.x unified vehicle workshop, roadside systems, durable multi-position vehicle carriers, engine swaps, wreck restoration, EV/CSR integration, and heavy truck/trailer fleet for SP and MP. Version 2.1.8 fixes the FED-reported Vehicle Workshop part-list right-click crash by isolating the child list callback from the parent panel event, adds resilient hit testing and regression coverage, and restores exact translation-key parity across all 14 supported locales.",
+      "version": "2.1.9",
+      "description": "Project Zomboid B42.20.4 unified vehicle workshop and roadside suite. Version 2.1.9 restores the complete licensed W900 truck/trailer runtime, wheel and axle templates, vehicle entry, fifth-wheel towing, multi-vehicle storage, safe legacy migration, and server-authoritative CSR salvage. Requires Tsar's Common Library 3.30 or newer.",
       "updated_at": "2026-09-01",
-      "uncompressed_size_bytes": 92208842,
-      "required_free_bytes": 704477446,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-pfc-2.1.8-service-panel/ProjectFadedCar-v2.1.8.zip",
-      "zip_name": "ProjectFadedCar-v2.1.8.zip",
-      "size_bytes": 75397692,
-      "sha256": "0c1251bef842c2b66018281b3e82779fb0c788328b73b548acd53e81d3adff02"
+      "uncompressed_size_bytes": 132738400,
+      "required_free_bytes": 780685661,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-pfc-2.1.9-w900-salvage-tsar-3.30/ProjectFadedCar-v2.1.9.zip",
+      "zip_name": "ProjectFadedCar-v2.1.9.zip",
+      "size_bytes": 111076349,
+      "sha256": "2e2e84a1489b5793dd38028b05e0683d0f01206e0b1b85addf9efbd2bc876160"
     },
     {
       "id": "MassiveKI5Pack",
