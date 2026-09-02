@@ -447,13 +447,15 @@
       "id": "RVsReborn",
       "server_mod_id": "RVsReborn",
       "name": "RVsReborn",
-      "version": "0.2.7",
-      "description": "A cohesive Build 42.20 RV and Faded Locomotion interior, utility, safety, dashboard, compatibility, and administration system.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/RVsReborn-v0.2.7.zip",
-      "zip_name": "RVsReborn-v0.2.7.zip",
-      "size_bytes": 9811440,
-      "sha256": "e1da2e962560cac2f936187b17770d77c88fa82378df4117efb4e57cae7a1c62"
+      "version": "0.2.9",
+      "description": "A cohesive Build 42.20 RV and Faded Locomotion interior system. Version 0.2.9 adds server-authoritative enter anchors, serialized vehicle-pose exits, durable flat claim persistence, moved-RV resolution, and guarded fallback coordinates.",
+      "updated_at": "2026-09-02",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-02-rvs-reborn-0.2.9-enter-exit-repair/RVsReborn-v0.2.9.zip",
+      "zip_name": "RVsReborn-v0.2.9.zip",
+      "size_bytes": 13027364,
+      "sha256": "88858439972211f836328843e43bc46b0d9f3358ea4054e47b2110e7e9a56ff8",
+      "uncompressed_size_bytes": 133452107,
+      "required_free_bytes": 683350383
     },
     {
       "id": "FadedLocomotion",
