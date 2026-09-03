@@ -1244,6 +1244,20 @@
       "zip_name": "FadedNexusMap-v0.5.1-nexus.1.zip",
       "size_bytes": 10015288,
       "sha256": "093c9a7ebb15ff35cf8f94efa9405b0b6861b08d1adb0a193cc7a3d5a78a9fc1"
+    },
+    {
+      "id": "KnoxPhasmophobia",
+      "server_mod_id": "KnoxPhasmophobia",
+      "name": "Knox Phasmophobia",
+      "version": "0.1.0",
+      "description": "Persistent server-authoritative paranormal investigations for Project Zomboid Build 42.20.4: 30 ghosts, seven evidence systems, 23 field items, native journal deduction, dispatch, visible hunts, furniture hiding, countermeasures, a cursed Ouija Board, and extensive sandbox controls. Self-contained with no traits, professions, occupations, Workshop dependencies, or Java loader.",
+      "updated_at": "2026-09-03",
+      "uncompressed_size_bytes": 14141566,
+      "required_free_bytes": 563086764,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-03-knox-phasmophobia-0.1.0/KnoxPhasmophobia-v0.1.0.zip",
+      "zip_name": "KnoxPhasmophobia-v0.1.0.zip",
+      "size_bytes": 12074286,
+      "sha256": "984b5c0469c1e7551de1c2d786a7fa498734c009184d11e4a8667aa3384563eb"
     }
   ]
 }

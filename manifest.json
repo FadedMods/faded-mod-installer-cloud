@@ -1659,6 +1659,20 @@
       "zip_name": "MobileSuitDeployed-v0.1.0.zip",
       "size_bytes": 14402756,
       "sha256": "9798c3ffbce35315307db81f2c85d53e7a7fd25563684fc1c42dd5984732a0ae"
+    },
+    {
+      "id": "KnoxPhasmophobia",
+      "server_mod_id": "KnoxPhasmophobia",
+      "name": "Knox Phasmophobia",
+      "version": "0.1.0",
+      "description": "Persistent server-authoritative paranormal investigations for Project Zomboid Build 42.20.4: 30 ghosts, seven evidence systems, 23 field items, native journal deduction, dispatch, visible hunts, furniture hiding, countermeasures, a cursed Ouija Board, and extensive sandbox controls. Self-contained with no traits, professions, occupations, Workshop dependencies, or Java loader.",
+      "updated_at": "2026-09-03",
+      "uncompressed_size_bytes": 14141566,
+      "required_free_bytes": 563086764,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-03-knox-phasmophobia-0.1.0/KnoxPhasmophobia-v0.1.0.zip",
+      "zip_name": "KnoxPhasmophobia-v0.1.0.zip",
+      "size_bytes": 12074286,
+      "sha256": "984b5c0469c1e7551de1c2d786a7fa498734c009184d11e4a8667aa3384563eb"
     }
   ]
 }
