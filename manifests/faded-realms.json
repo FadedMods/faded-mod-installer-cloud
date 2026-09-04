@@ -1154,12 +1154,12 @@
       "version": "1.2.0",
       "description": "Consent-first performance advisor plus a server-authoritative climate suite for Build 42.20.4: regional temperatures, cold winters, Black and Dread storms, acid rain, Knox Weather Service stations and receivers, seasonal decay, and bounded atmospheric effects. Low-FPS triage only recommends a profile or vanilla Display-settings review through the F7 Apply/Dismiss panel; it never selects a tier, changes display settings, applies emergency visuals, suppresses mod UI, or alters textures automatically. The optional FJL layer remains fully optional and gates texture, horde, animation, and render-quality changes behind explicit in-game engine-setting consent.",
       "updated_at": "2026-09-04",
-      "uncompressed_size_bytes": 39683082,
-      "required_free_bytes": 609931686,
+      "uncompressed_size_bytes": 39683084,
+      "required_free_bytes": 609931699,
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-04-what-a-world-1.2.0/WhatAWorld-v1.2.0.zip",
       "zip_name": "WhatAWorld-v1.2.0.zip",
-      "size_bytes": 33377692,
-      "sha256": "ec397e72a02c7f9d5fcacc07f2a693f31cfab6594a90122bb75296cd64fb0d83"
+      "size_bytes": 33377703,
+      "sha256": "b9a0ed815c46a2fbb31ffe161f5d44819b206d582bfcb7daf7959d2bd45ccd2d"
     },
     {
       "id": "WhatAWorldTreeVisibility",
