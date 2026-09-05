@@ -901,15 +901,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.3.0",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.0 adds a workshop two-post car lift plus the 2.2.0 yard, recovery, and engine-bay expansion: forklift and pallet yard, serviceable engine components, wrecker recovery, diesel fuel, corpse plow, breakable road barricades, and wet-road tyre spray. It retains the PFC-namespaced fleet framework, optional FJL carrier and hoist plugin with Lua fallback, and no external TsarLib dependency.",
-      "updated_at": "2026-09-04",
-      "uncompressed_size_bytes": 130157674,
+      "version": "2.3.1",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.1 repairs the car-lift and road-barricade tile-definition metadata so Build 42 accepts and loads the mod, while retaining the 2.3.0 car lift and 2.2.0 yard, recovery, engine-bay, carrier, heavy-fleet, diesel, corpse-plow, and breakable-barricade systems. The FJL carrier and hoist plugin remains optional with Lua fallback and no external TsarLib dependency.",
+      "updated_at": "2026-09-05",
+      "uncompressed_size_bytes": 130157676,
       "required_free_bytes": 760318425,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-04-pfc-2.3.0-car-lift/ProjectFadedCar-v2.3.0.zip",
-      "zip_name": "ProjectFadedCar-v2.3.0.zip",
-      "size_bytes": 93289839,
-      "sha256": "f6a1008bb78a38714af144f915914de45770315404debb9fea744dfa83e1e89c"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-05-pfc-2.3.1-tiledef-repair/ProjectFadedCar-v2.3.1.zip",
+      "zip_name": "ProjectFadedCar-v2.3.1.zip",
+      "size_bytes": 93289837,
+      "sha256": "70a4fa6c8c2fc00575872b74ae8b4a54a6c31bceec2485f95d628c2baf000c16"
     },
     {
       "id": "ProximityAutoRead",
