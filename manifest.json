@@ -901,15 +901,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.3.2",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.2 permanently repairs all local vehicle-aim animation parent paths and adds a regression gate, while retaining the 2.3.1 tile-definition repair and the complete car-lift, yard, recovery, engine-bay, carrier, heavy-fleet, diesel, corpse-plow, and breakable-barricade systems. The FJL carrier and hoist plugin remains optional with Lua fallback and no external TsarLib dependency.",
+      "version": "2.3.3",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.3 repairs the car-lift binary's invalid internal tileset ID and adds a full binary tiledef release gate, while retaining the repaired vehicle-aim animation parents and the complete car-lift, yard, recovery, engine-bay, carrier, heavy-fleet, diesel, corpse-plow, and breakable-barricade systems. The FJL carrier and hoist plugin remains optional with Lua fallback and no external TsarLib dependency.",
       "updated_at": "2026-09-05",
       "uncompressed_size_bytes": 130157727,
-      "required_free_bytes": 760318560,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-05-pfc-2.3.2-anim-parent-repair/ProjectFadedCar-v2.3.2.zip",
-      "zip_name": "ProjectFadedCar-v2.3.2.zip",
-      "size_bytes": 93289921,
-      "sha256": "fab7bcd98bf6d943a4cf7fe51c5618c051c6ee90b2837fef9a3d49d47348462d"
+      "required_free_bytes": 760318552,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-05-pfc-2.3.3-car-lift-tiledef-hotfix/ProjectFadedCar-v2.3.3.zip",
+      "zip_name": "ProjectFadedCar-v2.3.3.zip",
+      "size_bytes": 93289913,
+      "sha256": "605ed0279d38168ea0a8aede3bbf54aafdc6f041197a6f7637a20bdfb8a6347a"
     },
     {
       "id": "ProximityAutoRead",
