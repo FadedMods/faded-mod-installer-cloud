@@ -86,20 +86,15 @@
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
       "version": "1.9.67",
-      "description": "Build 42.20.4 private CSR test identity. Version 1.9.67 keeps the 1.9.66 authorized donor integrations and adds the Production gate-flash and headlight repair. 681 sandbox options. SP + MP.",
+      "description": "Build 42.20.4 private CSR test identity. Version 1.9.67 keeps the 1.9.66 authorized donor integrations and adds the Production gate-flash and headlight repair. Faded Java Loader is optional; Staircast and multiplayer ragdolls activate only when it is installed. 681 sandbox options. SP + MP.",
       "uncompressed_size_bytes": 96991843,
       "required_free_bytes": 678151768,
-      "updated_at": "2026-09-04",
+      "updated_at": "2026-09-05",
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-04-csr-1.9.67-gate-flash/CommonSenseRebornTest-v1.9.67.zip",
       "zip_name": "CommonSenseRebornTest-v1.9.67.zip",
       "size_bytes": 44289013,
       "sha256": "ee73bf164627ecb24348de7e03adcff8e4b09642b7fcbe223431583c25ee76ff",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.4",
-      "javaEnvironment": "BOTH",
-      "javaPluginId": "faded.commonsensereborn.hybrid",
-      "javaPluginVersion": "1.9.49",
-      "javaPluginMode": "HYBRID"
+      "requiresJavaLoader": false
     },
     {
       "id": "FadedsClearViewUI",

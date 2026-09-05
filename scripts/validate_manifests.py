@@ -15,6 +15,7 @@ MANIFEST_PATHS = (
     PROJECT_ROOT / "manifests" / "faded-realms.json",
 )
 PFC_ID = "ProjectFadedCar"
+CSR_OPTIONAL_FJL_IDS = frozenset({"CommonSenseReborn", "CommonSenseRebornTest"})
 SYNCHRONIZED_RELEASE_IDS = (
     "MassiveKI5Pack",
     "NeverSurviveAlone",
@@ -88,6 +89,7 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
             continue
 
         for mod in (entry for entry in mods if isinstance(entry, dict)):
+            mod_id = str(mod.get("id") or "")
             populated_java_fields = [
                 field
                 for field in JAVA_PLUGIN_FIELDS
@@ -98,6 +100,12 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
                     f"{path}: {mod.get('id') or '<missing id>'} includes "
                     f"{', '.join(populated_java_fields)} but requiresJavaLoader is not true; "
                     "legacy installer clients reject the entire catalog"
+                )
+
+            if mod_id in CSR_OPTIONAL_FJL_IDS and mod.get("requiresJavaLoader") is not False:
+                errors.append(
+                    f"{path}: {mod_id} must keep requiresJavaLoader explicitly false; "
+                    "CSR runs without FJL and its bundled hybrid plugin is optional"
                 )
 
             for download in _download_entries(mod):
@@ -173,8 +181,8 @@ def main() -> int:
         return 1
     print(
         "Manifest safety validation passed; ProjectFadedCar metadata is synchronized "
-        "and 2.1.0 is quarantined; known Windows-path ZIPs are quarantined; shared "
-        "release metadata is synchronized."
+        "and 2.1.0 is quarantined; CSR keeps FJL optional; known Windows-path ZIPs "
+        "are quarantined; shared release metadata is synchronized."
     )
     return 0
 
