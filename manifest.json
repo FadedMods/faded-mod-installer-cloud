@@ -1669,6 +1669,20 @@
       "zip_name": "KnoxPhasmophobia-v0.1.0.zip",
       "size_bytes": 12074286,
       "sha256": "984b5c0469c1e7551de1c2d786a7fa498734c009184d11e4a8667aa3384563eb"
+    },
+    {
+      "id": "CATConstruction",
+      "server_mod_id": "CATConstruction",
+      "name": "CAT Construction",
+      "version": "0.2.0",
+      "description": "Sixteen CAT-themed Build 42.20.4 construction vehicles with articulated equipment, working lights, vehicle mechanics, cargo handling, tree and stump clearing, and optional GroundWorks project integration. Native fleet, specialist-action, and Linux dedicated-server checks passed; two-client synchronization and the newer GroundWorks 0.11 geometry path remain unverified.",
+      "updated_at": "2026-09-05",
+      "uncompressed_size_bytes": 215514626,
+      "required_free_bytes": 881888701,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-05-cat-construction-0.2.0/CATConstruction-v0.2.0.zip",
+      "zip_name": "CATConstruction-v0.2.0.zip",
+      "size_bytes": 129503163,
+      "sha256": "19cccaa4814bd648d735844d93f85b9194b5d3f059527e3f01830a6dc898adfd"
     }
   ]
 }
