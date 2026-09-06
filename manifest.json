@@ -1733,6 +1733,26 @@
       "zip_name": "TLOU_CompleteEdition_UI-v1.0.0.zip",
       "size_bytes": 538590791,
       "sha256": "769d78d7456382e9f4eb59729b51c2fd58b7d0442d832aa61ee74816445e0de4"
+    },
+    {
+      "id": "Deadflow",
+      "server_mod_id": "Deadflow",
+      "name": "Deadflow",
+      "version": "0.2.0",
+      "description": "Dynamic Hordes & Migration for Project Zomboid 42.20.4. Deadflow replaces vanilla population spawning, redistribution, respawn and offscreen simulation with persistent regional groups, terrain-aware migration and bounded restoration near players while preserving real-zombie AI, inventory, outfits and serializable mod identity. Server-authoritative in multiplayer, with optional iSync and The Hive adapters. Requires FJL 0.3.4+ and a new Deadflow world; existing vanilla population saves cannot yet be imported or converted back.",
+      "updated_at": "2026-09-06",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "deadflow.population",
+      "javaPluginVersion": "0.2.0",
+      "javaPluginMode": "HYBRID",
+      "uncompressed_size_bytes": 2564964,
+      "required_free_bytes": 541996491,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-deadflow-0.2.0/Deadflow-v0.2.0.zip",
+      "zip_name": "Deadflow-v0.2.0.zip",
+      "size_bytes": 2560615,
+      "sha256": "ed3c8a55abeb58a0803a3d9bd04f0289a13ac35bde037289f4823f31252e7e7e"
     }
   ]
 }
