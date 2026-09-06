@@ -513,15 +513,15 @@
       "id": "FadedsErrorDetected",
       "server_mod_id": "FadedsErrorDetected",
       "name": "Faded's Error Detected",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "description": "Build 42.20.4 diagnostics with ring-safe error capture, evidence-only attribution, a searchable ClearView-styled report interface, scalable detective alerts, persistent visibility controls, and installer update visibility. Its optional passive FJL performance profiler remains server-only and version-gated.",
-      "updated_at": "2026-08-30",
-      "uncompressed_size_bytes": 803014,
+      "updated_at": "2026-09-06",
+      "uncompressed_size_bytes": 698857,
       "required_free_bytes": 538375087,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-30-faded-error-detected-0.3.0/FadedsErrorDetected-v0.3.0.zip",
-      "zip_name": "FadedsErrorDetected-v0.3.0.zip",
-      "size_bytes": 701161,
-      "sha256": "0ae50dc7d2ba02ef6b7934fe75ec04cc7bcc36fa2ba1fdf67cffaccebf0739b4"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-fadeds-error-detected-0.3.1-portable-root/FadedsErrorDetected-v0.3.1.zip",
+      "zip_name": "FadedsErrorDetected-v0.3.1.zip",
+      "size_bytes": 591906,
+      "sha256": "327e34a22ed1f943d0a294015097c9ccb3ffe5ccaee4330816e9237efc603ac4"
     },
     {
       "id": "FadedsLastChance",
