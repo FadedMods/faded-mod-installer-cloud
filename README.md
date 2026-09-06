@@ -16,15 +16,22 @@ Faded Realms uses:
 https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifests/faded-realms.json
 ```
 
+B47ANCE uses:
+
+```text
+https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifests/b47ance.json
+```
+
 The URL remains stable when mods are updated. Players click **Refresh Mod
-List** in the installer after a publication.
+List** in the installer after a publication. Installer `0.3.2` shows B47ANCE
+as a built-in modder list.
 
 ## Current release state
 
-As of August 31, 2026, the Main manifest contains 103 entries and the Faded
-Realms manifest contains 79. The current installer is `0.3.1`:
+As of September 6, 2026, B47ANCE's catalog hosts GroundWorks `0.15.0`. The
+current installer is `0.3.2`:
 
-<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.1>
+<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.2>
 
 The complete August 28 manifest commit and mod-release sequence is recorded in
 [`docs/RELEASE_LEDGER_2026-08-28.md`](docs/RELEASE_LEDGER_2026-08-28.md).
