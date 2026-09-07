@@ -14,6 +14,92 @@ MANIFEST_PATHS = (
     PROJECT_ROOT / "manifest.json",
     PROJECT_ROOT / "manifests" / "faded-realms.json",
 )
+FADED_REALMS_MANIFEST = PROJECT_ROOT / "manifests" / "faded-realms.json"
+# Live Faded Realms dedicated-server Mods= pack. The installer Faded Realms
+# catalog must match this set exactly. Do not add a catalog-only extra.
+FADED_REALMS_LIVE_MOD_IDS = frozenset(
+    {
+        "ArmorPK",
+        "Authentic Z - Current",
+        "BlanketsFade",
+        "BuckShotRoulette",
+        "BuildcraftReborn",
+        "CSR_ClearviewGPS",
+        "ChadedMilitaryConvoy",
+        "CharacterCreator",
+        "CommonSenseRebornTest",
+        "EchoesOfHumanity",
+        "FadedAdvancedMedical",
+        "FadedAfflictions",
+        "FadedArsenalDeadCountyMunitions",
+        "FadedCombatText",
+        "FadedFarmingFishingReborn",
+        "FadedFeastcraft",
+        "FadedFieldOperations",
+        "FadedFromTheWindow_ZCTW",
+        "FadedHuntersCalling",
+        "FadedJavaLoaderBridge",
+        "FadedLegendaryKit",
+        "FadedLocomotion",
+        "FadedNexus",
+        "FadedNexusMap",
+        "FadedNexusNutrition",
+        "FadedNexusPulse",
+        "FadedNinja",
+        "FadedOriginsOccupationsTraits",
+        "FadedSkies",
+        "FadedTacticalOperationsCenter",
+        "FadedTradeNetwork",
+        "FadedTrenchCoats",
+        "FadedVehiclesReborn",
+        "FadedsClearViewUI",
+        "FadedsErrorDetected",
+        "FadedsLastChance",
+        "FadedsLegacyCodex",
+        "FadedsRideOrRot",
+        "FadedsTheHive",
+        "FaithsTraditions",
+        "ISyncYouSyncWeAllSyncForDeSync",
+        "IntoTheRiver",
+        "ItsATrap",
+        "Just2Faded",
+        "JustFaded",
+        "KnoxNetOS",
+        "KnoxReborn",
+        "KnoxTransit",
+        "LifestyleHobbies",
+        "MPChronoController",
+        "MassiveKI5Pack",
+        "MassiveVehiclePack",
+        "MilitaryVehiclesReborn",
+        "Military_Tool_Kit",
+        "MyOnlyFriend",
+        "NeverForget",
+        "NeverSurviveAlone",
+        "OnTheMove",
+        "ParentsJournal",
+        "ProjectFadedCar",
+        "ProximityAutoRead",
+        "RVsReborn",
+        "SalvagedFuelRecoveryStation",
+        "SaveTheBabies",
+        "SimpleOverhaulTraitsAndOccupations",
+        "SkillBookExpansionB42",
+        "SolarNeverFaded",
+        "SpnOpenCloth",
+        "SpongiesFadedClothing_B42Port",
+        "TempControl",
+        "TheBigTreeFix",
+        "TheLastTestament",
+        "ThePathLessTraveled",
+        "ThePriceWePay",
+        "TheYoungDiedToo",
+        "WaterExpanded",
+        "WhatAWorld",
+        "WhatAWorldTreeVisibility",
+        "WhimsyWeapons",
+    }
+)
 PFC_ID = "ProjectFadedCar"
 CSR_OPTIONAL_FJL_IDS = frozenset({"CommonSenseReborn", "CommonSenseRebornTest"})
 SYNCHRONIZED_RELEASE_IDS = (
@@ -155,6 +241,25 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
             else:
                 synchronized_entries[mod_id].append((path, matches[0]))
 
+        if path.resolve() == FADED_REALMS_MANIFEST.resolve():
+            catalog_ids = [str(mod.get("id") or "") for mod in mods if isinstance(mod, dict)]
+            catalog_set = set(catalog_ids)
+            if len(catalog_ids) != len(catalog_set):
+                errors.append(f"{path}: Faded Realms catalog has duplicate ids")
+            extra = sorted(catalog_set - FADED_REALMS_LIVE_MOD_IDS)
+            missing = sorted(FADED_REALMS_LIVE_MOD_IDS - catalog_set)
+            if extra or missing:
+                details: list[str] = []
+                if extra:
+                    details.append("extra " + ", ".join(extra))
+                if missing:
+                    details.append("missing " + ", ".join(missing))
+                errors.append(
+                    f"{path}: Faded Realms catalog must match the live server "
+                    f"Mods= pack ({len(FADED_REALMS_LIVE_MOD_IDS)} ids); "
+                    + "; ".join(details)
+                )
+
     if len(pfc_entries) == len(paths) and pfc_entries:
         canonical_path, canonical_entry = pfc_entries[0]
         for path, entry in pfc_entries[1:]:
@@ -194,7 +299,8 @@ def main() -> int:
     print(
         "Manifest safety validation passed; ProjectFadedCar metadata is synchronized "
         "and 2.1.0 is quarantined; CSR keeps FJL optional; known Windows-path ZIPs "
-        "are quarantined; shared release metadata is synchronized."
+        "are quarantined; shared release metadata is synchronized; Faded Realms "
+        "catalog matches the live server Mods= pack."
     )
     return 0
 

@@ -481,20 +481,6 @@
       "required_free_bytes": 631965908
     },
     {
-      "id": "tsarslib",
-      "server_mod_id": "tsarslib",
-      "name": "Tsar's Common Library",
-      "version": "3.30",
-      "description": "Build 42.20.4-compatible common vehicle library required by Project Faded Car's licensed W900 truck and trailer runtime. Version 3.30 includes the current multiplayer VirtualVehicle fixes.",
-      "updated_at": "2026-09-01",
-      "uncompressed_size_bytes": 9742201,
-      "required_free_bytes": 554813534,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-01-pfc-2.1.9-w900-salvage-tsar-3.30/tsarslib-v3.30.zip",
-      "zip_name": "tsarslib-v3.30.zip",
-      "size_bytes": 8200421,
-      "sha256": "0fa8be85bbf6f862dea714a94837cbc851946b9369e6178a614e719bbe1445e2"
-    },
-    {
       "id": "IntoTheRiver",
       "server_mod_id": "IntoTheRiver",
       "name": "Into The River",
@@ -1245,34 +1231,6 @@
       "zip_name": "FadedNexusMap-v0.5.1-nexus.1.zip",
       "size_bytes": 10015288,
       "sha256": "093c9a7ebb15ff35cf8f94efa9405b0b6861b08d1adb0a193cc7a3d5a78a9fc1"
-    },
-    {
-      "id": "KnoxPhasmophobia",
-      "server_mod_id": "KnoxPhasmophobia",
-      "name": "Knox Phasmophobia",
-      "version": "0.1.0",
-      "description": "Persistent server-authoritative paranormal investigations for Project Zomboid Build 42.20.4: 30 ghosts, seven evidence systems, 23 field items, native journal deduction, dispatch, visible hunts, furniture hiding, countermeasures, a cursed Ouija Board, and extensive sandbox controls. Self-contained with no traits, professions, occupations, Workshop dependencies, or Java loader.",
-      "updated_at": "2026-09-03",
-      "uncompressed_size_bytes": 14141566,
-      "required_free_bytes": 563086764,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-03-knox-phasmophobia-0.1.0/KnoxPhasmophobia-v0.1.0.zip",
-      "zip_name": "KnoxPhasmophobia-v0.1.0.zip",
-      "size_bytes": 12074286,
-      "sha256": "984b5c0469c1e7551de1c2d786a7fa498734c009184d11e4a8667aa3384563eb"
-    },
-    {
-      "id": "CATConstruction",
-      "server_mod_id": "CATConstruction",
-      "name": "CAT Construction",
-      "version": "0.2.0",
-      "description": "Sixteen CAT-themed Build 42.20.4 construction vehicles with articulated equipment, working lights, vehicle mechanics, cargo handling, tree and stump clearing, and optional GroundWorks project integration. Native fleet, specialist-action, and Linux dedicated-server checks passed; two-client synchronization and the newer GroundWorks 0.11 geometry path remain unverified.",
-      "updated_at": "2026-09-07",
-      "uncompressed_size_bytes": 215514173,
-      "required_free_bytes": 881886375,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-07-cat-construction-0.2.0-single-modinfo/CATConstruction-v0.2.0.zip",
-      "zip_name": "CATConstruction-v0.2.0.zip",
-      "size_bytes": 129501290,
-      "sha256": "ed8e2ffb0d0b5f20dba7bdb603bba4599f129408b424b0d1431987d34ac37de2"
     }
   ]
 }

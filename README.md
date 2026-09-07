@@ -16,6 +16,11 @@ Faded Realms uses:
 https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifests/faded-realms.json
 ```
 
+That catalog must match the live Faded Realms dedicated-server `Mods=` pack
+exactly. New mods stay on Main unless Luis enables them on that server. As of
+2026-09-07 the pack is 79 mods. `scripts/validate_manifests.py` rejects extras
+or missing ids.
+
 B47ANCE uses:
 
 ```text
