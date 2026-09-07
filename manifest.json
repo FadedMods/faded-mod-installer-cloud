@@ -204,6 +204,26 @@
       "requiresJavaLoader": false
     },
     {
+      "id": "BetterTrunkCapacity",
+      "server_mod_id": "BetterTrunkCapacity",
+      "name": "Better Trunk Capacity",
+      "version": "1.0.0",
+      "description": "Java-powered trunk, truck-bed, trailer, roof-rack and cargo capacity controls for Project Zomboid 42.20.4. Every detected vanilla or modded vehicle type receives its own native Sandbox multiplier while seats, gloveboxes, liquid tanks, weapon feeds, item weight, vehicle physics and Tetris grid dimensions remain unchanged.",
+      "updated_at": "2026-09-06",
+      "uncompressed_size_bytes": 4926344,
+      "required_free_bytes": 546725059,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-better-trunk-capacity-1.0.0/BetterTrunkCapacity-v1.0.0.zip",
+      "zip_name": "BetterTrunkCapacity-v1.0.0.zip",
+      "size_bytes": 4927803,
+      "sha256": "c79ab9c787697c2c3b157202c6156a4f303b5e16804bf68624d4f618bd81d4de",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "faded.bettertrunkcapacity",
+      "javaPluginVersion": "1.0.0",
+      "javaPluginMode": "HYBRID"
+    },
+    {
       "id": "CommonSenseReborn",
       "server_mod_id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
