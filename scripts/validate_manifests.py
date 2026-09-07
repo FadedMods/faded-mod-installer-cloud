@@ -52,6 +52,13 @@ NONPORTABLE_ARCHIVE_SHA256S = frozenset(
         "060acbccc8f57dcd19a22bb57ff997930cf3fcd76c919d4f8f1b000a71a52729",
     }
 )
+DUPLICATE_MOD_INFO_SHA256S = frozenset(
+    {
+        # CAT Construction 0.2.0 shipped CATConstruction/mod.info alongside
+        # CATConstruction/42/mod.info; find_single_mod_folder rejects both.
+        "19cccaa4814bd648d735844d93f85b9194b5d3f059527e3f01830a6dc898adfd",
+    }
+)
 JAVA_PLUGIN_FIELDS = (
     "minimumJavaLoaderVersion",
     "javaEnvironment",
@@ -114,6 +121,11 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
                     errors.append(
                         f"{path}: {mod.get('id') or '<missing id>'} references a quarantined "
                         "Windows-path ZIP that cannot be extracted normally on Linux"
+                    )
+                if sha256 in DUPLICATE_MOD_INFO_SHA256S:
+                    errors.append(
+                        f"{path}: {mod.get('id') or '<missing id>'} references a quarantined "
+                        "ZIP that carries more than one mod.info; the installer cannot prepare it"
                     )
 
         pfc_matches = [mod for mod in mods if isinstance(mod, dict) and mod.get("id") == PFC_ID]
