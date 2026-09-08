@@ -1422,13 +1422,15 @@
       "id": "TheYoungDiedToo",
       "server_mod_id": "TheYoungDiedToo",
       "name": "The Young Died Too",
-      "version": "1.0.1",
-      "description": "Lightweight B42.20 adolescent zombies of varied heights. Schools, homes, parks and streets get age-appropriate youth among the dead. No Realism dependency. Population-neutral native IsoZombie conversions.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/TheYoungDiedToo-v1.0.1.zip",
-      "zip_name": "TheYoungDiedToo-v1.0.1.zip",
-      "size_bytes": 18482750,
-      "sha256": "c60c36fc0b3fd74115109f8b0ce06f81fa4f57e18e9cc2c41c81ac565d40a497"
+      "version": "1.1.0",
+      "description": "Lightweight B42.20 adolescent zombies of varied heights, with very rare baby crawlers and shamblers that burst into pursuit. Version 1.1.0 adds a dedicated baby model, animations, and multiplayer identity sync. Schools, homes, parks and streets get age-appropriate youth among the dead. No Realism dependency. Population-neutral native IsoZombie conversions.",
+      "updated_at": "2026-09-07",
+      "uncompressed_size_bytes": 28472302,
+      "required_free_bytes": 590217928,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-07-the-young-died-too-1.1.0/TheYoungDiedToo-v1.1.0.zip",
+      "zip_name": "TheYoungDiedToo-v1.1.0.zip",
+      "size_bytes": 24874714,
+      "sha256": "f18f14b65ef23aa5f03acd40d1f0c2e34cfef14efa9760073964f79cac65072d"
     },
     {
       "id": "CharacterCreator",
