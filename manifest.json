@@ -1775,6 +1775,20 @@
       "zip_name": "Deadflow-v0.2.0.zip",
       "size_bytes": 2560615,
       "sha256": "ed3c8a55abeb58a0803a3d9bd04f0289a13ac35bde037289f4823f31252e7e7e"
+    },
+    {
+      "id": "SentryNet",
+      "server_mod_id": "SentryNet",
+      "name": "SentryNet",
+      "version": "0.1.0-alpha.2",
+      "description": "F.A.R. Federal Autonomous Robotics. Native 3D automated turrets, deployable drones, an isolated power and communications network, and a tactical command terminal. Alpha 0.1.0-alpha.2 for Project Zomboid 42.20.4.",
+      "updated_at": "2026-09-08",
+      "uncompressed_size_bytes": 91290517,
+      "required_free_bytes": 669723493,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-08-sentrynet-0.1.0-alpha.2/SentryNet-v0.1.0-alpha.2.zip",
+      "zip_name": "SentryNet-v0.1.0-alpha.2.zip",
+      "size_bytes": 41562064,
+      "sha256": "953639f8dabb34cbc2d389b47a6c8efa02c8aeb6c9825b85ae708d0dd62b63b7"
     }
   ]
 }
