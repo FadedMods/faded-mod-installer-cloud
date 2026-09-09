@@ -1789,6 +1789,26 @@
       "zip_name": "SentryNet-v0.1.0-alpha.2.zip",
       "size_bytes": 41562064,
       "sha256": "953639f8dabb34cbc2d389b47a6c8efa02c8aeb6c9825b85ae708d0dd62b63b7"
+    },
+    {
+      "id": "ChocoboGo",
+      "server_mod_id": "ChocoboGo",
+      "name": "Chocobo Go",
+      "version": "0.1.0",
+      "description": "Chocobo companions, passenger riding, Gysahl farming, breeding and fitted travel gear for Project Zomboid 42.20.4. Full features require Faded's Java Loader 0.3.4 and FadedJavaLoaderBridge.",
+      "updated_at": "2026-09-09",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "faded.chocobogo.persistence",
+      "javaPluginVersion": "0.1.0",
+      "javaPluginMode": "HYBRID",
+      "uncompressed_size_bytes": 56920700,
+      "required_free_bytes": 630188196,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-09-chocobogo-0.1.0/ChocoboGo-v0.1.0.zip",
+      "zip_name": "ChocoboGo-v0.1.0.zip",
+      "size_bytes": 36396584,
+      "sha256": "ac7aa815eef1fcf9ddf4cd22edb893030c89238bd7bbe33002b26bf40a5b720d"
     }
   ]
 }
