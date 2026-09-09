@@ -921,15 +921,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.3.8",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.8 repairs the hauler and forklift vehicle-search crash on B42 Java Sets, restores namespaced forklift/wrecker/plow/fleet models, keeps native fleet script identities, and reduces ordinary mechanical part wear to 25 percent of the previous loss with fractional carry. Physical engine-bay simulation and fluids are unchanged. Includes the optional Carrier Core plugin with the same plugin ID; no new FJL runtime required.",
+      "version": "2.3.9",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.9 locks fleet payload mass while rolling, spawns matched heavy-duty engine-bay parts, delays hitch/launch overload wear, and raises trailer collision solids so compressed travel does not grind pavement. The 2.3.8 25% routine mechanical wear remains. Includes the optional Carrier Core plugin with the same plugin ID; no new FJL runtime required.",
       "updated_at": "2026-09-08",
-      "uncompressed_size_bytes": 131295764,
-      "required_free_bytes": 762549033,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-08-project-faded-car-2.3.8/ProjectFadedCar-v2.3.8.zip",
-      "zip_name": "ProjectFadedCar-v2.3.8.zip",
-      "size_bytes": 94382357,
-      "sha256": "8360818bb2cc4f8dd77cc4e0e0387115b29070b2a3480d8e6e50cc21e5cda62e"
+      "uncompressed_size_bytes": 131296650,
+      "required_free_bytes": 762550127,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-08-project-faded-car-2.3.9/ProjectFadedCar-v2.3.9.zip",
+      "zip_name": "ProjectFadedCar-v2.3.9.zip",
+      "size_bytes": 94382565,
+      "sha256": "9310c594b4024b90f17f92cdceed554123b5817af08fe3a50867f74845633d92"
     },
     {
       "id": "ProximityAutoRead",
