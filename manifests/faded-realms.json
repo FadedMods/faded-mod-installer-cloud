@@ -500,15 +500,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.3.9",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.3.9 locks fleet payload mass while rolling, spawns matched heavy-duty engine-bay parts, delays hitch/launch overload wear, and raises trailer collision solids so compressed travel does not grind pavement. The 2.3.8 25% routine mechanical wear remains. Includes the optional Carrier Core plugin with the same plugin ID; no new FJL runtime required.",
+      "version": "2.4.0",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.4.0 repairs forklift tires and native tire create/repair, scales the hauler kingpin to the tire plane, uses instanceItem for roadside factories, and admits native collision/pedestrian/zombie/weapon damage through Faded Java Loader with MP events applied once. 2.3.9 truck mass-lock, matched heavy-duty parts, overload grace and trailer clearance remain. Includes the optional Carrier Core plugin with the same plugin ID.",
       "updated_at": "2026-09-08",
-      "uncompressed_size_bytes": 131296650,
-      "required_free_bytes": 762550127,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-08-project-faded-car-2.3.9/ProjectFadedCar-v2.3.9.zip",
-      "zip_name": "ProjectFadedCar-v2.3.9.zip",
-      "size_bytes": 94382565,
-      "sha256": "9310c594b4024b90f17f92cdceed554123b5817af08fe3a50867f74845633d92"
+      "uncompressed_size_bytes": 130026839,
+      "required_free_bytes": 759887515,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-09-project-faded-car-2.4.0/ProjectFadedCar-v2.4.0.zip",
+      "zip_name": "ProjectFadedCar-v2.4.0.zip",
+      "size_bytes": 92989764,
+      "sha256": "97da642d0a31e7263d8810b405f1ea0275af901dcd3582fe7fbb117a3b181ead"
     },
     {
       "id": "MassiveKI5Pack",
