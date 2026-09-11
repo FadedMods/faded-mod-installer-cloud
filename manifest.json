@@ -775,8 +775,8 @@
       "name": "Knox Reborn Lite",
       "version": "0.4.0",
       "description": "Knox Reborn Lite 0.4.0 for B42.20. Same PZF map stack with pruned tile sheets, compressed (softer) tiles, a static spawn menu, bounce/glow lighting, no god rays, and Grapeseed terrain from workshop 3794413138. Optional FJL still runs the Tikitown power-restoration mission. Mod ID remains KnoxReborn.",
-      "uncompressed_size_bytes": 6942098092,
-      "required_free_bytes": 9442098092,
+      "uncompressed_size_bytes": 6942119715,
+      "required_free_bytes": 9442119715,
       "updated_at": "2026-09-10",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
@@ -786,8 +786,8 @@
       "javaPluginMode": "HYBRID",
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-10-knox-reborn-lite-0.4.0/KnoxReborn-v0.4.0.zip",
       "zip_name": "KnoxReborn-v0.4.0.zip",
-      "size_bytes": 1889755275,
-      "sha256": "53413765eda1d43eb2ba0bcd05c6ae428bd8d5ae39e0a2ea0d9fe135e353975b"
+      "size_bytes": 1889775953,
+      "sha256": "86a54f25d5206a9766eaaaec57900e057ad8e9ea73d7d27929ab190d5022d5cb"
     },
     {
       "id": "KnoxTransit",
@@ -1772,21 +1772,21 @@
       "id": "ChocoboGo",
       "server_mod_id": "ChocoboGo",
       "name": "Chocobo Go",
-      "version": "0.1.0",
-      "description": "Chocobo companions, passenger riding, Gysahl farming, breeding and fitted travel gear for Project Zomboid 42.20.4. Full features require Faded's Java Loader 0.3.4 and FadedJavaLoaderBridge.",
-      "updated_at": "2026-09-09",
+      "version": "0.1.1",
+      "description": "Chocobo companions, passenger riding, Gysahl farming, breeding and fitted travel gear for Project Zomboid 42.20.4. Version 0.1.1. Full features require Faded's Java Loader 0.3.4 and FadedJavaLoaderBridge.",
+      "updated_at": "2026-09-10",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
       "javaEnvironment": "BOTH",
       "javaPluginId": "faded.chocobogo.persistence",
-      "javaPluginVersion": "0.1.0",
+      "javaPluginVersion": "0.1.1",
       "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 56920700,
-      "required_free_bytes": 630188196,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-09-chocobogo-0.1.0/ChocoboGo-v0.1.0.zip",
-      "zip_name": "ChocoboGo-v0.1.0.zip",
-      "size_bytes": 36396584,
-      "sha256": "ac7aa815eef1fcf9ddf4cd22edb893030c89238bd7bbe33002b26bf40a5b720d"
+      "uncompressed_size_bytes": 56898234,
+      "required_free_bytes": 630165730,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-10-chocobogo-0.1.1/ChocoboGo-v0.1.1.zip",
+      "zip_name": "ChocoboGo-v0.1.1.zip",
+      "size_bytes": 35629992,
+      "sha256": "7fdb3a24de5089bb0fc9bba9883e8eac1d1514fea5b5a1dee3e21680f3b9507a"
     }
   ]
 }
