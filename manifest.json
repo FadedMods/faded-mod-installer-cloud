@@ -1685,6 +1685,21 @@
       "sha256": "58e11c209cd8f8b3203a906bc4d8cb32266c03dd67219e81fc1c569cd9099ff8"
     },
     {
+      "id": "groundWorks",
+      "server_mod_id": "groundWorks",
+      "name": "GroundWorks",
+      "version": "0.15.0",
+      "description": "Standalone excavation and construction with vanilla tools. Dig outdoors or beneath existing houses; preview and frame preset trenches, moats and basements. Materials and time scale with the footprint. Intact framing prevents collapse. Generate deeper floors and walls, backfill, build routes and integrate optional equipment. All gameplay works through Lua alone. Optional FJL 0.3.4+ companion for PZ 42.20.4 adds local cutaways and retains the nearby surface while underground. No ZombieBuddy or PeekAView dependency. Toggle enhanced visibility in Sandbox Options. Foreground structures, lighting and extreme depth can still affect visibility.",
+      "updated_at": "2026-09-06",
+      "uncompressed_size_bytes": 1430669,
+      "required_free_bytes": 539443828,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-b47ance-groundworks-0.15.0/groundWorks-v0.15.0.zip",
+      "zip_name": "groundWorks-v0.15.0.zip",
+      "size_bytes": 1142247,
+      "sha256": "7ae459bad6020867f1f8f2e6e90abf79a7c473001d6e34ff5de3a6543d9adb5a",
+      "requiresJavaLoader": false
+    },
+    {
       "id": "TLOU_CompleteEdition",
       "server_mod_id": "TLOU_CompleteEdition",
       "name": "The Last of Us - Complete Edition",
