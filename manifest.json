@@ -1709,51 +1709,41 @@
       "id": "TLOU_CompleteEdition",
       "server_mod_id": "TLOU_CompleteEdition",
       "name": "The Last of Us - Complete Edition",
-      "version": "1.0.0",
-      "description": "Total-conversion content layer that turns Project Zomboid into The Last of Us. Cordyceps colonies that grow from the dead and promote rooms into spore zones. Runner, Stalker, Clicker and Bloater populations, colony growth, spore zones, Listen Mode, adaptive music, survivor voices, occupations, gear, world ageing, vehicles, weapons, clothing and both FMOD banks are integrated as one standalone package. The Faded Java Loader supplies its hybrid Java layer; Common Sense Reborn, Faded's ClearView UI and tsarslib integrations are optional.",
-      "updated_at": "2026-09-06",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.0",
-      "javaEnvironment": "BOTH",
-      "javaPluginId": "tlou.completeedition",
-      "javaPluginVersion": "1.0.0",
-      "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 1970888158,
-      "required_free_bytes": 4417165353,
+      "version": "1.1.0",
+      "description": "Total-conversion content layer that turns Project Zomboid into The Last of Us. Cordyceps colonies that grow from the dead and promote rooms into spore zones. Runner, Stalker, Clicker and Bloater populations, colony growth, spore zones, Listen Mode, adaptive music, survivor voices, occupations, gear, world ageing, vehicles, weapons, clothing and both FMOD banks are integrated as one standalone package. Standalone on Project Zomboid 42.20.4. The Faded Java Loader is optional and supplies its hybrid Java layer when present; Common Sense Reborn, Faded's ClearView UI and tsarslib integrations are also optional.",
+      "updated_at": "2026-09-12",
+      "uncompressed_size_bytes": 1970912340,
+      "required_free_bytes": 4417170853,
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-tlou-complete-edition-1.0.0/TLOU_CompleteEdition-v1.0.0-part1.zip",
-          "zip_name": "TLOU_CompleteEdition-v1.0.0-part1.zip",
-          "size_bytes": 1826111058,
-          "sha256": "473531a79a3034546f419c6c3e1b0119c6a14669407882c304083a1cb3186f32"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-12-tlou-complete-edition-1.1.0/TLOU_CompleteEdition-v1.1.0-part1.zip",
+          "zip_name": "TLOU_CompleteEdition-v1.1.0-part1.zip",
+          "size_bytes": 1826092688,
+          "sha256": "7bfdf9350c3c9e5a8c0da6da9024df084691046ecc79f8c197dda3cb19b62293"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-tlou-complete-edition-1.0.0/TLOU_CompleteEdition-v1.0.0-part2.zip",
-          "zip_name": "TLOU_CompleteEdition-v1.0.0-part2.zip",
-          "size_bytes": 83295225,
-          "sha256": "302742f01e29c45f8753ecc899cfb3f4cbf76797f1769d2da3e444938d040ae3"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-12-tlou-complete-edition-1.1.0/TLOU_CompleteEdition-v1.1.0-part2.zip",
+          "zip_name": "TLOU_CompleteEdition-v1.1.0-part2.zip",
+          "size_bytes": 83294913,
+          "sha256": "4c826820c88acb4161e55d21f6fb8957e26a9c39ab3b17b8385ee9c348e3f952"
         }
-      ]
+      ],
+      "requiresJavaLoader": false
     },
     {
       "id": "TLOU_CompleteEdition_UI",
       "server_mod_id": "TLOU_CompleteEdition_UI",
       "name": "The Last of Us - Complete Edition UI",
-      "version": "1.0.0",
-      "description": "Optional full GUI replacement for The Last of Us - Complete Edition. It rebuilds the main menu and front-end screens around chapter-card presentation, rotating cover plates and an amber selection language; rethemes vanilla controls, panels, tooltips and context menus; and integrates with Common Sense Reborn and Faded's ClearView UI theme surfaces when present. Requires the Complete Edition base mod.",
-      "updated_at": "2026-09-06",
-      "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.3.0",
-      "javaEnvironment": "CLIENT",
-      "javaPluginId": "tlou.completeedition.ui",
-      "javaPluginVersion": "1.0.0",
-      "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 544744324,
-      "required_free_bytes": 1620206027,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-06-tlou-complete-edition-1.0.0/TLOU_CompleteEdition_UI-v1.0.0.zip",
-      "zip_name": "TLOU_CompleteEdition_UI-v1.0.0.zip",
-      "size_bytes": 538590791,
-      "sha256": "769d78d7456382e9f4eb59729b51c2fd58b7d0442d832aa61ee74816445e0de4"
+      "version": "1.1.0",
+      "description": "Optional full GUI replacement for The Last of Us - Complete Edition. It rebuilds the main menu and front-end screens around chapter-card presentation, rotating cover plates and an amber selection language; rethemes vanilla controls, panels, tooltips and context menus; and integrates with Common Sense Reborn and Faded's ClearView UI theme surfaces when present. Requires the Complete Edition base mod. The Faded Java Loader is optional.",
+      "updated_at": "2026-09-12",
+      "uncompressed_size_bytes": 544744198,
+      "required_free_bytes": 1620174374,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-12-tlou-complete-edition-1.1.0/TLOU_CompleteEdition_UI-v1.1.0.zip",
+      "zip_name": "TLOU_CompleteEdition_UI-v1.1.0.zip",
+      "size_bytes": 538559264,
+      "sha256": "f8c54058f10470dc675ab7094877a1a550493292c0d38de9f88c67c4ac6a7c96",
+      "requiresJavaLoader": false
     },
     {
       "id": "Deadflow",
