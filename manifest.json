@@ -1470,15 +1470,15 @@
       "id": "WhatAWorld",
       "server_mod_id": "WhatAWorld",
       "name": "What A World",
-      "version": "1.3.0",
-      "description": "Consent-first performance advisor plus a server-authoritative climate suite for Build 42.20.4. Version 1.3.0 integrates ten donor systems: visible lightning, thunder in the herd, weather exposure, deep-forest calm, native room occlusion, cockroaches, cicadas, a one-per-save aircraft crash, and optional pixel framebuffer/consoles. Acid rain rendering is restored. Low-FPS triage still only recommends a profile through F7; it never changes display settings automatically. Optional FJL remains optional.",
+      "version": "1.3.1",
+      "description": "Consent-first performance advisor plus a server-authoritative climate suite for Build 42.20.4. Version 1.3.1 fixes FJL client startup dying before the main menu (Color framebuffer Mixin no longer merges public static methods). Ten donor systems remain: visible lightning, thunder in the herd, weather exposure, deep-forest calm, native room occlusion, cockroaches, cicadas, a one-per-save aircraft crash, and optional pixel framebuffer/consoles. Low-FPS triage still only recommends a profile through F7. Optional FJL remains optional.",
       "updated_at": "2026-09-11",
-      "uncompressed_size_bytes": 140316615,
-      "required_free_bytes": 710711106,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-11-what-a-world-1.3.0/WhatAWorld-v1.3.0.zip",
-      "zip_name": "WhatAWorld-v1.3.0.zip",
-      "size_bytes": 81885686,
-      "sha256": "170fbc7748c8cf11b34d6779c2a60a754547b2f038d47cf752851200f2499299"
+      "uncompressed_size_bytes": 140316674,
+      "required_free_bytes": 759073333,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-11-what-a-world-1.3.1/WhatAWorld-v1.3.1.zip",
+      "zip_name": "WhatAWorld-v1.3.1.zip",
+      "size_bytes": 81885747,
+      "sha256": "730329136efe55742f85989b591b7b4d77f138aae41ed57e87a601d162834e77"
     },
     {
       "id": "WhatAWorldTexturesPotato",
