@@ -863,8 +863,10 @@
       "description": "Self-contained B42.20.4 electric vehicle framework. Twelve imported modern EVs, unique mechanics console, traction packs, thermal/BMS systems, and a craftable charging station. Optional Project Faded Car bridge.",
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-modern-evs-1.0.0/ModernEVs-v1.0.0.zip",
       "zip_name": "ModernEVs-v1.0.0.zip",
-      "size_bytes": 69637702,
-      "sha256": "8f6ce2f2d7d8a541bedf3cabef310b0123d9eb9af4cc2deecab2ac3c3361e774",
+      "size_bytes": 69643533,
+      "sha256": "513a400e29f81d0837eb853b018d4ded1234b82972de6194995447088aafa40d",
+      "uncompressed_size_bytes": 94719647,
+      "required_free_bytes": 701234092,
       "updated_at": "2026-09-13"
     },
     {
