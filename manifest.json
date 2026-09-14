@@ -1737,23 +1737,23 @@
       "id": "TLOU_CompleteEdition",
       "server_mod_id": "TLOU_CompleteEdition",
       "name": "The Last of Us - Complete Edition",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "description": "Total-conversion content layer that turns Project Zomboid into The Last of Us. Cordyceps colonies that grow from the dead and promote rooms into spore zones. Runner, Stalker, Clicker and Bloater populations, colony growth, spore zones, Listen Mode, adaptive music, survivor voices, occupations, gear, world ageing, vehicles, weapons, clothing and both FMOD banks are integrated as one standalone package. Standalone on Project Zomboid 42.20.4. The Faded Java Loader is optional and supplies its hybrid Java layer when present; Common Sense Reborn, Faded's ClearView UI and tsarslib integrations are also optional.",
-      "updated_at": "2026-09-13",
-      "uncompressed_size_bytes": 1973428836,
-      "required_free_bytes": 4420899937,
+      "updated_at": "2026-09-14",
+      "uncompressed_size_bytes": 1979622889,
+      "required_free_bytes": 4427585186,
       "download_parts": [
         {
-          "zip_name": "TLOU_CompleteEdition-v1.1.12-part1.zip",
-          "size_bytes": 1825080487,
-          "sha256": "bf5c03d3c1f77b274c56771c46e672bbd2c13a88ae2553b358524958b656046e",
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-tlou-complete-edition-1.1.12/TLOU_CompleteEdition-v1.1.12-part1.zip"
+          "zip_name": "TLOU_CompleteEdition-v1.1.13-part1.zip",
+          "size_bytes": 1819398789,
+          "sha256": "b466c115d08d9a4278e891d1b6e2c861c3ca606213e42de275b823cca169fac1",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-14-tlou-complete-edition-1.1.13/TLOU_CompleteEdition-v1.1.13-part1.zip"
         },
         {
-          "zip_name": "TLOU_CompleteEdition-v1.1.12-part2.zip",
-          "size_bytes": 85519702,
-          "sha256": "4bd0fec363a16cc9793e9e466f138062c0d374fcd7c1cbbb3b0dee8420f21cff",
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-tlou-complete-edition-1.1.12/TLOU_CompleteEdition-v1.1.12-part2.zip"
+          "zip_name": "TLOU_CompleteEdition-v1.1.13-part2.zip",
+          "size_bytes": 91692596,
+          "sha256": "d296cf87490bdc923e7a294b82fa0279a1582264320df79bffa52b332f779cd4",
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-14-tlou-complete-edition-1.1.13/TLOU_CompleteEdition-v1.1.13-part2.zip"
         }
       ],
       "requiresJavaLoader": false
@@ -1762,15 +1762,15 @@
       "id": "TLOU_CompleteEdition_UI",
       "server_mod_id": "TLOU_CompleteEdition_UI",
       "name": "The Last of Us - Complete Edition UI",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "description": "Optional full GUI replacement for The Last of Us - Complete Edition. It rebuilds the main menu and front-end screens around chapter-card presentation, rotating cover plates and an amber selection language; rethemes vanilla controls, panels, tooltips and context menus; and integrates with Common Sense Reborn and Faded's ClearView UI theme surfaces when present. Requires the Complete Edition base mod. The Faded Java Loader is optional.",
-      "updated_at": "2026-09-13",
-      "uncompressed_size_bytes": 539462178,
-      "required_free_bytes": 1615235203,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-tlou-complete-edition-1.1.12/TLOU_CompleteEdition_UI-v1.1.12.zip",
-      "zip_name": "TLOU_CompleteEdition_UI-v1.1.12.zip",
-      "size_bytes": 538902113,
-      "sha256": "f92835f50bf06d84caaa8a4517952448d9d9f65c841f8917c8822cbc475d571f",
+      "updated_at": "2026-09-14",
+      "uncompressed_size_bytes": 545427761,
+      "required_free_bytes": 1627161190,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-14-tlou-complete-edition-1.1.13/TLOU_CompleteEdition_UI-v1.1.13.zip",
+      "zip_name": "TLOU_CompleteEdition_UI-v1.1.13.zip",
+      "size_bytes": 544862517,
+      "sha256": "54d796c0a6dafa43ddeceb3716c476d0a3f7b87e39c990799c57ad042b0ea0ee",
       "requiresJavaLoader": false
     },
     {
