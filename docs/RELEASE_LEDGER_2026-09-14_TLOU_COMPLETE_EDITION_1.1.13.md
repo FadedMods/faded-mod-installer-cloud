@@ -49,9 +49,15 @@ legacy client compatibility. `scripts/validate_manifests.py` passes.
 
 ## Local deployment
 
-Both installed mods were updated from source after a recoverable backup of the
-previous playable copies. Staging notes were excluded. The local mods directory
-is reached through the existing Zomboid user-data junction
-(`C:\Users\Luis\Zomboid` -> `E:\PZ User Data\Zomboid`). No installer application
-rebuild or server deployment was part of this mod release. In-game runtime
-acceptance was not performed during this release operation.
+Both installed mods were updated and verified against source: 3,547 base files
+and 7,619 UI files, with exact relative paths and SHA-256 parity, zero missing,
+zero extra and zero content mismatches. Staging notes were excluded. The
+previous local installs were recoverably moved to:
+
+- `E:\Faded Mod Staging\backups\TLOU_CompleteEdition-before-1.1.13-20260914-062728`
+- `E:\Faded Mod Staging\backups\TLOU_CompleteEdition_UI-before-1.1.13-20260914-062728`
+
+The local mods directory is reached through the existing Zomboid user-data
+junction (`C:\Users\Luis\Zomboid` -> `E:\PZ User Data\Zomboid`). No installer
+application rebuild or server deployment was part of this mod release.
+In-game runtime acceptance was not performed during this release operation.
