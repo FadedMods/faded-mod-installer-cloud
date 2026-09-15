@@ -277,15 +277,15 @@
       "id": "CSRClearViewController",
       "server_mod_id": "CSRClearViewController",
       "name": "CSR/ClearView Controller Framework",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Faded controller framework for Project Zomboid Build 42. Injects button prompts, Faded glyphs, focus rings, and pad navigation onto CSR object panels, ClearView UI, and other windows. Semantic bindings follow the player's remap. Client UI only, add/remove safe. Load this mod first.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-14-csr-clearview-controller-framework/CSRClearViewController-v1.2.0.zip",
-      "zip_name": "CSRClearViewController-v1.2.0.zip",
-      "size_bytes": 5144308,
-      "sha256": "15bc03e593a20b512eb1322d263ab68704eab6dc9353f9e7af07769c85b87fe2",
-      "uncompressed_size_bytes": 5179109,
-      "required_free_bytes": 547194329,
-      "updated_at": "2026-09-14"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-15-csr-clearview-controller-1.2.1/CSRClearViewController-v1.2.1.zip",
+      "zip_name": "CSRClearViewController-v1.2.1.zip",
+      "size_bytes": 5145022,
+      "sha256": "6af6fe844208c69336acc7ee8276672d92d40e3239521d00c58e14d5dcf4fb24",
+      "uncompressed_size_bytes": 5182058,
+      "required_free_bytes": 547197992,
+      "updated_at": "2026-09-15"
     },
     {
       "id": "CSR_ClearviewGPS",
