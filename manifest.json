@@ -1032,6 +1032,21 @@
       "sha256": "ae6c271e179ef159f1a65ed234389b35afbad5f4959d6d2fbadb0d3d3e733673"
     },
     {
+      "id": "SpongeBoidSquarepants",
+      "server_mod_id": "SpongeBoidSquarepants",
+      "name": "SpongeBoid Squarepants",
+      "version": "42.20.4.2",
+      "description": "SpongeBoid Squarepants costumes, plushes, and weapons for Project Zomboid Build 42.20.4. Costume GUID mapping, corpse clothing, loot, and weapons rebuilt for 42.20.4.",
+      "uncompressed_size_bytes": 23648021,
+      "required_free_bytes": 579957566,
+      "updated_at": "2026-09-15",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-15-spongeboid/SpongeBoidSquarepants-v42.20.4.2.zip",
+      "zip_name": "SpongeBoidSquarepants-v42.20.4.2.zip",
+      "size_bytes": 19438633,
+      "sha256": "a51d59edfb6c11b570a0804ad9c59664d99584f4c9bbe62b07ee450122fbbbff",
+      "requiresJavaLoader": false
+    },
+    {
       "id": "SpongiesFadedClothing_B42Port",
       "server_mod_id": "SpongiesFadedClothing_B42Port",
       "name": "Spongie's Clothing [B42 Port]",
