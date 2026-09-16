@@ -1826,21 +1826,21 @@
       "id": "ChocoboGo",
       "server_mod_id": "ChocoboGo",
       "name": "Chocobo Go",
-      "version": "0.1.1",
-      "description": "Chocobo companions, passenger riding, Gysahl farming, breeding and fitted travel gear for Project Zomboid 42.20.4. Version 0.1.1. Full features require Faded's Java Loader 0.3.4 and FadedJavaLoaderBridge.",
-      "updated_at": "2026-09-10",
+      "version": "0.1.2",
+      "description": "Chocobo companions, passenger riding, Gysahl farming, breeding, color-matched 3D feathers and fitted travel gear for Project Zomboid 42.20.4. Version 0.1.2. Full features require Faded's Java Loader 0.3.4 and FadedJavaLoaderBridge.",
+      "updated_at": "2026-09-15",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
       "javaEnvironment": "BOTH",
       "javaPluginId": "faded.chocobogo.persistence",
       "javaPluginVersion": "0.1.1",
       "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 56898234,
-      "required_free_bytes": 630165730,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-10-chocobogo-0.1.1/ChocoboGo-v0.1.1.zip",
-      "zip_name": "ChocoboGo-v0.1.1.zip",
-      "size_bytes": 35629992,
-      "sha256": "7fdb3a24de5089bb0fc9bba9883e8eac1d1514fea5b5a1dee3e21680f3b9507a"
+      "uncompressed_size_bytes": 59159677,
+      "required_free_bytes": 633921136,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-15-chocobogo-0.1.2/ChocoboGo-v0.1.2.zip",
+      "zip_name": "ChocoboGo-v0.1.2.zip",
+      "size_bytes": 37890547,
+      "sha256": "1d34698d7e88d481bab24888e0b28a986652506fbe518027559284502bcfac2b"
     }
   ]
 }
