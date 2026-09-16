@@ -38,3 +38,12 @@ Main and Faded Realms keep the existing `CSR_ClearviewGPS` id. No new id was add
 ## Local deployment
 
 Staging plus the exact public tree on the client play folders. No Workshop upload.
+
+## Dedicated server deployment
+
+Deployed the exact published tree to `faded-pz-vps` (`The Faded Realms`, B42.20.4):
+
+- Target: `/home/pzserver/Zomboid/mods/CSR_ClearviewGPS`
+- Backup: `/home/ubuntu/CSR_ClearviewGPS-before-1.3.0-20260916-124810`
+- 60 files, `modversion=1.3.0`; `project-zomboid.service` restarted and reached `*** SERVER STARTED ****`
+- FJL server sync reported `Up to date: CSR_ClearviewGPS v1.3.0`; no `CSR_ClearviewGPS` errors in the startup log
