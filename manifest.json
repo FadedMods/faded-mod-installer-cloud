@@ -1040,10 +1040,10 @@
       "uncompressed_size_bytes": 23648021,
       "required_free_bytes": 579957566,
       "updated_at": "2026-09-15",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-15-spongeboid/SpongeBoidSquarepants-v42.20.4.2.zip",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-15-spongeboid-2/SpongeBoidSquarepants-v42.20.4.2.zip",
       "zip_name": "SpongeBoidSquarepants-v42.20.4.2.zip",
       "size_bytes": 19438633,
-      "sha256": "a51d59edfb6c11b570a0804ad9c59664d99584f4c9bbe62b07ee450122fbbbff",
+      "sha256": "201bb823f93e43beed64ee54b9545ef1fc2a092b6b1f969e09a48e275354429c",
       "requiresJavaLoader": false
     },
     {
