@@ -85,3 +85,42 @@ Main: 118 -> 119 (1 changed, 1 appended, 117 untouched, order and top-level
 blocks preserved). Faded Realms: 79 -> 79 (1 changed, 78 untouched). Both files
 round-trip byte-exactly through `json.dumps(indent=2, ensure_ascii=False)`.
 `scripts/validate_manifests.py` passed.
+
+## Local deployment
+
+Exact public payloads installed with the installer's `install_prepared_mod`
+(`BACKUP_REPLACE`) to `E:\PZ User Data\Zomboid\mods`:
+
+- `WhatAWorld` 1.4.0: 1116/1116 files byte-identical to the public ZIP.
+  Previous 1.3.3 backup: `%APPDATA%\FadedLocalModInstaller\backups\WhatAWorld_20260916_195903`.
+- `WhatAWorldSolarShadows` 1.0.0: 22/22 files byte-identical; installed plugin
+  verified with `verify_installed_java_plugin`.
+- `sync_manifest_java_plugin_profile` enabled `faded.whataworld.solarshadows`
+  (and kept `faded.whataworld.textures`) in the local FJL profile.
+
+No Workshop upload.
+
+## Dedicated server deployment
+
+Deployed the exact published tree to `faded-pz-vps` (`The Faded Realms`, B42.20.4):
+
+- Asset downloaded on the host from the public release URL; size and SHA-256
+  matched; per-file tree hash identical to the local installed tree.
+- Target: `/home/pzserver/Zomboid/mods/WhatAWorld`, 1116 files,
+  `modversion=1.4.0`, owner `pzserver:pzserver`
+- Backup: `/home/ubuntu/WhatAWorld-before-1.4.0-20260917-000313` (882 files, 1.3.3)
+- `project-zomboid.service` stopped, swapped, started; reached
+  `*** SERVER STARTED ****` at 00:05:32 UTC. No players were connected.
+- FJL server sync: `Up to date: WhatAWorld v1.4.0`, `changed=0`.
+- The three 1.3.3 errors are gone: zero `WAW_SeasonData.lua` and
+  `WAW_WeatherLoot.lua` traces, zero `weather loot registration failed`, zero
+  `NoSuchFileException` for `mods/WhatAWorld/`. Zero What A World stack frames.
+- `WhatAWorldSolarShadows` was not deployed; it is not in the server `Mods=` pack.
+
+Known follow-up found in this boot log: `ground cover: the engine refused the
+overlay table` is a false report. `TileOverlays.addOverlays` returns `void`, so
+the guarded call returns nil on success and 1.4.0 misreads it as a refusal. The
+overlays do register; the F7 restart-needed notice for ground cover cannot fire
+until that check is fixed. `WhatAWorldTreeVisibility` 1.0.0's hosted ZIP still
+lacks its `AnimSets`/`actiongroups` placeholder directories, so its four
+`NoSuchFileException` lines remain.
