@@ -873,15 +873,15 @@
       "id": "ModernEVs",
       "server_mod_id": "ModernEVs",
       "name": "Modern EVs",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Self-contained B42.20.4 electric vehicle framework. Twelve imported modern EVs, unique mechanics console, traction packs, thermal/BMS systems, and a craftable charging station. Optional Project Faded Car bridge.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-modern-evs-1.0.0-repack/ModernEVs-v1.0.0.zip",
-      "zip_name": "ModernEVs-v1.0.0.zip",
-      "size_bytes": 69643533,
-      "sha256": "513a400e29f81d0837eb853b018d4ded1234b82972de6194995447088aafa40d",
-      "uncompressed_size_bytes": 94719647,
-      "required_free_bytes": 701234092,
-      "updated_at": "2026-09-13"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-17-modern-evs-1.0.1/ModernEVs-v1.0.1.zip",
+      "zip_name": "ModernEVs-v1.0.1.zip",
+      "size_bytes": 31775751,
+      "sha256": "b78a799a28fc0015a64e556033efbdde0f5969f85d7083a108ee5c9600e0b502",
+      "uncompressed_size_bytes": 32670231,
+      "required_free_bytes": 601316894,
+      "updated_at": "2026-09-17"
     },
     {
       "id": "Military_Tool_Kit",
