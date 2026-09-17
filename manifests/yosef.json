@@ -25,6 +25,18 @@
       "zip_name": "OldWorldBandits-v1.1.0.zip",
       "size_bytes": 1386713,
       "sha256": "cdf16d59a242fa6d031caa3b2cbb17b7fd57e67439afc5ea2efb9875e4e94119"
+    },
+    {
+      "id": "J0K3R86_Weapons",
+      "server_mod_id": "J0K3R86_Weapons",
+      "name": "J0K3R86 Weapons (Yosef's edit)",
+      "version": "1.0",
+      "description": "Recipes changed, damage balanced. Everything feels less dumb now. Have fun.",
+      "updated_at": "2026-09-17",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-17-yosef-j0k3r86-weapons/J0K3R86_Weapons-v1.0.zip",
+      "zip_name": "J0K3R86_Weapons-v1.0.zip",
+      "size_bytes": 3201089,
+      "sha256": "a1efcf15836fdaeb2f179501e72368468d208641370ab100de47600aaac3fe05"
     }
   ]
 }
