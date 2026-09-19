@@ -64,3 +64,10 @@ blocked by WORLD_PACK_SYNC_UNVERSIONED_MOD_CHANGED for legacy ArmorPK. This warn
 predates the release; requiredPackVersion still names its September 17 pack record.
 The public catalogs, ServerSync results and actual EOH/NSA installations are current.
 No unrelated ArmorPK or Nexus metadata was rewritten in this release.
+
+## ArmorPK follow-up resolved
+
+The separately authorized ArmorPK 2.2.1 hotfix restored automatic Nexus pack
+refresh at 19:30:47 UTC on September 19. Pack `sync-20260919T193047Z-f72c2fe3` now contains
+ArmorPK 2.2.1, EOH 0.5.0 and NSA 0.7.0-alpha. Full server readiness and file
+parity passed. See [the ArmorPK release ledger](RELEASE_LEDGER_2026-09-19_ARMORPK_221.md).

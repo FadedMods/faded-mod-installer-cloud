@@ -51,5 +51,25 @@ free; the installer source and replacement/rollback implementation were unchange
 Main retains 119 entries and Faded Realms retains 79, in their existing order.
 Only the ArmorPK catalog entries change.
 
-Publication and protected OVH restart verification are in progress; final
-evidence will be appended after verification.
+Publication and deployment completed successfully. Catalog commit `d168ddc`
+updated both stable manifests; all three GitHub checks passed. The production
+installer downloaded both public archives, verified their SHA-256 values, and
+prepared all 5,570 files with exact staging parity.
+
+A fresh zero-player heartbeat preceded the protected backup/restart. Verified
+backup: `project-zomboid-20260919T192607Z.tar.zst` (13,162,962,865 bytes).
+The service restarted at 19:29:07 UTC. FJL installed ArmorPK 2.2.1 from the two
+public assets and changed exactly one mod. All 80 enabled OVH IDs were preserved.
+All 5,570 remote files match the release by SHA-256, with no extras and correct
+pzserver ownership.
+
+Final readiness at 2026-09-19T19:32:18.610666+00:00: GAME_READY, WorldDictionary completion,
+SERVER STARTED, UDP 16261/16262, fresh online heartbeat, and zero crash restarts.
+Checked native/registry fatal signatures were absent. This does not claim that
+all unrelated historical game/mod warnings have been eliminated.
+
+Nexus accepted the automatic receipt at 19:30:47 UTC and published pack
+`sync-20260919T193047Z-f72c2fe3`. Its ArmorPK entry is 2.2.1 and both artifact hashes match
+this release. The old WORLD_PACK_SYNC_UNVERSIONED_MOD_CHANGED warning is absent.
+The refreshed pack also contains the already-installed EOH 0.5.0 and NSA
+0.7.0-alpha. No manual pack publication or relaxed verification was needed.
