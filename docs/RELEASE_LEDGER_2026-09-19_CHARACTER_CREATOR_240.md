@@ -37,6 +37,41 @@ Only the existing CharacterCreator entry changes in Main (119 entries) and
 Faded Realms (79 entries). All other entries, ID order and Java-loader metadata
 are preserved; the manifest validator passes.
 
-Local staging/install and OVH backup/restart evidence will be recorded after
-the corresponding operations complete. The OVH enabled-mod list is independent
-of either catalog and must remain unchanged.
+Catalog release commit: `f9a93d1a9b9a3cd2e531d148dabe018af8cf4241`.
+GitHub's server-computed SHA-256 and asset size match the local ZIP, and both
+public catalogs were read back and matched the committed content.
+
+## Local deployment
+
+All 13,648 files match the verified ZIP at both destinations:
+
+- `E:\Faded Mod Staging\CharacterCreator`; adjacent backup
+  `CharacterCreator-before-2.4.0-20260919T152634Z`.
+- `E:\PZ User Data\Zomboid\mods\CharacterCreator`; installer backup
+  `%APPDATA%\FadedLocalModInstaller\backups\CharacterCreator_20260919_112754`.
+
+The installer profile helper verified/enabled `charactercreator.morph` in the
+user's FadedJavaLoader default profile, preserving unrelated plugin settings.
+The game installation was not modified.
+
+## OVH deployment
+
+The immediate pre-restart check observed zero players, a heartbeat 5.27 seconds
+old, active service, available backup lock and 95.88 GiB free. The authorized
+`sudo faded-pz-backup` operation returned zero and retained the default restart.
+
+- Verified backup:
+  `/srv/backups/project-zomboid/daily/project-zomboid-20260919T153731Z.tar.zst`,
+  12,833,187,383 bytes, with checksum sidecar.
+- FJL independently downloaded and verified the published ZIP SHA-256 at
+  15:40:47 UTC; installed CharacterCreator 2.4.0 at 15:41:00 UTC.
+- Installed renderer matches `fdb01fba...cdec597` exactly.
+- FJL reached GAME_READY, WorldDictionary initialization completed, and
+  `SERVER STARTED` was observed. UDP 16261/16262 listen; the public heartbeat
+  was online at 15:43:24 UTC.
+- The enabled 80-mod ID list remains unchanged. No actionable CharacterCreator
+  startup errors were found; FJL emitted its generic trusted-executable-code
+  notice for the plugin.
+
+This verifies installation and server startup, not the waived final in-game
+appearance review.
