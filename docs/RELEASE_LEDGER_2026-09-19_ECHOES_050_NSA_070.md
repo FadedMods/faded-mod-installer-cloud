@@ -42,5 +42,25 @@ No connected-player visual acceptance or paid live-chat speech test is claimed.
 The bundled voice pack was actually generated and decoded; optional live speech
 has schema/boundary checks and text fallback. Full donor parity is not claimed.
 
-Public installer and OVH backup/restart verification follow this catalog commit;
-the final result will be appended after the running server is checked.
+## Final verification
+
+The production installer downloaded and prepared both published archives; SHA-256
+and portable metadata matched. Both stable catalogs returned the new versions.
+All three GitHub checks on catalog commit 4b66230 passed.
+
+A fresh zero-player heartbeat, active service, free backup lock and 96 GiB available
+space preceded the protected backup/restart. The verified archive is
+project-zomboid-20260919T184724Z.tar.zst (13,162,137,817 bytes). Service restart:
+18:50:23 UTC. ServerSync changed exactly two mods and preserved all 80 enabled OVH
+IDs (including SentryNet; the separate Faded Realms catalog still has 79).
+
+EOH 0.5.0 and NSA 0.7.0-alpha loaded. GAME_READY, WorldDictionary completion,
+SERVER STARTED, UDP 16261/16262 and a fresh online heartbeat were verified. All
+838 / 692 remote files match the release archives, with no extras. Checked native
+and registry fatal signatures were absent.
+
+Existing issue recorded separately: Nexus automatic pack-record refresh remains
+blocked by WORLD_PACK_SYNC_UNVERSIONED_MOD_CHANGED for legacy ArmorPK. This warning
+predates the release; requiredPackVersion still names its September 17 pack record.
+The public catalogs, ServerSync results and actual EOH/NSA installations are current.
+No unrelated ArmorPK or Nexus metadata was rewritten in this release.
