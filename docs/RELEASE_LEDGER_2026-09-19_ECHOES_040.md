@@ -42,6 +42,20 @@ and extended with stewardship, service/depot/freight and combat-evidence behavio
   preserved as backups. Source work, including preexisting dirty/untracked work,
   was not reset or blanket-staged.
 
+## Public download and OVH verification
+
+Both public catalogs returned 0.4.0. The production installer downloaded the
+published archive, verified its hash and prepared the expected Build 42 folder.
+GitHub catalog checks passed for release commit `d9f6747`.
+
+The zero-player protected OVH backup/restart completed. ServerSync updated only
+Echoes, from 0.3.3 to 0.4.0. All 677 server files match the release archive.
+Startup reached GAME_READY, WorldDictionary completion and SERVER STARTED;
+UDP 16261/16262 were listening and Nexus reported a fresh online heartbeat.
+No fatal native signatures matched the new startup log. Existing server mod IDs
+were preserved. OVH currently has 80 enabled IDs; it is distinct from the
+79-ID published Faded Realms catalog, whose membership was also preserved.
+
 ## Remaining acceptance and scope
 
 No paid provider request or connected-player visual/MP acceptance is claimed.
