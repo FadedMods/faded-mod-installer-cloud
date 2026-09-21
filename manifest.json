@@ -1861,6 +1861,46 @@
       "javaPluginId": "faded.whataworld.solarshadows",
       "javaPluginVersion": "1.0.0",
       "javaPluginMode": "HYBRID"
+    },
+    {
+      "id": "ST_Citizens_of_Knox",
+      "server_mod_id": "ST_Citizens_of_Knox",
+      "name": "Starship Troopers: Citizens of Knox",
+      "version": "1.0.0",
+      "description": "Total conversion for Project Zomboid 42.20.4. Knox County is a Federation war zone: the dead are Arachnids (warrior, hopper, flyer, tank and brain bug) on their own bodies, skeletons, animations and voices. Twelve Mobile Infantry and Federation occupations, twelve renamed towns, the Morita family with Federation ammo, MI field gear, belt lights, lower-back duffels and a starter SAW kit. Enable the UI companion for the full front end. Needs Faded Java Loader 0.3.0+. Also requires Z'Ware Telekinesis: Mind Over Dead (Workshop 3777815698) because PsyOps uses it; that dependency is not bundled.",
+      "uncompressed_size_bytes": 61533857,
+      "required_free_bytes": 621140437,
+      "zip_name": "ST_Citizens_of_Knox-v1.0.0.zip",
+      "size_bytes": 22735668,
+      "sha256": "5984e4cac4564e670997d4f5e24987c293a6caa90cb013c4a8515811b683b6c7",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-20-st-citizens-of-knox-1.0.0/ST_Citizens_of_Knox-v1.0.0.zip",
+      "updated_at": "2026-09-20",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.0",
+      "javaPluginVersion": "1.0.0",
+      "javaPluginMode": "HYBRID",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "st.citizensofknox"
+    },
+    {
+      "id": "ST_Citizens_of_Knox_UI",
+      "server_mod_id": "ST_Citizens_of_Knox_UI",
+      "name": "Starship Troopers: Citizens of Knox - UI",
+      "version": "1.0.0",
+      "description": "Optional full GUI for Starship Troopers: Citizens of Knox on Project Zomboid 42.20.4. Boot card, loading plate, main menu and every front-end screen rebuilt; vanilla UI regraded to Federation gold and gunmetal; moodles and sidebar as a suit HUD; Spiffo's is Stomper's; zombies are called bugs. Requires the Citizens of Knox content mod. Needs Faded Java Loader 0.3.0+ for the boot card and loading screen.",
+      "uncompressed_size_bytes": 78634911,
+      "required_free_bytes": 693669116,
+      "zip_name": "ST_Citizens_of_Knox_UI-v1.0.0.zip",
+      "size_bytes": 78163293,
+      "sha256": "d05f468775747248861490f1b374c6000ee93d4bcf1bc8fdd66b89d3ac48064d",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-20-st-citizens-of-knox-1.0.0/ST_Citizens_of_Knox_UI-v1.0.0.zip",
+      "updated_at": "2026-09-20",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.0",
+      "javaPluginVersion": "1.0.0",
+      "javaPluginMode": "HYBRID",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "st.citizensofknox.ui"
     }
   ]
 }
