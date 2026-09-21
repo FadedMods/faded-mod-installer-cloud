@@ -36,3 +36,6 @@ Deployment receipts and final publication details follow after the public downlo
 Exact clinical API and completed work are in `docs/campaign/CLINICAL_DOSE_API.md` and `docs/campaign/FFO_NATIVE_HANDOFF_RESULT.md`. Latest FFO handoff hashes were rechecked unchanged. Remaining acceptance: FFO-owned UI/production flow and connected-player clinical behavior. No connected-player game test is claimed. Existing unrelated pack warnings remain outside this patch.
 
 Machine-readable evidence: `docs/campaign/RELEASE_0.6.2_VERIFICATION.json`. Local deployment/install receipts: installer `.test-work/echoes-062` and `.test-work/echoes-next-install/full-install/20260921T000842240178Z`.
+
+
+Local loader follow-up: signed FJL 0.4.0 is READY; Echoes 0.6.2 plugin metadata, active default mod preset, bridge and explicit-disable checks pass. The local schema-2 profile uses `pluginSource=modList`, so native activation follows the selected owning mod. Its profile was preserved. Installer 0.3.3's older installed-status repair checker can still show a false legacy-profile warning on migrated schema-2 profiles; normal installation succeeds and this is separate from the corrected missing-bridge failure. This remaining installer status-display issue is recorded for follow-up; no native activation bypass was introduced.
