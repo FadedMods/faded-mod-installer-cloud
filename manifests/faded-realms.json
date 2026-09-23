@@ -484,15 +484,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.5.0",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.5.0 makes licensed workshop vehicle systems native: MP-synced high beams with reverse fill lights, idle settle and an instant engine-bay door, workshop quality/battery/heater/glove-box with rebuild-part and upgrade kits, an extra tank that feeds the real GasTank, threshold-gated engine/battery stall, battery drain tuners, Realistic Mechanics with shop crane, a combined chassis builder, Real Vehicle VFX, safer heavy-part drops, stable corpse driving, a tarp carrier, a namespaced Rhino wrecker on the FJL hook hoist, PFC_RLib rotator UI, FJL hitch-impulse persist and all-tow yaw damping. Includes the optional Carrier Core plugin with the same plugin ID.",
-      "updated_at": "2026-09-13",
-      "uncompressed_size_bytes": 283812533,
+      "version": "2.5.1",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.5.1 fixes BlowTorch craft inputs that used invalid flags[Propane] (PFC_WeldEngineParts and PFC_BuildVehicleFrame now use flags[Prop1]), unblocking server WorldDictionary load. 2.5.0 native workshop systems remain: MP-synced high beams with reverse fill lights, idle settle and an instant engine-bay door, workshop quality/battery/heater/glove-box with rebuild-part and upgrade kits, an extra tank that feeds the real GasTank, threshold-gated engine/battery stall, battery drain tuners, Realistic Mechanics with shop crane, a combined chassis builder, Real Vehicle VFX, safer heavy-part drops, stable corpse driving, a tarp carrier, a namespaced Rhino wrecker on the FJL hook hoist, PFC_RLib rotator UI, FJL hitch-impulse persist and all-tow yaw damping. Includes the optional Carrier Core plugin with the same plugin ID.",
+      "updated_at": "2026-09-23",
+      "uncompressed_size_bytes": 283812529,
       "required_free_bytes": 1044483110,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-13-project-faded-car-2.5.0/ProjectFadedCar-v2.5.0.zip",
-      "zip_name": "ProjectFadedCar-v2.5.0.zip",
-      "size_bytes": 223799665,
-      "sha256": "6b249fe607d4e9fc7819362e99ed3a94366eeb2846b143507548aa465c392bca"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-23-project-faded-car-2.5.1/ProjectFadedCar-v2.5.1.zip",
+      "zip_name": "ProjectFadedCar-v2.5.1.zip",
+      "size_bytes": 223799664,
+      "sha256": "76f09be6b47aad1c10d6e5e42917b0fb61c84dc5b88b2279aa747495a06bd355"
     },
     {
       "id": "MassiveKI5Pack",
