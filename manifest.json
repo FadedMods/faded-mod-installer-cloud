@@ -1901,6 +1901,36 @@
       "javaPluginMode": "HYBRID",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "st.citizensofknox.ui"
+    },
+    {
+      "id": "BackToAtlanta",
+      "server_mod_id": "BackToAtlanta",
+      "name": "The Walking Dead: Back to Atlanta",
+      "version": "1.0.0",
+      "description": "Total-theme conversion. Atlanta is the intended world, with TWD clothing, walkers, and Georgia satellite locations folded in. Walker visuals from licensed shambler animsets. Deadflow owns population when it is present. Character Creator, Common Sense Reborn, Faded's ClearView UI and Faded Java Loader are used when present and are not required.",
+      "uncompressed_size_bytes": 1370397233,
+      "required_free_bytes": 3152067477,
+      "zip_name": "BackToAtlanta-v1.0.0.zip",
+      "size_bytes": 1244799332,
+      "sha256": "a99545a6cdf84900f2eac30d89d005942b4f9b60841bf7fd053fd922883b8cfd",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-22-back-to-atlanta-1.0.0/BackToAtlanta-v1.0.0.zip",
+      "updated_at": "2026-09-22",
+      "requiresJavaLoader": false
+    },
+    {
+      "id": "BackToAtlanta_UI",
+      "server_mod_id": "BackToAtlanta_UI",
+      "name": "The Walking Dead: Back to Atlanta UI",
+      "version": "1.0.0",
+      "description": "Back to Atlanta interface. Boot card, loading plate and main-menu lockup through Faded Java Loader when present. Unique chibi sheriff guide art (no Spiffo). Quietly yields inventory, health and hotbar to Common Sense Reborn and Faded's ClearView UI when those mods are running.",
+      "uncompressed_size_bytes": 71261391,
+      "required_free_bytes": 678978511,
+      "zip_name": "BackToAtlanta_UI-v1.0.0.zip",
+      "size_bytes": 70846208,
+      "sha256": "30112bfa67dfc69db56b89d0c81640cea35e3c8275002d71da639ae46471c4a7",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-22-back-to-atlanta-1.0.0/BackToAtlanta_UI-v1.0.0.zip",
+      "updated_at": "2026-09-22",
+      "requiresJavaLoader": false
     }
   ]
 }
