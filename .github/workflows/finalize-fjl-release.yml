@@ -24,6 +24,9 @@ jobs:
       FJL_KEY_ID: ${{ inputs.key_id }}
       FJL_RELEASE_PRIVATE_KEY_PEM_B64: ${{ secrets.FJL_RELEASE_PRIVATE_KEY_PEM_B64 }}
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Download release assets
         run: |
           set -euo pipefail
@@ -38,7 +41,7 @@ jobs:
       - name: Install signing dependency
         run: python -m pip install --upgrade cryptography
 
-      - name: Finalize manifest and checksums
+      - name: Sign release and write installer catalog
         run: |
           set -euo pipefail
           python - <<'PY'
@@ -46,95 +49,83 @@ jobs:
           import hashlib
           import json
           import os
+          import subprocess
+          import sys
           from pathlib import Path
-
-          from cryptography.hazmat.primitives import serialization
-          from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PrivateKey
 
           public_keys = {
               "faded-fjl-release-2026-08-r3": "MCowBQYDK2VwAyEAt991v7X7VW6xwzEs2QuvTDH3w8KwkS36MDVRrVuVV4w=",
               "faded-fjl-release-2026-08-r4": "MCowBQYDK2VwAyEAxlAGcspcdZtnOYnvTvpqaibuZj3/Qi29COf/eJrGb94=",
           }
 
-          def sha256(path: Path) -> str:
-              digest = hashlib.sha256()
-              with path.open("rb") as source:
-                  for chunk in iter(lambda: source.read(1024 * 1024), b""):
-                      digest.update(chunk)
-              return digest.hexdigest()
-
-          release_dir = Path("release").resolve()
-          manifest_path = release_dir / "release-manifest.json"
-          checksums_path = release_dir / "checksums.sha256"
           key_id = os.environ["FJL_KEY_ID"]
           expected_public = public_keys.get(key_id)
           if not expected_public:
               raise SystemExit(f"Unknown FJL key id: {key_id}")
 
+          expected_fp = hashlib.sha256(base64.b64decode(expected_public)).hexdigest()
           encoded_pem = os.environ.get("FJL_RELEASE_PRIVATE_KEY_PEM_B64", "")
           if not encoded_pem:
               raise SystemExit("FJL_RELEASE_PRIVATE_KEY_PEM_B64 is not configured")
+
           pem = bytearray(base64.b64decode(encoded_pem, validate=True))
           try:
-              loaded = serialization.load_pem_private_key(bytes(pem), password=None)
+              release_dir = Path("release").resolve()
+              manifest_path = release_dir / "release-manifest.json"
+              if not manifest_path.is_file():
+                  raise SystemExit("release-manifest.json is missing from the release assets")
+              manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
+              version = str(manifest.get("version") or "").strip()
+              if not version:
+                  raise SystemExit("release-manifest.json is missing version")
+              catalog_name = f"installer-catalog-{version}.json"
+              catalog_path = release_dir / catalog_name
+              base_url = (
+                  f"https://github.com/{os.environ['GITHUB_REPOSITORY']}"
+                  f"/releases/download/{os.environ['RELEASE_TAG']}"
+              )
+              cmd = [
+                  sys.executable,
+                  "scripts/sign-release.py",
+                  "--release-dir",
+                  str(release_dir),
+                  "--manifest",
+                  str(manifest_path),
+                  "--release-base-url",
+                  base_url,
+                  "--key-id",
+                  key_id,
+                  "--expected-public-sha256",
+                  expected_fp,
+                  "--output",
+                  str(catalog_path),
+              ]
+              # Private key only on stdin; never in argv or env for the child.
+              completed = subprocess.run(
+                  cmd,
+                  input=bytes(pem),
+                  check=False,
+              )
+              if completed.returncode != 0:
+                  raise SystemExit(f"sign-release.py failed with exit {completed.returncode}")
+              if not catalog_path.is_file():
+                  raise SystemExit(f"Expected catalog was not written: {catalog_name}")
+              print(f"Signed catalog ready: {catalog_name}")
+              print(f"CATALOG_PATH={catalog_path}")
+              with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as env_file:
+                  env_file.write(f"FJL_CATALOG_PATH={catalog_path}\n")
+                  env_file.write(f"FJL_CATALOG_NAME={catalog_name}\n")
           finally:
               for index in range(len(pem)):
                   pem[index] = 0
-          if not isinstance(loaded, Ed25519PrivateKey):
-              raise SystemExit("The release signing key is not an Ed25519 private key")
-
-          actual_public = base64.b64encode(
-              loaded.public_key().public_bytes(
-                  serialization.Encoding.DER,
-                  serialization.PublicFormat.SubjectPublicKeyInfo,
-              )
-          ).decode("ascii")
-          if actual_public != expected_public:
-              raise SystemExit(f"The private key does not match {key_id}")
-
-          manifest = json.loads(manifest_path.read_text(encoding="utf-8-sig"))
-          artifacts = manifest.get("artifacts")
-          if not isinstance(artifacts, dict) or not artifacts:
-              raise SystemExit("release-manifest.json does not contain artifacts")
-
-          base_url = f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/releases/download/{os.environ['RELEASE_TAG']}"
-          for artifact_id, entry in artifacts.items():
-              if not isinstance(entry, dict):
-                  raise SystemExit(f"Invalid artifact entry: {artifact_id}")
-              file_name = str(entry.get("file") or "")
-              artifact_path = release_dir / file_name
-              if not artifact_path.is_file():
-                  raise SystemExit(f"Missing artifact file: {file_name}")
-              expected_hash = str(entry.get("sha256") or "").lower()
-              actual_hash = sha256(artifact_path)
-              if actual_hash != expected_hash:
-                  raise SystemExit(
-                      f"Refusing to sign {file_name}: recorded SHA-256 {expected_hash}, actual {actual_hash}"
-                  )
-              artifact_bytes = artifact_path.read_bytes()
-              entry["url"] = f"{base_url}/{file_name}"
-              entry["signature"] = base64.b64encode(loaded.sign(artifact_bytes)).decode("ascii")
-
-          manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8", newline="")
-          manifest_hash = sha256(manifest_path)
-          lines = checksums_path.read_text(encoding="utf-8-sig").splitlines() if checksums_path.is_file() else []
-          replaced = False
-          for index, line in enumerate(lines):
-              if line.strip().endswith("release-manifest.json"):
-                  lines[index] = f"{manifest_hash}  release-manifest.json"
-                  replaced = True
-          if not replaced:
-              lines.append(f"{manifest_hash}  release-manifest.json")
-          checksums_path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="")
-          print(f"Finalized FJL release manifest with key id {key_id}")
-          print(f"release-manifest.json sha256={manifest_hash}")
           PY
 
-      - name: Upload finalized manifest
+      - name: Upload finalized manifest and catalog
         run: |
           set -euo pipefail
           gh release upload "$RELEASE_TAG" \
             release/release-manifest.json \
             release/checksums.sha256 \
+            "$FJL_CATALOG_PATH" \
             --clobber \
             --repo "$GITHUB_REPOSITORY"
