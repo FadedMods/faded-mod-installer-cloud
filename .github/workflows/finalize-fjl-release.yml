@@ -123,9 +123,12 @@ jobs:
       - name: Upload finalized manifest and catalog
         run: |
           set -euo pipefail
+          # gh --clobber can still 422 (ReleaseAsset.name already exists) on some runners.
+          for asset in release-manifest.json checksums.sha256 "$FJL_CATALOG_NAME"; do
+            gh release delete-asset "$RELEASE_TAG" "$asset" --repo "$GITHUB_REPOSITORY" --yes 2>/dev/null || true
+          done
           gh release upload "$RELEASE_TAG" \
             release/release-manifest.json \
             release/checksums.sha256 \
             "$FJL_CATALOG_PATH" \
-            --clobber \
             --repo "$GITHUB_REPOSITORY"
