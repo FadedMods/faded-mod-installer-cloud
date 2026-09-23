@@ -10,7 +10,7 @@ on:
       key_id:
         description: Trusted FJL publisher key id
         required: true
-        default: faded-fjl-release-2026-08-r3
+        default: faded-fjl-release-2026-08-r4
 
 permissions:
   contents: write
@@ -53,6 +53,7 @@ jobs:
 
           public_keys = {
               "faded-fjl-release-2026-08-r3": "MCowBQYDK2VwAyEAt991v7X7VW6xwzEs2QuvTDH3w8KwkS36MDVRrVuVV4w=",
+              "faded-fjl-release-2026-08-r4": "MCowBQYDK2VwAyEAxlAGcspcdZtnOYnvTvpqaibuZj3/Qi29COf/eJrGb94=",
           }
 
           def sha256(path: Path) -> str:
