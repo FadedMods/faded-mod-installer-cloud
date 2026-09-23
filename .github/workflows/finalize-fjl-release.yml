@@ -123,9 +123,13 @@ jobs:
       - name: Upload finalized manifest and catalog
         run: |
           set -euo pipefail
-          # gh --clobber can still 422 (ReleaseAsset.name already exists) on some runners.
+          # Prefer API delete-by-id; `gh release delete-asset` / --clobber can 422 or miss.
+          release_id="$(gh api "repos/${GITHUB_REPOSITORY}/releases/tags/${RELEASE_TAG}" --jq .id)"
           for asset in release-manifest.json checksums.sha256 "$FJL_CATALOG_NAME"; do
-            gh release delete-asset "$RELEASE_TAG" "$asset" --repo "$GITHUB_REPOSITORY" --yes 2>/dev/null || true
+            asset_id="$(gh api "repos/${GITHUB_REPOSITORY}/releases/${release_id}/assets" --jq ".[] | select(.name==\"${asset}\") | .id" || true)"
+            if [ -n "${asset_id}" ]; then
+              gh api -X DELETE "repos/${GITHUB_REPOSITORY}/releases/assets/${asset_id}" >/dev/null
+            fi
           done
           gh release upload "$RELEASE_TAG" \
             release/release-manifest.json \
