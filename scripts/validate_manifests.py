@@ -103,6 +103,7 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
 PFC_ID = "ProjectFadedCar"
 CSR_OPTIONAL_FJL_IDS = frozenset({"CommonSenseReborn", "CommonSenseRebornTest"})
 SYNCHRONIZED_RELEASE_IDS = (
+    "CharacterCreator",
     "MassiveKI5Pack",
     "NeverSurviveAlone",
     "BuckShotRoulette",
