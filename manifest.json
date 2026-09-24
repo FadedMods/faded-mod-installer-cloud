@@ -748,12 +748,12 @@
       "version": "1.5.0-b42.20.4-vehicles",
       "description": "Background multiplayer support with adaptive Java remote-vehicle playback, merged vehicle recovery requests, and road-download priorities for PZ 42.20.4. Retains general player, zombie, and combat support. No HUD or halo text. New vehicle features require Faded Java Loader; Lua support remains available without it. SP + MP.",
       "updated_at": "2026-09-24",
-      "uncompressed_size_bytes": 3756258,
-      "required_free_bytes": 544063958,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-24-isync-1.5.0-vehicles/ISyncYouSyncWeAllSyncForDeSync-v1.5.0-b42.20.4-vehicles.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.5.0-b42.20.4-vehicles.zip",
-      "size_bytes": 3436788,
-      "sha256": "5ec36d984013fe889b219c69bcd00175142b9dfa7e04c4bf1cd573ab29301c73"
+      "uncompressed_size_bytes": 3755870,
+      "required_free_bytes": 544063171,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-24-isync-1.5.0-vehicles/ISyncYouSyncWeAllSyncForDeSync-v1.5.0-b42.20.4-vehicles-r2.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.5.0-b42.20.4-vehicles-r2.zip",
+      "size_bytes": 3436389,
+      "sha256": "d4083773851c55a506cabd3d86ca168d979592bb589018440559dc37866957b7"
     },
     {
       "id": "JustFaded",
