@@ -42,7 +42,32 @@ CharacterCreator mod backups are removed after successful replacement. The
 server backup command applies its existing two-daily/one-weekly retention.
 Detailed receipts are local under `Character Creator/build/release-2.6.1/`.
 
-GitHub publication is complete and its asset digest matches the local package.
-Fresh public-download verification and OVH startup results will be recorded
-once completed. Packaging and startup checks do not establish in-game
-appearance, animation, loot balance or multiplayer behavior; 2.6.0 limits remain.
+## Publication and OVH completion
+
+- Catalog publication commit: `268328dad461d932a2a62df6ec59cb0e1d69004f`.
+- Both raw public catalogs match the exact 2.6.1 metadata. GitHub's archive
+  digest matches the local package; a fresh public download through the
+  installer passes size/hash checks, extraction, Java validation and all
+  13,648 file hashes. GitHub's manifest validation workflow passed.
+- Five older CharacterCreator backups were removed (one by the installer's
+  retention helper, four explicitly). Fresh staging/local rollback copies
+  remain; the local copy was separately verified against every 2.6.0 hash.
+- OVH had zero players, a fresh heartbeat, an active service and a free backup
+  lock before `sudo faded-pz-backup`. The verified archive is
+  `project-zomboid-20260924T143858Z.tar.zst`, SHA-256
+  `47a6e1c559baea315ebe69db3ed80676ef93b548d5b8f3a47defe82568bb8095`.
+  Existing retention pruned the oldest daily backup, retaining two daily
+  archives. The backup command completed successfully and restarted PZ.
+- FJL ServerSync verified the published ZIP hash and installed 2.6.1. Every
+  one of the 13,648 server files matches the release, with no extras or missing
+  files. OVH's 80 enabled mod IDs and their order are unchanged.
+- By 14:44 UTC, GAME_READY, WorldDictionary completion, SERVER STARTED,
+  UDP 16261/16262, and a fresh online Nexus heartbeat were confirmed.
+  Nexus pack version: `sync-20260924T144329Z-f8df50e8`.
+- Local, staging and OVH now agree on the exact 2.6.1 payload. The client FJL
+  profile's mod-list selection mode is preserved. No PingPlayers restart or
+  unrelated server configuration change was made.
+
+Packaging and startup checks do not establish in-game appearance, animation,
+loot balance or multiplayer behavior; 2.6.0 limits remain. The manifest URLs
+are unchanged; players use Refresh Mod List to obtain the update.
