@@ -1,53 +1,53 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.3.3",
-  "published_at": "2026-09-20",
+  "version": "0.3.4",
+  "published_at": "2026-09-25",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.3",
-  "notes": "Installer 0.3.3 fixes Java-enabled mod installation with the signed Faded Java Loader 0.4.0 Build 42 bridge. Existing and clean installations now complete bridge, preset, and plugin-profile setup; legacy loader packages remain supported.",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.4",
+  "notes": "Adds the Outback Steakhouse channel with its exact published Nexus mod pack and automatic catalog synchronization. Includes Windows, multilingual Windows, Linux, Steam Deck, and Apple Silicon/Intel macOS packages. Mac update checks now select the correct architecture.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.3.3-windows.zip",
-      "size_bytes": 54882475,
-      "sha256": "7eed434c9c5c9a6daebf2c4149a337f57a6eb74c1c42984fbef3134190f28b3f"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.3.4-windows.zip",
+      "size_bytes": 55830661,
+      "sha256": "3cd9a63a4104e46baab9b56b33df2e8c7566958536ad89db986af86590f7e6ba"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.3.3-windows-multilingual.zip",
-      "size_bytes": 54871326,
-      "sha256": "db48a4f6d99e9679e6c537c116a9c587fa97e2e59ea5322f30e0f2b4974f0d49"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.3.4-windows-multilingual.zip",
+      "size_bytes": 55818148,
+      "sha256": "b83d941d3102189e0708d950b4e85a9575ed70689ecfbfb9219ee389a808263d"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.3-linux-standard-x86_64.tar.gz",
-      "size_bytes": 390014178,
-      "sha256": "cb845f41cdc9a0d1af45a8bba132ae6b3c9974ad3873208657458c84aa43473b"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.4-linux-standard-x86_64.tar.gz",
+      "size_bytes": 390020987,
+      "sha256": "e0f0fdb4751f819ce43e2dacae99a470c232d0b95bca3eb74b5467b71eef9262"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.3-linux-x86_64.tar.gz",
-      "size_bytes": 301317046,
-      "sha256": "d97191845a86f147cad6fa075dfb05e4cf265cfc4704b8ea5b233fee87d78982"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.4-linux-x86_64.tar.gz",
+      "size_bytes": 301302426,
+      "sha256": "4d1e7c19acb3e72de79d177206eb81846bea7c61c1c7dee21eb5a3758646b69f"
     },
     "macos-arm64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.3-macos-arm64.zip",
-      "size_bytes": 47166821,
-      "sha256": "f87e3a8ad53f959b3c12c0a638672c1ac91d37cd152b0d24967cc165cdef1901"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.4-macos-arm64.zip",
+      "size_bytes": 47167956,
+      "sha256": "511ae5e0566c32769e40b84455fd7942ac3ecb4f6b43e657b4f8c48c1ed8ec2d"
     },
     "macos-x86_64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-macos-x86_64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.3-macos-x86_64.zip",
-      "size_bytes": 50620322,
-      "sha256": "d05b6cb9fd69771233aaad766f02f49c2ba5915a8ca08ecd2654858c91446094"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-macos-x86_64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.4-macos-x86_64.zip",
+      "size_bytes": 50621018,
+      "sha256": "d3bbb106792db13a207b07965a54df932aa4e11978d409365a5ace1dc6b15e28"
     },
     "macos": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.3/FadedLocalModInstaller-0.3.3-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.3-macos-arm64.zip",
-      "size_bytes": 47166821,
-      "sha256": "f87e3a8ad53f959b3c12c0a638672c1ac91d37cd152b0d24967cc165cdef1901"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.4/FadedLocalModInstaller-0.3.4-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.4-macos-arm64.zip",
+      "size_bytes": 47167956,
+      "sha256": "511ae5e0566c32769e40b84455fd7942ac3ecb4f6b43e657b4f8c48c1ed8ec2d"
     }
   }
 }
