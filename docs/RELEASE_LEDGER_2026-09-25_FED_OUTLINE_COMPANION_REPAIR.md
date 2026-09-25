@@ -55,3 +55,15 @@ Existing stripped corpses are not reconstructed. Joined multiplayer corpse,
 loot and visual acceptance remains pending; automated checks are not gameplay
 confirmation. No remote server deployment/restart is part of this release;
 OVH and Outback remain untouched. CSR Main stays out of the personal install.
+
+## Public download and local installation
+
+Completed at 2026-09-25 11:19:08 UTC. Both assets were freshly downloaded via
+the installer using catalog commit `6c20632b62e53995dd395bb0278c4fe4df243172`
+while the stable raw URL cache refreshed. SHA-256, preparation and every
+installed file/directory match the public packages. The previous installs were
+hash-verified and retained outside the game's scan root. All 69 playable mod
+folders remain; CSR Main is absent. Both publication workflows succeeded.
+
+Local receipts: `E:/tmp/faded-fed-repair-20260925/completed.json`,
+`public-local-receipts.json`, `packages.json`, and `REPAIR_REPORT.md`.
