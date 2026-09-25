@@ -927,15 +927,15 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.5.3",
-      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.5.3 restores WorkshopCarLift registration by removing a leading script BOM, fixing multiplayer WorldDictionary join failures. Preserves the lift recipe, dedicated pfc_car_lift sprites, all lift behavior and existing entity identity. Retains the 2.5.2 sprite conflict fix and 2.5.1 recipe fix. Optional Carrier Core remains unchanged at 2.5.0.",
+      "version": "2.5.4",
+      "description": "Project Zomboid B42.20.4 self-contained vehicle workshop. Version 2.5.4 fixes Linux vehicle-aim animation inheritance using registered mod-qualified parent GUIDs instead of relative filenames. Preserves inherited animation settings, car-lift behavior, existing entity IDs and save schema. Includes the 2.5.3 lift script BOM repair. Optional Carrier Core remains unchanged at 2.5.0.",
       "updated_at": "2026-09-24",
-      "uncompressed_size_bytes": 283812440,
-      "required_free_bytes": 1329676412,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-24-project-faded-car-2.5.3/ProjectFadedCar-v2.5.3.zip",
-      "zip_name": "ProjectFadedCar-v2.5.3.zip",
-      "size_bytes": 225180620,
-      "sha256": "371ba2fc26eb136621029f914d440ae424d9d1cbacbbd1a2a7c04c0bc76fc53d"
+      "uncompressed_size_bytes": 283813032,
+      "required_free_bytes": 1329678020,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-24-project-faded-car-2.5.4/ProjectFadedCar-v2.5.4.zip",
+      "zip_name": "ProjectFadedCar-v2.5.4.zip",
+      "size_bytes": 225181044,
+      "sha256": "9d2909c927584f3272be1b5df327cc7acc8c8740f8ec22a84ed2707dd90e2786"
     },
     {
       "id": "ProximityAutoRead",
