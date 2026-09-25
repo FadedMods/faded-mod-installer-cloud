@@ -1,5 +1,13 @@
 # Outback Steakhouse catalog
 
+Retired by the owner on September 25, 2026. Installer 0.3.5 removes its
+button, tab and built-in source and migrates existing selections to FadedMods.
+Automatic catalog synchronization is disabled; the last published catalog
+remains available for historical clients. Do not update or restart the server.
+The workflow can only run on explicit manual dispatch.
+
+## Historical setup (0.3.4)
+
 Installer 0.3.4 adds a built-in Outback Steakhouse channel at:
 
 https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manifests/outback-steakhouse.json

@@ -1,16 +1,9 @@
 name: Sync Outback Steakhouse Nexus catalog
 
+# Retired from automatic rotation by the owner on 2026-09-25.
+# Keep manual recovery available for historical 0.3.4 clients.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '7,17,27,37,47,57 * * * *'
-  push:
-    branches: [main]
-    paths:
-      - manifest.json
-      - scripts/sync_outback_catalog.py
-      - scripts/test_sync_outback_catalog.py
-      - .github/workflows/sync-outback-catalog.yml
 
 permissions:
   contents: write
