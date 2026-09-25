@@ -1519,15 +1519,15 @@
       "id": "WhatAWorld",
       "server_mod_id": "WhatAWorld",
       "name": "What A World",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "description": "Consent-first performance advice for Build 42.20.4, plus an integrated climate suite and a world that behaves like one. What A World observes frame pacing and may suggest Boosted, Standard, Potato, or a vanilla Display-settings review, but never changes display settings, visual quality, UI drawing, texture quality, or a profile automatically. Players review and explicitly accept or dismiss suggestions in the F7 panel. Air temperature depends where you stand. Thunderstorms become authored Black or Dread storms with closing visibility, authored lightning, grid failure and location-aware atmosphere. Acid rain arrives behind a green warning fog and eats clothing, skin and the dead. Twenty-one donor systems are imported and integrated rather than merely governed: visible sky-to-ground lightning synchronised to the engine's own strike, livestock that react to thunder, weather exposure, restorative deep forest, native room occlusion with player-built rooms, cockroach and cicada ambience, a one-per-save aircraft crash that happens hundreds of tiles away and waits to be found, a full ground-cover overhaul, dirt roads kept clear of erosion growth, doors that visibly break in three stages across 61 door families, torchlight that falls through floor openings onto the storey below, flashlights recalibrated from real photometry, a pack that creaks with what you are carrying, working cinema popcorn machines, body bags, a hospital gurney that carries five corpses at once, and pigs, raccoons, rats, mice and chickens that feed on the dead and leave a skeleton with its loot still on it. Every imported system is metered by the same per-player budget table, so a weak machine gets fewer of them rather than a broken world, and every donor defect found on the way in was fixed rather than carried along. Includes server-authoritative weather events and damage, craftable weather stations, battery-powered receivers, recorded station history, and full sandbox tuning. Optional Faded's Java Loader support adds safe load concurrency, exterior occlusion and a pixel framebuffer that powers playable retro consoles, all off until explicitly enabled. The optional What A World - Solar Shadows companion adds projected sunlight and mesh shadows; the tier drives its shadow budget when both are installed.",
-      "updated_at": "2026-09-16",
-      "uncompressed_size_bytes": 221797880,
-      "required_free_bytes": 920651705,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-16-what-a-world-1.4.1/WhatAWorld-v1.4.1.zip",
-      "zip_name": "WhatAWorld-v1.4.1.zip",
-      "size_bytes": 161982913,
-      "sha256": "b6835246fadab68742d84d12ac44645c5a0af06fc8d0c7943951eb4408d57f5c"
+      "updated_at": "2026-09-25",
+      "uncompressed_size_bytes": 205897473,
+      "required_free_bytes": 889031462,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-what-a-world-1.4.2/WhatAWorld-v1.4.2.zip",
+      "zip_name": "WhatAWorld-v1.4.2.zip",
+      "size_bytes": 146263077,
+      "sha256": "38623fbcd82f4ffedfb42c18faf50134a3e793a78294aedef83c14a1509cf5e9"
     },
     {
       "id": "WhatAWorldTexturesPotato",
