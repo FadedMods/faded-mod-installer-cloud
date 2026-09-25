@@ -2,6 +2,13 @@
 
 Public manifest and release-asset host for Faded Local Mod Installer.
 
+## World Forge
+
+[World Forge](products/worldforge/README.md) is the new standalone Windows map
+editor preview for Project Zomboid B42.20.4. Download the portable app, illustrated
+PDF guide and view real editor screenshots on its product page. Installer **0.3.6**
+adds a World Forge tab beside Nexus on every installer platform.
+
 ## Manifest URL
 
 Use this URL in the installer's **Manifest URL** setting:
@@ -33,10 +40,12 @@ as a built-in modder list.
 
 ## Current release state
 
-As of September 6, 2026, B47ANCE's catalog hosts GroundWorks `0.15.0`. The
-current installer is `0.3.2`:
+The current installer is **0.3.6** (September 25, 2026), with the new World Forge
+page and verified Windows, Linux, Steam Deck and macOS packages:
 
-<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.2>
+<https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.6>
+
+[World Forge and installer release verification](docs/RELEASE_LEDGER_2026-09-25_WORLDFORGE.md).
 
 The complete August 28 manifest commit and mod-release sequence is recorded in
 [`docs/RELEASE_LEDGER_2026-08-28.md`](docs/RELEASE_LEDGER_2026-08-28.md).
