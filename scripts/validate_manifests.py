@@ -86,7 +86,6 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "VehiclesByFaded",
         "WaterExpanded",
         "WhatAWorld",
-        "WhatAWorldSolarShadows",
         "WhatAWorldTreeVisibility",
         "groundWorks",
     }

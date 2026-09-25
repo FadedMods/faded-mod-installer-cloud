@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manif
 
 That catalog must match the live Faded Realms dedicated-server `Mods=` pack
 exactly. New mods stay on Main unless Luis enables them on that server. As of
-2026-09-24 the Season 3 pack is 70 mods. `scripts/validate_manifests.py` rejects extras
+2026-09-24 the Season 3 pack is 69 mods after Solar Shadows removal. `scripts/validate_manifests.py` rejects extras
 or missing ids.
 
 B47ANCE uses:
