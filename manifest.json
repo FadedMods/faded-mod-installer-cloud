@@ -745,15 +745,15 @@
       "id": "ISyncYouSyncWeAllSyncForDeSync",
       "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
       "name": "ISyncYouSyncWeAllSyncForDeSync",
-      "version": "1.5.1-b42.20.4-connect",
-      "description": "1.5.1: connection-only server health snapshots; client desync watchdog checks, reports and recovery requests retired. Java vehicle playback, road priorities and server authority retained. No periodic Lua health sampling, profile traffic or HUD. Optional Java 1.5.0 unchanged.",
+      "version": "1.5.2-b42.20.4-connect",
+      "description": "1.5.2: fixes login-only server health sampling by detecting joins through the existing B42 player cache. No periodic health sampling, client pings, desync reports or recovery requests. Java vehicle playback, road priorities and server authority retained; Java 1.5.0 unchanged.",
       "updated_at": "2026-09-26",
-      "uncompressed_size_bytes": 3771348,
-      "required_free_bytes": 544095482,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-26-waw-isync-network/ISyncYouSyncWeAllSyncForDeSync-v1.5.1-b42.20.4-connect.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.5.1-b42.20.4-connect.zip",
-      "size_bytes": 3453222,
-      "sha256": "7102ec5148e0f7ad4782aac545e2c36d024290db87d05625403ea81d0c733747"
+      "uncompressed_size_bytes": 3773354,
+      "required_free_bytes": 544098507,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-26-isync-roster-connect/ISyncYouSyncWeAllSyncForDeSync-v1.5.2-b42.20.4-connect.zip",
+      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.5.2-b42.20.4-connect.zip",
+      "size_bytes": 3454241,
+      "sha256": "9ed28e399b403a299063c799fbb3121e8e4d834c2198a8a060e437a5703a7c6d"
     },
     {
       "id": "JustFaded",
