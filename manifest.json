@@ -32,80 +32,80 @@
   },
   "java_loader_v2": {
     "product": "FadedJavaLoader",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "minimum_pz_build": "42.20.4",
     "trusted_key_id": "faded-fjl-release-2026-08-r4",
     "artifacts": {
       "client-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-client-windows-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-client-windows-0.5.1.zip",
-        "size_bytes": 13450357,
-        "sha256": "0b04c14b2bff6ce453f3a2339688b318d2ac9b19e09133c6aee49f0afff376e5",
-        "signature": "LQujgUFcPGOCfhiyvakXgA+cTdMlOiPbYlsuL7s/2M5ctpRLyDkCelpoNydh0U+I38K/i7aqWf5htyShQBIjCQ=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-client-windows-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.5.2.zip",
+        "size_bytes": 13454443,
+        "sha256": "84acaefd354687940e6385b49d0e64e4f54e2e42ac2004b9c7932a5d326903cc",
+        "signature": "uAFfCD69EwnWv1/Mdg12KJm6vrq08QCrI8/kLwdJWz11ryXOuCK/jwyHItU7WsM3bdO5STk5nyLPcFtj6FIHBw=="
       },
       "client-macos": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-client-macos-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-client-macos-0.5.1.zip",
-        "size_bytes": 13357210,
-        "sha256": "8eac5b9d6ce3abecc43e276d997a9eb9991097e685cf1b7596a1ad2a8342cffc",
-        "signature": "BauLijuuRSqtGAeMnD2lbm3T8zkXj9q628OFkEsV8AP2VEfR/wwe8E1ntVo8TpQCSoInS4kaofBi+EiwyfBBDA=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-client-macos-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.5.2.zip",
+        "size_bytes": 13361296,
+        "sha256": "11be2e271099848aa8cac055c36815166df5757a28f480c8a66c121c377fc7be",
+        "signature": "uAsPtznlSzzuYxag8arhmjPoo+/yT9YSyhvJTnbobsoXHW5u6EnLXLYtMJFXjTBikEpBFDw2ROoaNPno1AA0Bg=="
       },
       "server-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-server-windows-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-server-windows-0.5.1.zip",
-        "size_bytes": 13455371,
-        "sha256": "68f9243f1f7a0fee97bd142e0b4c64a415426b05c57b3f601aac91c59ae4d618",
-        "signature": "av38lFx5cJZaY1K2wLZcQCKfPwd5KPfDmSre24F9k3VrQkYoQGYw3FrJxmtHNT8+XHkiRyiI3pzRBALE8fVuAw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-server-windows-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.5.2.zip",
+        "size_bytes": 13459457,
+        "sha256": "053425a357bbceff970b162b92d3e412219065546830cd2d2d456c07a6f1e031",
+        "signature": "qbdg6t/mAdrdaVWxzGu4HFgsUV8Z0RUwVS3fnajyrd56S6MI4H20dEHt4RXDVlhVNzOfZnoV29zXCZ/9ahNBDg=="
       },
       "server-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-server-linux-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-server-linux-0.5.1.zip",
-        "size_bytes": 13362587,
-        "sha256": "8dc5aa14339985581883174cc51b2f91e60adb5f8766f18f77f9640d3732ce4a",
-        "signature": "kyITjnF70aOO0qRnsDo80Z8oAoa1n0LyjUJZ8HtiV0BLLb+UH/OLrvEioQkb8vzdb8T9vnQF/G8RLaSMosQ5Cw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-server-linux-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.5.2.zip",
+        "size_bytes": 13366673,
+        "sha256": "fdc6ed942fdce25a908602ea2c40ecf45019c7a60faa2900a4cb5077ee22c7c5",
+        "signature": "k/j81aeo+1qnp0xej9e7FGNDTHtU5yqc4eUmkVGW3EGUchYTz9UHk/lHwG8J2OKgtNKzWkZ4OiDx1Vq1MUIaCg=="
       }
     }
   },
   "java_loader_v3": {
     "product": "FadedJavaLoader",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "minimum_pz_build": "42.20.4",
     "trusted_key_id": "faded-fjl-release-2026-08-r4",
     "artifacts": {
       "client-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-client-windows-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-client-windows-0.5.1.zip",
-        "size_bytes": 13450357,
-        "sha256": "0b04c14b2bff6ce453f3a2339688b318d2ac9b19e09133c6aee49f0afff376e5",
-        "signature": "LQujgUFcPGOCfhiyvakXgA+cTdMlOiPbYlsuL7s/2M5ctpRLyDkCelpoNydh0U+I38K/i7aqWf5htyShQBIjCQ=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-client-windows-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.5.2.zip",
+        "size_bytes": 13454443,
+        "sha256": "84acaefd354687940e6385b49d0e64e4f54e2e42ac2004b9c7932a5d326903cc",
+        "signature": "uAFfCD69EwnWv1/Mdg12KJm6vrq08QCrI8/kLwdJWz11ryXOuCK/jwyHItU7WsM3bdO5STk5nyLPcFtj6FIHBw=="
       },
       "client-macos": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-client-macos-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-client-macos-0.5.1.zip",
-        "size_bytes": 13357210,
-        "sha256": "8eac5b9d6ce3abecc43e276d997a9eb9991097e685cf1b7596a1ad2a8342cffc",
-        "signature": "BauLijuuRSqtGAeMnD2lbm3T8zkXj9q628OFkEsV8AP2VEfR/wwe8E1ntVo8TpQCSoInS4kaofBi+EiwyfBBDA=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-client-macos-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.5.2.zip",
+        "size_bytes": 13361296,
+        "sha256": "11be2e271099848aa8cac055c36815166df5757a28f480c8a66c121c377fc7be",
+        "signature": "uAsPtznlSzzuYxag8arhmjPoo+/yT9YSyhvJTnbobsoXHW5u6EnLXLYtMJFXjTBikEpBFDw2ROoaNPno1AA0Bg=="
       },
       "client-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-client-linux-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-client-linux-0.5.1.zip",
-        "size_bytes": 13356565,
-        "sha256": "dc88430a125c8355fd6925820c4a473b126ded06847bebef5fc8ef6aa7eda316",
-        "signature": "iHhH8Pik31emirg6XCJOdTRJoDQ4fTIjkw8qzaslF8HJ+eog+7b5J6uxLi/6UTwmFPRqaeZJ4thGuMwK/347AA=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-client-linux-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-client-linux-0.5.2.zip",
+        "size_bytes": 13360651,
+        "sha256": "6dd528a6e4cfbcfa585134b639f7459dcfeb8add0ace967d77acc9f517263aa7",
+        "signature": "wWksQFaEDM3l+YVNm0tNTSHt7SEGGD2yw/CdeZjntD7qQXQ9g5yEDSXgiqkYB/vGq46DleRw4AWTCQvcSTpnBQ=="
       },
       "server-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-server-windows-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-server-windows-0.5.1.zip",
-        "size_bytes": 13455371,
-        "sha256": "68f9243f1f7a0fee97bd142e0b4c64a415426b05c57b3f601aac91c59ae4d618",
-        "signature": "av38lFx5cJZaY1K2wLZcQCKfPwd5KPfDmSre24F9k3VrQkYoQGYw3FrJxmtHNT8+XHkiRyiI3pzRBALE8fVuAw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-server-windows-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.5.2.zip",
+        "size_bytes": 13459457,
+        "sha256": "053425a357bbceff970b162b92d3e412219065546830cd2d2d456c07a6f1e031",
+        "signature": "qbdg6t/mAdrdaVWxzGu4HFgsUV8Z0RUwVS3fnajyrd56S6MI4H20dEHt4RXDVlhVNzOfZnoV29zXCZ/9ahNBDg=="
       },
       "server-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-25-faded-java-loader-0.5.1/FadedJavaLoader-server-linux-0.5.1.zip",
-        "zip_name": "FadedJavaLoader-server-linux-0.5.1.zip",
-        "size_bytes": 13362587,
-        "sha256": "8dc5aa14339985581883174cc51b2f91e60adb5f8766f18f77f9640d3732ce4a",
-        "signature": "kyITjnF70aOO0qRnsDo80Z8oAoa1n0LyjUJZ8HtiV0BLLb+UH/OLrvEioQkb8vzdb8T9vnQF/G8RLaSMosQ5Cw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-faded-java-loader-0.5.2/FadedJavaLoader-server-linux-0.5.2.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.5.2.zip",
+        "size_bytes": 13366673,
+        "sha256": "fdc6ed942fdce25a908602ea2c40ecf45019c7a60faa2900a4cb5077ee22c7c5",
+        "signature": "k/j81aeo+1qnp0xej9e7FGNDTHtU5yqc4eUmkVGW3EGUchYTz9UHk/lHwG8J2OKgtNKzWkZ4OiDx1Vq1MUIaCg=="
       }
     }
   },
