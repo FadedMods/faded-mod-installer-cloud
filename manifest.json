@@ -1937,6 +1937,26 @@
       "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-26-movement-java-ui/BackToAtlanta_UI-v1.0.3.zip",
       "updated_at": "2026-09-26",
       "requiresJavaLoader": false
+    },
+    {
+      "id": "PZOptimized",
+      "server_mod_id": "PZOptimized",
+      "name": "PZ Optimized",
+      "version": "0.1.1",
+      "description": "Autonomous performance setup for Project Zomboid 42.20.4 and newer. Version 0.1.1 installs itself through Faded's Java Loader 0.5.0 or newer and the Faded Java Loader Bridge: revision guard, reversible launcher care, a conflict check, and a main-menu status panel. The Java half is client-only, so a dedicated server can host the files while the loader skips the plugin. Engine optimizations beyond that launcher guard are not in this release.",
+      "updated_at": "2026-09-28",
+      "uncompressed_size_bytes": 1694930,
+      "required_free_bytes": 540250481,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-28-pz-optimized-0.1.1/PZOptimized-v0.1.1.zip",
+      "zip_name": "PZOptimized-v0.1.1.zip",
+      "size_bytes": 1684639,
+      "sha256": "a3af61cfb1911da00411925507a3223d0576d851561d145eb016258ace1e7959",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.5.0",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "faded.pzoptimized",
+      "javaPluginVersion": "0.1.1",
+      "javaPluginMode": "HYBRID"
     }
   ]
 }
