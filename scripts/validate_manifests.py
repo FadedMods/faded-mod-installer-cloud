@@ -56,7 +56,6 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "FadedsErrorDetected",
         "FadedsRideOrRot",
         "FadedsTheHive",
-        "ISyncYouSyncWeAllSyncForDeSync",
         "ItsATrap",
         "Just2Faded",
         "KnoxNetOS",
@@ -80,14 +79,12 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "SpnOpenCloth",
         "SpongiesFadedClothing_B42Port",
         "TempControl",
-        "TheBigTreeFix",
         "ThePathLessTraveled",
         "ThePriceWePay",
         "TheYoungDiedToo",
         "VehiclesByFaded",
         "WaterExpanded",
         "WhatAWorld",
-        "WhatAWorldTreeVisibility",
         "groundWorks",
     }
 )
@@ -100,7 +97,6 @@ SYNCHRONIZED_RELEASE_IDS = (
     "BuckShotRoulette",
     "FadedJavaLoaderBridge",
     "FadedNexus",
-    "ISyncYouSyncWeAllSyncForDeSync",
 )
 SHARED_RELEASE_FIELDS = (
     "version",

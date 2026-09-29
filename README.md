@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/manif
 
 That catalog must match the live Faded Realms dedicated-server `Mods=` pack
 exactly. New mods stay on Main unless Luis enables them on that server. As of
-2026-09-28 the Season 3 pack is 70 mods (PZ Optimized added; matches the server Mods= list). `scripts/validate_manifests.py` rejects extras
+2026-09-29 the Season 3 pack is 67 mods (TheBigTreeFix, ISyncYouSyncWeAllSyncForDeSync, and WhatAWorldTreeVisibility removed; matches the server Mods= list). `scripts/validate_manifests.py` rejects extras
 or missing ids.
 
 B47ANCE uses:
