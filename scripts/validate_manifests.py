@@ -70,6 +70,7 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "OnTheMove",
         "ParentsJournal",
         "ProjectFadedCar",
+        "PZOptimized",
         "ProximityAutoRead",
         "RVsReborn",
         "SalvagedFuelRecoveryStation",
