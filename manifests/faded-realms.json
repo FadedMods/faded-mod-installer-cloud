@@ -262,20 +262,6 @@
       "required_free_bytes": 540630209
     },
     {
-      "id": "ISyncYouSyncWeAllSyncForDeSync",
-      "server_mod_id": "ISyncYouSyncWeAllSyncForDeSync",
-      "name": "ISyncYouSyncWeAllSyncForDeSync",
-      "version": "1.5.3-b42.20.4-connect",
-      "description": "1.5.3-b42.20.4-connect: uses B42 getPartCount/getPartByIndex for vehicle condition snapshots and corrections, fixing repeated VehicleParts:size exceptions. Keeps correction limits and Java 1.5.0.",
-      "updated_at": "2026-09-27",
-      "uncompressed_size_bytes": 3751227,
-      "required_free_bytes": 544070963,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-27-hive-deadflow-server-repair/ISyncYouSyncWeAllSyncForDeSync-v1.5.3-b42.20.4-connect.zip",
-      "zip_name": "ISyncYouSyncWeAllSyncForDeSync-v1.5.3-b42.20.4-connect.zip",
-      "size_bytes": 3448824,
-      "sha256": "ce56983a96d5afc3bd1bba52c1fd418479d01ad36bd828e33f222489d5663c22"
-    },
-    {
       "id": "SentryNet",
       "server_mod_id": "SentryNet",
       "name": "SentryNet",
@@ -998,34 +984,6 @@
       "zip_name": "WhatAWorld-v1.4.6.zip",
       "size_bytes": 146264796,
       "sha256": "b4973182ffa07c96b2941150dbfcedea39f702307a1064ffbd48c39f7f16920f"
-    },
-    {
-      "id": "TheBigTreeFix",
-      "server_mod_id": "TheBigTreeFix",
-      "name": "The Big Tree Fix",
-      "version": "0.3.2",
-      "description": "Fixes Build 42.20+ jumbo tree visibility indoors, while driving, and on foot. Registered fade canopies are save-loadable, and default-on infrastructure filtering downsizes selected XL/XXL trees near roads and buildings while preserving giant trees in dense forests. Fade textures based on work by movinow.",
-      "updated_at": "2026-08-10",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-10-big-tree-fix-20260810-124027/TheBigTreeFix-v0.3.2.zip",
-      "zip_name": "TheBigTreeFix-v0.3.2.zip",
-      "size_bytes": 9232303,
-      "sha256": "819bf72b7a69d3a8fcbb224e4a62da0723d3082d0032ba68707e12036bd2e7fd",
-      "uncompressed_size_bytes": 9372126,
-      "required_free_bytes": 555475341
-    },
-    {
-      "id": "WhatAWorldTreeVisibility",
-      "server_mod_id": "WhatAWorldTreeVisibility",
-      "name": "What A World - Tree Visibility",
-      "version": "1.0.1",
-      "description": "Tree Visibility 1.0.1: confines overrides to tree shaders and restores the native general-sprite shader. Preserves the existing tree visibility effect with simpler transparent-outline output. No texture quality reduction.",
-      "updated_at": "2026-09-26",
-      "uncompressed_size_bytes": 210988,
-      "required_free_bytes": 537192228,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-26-movement-java-ui/WhatAWorldTreeVisibility-v1.0.1.zip",
-      "zip_name": "WhatAWorldTreeVisibility-v1.0.1.zip",
-      "size_bytes": 110328,
-      "sha256": "750f13c5bd4bfaa4b188947ffb79919c2f447d264b53ccadd423a750a84a5fb6"
     },
     {
       "id": "BackToAtlanta",
