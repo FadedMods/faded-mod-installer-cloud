@@ -150,7 +150,12 @@ jobs:
               "checksums.sha256",
               os.environ["FJL_CATALOG_NAME"],
           }
-          release = gh_api("GET", f"repos/{repo}/releases/tags/{tag}")
+          # The tag endpoint omits drafts; gh resolves both draft and public releases.
+          release_id = json.loads(subprocess.check_output(
+              ["gh", "release", "view", tag, "--repo", repo, "--json", "databaseId"],
+              text=True,
+          ))["databaseId"]
+          release = gh_api("GET", f"repos/{repo}/releases/{release_id}")
           for asset in release.get("assets", []):
               if asset.get("name") in names:
                   gh_api("DELETE", f"repos/{repo}/releases/assets/{asset['id']}")
