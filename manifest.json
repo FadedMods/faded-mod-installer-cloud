@@ -687,23 +687,25 @@
       "id": "FadedsWeaponPack",
       "server_mod_id": "FadedsWeaponPack",
       "name": "Faded's Weapon Pack",
-      "version": "42.20.20260808.4",
-      "description": "Faded's Weapon Pack for Project Zomboid Build 42.20.2. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
-      "updated_at": "2026-08-08",
+      "version": "42.21.20261002.1",
+      "description": "Faded's Weapon Pack for Project Zomboid Build 42.21. Uses the Deadcode weapons framework with rebuilt archery, flame, casing, attachment, inspection, sound, and crafting systems.",
+      "updated_at": "2026-10-02",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/FadedsWeaponPack-v42.20.20260808.4-part1.zip",
-          "zip_name": "FadedsWeaponPack-v42.20.20260808.4-part1.zip",
-          "size_bytes": 1112271390,
-          "sha256": "61dfd0d390cb7fe389f0334a0574e25075fc14db248de447d7e7287cbd626f89"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-02-fwp-b4221-42.21.20261002.1/FadedsWeaponPack-v42.21.20261002.1-part1.zip",
+          "zip_name": "FadedsWeaponPack-v42.21.20261002.1-part1.zip",
+          "size_bytes": 1112310584,
+          "sha256": "50113cdf5f91b12943e73d0234bd189562addd0bd8f4128a98e5accbd94b3494"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/FadedsWeaponPack-v42.20.20260808.4-part2.zip",
-          "zip_name": "FadedsWeaponPack-v42.20.20260808.4-part2.zip",
-          "size_bytes": 28022508,
-          "sha256": "ea0b93ebae02d93ca60b6622e4e60bdc51889dfd55a09dba09cb0e5177b392ad"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-02-fwp-b4221-42.21.20261002.1/FadedsWeaponPack-v42.21.20261002.1-part2.zip",
+          "zip_name": "FadedsWeaponPack-v42.21.20261002.1-part2.zip",
+          "size_bytes": 28023027,
+          "sha256": "a757ab70f13c009a710ec39d38ca7d111ddddb3e88d1fa5708333421b3fa4ab9"
         }
-      ]
+      ],
+      "uncompressed_size_bytes": 1934336809,
+      "required_free_bytes": 3611541332
     },
     {
       "id": "Hydrocraft",
