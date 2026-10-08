@@ -27,6 +27,7 @@ PUBLIC = "FadedMods/faded-mod-installer-cloud"
 PRIVATE = "FadedMods/faded-local-mod-installer"
 HEAD = "7fc729bfac04ff59d2fb64247d4a55598160e533"
 TAG = "faded-local-mod-installer-0.3.8"
+DRAFT_RELEASE_ID = 407085554
 VERSION = "0.3.8"
 PREFIX = "FadedLocalModInstaller-0.3.8-"
 MODULES = tuple("app.pzf3d_" + name for name in
@@ -254,31 +255,12 @@ def inspect_and_extract(archive, spec, destination, hashes):
 
 
 def release(token):
-    try:
-        value = api(f"/repos/{PUBLIC}/releases/tags/{TAG}", token, route="draft-tag")
-    except ApiError as failure:
-        if failure.status != 404:
-            raise
-        # An untagged draft can be absent from the tag endpoint. Scan only this
-        # fixed repository, never follow response URLs or accept another tag.
-        matches = []
-        for page in range(1, 6):
-            rows = api(f"/repos/{PUBLIC}/releases?per_page=100&page={page}",
-                       token, route="draft-list")
-            need(isinstance(rows, list) and len(rows) <= 100,
-                 "Fixed draft release list has unexpected shape")
-            matches.extend(row for row in rows
-                           if isinstance(row, dict) and row.get("tag_name") == TAG)
-            if len(rows) < 100:
-                break
-        else:
-            raise PromotionError("Fixed draft release lookup exceeded five-page bound")
-        need(len(matches) == 1,
-             "Exactly one fixed installer0.3.8 release must be visible in release list")
-        value = matches[0]
+    # Pin the already-created draft by ID. Untagged drafts have no tag endpoint,
+    # and this repository contains more than five hundred historical releases.
+    value = api(f"/repos/{PUBLIC}/releases/{DRAFT_RELEASE_ID}", token, route="fixed-draft-id")
     need(isinstance(value, dict) and value.get("tag_name") == TAG
          and value.get("draft") is True and type(value.get("id")) is int
-         and value["id"] > 0,
+         and value["id"] == DRAFT_RELEASE_ID,
          "Existing installer0.3.8 DRAFT release required")
     return value
 
