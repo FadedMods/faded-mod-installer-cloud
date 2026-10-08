@@ -25,25 +25,25 @@ import zipfile
 
 PUBLIC = "FadedMods/faded-mod-installer-cloud"
 PRIVATE = "FadedMods/faded-local-mod-installer"
-HEAD = "eb8ffcc4694af3e754e148334c26e496f624d175"
+HEAD = "7fc729bfac04ff59d2fb64247d4a55598160e533"
 TAG = "faded-local-mod-installer-0.3.8"
 VERSION = "0.3.8"
 PREFIX = "FadedLocalModInstaller-0.3.8-"
 MODULES = tuple("app.pzf3d_" + name for name in
                 ("access", "bootstrap", "config", "credentials", "github", "install",
                  "launcher", "release", "startup", "ui"))
-GUIDE_SHA = "408e953eadff2645a643aa3cc474351403198707f4eb775aab2b2c15e77936f8"
+GUIDE_SHA = "6f602c5fb54a97a73b2af3ea19355f9552708736ea4b559d0fbbec4a34d38d32"
 MAX_ARCHIVE = 900 * 1024 * 1024
 MAX_MEMBER = 800 * 1024 * 1024
 MAX_TOTAL = 3 * 1024 * 1024 * 1024
 SPECS = (
-    (37814667247, "FadedLocalModInstaller-linux-standard-x86_64", "standard",
+    (37817206963, "FadedLocalModInstaller-linux-standard-x86_64", "standard",
      (PREFIX + "linux-standard-x86_64.tar.gz",)),
-    (37814667247, "FadedLocalModInstaller-linux-steamdeck-x86_64", "steamdeck",
+    (37817206963, "FadedLocalModInstaller-linux-steamdeck-x86_64", "steamdeck",
      (PREFIX + "linux-x86_64.tar.gz",)),
-    (37814667410, "FadedLocalModInstaller-macos-arm64", "arm64",
+    (37817210788, "FadedLocalModInstaller-macos-arm64", "arm64",
      (PREFIX + "macos-arm64.zip", PREFIX + "macos-arm64.dmg")),
-    (37814667410, "FadedLocalModInstaller-macos-x86_64", "x86_64",
+    (37817210788, "FadedLocalModInstaller-macos-x86_64", "x86_64",
      (PREFIX + "macos-x86_64.zip", PREFIX + "macos-x86_64.dmg")),
 )
 PAYLOADS = frozenset(name for _, _, _, names in SPECS for name in names)
@@ -51,6 +51,12 @@ PAYLOADS = frozenset(name for _, _, _, names in SPECS for name in names)
 
 class PromotionError(RuntimeError):
     """Only fixed, nonsecret diagnostic messages may enter this exception."""
+
+
+class ApiError(PromotionError):
+    def __init__(self, status, route):
+        self.status = status
+        super().__init__("GitHub API " + route + " failed, HTTP " + str(status))
 
 
 def need(value, message):
@@ -66,7 +72,7 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 HTTP = urllib.request.build_opener(NoRedirect())
 
 
-def api(path, token, *, redirect=False):
+def api(path, token, *, redirect=False, route="fixed-route"):
     need(path.startswith("/repos/"), "Invalid fixed API route")
     request = urllib.request.Request("https://api.github.com" + path, headers={
         "Authorization": "Bearer " + token,
@@ -86,7 +92,9 @@ def api(path, token, *, redirect=False):
             failure.close()
             need(bool(location), "Artifact redirect has no location")
             return location
-        raise PromotionError("GitHub API request failed, HTTP " + str(failure.code)) from None
+        status = failure.code
+        failure.close()
+        raise ApiError(status, route) from None
     except (urllib.error.URLError, TimeoutError):
         raise PromotionError("GitHub API connection failed") from None
 
@@ -246,8 +254,31 @@ def inspect_and_extract(archive, spec, destination, hashes):
 
 
 def release(token):
-    value = api(f"/repos/{PUBLIC}/releases/tags/{TAG}", token)
-    need(value.get("tag_name") == TAG and value.get("draft") is True,
+    try:
+        value = api(f"/repos/{PUBLIC}/releases/tags/{TAG}", token, route="draft-tag")
+    except ApiError as failure:
+        if failure.status != 404:
+            raise
+        # An untagged draft can be absent from the tag endpoint. Scan only this
+        # fixed repository, never follow response URLs or accept another tag.
+        matches = []
+        for page in range(1, 6):
+            rows = api(f"/repos/{PUBLIC}/releases?per_page=100&page={page}",
+                       token, route="draft-list")
+            need(isinstance(rows, list) and len(rows) <= 100,
+                 "Fixed draft release list has unexpected shape")
+            matches.extend(row for row in rows
+                           if isinstance(row, dict) and row.get("tag_name") == TAG)
+            if len(rows) < 100:
+                break
+        else:
+            raise PromotionError("Fixed draft release lookup exceeded five-page bound")
+        need(len(matches) == 1,
+             "Exactly one fixed installer0.3.8 release must be visible in release list")
+        value = matches[0]
+    need(isinstance(value, dict) and value.get("tag_name") == TAG
+         and value.get("draft") is True and type(value.get("id")) is int
+         and value["id"] > 0,
          "Existing installer0.3.8 DRAFT release required")
     return value
 
@@ -263,7 +294,7 @@ def main():
                              capture_output=True, text=True, check=True).stdout.strip()
     need(re.fullmatch(r"[0-9a-f]{40}", checked) and checked == os.environ.get("GITHUB_SHA"),
          "Checkout must match immutable dispatch GitHub SHA")
-    repo = api(f"/repos/{PUBLIC}", token)
+    repo = api(f"/repos/{PUBLIC}", token, route="public-repository")
     need(os.environ.get("GITHUB_REF") == "refs/heads/" + repo["default_branch"],
          "Promotion may run only from the default branch")
     receipt_dir = Path("native-promotion-receipt")
@@ -273,11 +304,12 @@ def main():
                "publicRepository": PUBLIC, "releaseTag": TAG, "workflowCommit": checked,
                "startedUtc": datetime.now(timezone.utc).isoformat(), "passed": False,
                "releasePublished": False, "feedChanged": False, "overwriteAllowed": False,
-               "artifacts": [], "proofs": [], "packages": []}
+               "phase": "draft-preflight", "artifacts": [], "proofs": [], "packages": []}
     try:
         initial = release(token)
         need(not PAYLOADS.intersection(a["name"] for a in initial.get("assets", [])),
              "A requested release asset already exists; no overwrite permitted")
+        receipt["phase"] = "ci-provenance"
         all_artifacts = {}
         for run in sorted({s[0] for s in SPECS}):
             status = api(f"/repos/{PRIVATE}/actions/runs/{run}", token)
@@ -300,6 +332,7 @@ def main():
                 all_artifacts[artifact["name"]] = artifact
         need(sum(a["size_in_bytes"] for a in all_artifacts.values()) <= MAX_TOTAL,
              "Combined artifacts exceed download budget")
+        receipt["phase"] = "pinned-source"
         hashes = source_hashes(token)
         receipt["pinnedSourceSha256"] = hashes
         with tempfile.TemporaryDirectory(prefix="pzf3d-native-promotion-") as temp:
@@ -312,6 +345,7 @@ def main():
                 metadata = download_artifact(artifact, token, archive)
                 proof, packages = inspect_and_extract(archive, spec, payload_dir, hashes)
                 return metadata, proof, packages
+            receipt["phase"] = "artifact-download-validation"
             with ThreadPoolExecutor(max_workers=4) as pool:
                 for metadata, proof, packages in pool.map(prepare, SPECS):
                     receipt["artifacts"].append(metadata)
@@ -319,6 +353,7 @@ def main():
                     receipt["packages"].extend(packages)
             need({p["fileName"] for p in receipt["packages"]} == PAYLOADS
                  and len(receipt["packages"]) == 6, "Exact six native packages required")
+            receipt["phase"] = "draft-recheck"
             before = release(token)
             need(before["id"] == initial["id"]
                  and not PAYLOADS.intersection(a["name"] for a in before.get("assets", [])),
@@ -326,9 +361,11 @@ def main():
             command = ["gh", "release", "upload", TAG,
                        *(str(payload_dir / name) for name in sorted(PAYLOADS)), "--repo", PUBLIC]
             # Fixed file list; no --clobber, release creation, publication or feed command.
+            receipt["phase"] = "upload"
             result = subprocess.run(command, capture_output=True, text=True, timeout=1800)
             receipt["uploadExitCode"] = result.returncode
             need(result.returncode == 0, "gh release upload failed; inspect draft assets before retry")
+            receipt["phase"] = "uploaded-verification"
             after = release(token)
             need(after["id"] == initial["id"], "Draft release identity changed")
             remote = {a["name"]: a for a in after.get("assets", [])}
@@ -342,6 +379,7 @@ def main():
                 row["releaseAssetId"] = asset["id"]
                 row["githubDigest"] = digest
         receipt["passed"] = True
+        receipt["phase"] = "complete"
     except Exception as failure:
         receipt["failureType"] = type(failure).__name__
         if isinstance(failure, PromotionError):
@@ -353,6 +391,7 @@ def main():
         (receipt_dir / "SHA256SUMS.txt").write_text(
             "".join(p["sha256"] + "  " + p["fileName"] + "\n" for p in receipt["packages"]), encoding="utf-8")
         summary = "Native installer promotion: " + ("PASS" if receipt["passed"] else "FAIL") + "\n\n"
+        summary += "Phase: " + receipt["phase"] + "\n\n"
         summary += "Draft remains unpublished; feed unchanged; no overwrite.\n\n"
         summary += "\n".join(p["fileName"] + " | " + str(p["bytes"]) + " bytes | " + p["sha256"]
                              for p in receipt["packages"]) + "\n"
