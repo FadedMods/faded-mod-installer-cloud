@@ -1,0 +1,37 @@
+name: PZ-F.3D automatic download access
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: pzf3d-access-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  ticket:
+    if: github.repository == 'FadedMods/faded-mod-installer-cloud' && github.event.issue.title == 'PZ-F.3D automatic download access'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Issues events execute the trusted default-branch SHA; no requester code.
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+          sparse-checkout: |
+            .github/pzf3d-access/broker.py
+          sparse-checkout-cone-mode: false
+      - name: Install cryptography
+        run: |
+          python3 -m venv "$RUNNER_TEMP/pzf3d-access-venv"
+          "$RUNNER_TEMP/pzf3d-access-venv/bin/python" -m pip install --disable-pip-version-check 'cryptography==46.0.3'
+      - name: Prepare encrypted release ticket
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PZF3D_DOWNLOAD_BROKER_TOKEN: ${{ secrets.PZF3D_DOWNLOAD_BROKER_TOKEN }}
+        run: '"$RUNNER_TEMP/pzf3d-access-venv/bin/python" .github/pzf3d-access/broker.py'
