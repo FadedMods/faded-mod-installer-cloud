@@ -1,0 +1,35 @@
+name: Promote installer 0.3.8 native packages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: installer-0.3.8-native-promotion
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    if: github.repository == 'FadedMods/faded-mod-installer-cloud' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-22.04
+    timeout-minutes: 40
+    steps:
+      - name: Checkout the immutable default-branch dispatch commit
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: ${{ github.sha }}
+          persist-credentials: false
+      - name: Validate pinned CI artifacts and upload six new assets to draft
+        env:
+          GH_TOKEN: ${{ secrets.PZF3D_DOWNLOAD_BROKER_TOKEN }}
+        run: python3 -B scripts/promote_native.py
+      - name: Preserve promotion hashes and receipt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: installer-0.3.8-native-promotion-receipt
+          path: native-promotion-receipt/
+          if-no-files-found: warn
+          retention-days: 30
