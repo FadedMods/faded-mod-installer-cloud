@@ -8,43 +8,43 @@
   "notes": "PZ-F.3D now has its own tab with real game screenshots, a nine-page player guide, private preview sign-in and game update controls. Native installers are available for standard and multilingual Windows, Linux, Steam Deck, Apple Silicon and Intel macOS. The PZ-F.3D game preview/helper is currently Windows only. Nexus, World Forge and existing mod catalogs remain available.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-windows.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-windows.zip",
       "file_name": "FadedLocalModInstaller-0.3.7-windows.zip",
       "size_bytes": 95260283,
       "sha256": "9e5dacf486012ac8d1d2a8dc01733cf962f7229fb024177337dba072fb901558"
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-windows-multilingual.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-windows-multilingual.zip",
       "file_name": "FadedLocalModInstaller-0.3.7-windows-multilingual.zip",
       "size_bytes": 95250582,
       "sha256": "f0e97d8689a7d7ed1ed66dda7b51b4d263ff29039e8a38f6952a5b13705e1790"
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-linux-standard-x86_64.tar.gz",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-linux-standard-x86_64.tar.gz",
       "file_name": "FadedLocalModInstaller-0.3.7-linux-standard-x86_64.tar.gz",
       "size_bytes": 417750950,
       "sha256": "e1f185ae814601bb3a281f01640bf1cc6d8f0eb6904ec9eaa258e8280c90ecbd"
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-linux-x86_64.tar.gz",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-linux-x86_64.tar.gz",
       "file_name": "FadedLocalModInstaller-0.3.7-linux-x86_64.tar.gz",
       "size_bytes": 329075094,
       "sha256": "69961e21885d688997e5deb1892274c146db20366aa2f66509c88626933b74a4"
     },
     "macos-arm64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-macos-arm64.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-macos-arm64.zip",
       "file_name": "FadedLocalModInstaller-0.3.7-macos-arm64.zip",
       "size_bytes": 73106990,
       "sha256": "e38ac60586965ddd907914571f7bd41115eb145fbcef27a9302c1732c165e16b"
     },
     "macos-x86_64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-macos-x86_64.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-macos-x86_64.zip",
       "file_name": "FadedLocalModInstaller-0.3.7-macos-x86_64.zip",
       "size_bytes": 76561142,
       "sha256": "633e14b2f89dae3e6294e1831f504dd650b7675506311ec1bbc82e00b87db5b5"
     },
     "macos": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/untagged-c4a47048ea89ec75b3e8/FadedLocalModInstaller-0.3.7-macos-arm64.zip",
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.7/FadedLocalModInstaller-0.3.7-macos-arm64.zip",
       "file_name": "FadedLocalModInstaller-0.3.7-macos-arm64.zip",
       "size_bytes": 73106990,
       "sha256": "e38ac60586965ddd907914571f7bd41115eb145fbcef27a9302c1732c165e16b"
