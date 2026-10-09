@@ -1,4 +1,4 @@
-name: Promote installer 0.3.8 native packages
+name: Promote installer 0.3.9 native packages
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: installer-0.3.8-native-promotion
+  group: installer-0.3.9-native-promotion
   cancel-in-progress: false
 
 jobs:
@@ -29,7 +29,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: installer-0.3.8-native-promotion-receipt
+          name: installer-0.3.9-native-promotion-receipt
           path: native-promotion-receipt/
           if-no-files-found: warn
           retention-days: 30

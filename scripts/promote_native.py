@@ -25,11 +25,11 @@ import zipfile
 
 PUBLIC = "FadedMods/faded-mod-installer-cloud"
 PRIVATE = "FadedMods/faded-local-mod-installer"
-HEAD = "7fc729bfac04ff59d2fb64247d4a55598160e533"
-TAG = "faded-local-mod-installer-0.3.8"
-DRAFT_RELEASE_ID = 407085554
-VERSION = "0.3.8"
-PREFIX = "FadedLocalModInstaller-0.3.8-"
+HEAD = "31190ecdfcbaef7f94716569f17d62060efd76b7"
+TAG = "faded-local-mod-installer-0.3.9"
+DRAFT_RELEASE_ID = 407444817
+VERSION = "0.3.9"
+PREFIX = "FadedLocalModInstaller-0.3.9-"
 MODULES = tuple("app.pzf3d_" + name for name in
                 ("access", "bootstrap", "config", "credentials", "github", "install",
                  "launcher", "release", "startup", "ui"))
@@ -38,13 +38,13 @@ MAX_ARCHIVE = 900 * 1024 * 1024
 MAX_MEMBER = 800 * 1024 * 1024
 MAX_TOTAL = 3 * 1024 * 1024 * 1024
 SPECS = (
-    (37817206963, "FadedLocalModInstaller-linux-standard-x86_64", "standard",
+    (37876370271, "FadedLocalModInstaller-linux-standard-x86_64", "standard",
      (PREFIX + "linux-standard-x86_64.tar.gz",)),
-    (37817206963, "FadedLocalModInstaller-linux-steamdeck-x86_64", "steamdeck",
+    (37876370271, "FadedLocalModInstaller-linux-steamdeck-x86_64", "steamdeck",
      (PREFIX + "linux-x86_64.tar.gz",)),
-    (37817210788, "FadedLocalModInstaller-macos-arm64", "arm64",
+    (37876372783, "FadedLocalModInstaller-macos-arm64", "arm64",
      (PREFIX + "macos-arm64.zip", PREFIX + "macos-arm64.dmg")),
-    (37817210788, "FadedLocalModInstaller-macos-x86_64", "x86_64",
+    (37876372783, "FadedLocalModInstaller-macos-x86_64", "x86_64",
      (PREFIX + "macos-x86_64.zip", PREFIX + "macos-x86_64.dmg")),
 )
 PAYLOADS = frozenset(name for _, _, _, names in SPECS for name in names)
@@ -160,7 +160,7 @@ def source_hashes(token):
             versions = [node.value.value for node in tree.body
                         if isinstance(node, ast.Assign) and isinstance(node.value, ast.Constant)
                         and any(isinstance(t, ast.Name) and t.id == "APP_VERSION" for t in node.targets)]
-            need(versions == [VERSION], "Pinned source is not installer0.3.8")
+            need(versions == [VERSION], "Pinned source is not installer0.3.9")
         return path, hashlib.sha256(raw).hexdigest()
     with ThreadPoolExecutor(max_workers=6) as pool:
         return dict(pool.map(fetch, paths))
@@ -261,7 +261,7 @@ def release(token):
     need(isinstance(value, dict) and value.get("tag_name") == TAG
          and value.get("draft") is True and type(value.get("id")) is int
          and value["id"] == DRAFT_RELEASE_ID,
-         "Existing installer0.3.8 DRAFT release required")
+         "Existing installer0.3.9 DRAFT release required")
     return value
 
 
