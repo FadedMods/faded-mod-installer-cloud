@@ -1499,15 +1499,15 @@
       "id": "GunzOfFaded",
       "server_mod_id": "GunzOfFaded",
       "name": "Gunz of Faded",
-      "version": "1.2.0",
-      "description": "Gunz of Faded 1.2.0. Standalone firearms pack for B42.20 and B42.21. FJL tracer plugin allowlists 42.21. CSR-safe Hook.Attack. Viewpoint compatible. Native Mini-14, Camp Carbine, Remington 700, Model 70, RPG-7, nearby-storage workbench, Knox 1993 firearm presets. Save IDs stay MarzGuns / HBVCEF / HeavyOrdnance.",
+      "version": "1.2.1",
+      "description": "Gunz of Faded 1.2.1. Fixes firearm tooltip crashes by registering all custom ammo types before item scripts load. Standalone firearms pack for B42.20 and B42.21. FJL tracer plugin allowlists 42.21. CSR-safe Hook.Attack. Viewpoint compatible. Native Mini-14, Camp Carbine, Remington 700, Model 70, RPG-7, nearby-storage workbench, Knox 1993 firearm presets. Save IDs stay MarzGuns / HBVCEF / HeavyOrdnance.",
       "updated_at": "2026-10-14",
-      "uncompressed_size_bytes": 65977929,
-      "required_free_bytes": 590265929,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-14-gunz-of-faded-1.2.0/GunzOfFaded-v1.2.0.zip",
-      "zip_name": "GunzOfFaded-v1.2.0.zip",
-      "size_bytes": 38630629,
-      "sha256": "c19c97e979fb9b2274fb4f8a1259bf533ad4e210a4c9f55bc6d4a14aa2b39e2c"
+      "uncompressed_size_bytes": 65978957,
+      "required_free_bytes": 641508772,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-14-gunz-of-faded-1.2.1-ammo-tooltip/GunzOfFaded-v1.2.1.zip",
+      "zip_name": "GunzOfFaded-v1.2.1.zip",
+      "size_bytes": 38658903,
+      "sha256": "fdf8d06598e236fc960665cf197cffe545cdf2c17b5daae66cd151207398ecea"
     },
     {
       "id": "FadedLegendaryKit",
