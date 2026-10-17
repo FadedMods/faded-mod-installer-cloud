@@ -404,15 +404,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.3.1",
-      "description": "2.3.1: Living Ladder combat and release repair. Preserves hit, knockdown and death states; cancels Hive-owned climb events; guards locked, removed and recycled actors; canonical collapse damage and retryable cleanup.",
+      "version": "2.3.2",
+      "description": "2.3.2: Living Ladder stays on automatically. Fixes source-floor recruitment and unposed save/snapshot ownership, checks real save-floor support, and verifies damaged tower/ramp refill. Preserves combat-safe release.",
       "updated_at": "2026-10-17",
-      "uncompressed_size_bytes": 8157933,
-      "required_free_bytes": 551513010,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-17-hive-2.3.1-climb-release/FadedsTheHive-v2.3.1.zip",
-      "zip_name": "FadedsTheHive-v2.3.1.zip",
-      "size_bytes": 6484165,
-      "sha256": "e6973dd223435fb3ac40252f1311447ece9f3f22750dcf421739ea34cdac9742"
+      "uncompressed_size_bytes": 8162045,
+      "required_free_bytes": 551518223,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-17-hive-2.3.2-climb-save/FadedsTheHive-v2.3.2.zip",
+      "zip_name": "FadedsTheHive-v2.3.2.zip",
+      "size_bytes": 6485266,
+      "sha256": "d4491663493fc42f6b00427a9666f4c1a1314803f9c0fdc0be2d84bfb9f46b2d"
     },
     {
       "id": "WaterExpanded",
