@@ -404,15 +404,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.3.0",
-      "description": "2.3.0: The Living Ladder adds automatic living towers and scree ramps built from existing adult hunters. Server-owned recruitment, support and motion; bounded fractional-height client snapshots, identity/reconnect/reload cleanup. No ZombieBuddy dependency.",
+      "version": "2.3.1",
+      "description": "2.3.1: Living Ladder combat and release repair. Preserves hit, knockdown and death states; cancels Hive-owned climb events; guards locked, removed and recycled actors; canonical collapse damage and retryable cleanup.",
       "updated_at": "2026-10-17",
-      "uncompressed_size_bytes": 8142343,
-      "required_free_bytes": 551490823,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-17-hive-2.3.0-body-piles/FadedsTheHive-v2.3.0.zip",
-      "zip_name": "FadedsTheHive-v2.3.0.zip",
-      "size_bytes": 6477568,
-      "sha256": "d557a87293327b2c949f09f96d6c341ce2998b755b29120bd01e5e28d4896dbb"
+      "uncompressed_size_bytes": 8157933,
+      "required_free_bytes": 551513010,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-17-hive-2.3.1-climb-release/FadedsTheHive-v2.3.1.zip",
+      "zip_name": "FadedsTheHive-v2.3.1.zip",
+      "size_bytes": 6484165,
+      "sha256": "e6973dd223435fb3ac40252f1311447ece9f3f22750dcf421739ea34cdac9742"
     },
     {
       "id": "WaterExpanded",
