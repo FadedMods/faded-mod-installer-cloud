@@ -891,16 +891,16 @@
     {
       "id": "FadedFeastcraft",
       "server_mod_id": "FadedFeastcraft",
-      "name": "FFC",
-      "version": "0.3.3",
-      "description": "Faded's Feastcraft: a Build 42.20.2 food command center with a three-pane kitchen, expiry-aware Auto Cook, safe heat monitoring, preservation, nutrition sorting, and MP-safe server validation.",
-      "updated_at": "2026-08-21",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-21-critical-repairs/FadedFeastcraft-v0.3.3.zip",
-      "zip_name": "FadedFeastcraft-v0.3.3.zip",
-      "size_bytes": 378993057,
-      "uncompressed_size_bytes": 405329450,
-      "required_free_bytes": 1321193419,
-      "sha256": "621ea596c145ec5d4559c32314bc18022b695134216a2291692223a3c1645c39"
+      "name": "Faded's Feastcraft",
+      "version": "0.4.0",
+      "description": "Native kitchen recipes, portion-aware cooking, distinct placeable food models, refreshed blue three-window UI and bounded multiplayer work.",
+      "updated_at": "2026-10-21",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-feastcraft-0.4.0-kitchen/FadedFeastcraft-v0.4.0.zip",
+      "zip_name": "FadedFeastcraft-v0.4.0.zip",
+      "size_bytes": 385201650,
+      "uncompressed_size_bytes": 507059405,
+      "required_free_bytes": 1429131967,
+      "sha256": "f7a5220d3f95485f0794e74e4b0113274e9d99b1a7a98cf3ea2ade39a5d39a47"
     },
     {
       "id": "FadedFieldOperations",
