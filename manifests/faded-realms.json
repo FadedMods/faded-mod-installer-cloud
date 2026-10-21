@@ -625,13 +625,15 @@
       "id": "Just2Faded",
       "server_mod_id": "Just2Faded",
       "name": "Just2Faded",
-      "version": "2.2.2",
-      "description": "Just2Faded for Project Zomboid Build 42.20. Fully standalone narcotics / crafting / farming pack with bundled Just Drugs content and built-in moodle UI.",
-      "updated_at": "2026-08-08",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-08-b42-20-hotfix-rollup-fixed/Just2Faded-v2.2.2.zip",
-      "zip_name": "Just2Faded-v2.2.2.zip",
-      "size_bytes": 43437332,
-      "sha256": "8bcbcb280101b8ba6e00e8a9179d0077e09b87a6c29605b6425d4d1e2aebf129"
+      "version": "3.0.0",
+      "description": "Standalone cultivation, processing and laboratory expansion. Grow tents, hydroponics, powered drying, named blends, reusable smoking pieces, vacuum storage, and integrated 3D laboratory assets.",
+      "updated_at": "2026-10-20",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-20-just2faded-3.0.0-schedule1/Just2Faded-v3.0.0.zip",
+      "zip_name": "Just2Faded-v3.0.0.zip",
+      "size_bytes": 132216672,
+      "sha256": "8b1e2545efca3d21ba0eb364a126d23003b81b47ee8c5e3d7288d0da0dbe5d0e",
+      "uncompressed_size_bytes": 405190569,
+      "required_free_bytes": 1074278153
     },
     {
       "id": "ParentsJournal",
