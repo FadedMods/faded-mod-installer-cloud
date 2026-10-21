@@ -418,16 +418,19 @@
       "id": "WaterExpanded",
       "server_mod_id": "WaterExpanded",
       "name": "Water Expanded",
-      "version": "2.5.1",
+      "version": "2.5.2",
       "description": "The comprehensive Build 42 water, plumbing, irrigation and fuel-network overhaul. One server-authoritative WEX graph connects pumps, valves, meters, seep channels, building-wide liquid plumbing, storage, fixtures, gas stations and generators without a bridge hub. Includes calibrated rain collectors, liquid-effect details, mains reconnection, physical petrol routing, portable pumping, quick view, public physical-container API, optional Faded Java Loader acceleration and KnoxNet OS bridge. Adds 800 L and 250 L stone cisterns, batched replication and indexed building matching. Optional Hybrid 1.0.2 retains the complete Lua fallback. Supports Build 42.21.0 and 42.20.",
       "uncompressed_size_bytes": 585517901,
-      "required_free_bytes": 1659695625,
-      "updated_at": "2026-10-20",
+      "required_free_bytes": 1659679164,
+      "updated_at": "2026-10-21",
       "requiresJavaLoader": false,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-20-waterexpanded-2.5.1/WaterExpanded-v2.5.1.zip",
-      "zip_name": "WaterExpanded-v2.5.1.zip",
-      "size_bytes": 537306812,
-      "sha256": "da6c18382c6cb95b4db82afe7ed980c55850e47f62b3565ba63d4c522df027c0"
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-waterexpanded-2.5.2/WaterExpanded-v2.5.2.zip",
+      "zip_name": "WaterExpanded-v2.5.2.zip",
+      "size_bytes": 537290351,
+      "sha256": "621020472d3417c53d4b1624bc5a9c6d70d35728c79d9a0ed4aef792763d80b7",
+      "legacy_folders": [
+        "WaterExpanded"
+      ]
     },
     {
       "id": "SolarNeverFaded",
