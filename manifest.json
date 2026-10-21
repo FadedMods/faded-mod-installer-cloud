@@ -1422,21 +1422,21 @@
       "id": "EchoesOfHumanity",
       "server_mod_id": "EchoesOfHumanity",
       "name": "Echoes of Humanity",
-      "version": "0.19.0",
-      "description": "The Harvest Sisters return every in-game and real-world October 31 with melee-only hunts, distinct powers, up to ten loyal raised followers, Whimsy Weapons integration and original English/Brazilian Portuguese female voices. Expands native households, practical work orders, colony facilities/research, survival guidance and requested companion driving. Requires FJL 0.5.0+.",
-      "updated_at": "2026-10-20",
+      "version": "0.20.0",
+      "description": "The Harvest Sisters return every in-game and real-world October 31 with melee-only hunts, distinct powers, up to ten loyal raised followers, Whimsy Weapons integration and original English/Brazilian Portuguese female voices. Expands native households, practical work orders, colony facilities/research, survival guidance and requested companion driving. Requires FJL 0.5.0+. Adds optional Last Reins of Knox riding and carriage cooperation, more rural road travel, native NPC motor-car physics, seated survivor animations, and recruited companion passengers. Project Zomboid 42.21.",
+      "updated_at": "2026-10-21",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.5.0",
       "javaEnvironment": "BOTH",
       "javaPluginId": "faded.echoesofhumanity",
-      "javaPluginVersion": "0.19.0",
+      "javaPluginVersion": "0.20.0",
       "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 264147530,
-      "required_free_bytes": 1225352030,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-20-echoes-0190-harvest-sisters/EchoesOfHumanity-v0.19.0.zip",
-      "zip_name": "EchoesOfHumanity-v0.19.0.zip",
-      "size_bytes": 160186058,
-      "sha256": "1ea77dde0461bfaa516c44fb1ea58adbc2fbd68d9d0769ae865cd8837a1a431f"
+      "uncompressed_size_bytes": 264183452,
+      "required_free_bytes": 961274092,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-lastreins-040-echoes-0200/EchoesOfHumanity-v0.20.0.zip",
+      "zip_name": "EchoesOfHumanity-v0.20.0.zip",
+      "size_bytes": 160219728,
+      "sha256": "e31a5ad58ebf3bb3238fc527cae6115c9a94e8b4460b0b53638d934f0fbe5d60"
     },
     {
       "id": "TheBigTreeFix",
@@ -1964,6 +1964,26 @@
       "javaPluginId": "faded.pzoptimized",
       "javaPluginVersion": "0.2.5",
       "javaPluginMode": "HYBRID"
+    },
+    {
+      "id": "LastReinsOfKnox",
+      "server_mod_id": "LastReinsOfKnox",
+      "name": "Last Reins of Knox",
+      "version": "0.4.0",
+      "description": "Eight horse varieties, native care and riding, three craftable horse-drawn carriages, persistent tack and cargo, and an optional NPC cooperation API. Project Zomboid 42.21; requires Faded's Java Loader 0.6.4. Development alpha; see included testing scope.",
+      "updated_at": "2026-10-21",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.6.4",
+      "javaEnvironment": "BOTH",
+      "javaPluginId": "lastreins.knox.native",
+      "javaPluginVersion": "0.4.0",
+      "javaPluginMode": "HYBRID",
+      "uncompressed_size_bytes": 109719648,
+      "required_free_bytes": 722389293,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-lastreins-040-echoes-0200/LastReinsOfKnox-v0.4.0.zip",
+      "zip_name": "LastReinsOfKnox-v0.4.0.zip",
+      "size_bytes": 75798733,
+      "sha256": "245c8c694a3c704c63dfe3a205cb60687f40a5556dd7dfdc8050ea89829b906f"
     }
   ]
 }
