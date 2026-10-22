@@ -450,15 +450,15 @@
       "id": "TempControl",
       "server_mod_id": "TempControl",
       "name": "Temp Control",
-      "version": "1.1.0",
-      "description": "Server-authoritative HVAC and central heating: thermostat-controlled AC units plus industrial, home and compact boilers, with CSR/ClearView-styled controls.",
+      "version": "1.1.1",
+      "description": "Server-authoritative HVAC and central heating: thermostat-controlled AC units plus industrial, home and compact boilers, with CSR/ClearView-styled controls. 1.1.1 makes the daily schedule switch only at its on/off times, so manual toggles and timers are no longer overridden.",
       "updated_at": "2026-10-21",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-tempcontrol-1.1.0-heating/TempControl-v1.1.0.zip",
-      "zip_name": "TempControl-v1.1.0.zip",
-      "size_bytes": 4449058,
-      "sha256": "8ca794100251744dba697832c1cb238862d79d9c9ef959ab6b20e7189f219dab",
-      "uncompressed_size_bytes": 6677741,
-      "required_free_bytes": 547997711
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-21-tempcontrol-1.1.1-schedule-fix/TempControl-v1.1.1.zip",
+      "zip_name": "TempControl-v1.1.1.zip",
+      "size_bytes": 4449062,
+      "sha256": "846024291048c7da247415b9490e3f7f1f51206cc54c06f2d9f44d527703ed97",
+      "uncompressed_size_bytes": 6678525,
+      "required_free_bytes": 547998499
     },
     {
       "id": "FadedSkies",
