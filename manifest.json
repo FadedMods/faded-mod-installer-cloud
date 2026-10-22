@@ -909,15 +909,15 @@
       "id": "Just2Faded",
       "server_mod_id": "Just2Faded",
       "name": "Just2Faded",
-      "version": "3.0.0",
+      "version": "3.0.1",
       "description": "Standalone cultivation, processing and laboratory expansion. Grow tents, hydroponics, powered drying, named blends, reusable smoking pieces, vacuum storage, and integrated 3D laboratory assets.",
-      "updated_at": "2026-10-20",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-20-just2faded-3.0.0-schedule1/Just2Faded-v3.0.0.zip",
-      "zip_name": "Just2Faded-v3.0.0.zip",
-      "size_bytes": 132216672,
-      "sha256": "8b1e2545efca3d21ba0eb364a126d23003b81b47ee8c5e3d7288d0da0dbe5d0e",
-      "uncompressed_size_bytes": 405190569,
-      "required_free_bytes": 1074278153
+      "updated_at": "2026-10-22",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-22-just2faded-3.0.1-lootfix/Just2Faded-v3.0.1.zip",
+      "zip_name": "Just2Faded-v3.0.1.zip",
+      "size_bytes": 132217171,
+      "sha256": "aacf887f7d3c286760f6d132c791ddf9b9fc0400e07d747bfadd558052000d3c",
+      "uncompressed_size_bytes": 405191672,
+      "required_free_bytes": 1074279755
     },
     {
       "id": "OnTheMove",
