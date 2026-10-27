@@ -1,55 +1,70 @@
 # Schedule I / FadedCore catalog
 
-The separate `schedule-i-manifest.json` describes immutable player runtime,
-independent C# mods and developer SDK downloads. It never changes PZ catalog
-membership or settings. Initial release: [FadedCore 0.3.0 RC2](https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/schedule-i-fadedcore-0.3.0-rc2).
+The stable URL remains `schedule-i-manifest.json`. FadedCore 0.4.0 RC1 uses
+production signatures and the existing publisher key. Its SDK remains a separate
+developer preview; players do not need that ZIP.
 
-The runtime has a production-channel signature; the release is a prerelease RC.
-The unchanged SDK kit remains a developer preview. Its internal inventory is
-local-development/non-production-eligible, and no first-party license grant is
-added. Players need the runtime, not the developer ZIP.
+Installer 0.3.20 or later is required for helper 0.4.0, signed minimum-runtime
+fields and PNG/PCM WAV/textured mesh admission. API 1/2 and SDK assembly identity
+remain compatible. New capability services declare minimumRuntime 0.4.0.
 
-Create C# mods against FadedCore.SDK.dll, compile using the generated build.ps1,
-then separately package/sign their clean output with the existing protected
-publisher key. New independent mods need only immutable `.fmod` uploads and new
-rows in `mods`, with runtime/API/game/dependency requirements. Framework rebuilds
-and installer changes are unnecessary for each supported mod.
+## Compatible catalog selection
 
-Schema 1 has `product: schedule-i`, `channel: production`, `helper`, `runtime`,
-`sdk`, and `mods`. Each download row has `id`, `kind`, `version`, `url`, `size`
-and `sha256`. Runtime/mod signed metadata remains activation authority. The
-installer pins helper/public-trust bytes independently; catalogs cannot replace
-them. Private signing keys are never distributed. Run:
+The schema-1 root retains helper 0.3.1 and the existing 0.3 runtime/SDK entries so
+published older clients keep working. Informational latestRuntimeVersion and
+minimumInstallerVersionForLatest point to the latest supported selection.
+compatibleCatalogs contains wrappers with minimumInstallerVersion and a complete
+catalog object. New clients select the highest runtime compatible with their
+installer and exact independently pinned helper. Downloaded catalogs cannot
+replace the helper or public trust descriptor.
+
+The modern full catalog is also at `schedule-i/0.4-manifest.json`. Its object must
+match the corresponding compatibleCatalogs selection in the stable root. The
+validator checks both and prevents accidental legacy-entry replacement.
 
 ```text
 python scripts/validate_schedule_i_catalog.py schedule-i-manifest.json
+python scripts/validate_schedule_i_catalog.py schedule-i/0.4-manifest.json
 ```
 
-Upload new versioned assets, verify actual public downloads and package
-signatures, then update this catalog in a clean current-main checkout. Do not
-overwrite released assets or unrelated catalogs. SDK integrity is independently
-checked by catalog size/hash; it is not an `.fmod` publisher signature.
+Each runtime/mod row has identity, version, immutable .fmod URL, byte length,
+SHA-256 and declared compatibility/requirements. The signed .fmod remains
+installation authority. The SDK ZIP has independently checked catalog integrity;
+it is not an .fmod publisher signature. SDK owner license selection remains
+required before a production SDK release; no first-party license grant is added.
 
-Compatibility requires exact signed game fingerprints for Steam app 3164500,
-build 25796331, Windows x64 and registered Microsoft.NETCore.App 10.0.12 with
-roll-forward disabled. Installation composes per-user immutable generations,
-preserving mutable data and changed/unowned residues. Dependencies are checked
-but not acquired automatically. Startup configuration needs restart; live session
-enable/disable and menu controls are separate.
+## Publishing a mod
 
-The initial catalog has runtime and SDK entries, with no separately published
-gameplay mods. The suite includes example/probe mods; gameplay acceptance probe
-is startup-disabled. Multiplayer remains assumed/unverified, comparative
-performance partial, host geometry/navigation local, and AssetBundles stripped.
-No blanket AI arbitration, multiplayer negotiation or hot assembly replacement
-claim is made. [Installer 0.3.19](https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.19)
-exposes this public catalog through the Schedule I tab. Existing users use
-Settings -> Check for App Update. The in-app guide includes migration from the
-older development-signed preview. Future compatible gameplay mods need only an
-independently signed package upload and a new row in this catalog.
+Create C# code against FadedCore.SDK.dll, compile using its build script, then
+separately package/sign the clean output with the authorized publisher key.
+Upload a new immutable .fmod and update the modern variant and mirrored full
+catalog. Include minimum runtime/API/game/dependency requirements, version, size
+and SHA-256. Compatible mods do not require rebuilding the installer/framework.
+Missing dependencies are checked but not fetched automatically. The initial
+independent gameplay-mod list remains empty; unrelated Gang Life work is separate.
+Never publish private signing keys, game binaries or private diagnostics.
 
-Preview migration requires a fresh production root: after successful removal with
-the original preview, close both installers and preserve the entire remaining
-preview runtime folder in a separate backup before installing production. Do not
-merge old component/history/state metadata into the new root. The installer
-release page gives the complete migration steps, clarifying its brief guide.
+Runtime upgrades retain existing admitted mod selections/startup settings; new
+bundled branding/examples are not automatically added. Fresh 0.4 installs enable
+local branding and keep gameplay/SDK acceptance disabled. The Online badge means
+local readiness, not a multiplayer connection.
+
+## Limits and preservation
+
+Compatibility remains Windows x64, Steam app 3164500/build 25796331, all four
+signed game hashes and registered Microsoft.NETCore.App 10.0.12, roll-forward
+Disabled. Owned NPC spawning is solo-host only. Connected multiplayer/client
+initialization, late join, full live-actor teardown and other documented gameplay
+boundaries remain unqualified. Comparative performance remains partial.
+
+Install/update/remove uses per-user immutable generations; external data and
+changed/unowned residues are preserved. Startup changes require restart; live
+session controls are separate. No game files, saves or servers are publication
+destinations. PZ catalogs/settings/FJL are separate.
+
+For old development-preview migration, use original 0.3.18 to Remove successfully,
+close both installers/game, preserve the ENTIRE remaining preview runtime folder
+in a new separate backup, then let the new installer create a fresh default root.
+Do not merge old component/history/state/journal metadata into production. Keep
+all data; if old removal cannot finish, leave it intact and use support. Ordinary
+production 0.3 to 0.4 upgrades use Update and preserve the installed mod selection.
