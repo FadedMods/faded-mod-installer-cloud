@@ -42,5 +42,8 @@ gameplay mods. The suite includes example/probe mods; gameplay acceptance probe
 is startup-disabled. Multiplayer remains assumed/unverified, comparative
 performance partial, host geometry/navigation local, and AssetBundles stripped.
 No blanket AI arbitration, multiplayer negotiation or hot assembly replacement
-claim is made. The enhanced installer tab is a separate local candidate; public
-installer 0.3.18 retains its previous preview behavior.
+claim is made. [Installer 0.3.19](https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.19)
+exposes this public catalog through the Schedule I tab. Existing users use
+Settings -> Check for App Update. The in-app guide includes migration from the
+older development-signed preview. Future compatible gameplay mods need only an
+independently signed package upload and a new row in this catalog.
