@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "product": "schedule-i",
+  "channel": "production",
+  "version": "0.4.0",
+  "minimumInstallerVersion": "0.3.20",
+  "releaseStage": "release-candidate",
+  "publishedDate": "2026-10-27",
+  "helper": {
+    "version": "0.4.0",
+    "contractSchema": 1,
+    "entryPoint": "helper/FadedCore.Packages.dll",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-package-helper-0.4.0.zip",
+    "size": 90586,
+    "sha256": "f528d6a2d36e3ff38a246dbee6547a3a9dd879e3a7a750cdf9f5a54c897b016b"
+  },
+  "trust": {
+    "file": "trust/fadedcore-release.json",
+    "keyId": "ad7be858cb53fca4d60b857f37f5aab1d871af944a06fe80c8b4fcb8f6f90841",
+    "channel": "production",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-release.json",
+    "sha256": "a7c12a1d68502061cd2597d20425049d49264eb47fd4cd0734c843028cdafd33",
+    "authority": "Pinned independently in the installer; catalog downloads cannot replace publisher trust or the verifier."
+  },
+  "prerequisites": {
+    "framework": "Microsoft.NETCore.App",
+    "version": "10.0.12",
+    "architecture": "x64",
+    "rollForward": "Disable"
+  },
+  "runtime": {
+    "id": "fadedcore.suite",
+    "packageId": "fadedcore.suite",
+    "kind": "runtime-suite",
+    "name": "FadedCore runtime 0.4.0 RC1",
+    "version": "0.4.0",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-suite-0.4.0-25796331-local-rc1.fmod",
+    "size": 2562153,
+    "sha256": "0120e8147efb7f3d23a15161ee5b6f049a0a9769950989e5106334773852d7eb",
+    "description": "Capability contract 1: owned NPC/actions/events, authenticated PNG/PCM WAV/textured mesh content, native definitions, map/camera/needs and owned state. Requires installer 0.3.20. Runtime upgrades preserve the existing mod selection; new bundled branding/examples are not added automatically. Fresh installs enable local branding; gameplay/SDK acceptance stay disabled.",
+    "channel": "production",
+    "releaseStage": "release-candidate",
+    "minimumInstallerVersion": "0.3.20",
+    "compatibility": {
+      "steamAppId": 3164500,
+      "buildId": "25796331",
+      "architecture": "x86_64",
+      "runtimeApiVersion": 2,
+      "supportedApiVersions": [
+        1,
+        2
+      ],
+      "capabilityContract": 1,
+      "supportedGameBuilds": [
+        {
+          "buildId": "25796331",
+          "sha256": {
+            "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+            "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+            "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+            "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+          }
+        }
+      ]
+    },
+    "requirements": {
+      "runtime": [
+        {
+          "id": "Microsoft.NETCore.App",
+          "version": "10.0.12",
+          "architecture": "x64",
+          "deployment": "framework-dependent"
+        }
+      ],
+      "packages": {},
+      "helper": "0.4.0"
+    }
+  },
+  "sdk": {
+    "id": "fadedcore.sdk",
+    "packageId": "fadedcore.sdk",
+    "kind": "sdk",
+    "name": "FadedCore developer SDK 0.4.0 (preview)",
+    "version": "0.4.0",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-sdk-0.4.0-local-rc1.zip",
+    "size": 485730,
+    "sha256": "71eff25d9c1f6824ab4f40536e9fca32584d3a4f4a116f739a892e2a211373e0",
+    "description": "Authors only: compatible API 1/2 SDK, templates, content preparation/examples, helper 0.4 and rebased documentation. New capability services require minimumRuntime 0.4.0; build then separately sign/package each mod. Players do not need this ZIP.",
+    "releaseStage": "developer-preview",
+    "productionEligible": false,
+    "internalInventoryVersion": "0.4.0-local-rc1",
+    "licenseStatus": "No first-party license grant is added; owner license selection remains required before a production SDK release.",
+    "requirements": {
+      "dotnetSdk": "10.0.401",
+      "runtime": "0.4.0"
+    }
+  },
+  "mods": [],
+  "limitations": [
+    "Requires installer 0.3.20 or later with authenticated helper 0.4.0; old clients retain legacy catalog entries.",
+    "Owned NPC spawning is solo-host only; client initialization is unavailable and connected multiplayer/late join remain unverified.",
+    "Online badge describes local runtime readiness, not a multiplayer connection.",
+    "Full live-actor scene teardown, custom-item firing/reload/saved-session reload, map panning, completed rest and outdoor camera/firing transitions remain unqualified.",
+    "Comparative performance remains partial; SDK remains developer preview with no added first-party license grant.",
+    "Runtime updates preserve installed mod selections; bundled acceptance examples are disabled and do not activate automatically."
+  ]
+}
