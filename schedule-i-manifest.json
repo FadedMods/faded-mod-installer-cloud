@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "product": "schedule-i",
+  "channel": "production",
+  "version": "0.3.0",
+  "releaseStage": "release-candidate",
+  "publishedDate": "2026-10-27",
+  "helper": {
+    "version": "0.3.1",
+    "contractSchema": 1,
+    "entryPoint": "helper/FadedCore.Packages.dll",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.3.0-rc2/fadedcore-package-helper-0.3.1.zip",
+    "size": 85448,
+    "sha256": "1250aeb7510d43db8eac79483df3849ddcc2cb9dc7c88d225faa6c903133a204"
+  },
+  "trust": {
+    "file": "trust/fadedcore-release.json",
+    "keyId": "ad7be858cb53fca4d60b857f37f5aab1d871af944a06fe80c8b4fcb8f6f90841",
+    "channel": "production",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.3.0-rc2/fadedcore-release.json",
+    "sha256": "a7c12a1d68502061cd2597d20425049d49264eb47fd4cd0734c843028cdafd33",
+    "authority": "Independently pinned in the installer; never imported from a downloaded catalog."
+  },
+  "prerequisites": {
+    "framework": "Microsoft.NETCore.App",
+    "version": "10.0.12",
+    "architecture": "x64",
+    "rollForward": "Disable"
+  },
+  "runtime": {
+    "id": "fadedcore.suite",
+    "packageId": "fadedcore.suite",
+    "kind": "runtime-suite",
+    "name": "FadedCore runtime 0.3.0 RC2",
+    "version": "0.3.0",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.3.0-rc2/fadedcore-suite-0.3.0-25796331-local-rc2.fmod",
+    "size": 672401,
+    "sha256": "4e0cccf213d42a57359b2bb264ab5d41d89ce8dac95087de816f47bef920a907",
+    "description": "Install once for SDK-based C# mods. Includes example/probe mods; gameplay acceptance probe is disabled by default.",
+    "channel": "production",
+    "releaseStage": "release-candidate",
+    "compatibility": {
+      "steamAppId": 3164500,
+      "buildId": "25796331",
+      "architecture": "x86_64",
+      "runtimeApiVersion": 2,
+      "supportedApiVersions": [
+        1,
+        2
+      ],
+      "supportedGameBuilds": [
+        {
+          "buildId": "25796331",
+          "sha256": {
+            "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+            "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+            "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+            "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+          }
+        }
+      ]
+    },
+    "requirements": {
+      "runtime": [
+        {
+          "id": "Microsoft.NETCore.App",
+          "version": "10.0.12",
+          "architecture": "x64",
+          "deployment": "framework-dependent"
+        }
+      ],
+      "packages": {}
+    }
+  },
+  "sdk": {
+    "id": "fadedcore.sdk",
+    "packageId": "fadedcore.sdk",
+    "kind": "sdk",
+    "name": "FadedCore developer SDK (preview)",
+    "version": "0.3.0",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.3.0-rc2/fadedcore-sdk-0.3.0-local-rc2.zip",
+    "size": 188587,
+    "sha256": "82b7e4b14498bdb5742322d1ef3cbe60e21aa76c577bd86b2fc7396cce3d4473",
+    "description": "Authors only: SDK DLL, C# template, scaffolder, helper and docs. Build then sign each mod separately. Players do not need this ZIP.",
+    "releaseStage": "developer-preview",
+    "productionEligible": false,
+    "internalInventoryVersion": "0.3.0-dev",
+    "licenseStatus": "No first-party license grant is added; owner license selection remains required before a production SDK release.",
+    "requirements": {
+      "dotnetSdk": "10.0.401"
+    }
+  },
+  "mods": [],
+  "limitations": [
+    "Pinned Windows x64 Steam build 25796331 only.",
+    "Multiplayer assumed/unverified; host geometry/navigation is not replicated.",
+    "Comparative performance qualification remains partial.",
+    "SDK remains an unchanged developer preview with no added first-party license grant.",
+    "No independently published gameplay mods yet; suite includes example/probe mods.",
+    "Catalog freshness and publisher-key rotation are not guaranteed."
+  ]
+}

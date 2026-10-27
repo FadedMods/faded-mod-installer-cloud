@@ -1,0 +1,28 @@
+name: Validate Schedule I catalog
+
+on:
+  pull_request:
+    paths:
+      - schedule-i-manifest.json
+      - scripts/validate_schedule_i_catalog.py
+      - .github/workflows/validate-schedule-i.yml
+  push:
+    branches: [main]
+    paths:
+      - schedule-i-manifest.json
+      - scripts/validate_schedule_i_catalog.py
+      - .github/workflows/validate-schedule-i.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python scripts/validate_schedule_i_catalog.py schedule-i-manifest.json
