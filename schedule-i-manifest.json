@@ -99,7 +99,7 @@
     "No independently published gameplay mods yet; suite includes example/probe mods.",
     "Catalog freshness and publisher-key rotation are not guaranteed."
   ],
-  "latestRuntimeVersion": "0.4.0",
+  "latestRuntimeVersion": "0.4.1",
   "minimumInstallerVersionForLatest": "0.3.20",
   "compatibleCatalogs": [
     {
@@ -108,7 +108,7 @@
         "schema": 1,
         "product": "schedule-i",
         "channel": "production",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "minimumInstallerVersion": "0.3.20",
         "releaseStage": "release-candidate",
         "publishedDate": "2026-10-27",
@@ -118,7 +118,11 @@
           "entryPoint": "helper/FadedCore.Packages.dll",
           "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-package-helper-0.4.0.zip",
           "size": 90586,
-          "sha256": "f528d6a2d36e3ff38a246dbee6547a3a9dd879e3a7a750cdf9f5a54c897b016b"
+          "sha256": "f528d6a2d36e3ff38a246dbee6547a3a9dd879e3a7a750cdf9f5a54c897b016b",
+          "signedRelease": {
+            "payload": "eyJhcmNoaXZlIjp7InNoYTI1NiI6ImY1MjhkNmEyZDM2ZTNmZjM4YTI0NmRiZWU2NTQ3YTNhOWRkODc5ZTNhN2E3NTBjZGY5ZjVhNTRjODk3YjAxNmIiLCJzaXplIjo5MDU4NiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL0ZhZGVkTW9kcy9mYWRlZC1tb2QtaW5zdGFsbGVyLWNsb3VkL3JlbGVhc2VzL2Rvd25sb2FkL3NjaGVkdWxlLWktZmFkZWRjb3JlLTAuNC4wLXJjMS9mYWRlZGNvcmUtcGFja2FnZS1oZWxwZXItMC40LjAuemlwIn0sImNoYW5uZWwiOiJwcm9kdWN0aW9uIiwiY29tcG9uZW50IjoicGFja2FnZS1oZWxwZXIiLCJjb250cmFjdFNjaGVtYSI6MSwiZmlsZXMiOlt7InBhdGgiOiJGYWRlZENvcmUuUGFja2FnZXMuZGVwcy5qc29uIiwic2hhMjU2IjoiZDkzNDRjZGRjZGU2MDlkODJmOTk2M2Y4MDlmZGZkYjRmNTk0ZjkzNTk4YTIzY2Y5MjBhMWVlYmU2MTE0MjIyMSIsInNpemUiOjQ0OH0seyJwYXRoIjoiRmFkZWRDb3JlLlBhY2thZ2VzLmRsbCIsInNoYTI1NiI6IjZhY2RmMDNjODBkMWVmYjg3NTM0MTFjNjgxNTg3MWIwMjUwMzhmZGMzN2E0MjY2NDg0YjI0Y2RjZGY5NjRjN2MiLCJzaXplIjoyMzk2MTZ9LHsicGF0aCI6IkZhZGVkQ29yZS5QYWNrYWdlcy5ydW50aW1lY29uZmlnLmpzb24iLCJzaGEyNTYiOiIwMzM5MTM3YWVmMDMwZjIwYTZmYTU4YTdjMzRhMDM5OTgwNTQyNTZjNzg4ODA5ODYyMjk3Njk4MWFlYWM1OWZhIiwic2l6ZSI6NDgxfV0sImtleUlkIjoiYWQ3YmU4NThjYjUzZmNhNGQ2MGI4NTdmMzdmNWFhYjFkODcxYWY5NDRhMDZmZTgwYzhiNGZjYjhmNmY5MDg0MSIsIm1pbmltdW1JbnN0YWxsZXJWZXJzaW9uIjoiMC4zLjIxIiwicGxhdGZvcm0iOiJ3aW5kb3dzLXg2NCIsInByZXJlcXVpc2l0ZXMiOnsiYXJjaGl0ZWN0dXJlIjoieDY0IiwiZnJhbWV3b3JrIjoiTWljcm9zb2Z0Lk5FVENvcmUuQXBwIiwicm9sbEZvcndhcmQiOiJEaXNhYmxlIiwidmVyc2lvbiI6IjEwLjAuMTIifSwicHJvZHVjdCI6InNjaGVkdWxlLWkiLCJzY2hlbWEiOjEsInZlcnNpb24iOiIwLjQuMCJ9",
+            "signature": "p4+MDM8NwWjn9k33B8FItqx9wLoXSiuLcUrndD1u+EhU5N/3LgnvzlsKs+2+2CSZR9oFDLUbzdFyK1CTU3IYm4GTjYlGyjhYGUGeLPKji40wggSMBufy9a4+G0hvzm6LK0kEkMWV1GNrMOuwBOp3zQmqXUkDn0E34uoqA5AwXHZbBn5EB1dmXBNtala09TTboUYQrBRRSfbCmtIh14kLiXY5DK3IuCCGVfdST4au/hvlQ0kMOrudH0MHL7ygUblJ/j2SBSfoTaNwHuk/0hvUYFMLhgni3hTh3084wLrLG76e/VkhRk5OIGxAOXTjBmFcR4PWL89ArYCgRtEMzwCsRn8tmhNR/qFpGLraGNO1LgEoCT7TG/RKei862OJ0HMnk3dFN/ulsMqj4/8tedvz8DpO1NKQQX/jcTGFO4YhS3AmPdO0pgcY7j62NluYlQoNBXcmnYaR93kD6WDc42sfxIoJ6dtUw1IUtt17HCJeB8AWpNzbIk3mA3YESvYTPpOyr"
+          }
         },
         "trust": {
           "file": "trust/fadedcore-release.json",
@@ -126,7 +130,7 @@
           "channel": "production",
           "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-release.json",
           "sha256": "a7c12a1d68502061cd2597d20425049d49264eb47fd4cd0734c843028cdafd33",
-          "authority": "Pinned independently in the installer; catalog downloads cannot replace publisher trust or the verifier."
+          "authority": "Publisher trust remains pinned in the installer. Installer 0.3.21 authenticates helper updates against that pinned key; catalogs cannot supply replacement trust."
         },
         "prerequisites": {
           "framework": "Microsoft.NETCore.App",
@@ -138,12 +142,12 @@
           "id": "fadedcore.suite",
           "packageId": "fadedcore.suite",
           "kind": "runtime-suite",
-          "name": "FadedCore runtime 0.4.0 RC1",
-          "version": "0.4.0",
-          "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-suite-0.4.0-25796331-local-rc1.fmod",
-          "size": 2562153,
-          "sha256": "0120e8147efb7f3d23a15161ee5b6f049a0a9769950989e5106334773852d7eb",
-          "description": "Capability contract 1: owned NPC/actions/events, authenticated PNG/PCM WAV/textured mesh content, native definitions, map/camera/needs and owned state. Requires installer 0.3.20. Runtime upgrades preserve the existing mod selection; new bundled branding/examples are not added automatically. Fresh installs enable local branding; gameplay/SDK acceptance stay disabled.",
+          "name": "FadedCore runtime 0.4.1 - multiplayer actions RC",
+          "version": "0.4.1",
+          "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.1-mp-actions/fadedcore-suite-0.4.1-25796331-mp-actions.fmod",
+          "size": 2698098,
+          "sha256": "66fb6c73f31fc69078c8708e17ecb7c04957a47984cc4747c73a9abca92b4f1e",
+          "description": "Host-authoritative owned NPC initialization, replicated presentation, late-join/reconnect snapshots, authenticated mod requests and finite owner-player actions. Connected multiplayer remains unverified. Requires matching runtime and mod assets on each peer. Installer 0.3.20 already supports this release; no app update is required for the runtime. Existing mod selections and data are preserved.",
           "channel": "production",
           "releaseStage": "release-candidate",
           "minimumInstallerVersion": "0.3.20",
@@ -186,25 +190,25 @@
           "id": "fadedcore.sdk",
           "packageId": "fadedcore.sdk",
           "kind": "sdk",
-          "name": "FadedCore developer SDK 0.4.0 (preview)",
+          "name": "FadedCore developer SDK - MP actions RC3 (preview)",
           "version": "0.4.0",
-          "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-sdk-0.4.0-local-rc1.zip",
-          "size": 485730,
-          "sha256": "71eff25d9c1f6824ab4f40536e9fca32584d3a4f4a116f739a892e2a211373e0",
-          "description": "Authors only: compatible API 1/2 SDK, templates, content preparation/examples, helper 0.4 and rebased documentation. New capability services require minimumRuntime 0.4.0; build then separately sign/package each mod. Players do not need this ZIP.",
+          "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.1-mp-actions/fadedcore-sdk-0.4.0-ganglife-mp-actions-rc3.zip",
+          "size": 507259,
+          "sha256": "68018e2c8539d38b89f23d55955abebc23b4c98d53877d85cc3c2ca41dedd4cf",
+          "description": "Authors only: matching frozen RC3 SDK for runtime distribution 0.4.1. Compiled identities and kit inventory retain 0.4.0; new multiplayer requests/actions must declare minimumRuntime 0.4.1 in both mod and package metadata. Templates may still say 0.4.0. Sign/package each mod independently and add its catalog entry; players do not need this ZIP.",
           "releaseStage": "developer-preview",
           "productionEligible": false,
-          "internalInventoryVersion": "0.4.0-local-rc1",
+          "internalInventoryVersion": "0.4.0-ganglife-mp-actions-rc3",
           "licenseStatus": "No first-party license grant is added; owner license selection remains required before a production SDK release.",
           "requirements": {
             "dotnetSdk": "10.0.401",
-            "runtime": "0.4.0"
+            "runtime": "0.4.1"
           }
         },
         "mods": [],
         "limitations": [
-          "Requires installer 0.3.20 or later with authenticated helper 0.4.0; old clients retain legacy catalog entries.",
-          "Owned NPC spawning is solo-host only; client initialization is unavailable and connected multiplayer/late join remain unverified.",
+          "Runtime works with installer 0.3.20. Installer 0.3.21 adds independent publisher-signed helper updates; compatible framework/mod/helper releases then use this catalog.",
+          "Owned NPC multiplayer initialization, presentation and late-join/reconnect paths are implemented; no connected multiplayer session qualifies these RC3 binaries. Matching updated runtime and local authenticated mod assets are required on each peer.",
           "Online badge describes local runtime readiness, not a multiplayer connection.",
           "Full live-actor scene teardown, custom-item firing/reload/saved-session reload, map panning, completed rest and outdoor camera/firing transitions remain unqualified.",
           "Comparative performance remains partial; SDK remains developer preview with no added first-party license grant.",
