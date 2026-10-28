@@ -1,14 +1,21 @@
 # Schedule I / FadedCore catalog
 
-The stable URL remains `schedule-i-manifest.json`. FadedCore 0.4.1 MP-actions RC uses
-production signatures and the existing publisher key. Its SDK remains a separate
-developer preview; players do not need that ZIP.
+The stable URL remains `schedule-i-manifest.json`. The first public Gang Life release
+pairs FadedCore suite 0.4.2 with Gang Life 0.2.0 and the matching RC6 SDK preview.
+The existing runtime entry is updated in place; users see one current FadedCore
+runtime. See [package versioning](PACKAGE-VERSIONING.md) for
+the exact signed requirements and SDK compatibility rules.
 
 Installer 0.3.20 or later is required for helper 0.4.0, signed minimum-runtime
-fields and PNG/PCM WAV/textured mesh admission. API 1/2 and SDK assembly identity
-remain compatible. Mods using the new replicated NPC/request/action services
-declare minimumRuntime 0.4.1 on every peer. The compiled runtime and frozen SDK
-retain internal 0.4.0 identities; distribution suite 0.4.1 distinguishes the update.
+fields and PNG/PCM WAV/textured mesh admission. API 1/2 numbers and SDK assembly
+identity are retained; this does not guarantee every SDK method signature is
+unchanged. The RC6 runtime/SDK retains compiled 0.4.0 identities, while signed
+suite version 0.4.2 identifies the required distribution. Keep the frozen mod's
+inner and outer `mods[].minimumRuntime` at its 0.4.0 feature floor: its managed
+loader rejects a higher inner value. Require the exact distribution through
+signed `packageDependencies["fadedcore.suite"] = "0.4.2"`, produced by
+`pack --runtime-min 0.4.2`, and the corresponding catalog package requirement.
+Every Gang Life peer needs matching runtime/mod packages.
 
 Installer 0.3.21 adds independently publisher-signed helper updates. Routine
 framework, SDK, mod and compatible helper releases use this catalog without
@@ -56,8 +63,9 @@ separately package/sign the clean output with the authorized publisher key.
 Upload a new immutable .fmod and update the modern variant and mirrored full
 catalog. Include minimum runtime/API/game/dependency requirements, version, size
 and SHA-256. Compatible mods do not require rebuilding the installer/framework.
-Missing dependencies are checked but not fetched automatically. The current
-independent gameplay-mod list remains empty; unrelated Gang Life work is separate.
+Missing dependencies are checked but not fetched automatically. Gang Life 0.2.0
+is the first independent gameplay-mod entry and requires suite 0.4.2.
+Its publication does not require another framework loader or installer build.
 Never publish private signing keys, game binaries or private diagnostics.
 
 Runtime upgrades retain existing admitted mod selections/startup settings; new
@@ -72,9 +80,11 @@ signed game hashes and registered Microsoft.NETCore.App 10.0.12, roll-forward
 Disabled. Owned NPC network initialization/presentation and late-join/reconnect
 paths are implemented in these new binaries. Connected multiplayer sessions,
 full live-actor teardown and other documented gameplay boundaries remain
-unqualified. Comparative performance remains partial. SDK RC3 remains an
-unchanged developer preview; templates still mentioning 0.4.0 must be raised to
-minimumRuntime 0.4.1 for mods using the new request/action services.
+unqualified. Comparative performance remains partial. The matching SDK RC6 is a
+developer preview with its original internal 0.4.0 label. Authors using an older
+SDK must recompile against the matching kit: `OpenPhoneMap()` changed from
+`void` to `bool`. Do not raise the frozen inner feature floor to 0.4.1 or 0.4.2;
+enforce suite 0.4.2 through the signed package dependency described above.
 
 Install/update/remove uses per-user immutable generations; external data and
 changed/unowned residues are preserved. Startup changes require restart; live

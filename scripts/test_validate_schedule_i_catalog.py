@@ -56,6 +56,9 @@ class ScheduleICatalogValidationTests(unittest.TestCase):
     def full_catalog(self, descriptor=None):
         descriptor = descriptor or self.descriptor
         value = json.loads((ROOT / 'schedule-i/0.4-manifest.json').read_bytes())
+        # Helper contract fixtures must not inherit the changing public mod list.
+        # Independent mod membership/counting is exercised explicitly below.
+        value['mods'] = []
         value.update(minimumInstallerVersion='0.3.21', version='0.5.0', prerequisites=descriptor['prerequisites'])
         value['runtime']['version'] = '0.5.0'
         value['helper'].update(version=descriptor['version'], contractSchema=1,
@@ -75,6 +78,19 @@ class ScheduleICatalogValidationTests(unittest.TestCase):
         value = self.full_catalog()
         self.assertEqual(catalog.validate_object(value), 2)
         self.assertEqual(catalog.validate_helper_release(value['helper']['signedRelease']), self.descriptor)
+
+    def test_independent_mod_is_counted_and_its_identity_must_be_unique(self):
+        value = self.full_catalog()
+        value['mods'] = [{
+            'id': 'faded.fixture', 'packageId': 'faded.fixture', 'kind': 'mod',
+            'version': '1.0.0', 'size': 100, 'sha256': 'c' * 64,
+            'url': 'https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/fixture/TestMod.fmod',
+        }]
+        self.assertEqual(catalog.validate_object(value), 3)
+        self.assertEqual(catalog.validate(self.write_stable(value)), 5)
+        value['mods'].append(copy.deepcopy(value['mods'][0]))
+        with self.assertRaisesRegex(ValueError, 'Unique component'):
+            catalog.validate_object(value)
 
     def test_descriptor_signature_key_domain_and_raw_json_are_authoritative(self):
         tampered = self.envelope()
