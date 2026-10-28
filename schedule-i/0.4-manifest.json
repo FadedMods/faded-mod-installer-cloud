@@ -2,7 +2,7 @@
   "schema": 1,
   "product": "schedule-i",
   "channel": "production",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "minimumInstallerVersion": "0.3.20",
   "releaseStage": "release-candidate",
   "publishedDate": "2026-10-28",
@@ -36,12 +36,12 @@
     "id": "fadedcore.suite",
     "packageId": "fadedcore.suite",
     "kind": "runtime-suite",
-    "name": "FadedCore runtime 0.4.3",
-    "version": "0.4.3",
-    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.3-loader-hardening/fadedcore-suite-0.4.3-25796331-loader-hardening.fmod",
-    "size": 2725055,
-    "sha256": "6ad44b7a9de687e6400f9555536dc7d6ed869edddd17beded37f9e1019a371d1",
-    "description": "FadedCore 0.4.3 adds launcher compatibility fixes for Windows DLL casing and the qualified Steam overlay's cold certificate cache, bounded redirect validation and clearer launch errors. Other runtime/gameplay payloads retain 0.4.2 bytes. Install once, then add compatible mods separately. Exact supported Windows x64 game build and .NET runtime remain required; existing gameplay/multiplayer qualification limits apply.",
+    "name": "FadedCore runtime 0.4.4",
+    "version": "0.4.4",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.4-phatstack/FadedCore-runtime-0.4.4.fmod",
+    "size": 2792394,
+    "sha256": "235a868d938162d97bacc96944f7cac42ca2aa255a72397fc632dff5344224f2",
+    "description": "FadedCore framework with the inventory capacity, hotbar and save services required by Phat Stack. These services remain dormant until its separate mod is enabled. Updating the runtime does not install Phat Stack or expand saves. Existing launcher hardening, mod selection and SDK compatibility are retained. Exact supported Windows x64 game build and .NET runtime are required; existing gameplay/multiplayer limits apply.",
     "channel": "production",
     "releaseStage": "release-candidate",
     "minimumInstallerVersion": "0.3.20",
@@ -153,6 +153,58 @@
       "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-ganglife-0.2.0/GangLife-v0.2.0.fmod",
       "size": 9262106,
       "sha256": "50ace4e5821651822aa054cf5e41853506e99b0db38cd9a79dcdd1d21daf0f1f"
+    },
+    {
+      "id": "faded.phatstack",
+      "packageId": "faded.phatstack",
+      "kind": "mod",
+      "name": "Phat Stack",
+      "version": "0.1.0",
+      "description": "Ten native slots split into Equipment 1-5 and Supply 6-0, drug stacks of 100 in the hotbar and 300 per rack slot, original artwork and a carried-skateboard shortcut. Requires FadedCore 0.4.4. BACK UP SAVES BEFORE ENABLING: expanded saves cannot safely return to vanilla; removal requires restoring a pre-mod backup even after emptying added slots. Local-host inventory only; connected multiplayer is unverified.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.4"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "Enabling changes native inventory saves to an eleven-entry layout including relocated cash. Removal requires a pre-mod save backup; no downgrade exporter exists, even after added slots are emptied.",
+        "Restart after changes; live disabling retains structural preservation hooks until game exit.",
+        "Only local-host inventory is qualified. Connected multiplayer, joining-client layouts and peer negotiation remain unverified.",
+        "Manual drag/drop/split/merge, actual UI oversized swaps, click/V skateboard selection, controller navigation, small/large racks and save-error fault injection remain unverified in gameplay."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-phatstack-0.1.0/PhatStack-v0.1.0.fmod",
+      "size": 9259937,
+      "sha256": "382c896417d78d4aeec3c72a438e87962493ddca926510a7ccd7a2ae3f3f781e"
     }
   ],
   "limitations": [
