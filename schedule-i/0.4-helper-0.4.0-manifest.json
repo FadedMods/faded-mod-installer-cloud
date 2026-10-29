@@ -1,0 +1,272 @@
+{
+  "schema": 1,
+  "product": "schedule-i",
+  "channel": "production",
+  "version": "0.4.6",
+  "minimumInstallerVersion": "0.3.20",
+  "releaseStage": "release-candidate",
+  "publishedDate": "2026-10-29",
+  "helper": {
+    "version": "0.4.0",
+    "contractSchema": 1,
+    "entryPoint": "helper/FadedCore.Packages.dll",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-package-helper-0.4.0.zip",
+    "size": 90586,
+    "sha256": "f528d6a2d36e3ff38a246dbee6547a3a9dd879e3a7a750cdf9f5a54c897b016b",
+    "signedRelease": {
+      "payload": "eyJhcmNoaXZlIjp7InNoYTI1NiI6ImY1MjhkNmEyZDM2ZTNmZjM4YTI0NmRiZWU2NTQ3YTNhOWRkODc5ZTNhN2E3NTBjZGY5ZjVhNTRjODk3YjAxNmIiLCJzaXplIjo5MDU4NiwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL0ZhZGVkTW9kcy9mYWRlZC1tb2QtaW5zdGFsbGVyLWNsb3VkL3JlbGVhc2VzL2Rvd25sb2FkL3NjaGVkdWxlLWktZmFkZWRjb3JlLTAuNC4wLXJjMS9mYWRlZGNvcmUtcGFja2FnZS1oZWxwZXItMC40LjAuemlwIn0sImNoYW5uZWwiOiJwcm9kdWN0aW9uIiwiY29tcG9uZW50IjoicGFja2FnZS1oZWxwZXIiLCJjb250cmFjdFNjaGVtYSI6MSwiZmlsZXMiOlt7InBhdGgiOiJGYWRlZENvcmUuUGFja2FnZXMuZGVwcy5qc29uIiwic2hhMjU2IjoiZDkzNDRjZGRjZGU2MDlkODJmOTk2M2Y4MDlmZGZkYjRmNTk0ZjkzNTk4YTIzY2Y5MjBhMWVlYmU2MTE0MjIyMSIsInNpemUiOjQ0OH0seyJwYXRoIjoiRmFkZWRDb3JlLlBhY2thZ2VzLmRsbCIsInNoYTI1NiI6IjZhY2RmMDNjODBkMWVmYjg3NTM0MTFjNjgxNTg3MWIwMjUwMzhmZGMzN2E0MjY2NDg0YjI0Y2RjZGY5NjRjN2MiLCJzaXplIjoyMzk2MTZ9LHsicGF0aCI6IkZhZGVkQ29yZS5QYWNrYWdlcy5ydW50aW1lY29uZmlnLmpzb24iLCJzaGEyNTYiOiIwMzM5MTM3YWVmMDMwZjIwYTZmYTU4YTdjMzRhMDM5OTgwNTQyNTZjNzg4ODA5ODYyMjk3Njk4MWFlYWM1OWZhIiwic2l6ZSI6NDgxfV0sImtleUlkIjoiYWQ3YmU4NThjYjUzZmNhNGQ2MGI4NTdmMzdmNWFhYjFkODcxYWY5NDRhMDZmZTgwYzhiNGZjYjhmNmY5MDg0MSIsIm1pbmltdW1JbnN0YWxsZXJWZXJzaW9uIjoiMC4zLjIxIiwicGxhdGZvcm0iOiJ3aW5kb3dzLXg2NCIsInByZXJlcXVpc2l0ZXMiOnsiYXJjaGl0ZWN0dXJlIjoieDY0IiwiZnJhbWV3b3JrIjoiTWljcm9zb2Z0Lk5FVENvcmUuQXBwIiwicm9sbEZvcndhcmQiOiJEaXNhYmxlIiwidmVyc2lvbiI6IjEwLjAuMTIifSwicHJvZHVjdCI6InNjaGVkdWxlLWkiLCJzY2hlbWEiOjEsInZlcnNpb24iOiIwLjQuMCJ9",
+      "signature": "p4+MDM8NwWjn9k33B8FItqx9wLoXSiuLcUrndD1u+EhU5N/3LgnvzlsKs+2+2CSZR9oFDLUbzdFyK1CTU3IYm4GTjYlGyjhYGUGeLPKji40wggSMBufy9a4+G0hvzm6LK0kEkMWV1GNrMOuwBOp3zQmqXUkDn0E34uoqA5AwXHZbBn5EB1dmXBNtala09TTboUYQrBRRSfbCmtIh14kLiXY5DK3IuCCGVfdST4au/hvlQ0kMOrudH0MHL7ygUblJ/j2SBSfoTaNwHuk/0hvUYFMLhgni3hTh3084wLrLG76e/VkhRk5OIGxAOXTjBmFcR4PWL89ArYCgRtEMzwCsRn8tmhNR/qFpGLraGNO1LgEoCT7TG/RKei862OJ0HMnk3dFN/ulsMqj4/8tedvz8DpO1NKQQX/jcTGFO4YhS3AmPdO0pgcY7j62NluYlQoNBXcmnYaR93kD6WDc42sfxIoJ6dtUw1IUtt17HCJeB8AWpNzbIk3mA3YESvYTPpOyr"
+    }
+  },
+  "trust": {
+    "file": "trust/fadedcore-release.json",
+    "keyId": "ad7be858cb53fca4d60b857f37f5aab1d871af944a06fe80c8b4fcb8f6f90841",
+    "channel": "production",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.0-rc1/fadedcore-release.json",
+    "sha256": "a7c12a1d68502061cd2597d20425049d49264eb47fd4cd0734c843028cdafd33",
+    "authority": "Publisher trust remains pinned in the installer. Installer 0.3.21 authenticates helper updates against that pinned key; catalogs cannot supply replacement trust."
+  },
+  "prerequisites": {
+    "framework": "Microsoft.NETCore.App",
+    "version": "10.0.12",
+    "architecture": "x64",
+    "rollForward": "Disable"
+  },
+  "runtime": {
+    "id": "fadedcore.suite",
+    "packageId": "fadedcore.suite",
+    "kind": "runtime-suite",
+    "name": "FadedCore runtime 0.4.6",
+    "version": "0.4.6",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.6-world-launch-fixes/FadedCore-runtime-0.4.6.fmod",
+    "size": 2668615,
+    "sha256": "75692560df39a4efc279919139106b68c3cffc2a4f9511740814cac26794a06b",
+    "description": "FadedCore framework for Main and Tutorial gameplay worlds with verified per-save state, restored FadedCore Online branding and independent authenticated System32 loader compatibility. Keeps host/load/save/ownership checks; updating alone does not install gameplay mods. Restart after component updates; existing save-recovery and multiplayer limits apply.",
+    "channel": "production",
+    "releaseStage": "release-candidate",
+    "minimumInstallerVersion": "0.3.20",
+    "compatibility": {
+      "steamAppId": 3164500,
+      "buildId": "25796331",
+      "architecture": "x86_64",
+      "runtimeApiVersion": 2,
+      "supportedApiVersions": [
+        1,
+        2
+      ],
+      "capabilityContract": 1,
+      "supportedGameBuilds": [
+        {
+          "buildId": "25796331",
+          "sha256": {
+            "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+            "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+            "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+            "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+          }
+        }
+      ]
+    },
+    "requirements": {
+      "runtime": [
+        {
+          "id": "Microsoft.NETCore.App",
+          "version": "10.0.12",
+          "architecture": "x64",
+          "deployment": "framework-dependent"
+        }
+      ],
+      "packages": {},
+      "helper": "0.4.0"
+    }
+  },
+  "sdk": {
+    "id": "fadedcore.sdk",
+    "packageId": "fadedcore.sdk",
+    "kind": "sdk",
+    "name": "FadedCore developer SDK 0.4.1 - World scenes (preview)",
+    "version": "0.4.1",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.6-world-launch-fixes/fadedcore-sdk-0.4.1-world-scenes-046.zip",
+    "size": 511585,
+    "sha256": "558af2c8b3c1a356e0cab537de52d10528cb054b8febe9e3c406056478576ebc",
+    "description": "Authors only: matching world-scenes kit for runtime suite 0.4.6, including Tutorial-aware verified save sessions, SDK binary/source, templates and helper 0.4.1. SDK assembly/API contracts are retained. Keep inner minimumRuntime 0.4.0 and enforce signed packageDependencies[fadedcore.suite] 0.4.6 via pack --runtime-min 0.4.6. Players do not need the SDK.",
+    "releaseStage": "developer-preview",
+    "productionEligible": false,
+    "internalInventoryVersion": "0.4.1-world-scenes-046",
+    "licenseStatus": "No first-party license grant is added; owner license selection remains required before a production SDK release.",
+    "requirements": {
+      "dotnetSdk": "10.0.401",
+      "runtime": "0.4.6"
+    },
+    "buildRevision": "world-scenes-046"
+  },
+  "mods": [
+    {
+      "id": "faded.ganglife",
+      "packageId": "faded.ganglife",
+      "kind": "mod",
+      "name": "Gang Life",
+      "version": "0.2.1",
+      "description": "Build your own gang or join one of ten fictional factions. Recruit specialists, establish strongholds and contest territory through the tablet headquarters, shared NPC orders, seven firearms, optional third-person, needs and 40 offline voice clips. Install FadedCore 0.4.6 first; every multiplayer peer needs matching runtime/mod packages. F5 headquarters, F4 interaction, F6 camera, F7 map overlay. Early release: connected multiplayer, ordinary firing/reload, native item persistence and audible playback remain unverified.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.6"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "Matching FadedCore 0.4.6 and Gang Life 0.2.1 assets are required on every peer. Connected multiplayer has not been observed; support follows the accepted assumed-working/reactive-fix policy.",
+        "Ordinary firing/reload, raised grip/muzzle calibration, native item save/reload and audible/positional playback remain unqualified; no manual gameplay gate is imposed.",
+        "Four pistol/SMG/rifle definitions use native semiautomatic action; three shotgun definitions use a native pump controller. Automatic fire, a distinct break action and native bat melee are not implemented.",
+        "KSG capacity is one effective 14-shell pool without independently selectable tubes.",
+        "No measured performance improvement or universal AI arbitration is claimed."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-ganglife-0.2.1-world-scenes/GangLife-v0.2.1.fmod",
+      "size": 9262135,
+      "sha256": "08b94262f506cfb1f3ca43a5e75c7f200df9a392163a5816aba2fa4bd2314e83"
+    },
+    {
+      "id": "faded.phatstack",
+      "packageId": "faded.phatstack",
+      "kind": "mod",
+      "name": "Phat Stack",
+      "version": "0.1.1",
+      "description": "Ten native slots split into Equipment 1-5 and Supply 6-0, drug stacks of 100 in the hotbar and 300 per rack slot, original artwork and a carried-skateboard shortcut. Requires FadedCore 0.4.6. BACK UP SAVES BEFORE ENABLING: expanded saves cannot safely return to vanilla; removal requires restoring a pre-mod backup even after emptying added slots. Local-host inventory only; connected multiplayer is unverified.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.6"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "Enabling changes native inventory saves to an eleven-entry layout including relocated cash. Removal requires a pre-mod save backup; no downgrade exporter exists, even after added slots are emptied.",
+        "Restart after changes; live disabling retains structural preservation hooks until game exit.",
+        "Only local-host inventory is qualified. Connected multiplayer, joining-client layouts and peer negotiation remain unverified.",
+        "Manual drag/drop/split/merge, actual UI oversized swaps, click/V skateboard selection, controller navigation, small/large racks and save-error fault injection remain unverified in gameplay."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-phatstack-0.1.1-world-scenes/PhatStack-v0.1.1.fmod",
+      "size": 9260019,
+      "sha256": "74ed4a4b57d816153aa1259a0c69448abca5f42653f29d1e09ba8cb4aff85d32"
+    },
+    {
+      "id": "faded.hollywood",
+      "packageId": "faded.hollywood",
+      "kind": "mod",
+      "name": "Hollywood",
+      "version": "0.4.1",
+      "description": "71 gear items across four complete sets, a 24-slot backpack, independent 36-slot duffle, dedicated pistol holster, armor, shields and registered-gas protection. F10 equipment tablet; Z holster; X shield; guarded Space/B shove. Requires FadedCore 0.4.6. Back up saves and matching Hollywood state together; empty bags and return the stored pistol before removal. Host-only equipment; connected multiplayer and remote avatars are unqualified.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.6"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "Equipment and storage are host-only. Connected multiplayer, joining clients and remote-avatar equipment are unqualified.",
+        "Bag journals are external to the native save transaction. Keep native saves and matching Hollywood state together; ambiguous recovery locks access and retains data. Empty bags and return the stored pistol before disabling or removal.",
+        "Production native holster save/process-restart restored the real pistol and seven loaded rounds. Protection, shield shove and controlled third-person firing are covered by the author receipts; physical RMB aiming, original native Jump-down suppression and exact post-LateUpdate rendered bore convergence remain unqualified.",
+        "Gas protection applies to explicitly registered inhaled-gas sources, not arbitrary drug/status effects or unrelated direct health writes.",
+        "Gang Life and Phat Stack are optional independent mods; their existing save and gameplay limits continue to apply. Restart after package changes."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-hollywood-0.4.1-world-scenes/Hollywood-v0.4.1.fmod",
+      "size": 4882163,
+      "sha256": "d2d4882e807c0547316d17ad30039041ce7025541ac30146b4470ef53a7bb722"
+    }
+  ],
+  "limitations": [
+    "Runtime works with installer 0.3.20. Installer 0.3.21 adds independent publisher-signed helper updates; compatible framework/mod/helper releases then use this catalog.",
+    "The RC6 binaries implement host-authoritative owned NPC replication, map readiness and equipped-avatar presentation. Local RC6 tablet/map/held-model/camera observations are recorded; no connected multiplayer session qualifies these binaries. Every peer needs the matching runtime and authenticated mod assets.",
+    "Online badge describes local runtime readiness, not a multiplayer connection.",
+    "Ordinary registered-item firing/reload, raised grip/muzzle calibration, native item save/reload, audible playback and remaining teardown/needs/camera boundaries remain unqualified.",
+    "Comparative performance remains partial; SDK remains developer preview with no added first-party license grant.",
+    "Runtime updates preserve installed mod selections; bundled acceptance examples are disabled and do not activate automatically.",
+    "Installer 0.3.20 retains its pinned helper. Use installer 0.3.21 or newer for the automatic menu-badge migration when upgrading runtime 0.4.5; current installer 0.3.23 is recommended."
+  ]
+}
