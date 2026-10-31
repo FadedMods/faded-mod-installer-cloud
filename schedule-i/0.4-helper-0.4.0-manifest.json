@@ -2,7 +2,7 @@
   "schema": 1,
   "product": "schedule-i",
   "channel": "production",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "minimumInstallerVersion": "0.3.20",
   "releaseStage": "release-candidate",
   "publishedDate": "2026-10-31",
@@ -36,12 +36,12 @@
     "id": "fadedcore.suite",
     "packageId": "fadedcore.suite",
     "kind": "runtime-suite",
-    "name": "FadedCore runtime 0.4.8",
-    "version": "0.4.8",
-    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.8-all-items-trafficking/FadedCore-runtime-0.4.8.fmod",
-    "size": 2997892,
-    "sha256": "dd73dd49c3b492d8e9e5c14f26189a77865b0c1c4bd8b454584fca5220335180",
-    "description": "Shared FadedCore runtime for Main and Tutorial worlds, Phat Stack all-item stacks, Trafficking/2Faded native content, and the existing Gang Life and Hollywood adapters. Preserves the published 0.4.7 signed-System32 launcher fallback. Updating the framework preserves mod selections and does not install gameplay mods. Restart after updating; back up saves and matching mod state. Connected multiplayer remains unqualified.",
+    "name": "FadedCore runtime 0.4.9",
+    "version": "0.4.9",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.9-viewpoint/FadedCore-runtime-0.4.9.fmod",
+    "size": 3036836,
+    "sha256": "52a5ca1387b7dad7da5fa76c15a2f0a741e18e4ec612849b154443e241e84679",
+    "description": "Shared FadedCore runtime with Viewpoint S1 isometric camera, screen-relative movement, cursor aiming and weather-aware sky support. Preserves the combined Phat Stack, Hollywood, Gang Life and Trafficking adapters and exact public 0.4.7 launcher. Updating preserves installed mod selections; gameplay mods remain separate downloads. Restart after changes. Existing save/recovery requirements and multiplayer limits remain.",
     "channel": "production",
     "releaseStage": "release-candidate",
     "minimumInstallerVersion": "0.3.20",
@@ -313,6 +313,59 @@
       "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-trafficking-0.1.0/Trafficking-v0.1.0.fmod",
       "size": 15218083,
       "sha256": "bccaa246b093ce295ec0830ae640fcc22e0314c92018417cf832f04f85c9f0cd"
+    },
+    {
+      "id": "faded.viewpoint",
+      "packageId": "faded.viewpoint",
+      "kind": "mod",
+      "name": "Viewpoint S1",
+      "version": "0.1.0",
+      "description": "Rotating orthographic isometric camera, zoom, perspective alternative, screen-relative WASD and a free cursor for RMB/LMB world-target facing. Native movement, firing, collision and interaction distance remain authoritative. Weather-aware sky lighting retains native weather and time. Home toggles view; [ / ] or middle-mouse drag rotates; Page Up/Down zooms; End toggles visuals; hold Alt for native view. Requires FadedCore 0.4.9 and a full restart.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "local-presentation",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.9"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "Shares the existing exclusive camera lease with Gang Life. Disable Gang Life camera before acquiring Viewpoint; it yields to an existing owner and suspends for menus, Hollywood equipment UI, Trafficking shop, vehicles, skating, sleep and native camera overrides.",
+        "Author solo-host diagnostic gameplay used identical Viewpoint adapter source with all four existing mods active. The separately built production runtime was not independently launched. Earlier movement/menu/lighting/lifecycle evidence retains its earlier session scope.",
+        "Physical middle-mouse dragging, weapon firing, connected multiplayer and comparative performance were not separately qualified. No performance improvement is claimed.",
+        "Lighting uses the existing game sky shader and native weather/clock. No extra volumetric-cloud or ray-tracing renderer is supplied; stripped legacy quality properties are skipped and native night darkness is retained.",
+        "This signed mod package contains only the frozen Viewpoint DLL, inner manifest and default configuration. No diagnostic probe, save or game asset is included. Restart after runtime/mod changes. Existing optional gameplay mods retain their own save and recovery requirements."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-viewpoint-s1-0.1.0/ViewpointS1-v0.1.0.fmod",
+      "size": 10163,
+      "sha256": "225d290a86d7e44185cfc21b170e26df3e15d79724e2cb06019c4b28aa98585c"
     }
   ],
   "limitations": [
