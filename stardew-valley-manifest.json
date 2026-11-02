@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "product": "stardew-valley",
+  "channel": "production",
+  "minimumInstallerVersion": "0.3.24",
+  "runtime": {
+    "id": "StardewModFramework.Runtime",
+    "kind": "framework",
+    "name": "Stardew Mod Framework",
+    "version": "0.2.0",
+    "folder": "StardewModFramework",
+    "entryDll": "StardewModFramework.dll",
+    "description": "Shared mod APIs, owned content and texture extensions, and transactional world editing for Stardew Valley. Required by Darkdew Valley.",
+    "minimumApiVersion": "4.5.2",
+    "minimumGameVersion": "1.6.15",
+    "dependencies": [],
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/stardew-valley-2026-11-02-framework-0.2.0-darkdew-0.1.1/StardewModFramework-0.2.0.zip",
+    "size": 76915,
+    "sha256": "6ea3154d9668facdcb72c5f81c70079f9456fcbae07f874576edc1127313292d"
+  },
+  "mods": [
+    {
+      "id": "Darkdew.Valley",
+      "kind": "mod",
+      "name": "Darkdew Valley",
+      "version": "0.1.1",
+      "folder": "DarkdewValley",
+      "entryDll": "DarkdewValley.dll",
+      "description": "Mourning Hollow: Gothic architecture, HD characters, horror conversations, fog, apparitions, original voices and a haunted musical theme. Q listens; F8 toggles the conversion.",
+      "minimumApiVersion": "4.5.2",
+      "minimumGameVersion": "1.6.15",
+      "dependencies": [
+        {
+          "id": "StardewModFramework.Runtime",
+          "minimumVersion": "0.2.0"
+        }
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/stardew-valley-2026-11-02-framework-0.2.0-darkdew-0.1.1/DarkdewValley-0.1.1.zip",
+      "size": 58655009,
+      "sha256": "2931070dfdd6bd23baf0b7f4689a7527f972d2cf6dcb27baeef3fa201176f542"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: Validate Stardew Valley catalog
+
+on:
+  pull_request:
+    paths:
+      - stardew-valley-manifest.json
+      - stardew-valley/**
+      - scripts/validate_stardew_catalog.py
+      - scripts/test_validate_stardew_catalog.py
+      - .github/workflows/validate-stardew.yml
+  push:
+    branches: [main]
+    paths:
+      - stardew-valley-manifest.json
+      - stardew-valley/**
+      - scripts/validate_stardew_catalog.py
+      - scripts/test_validate_stardew_catalog.py
+      - .github/workflows/validate-stardew.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s scripts -p test_validate_stardew_catalog.py
+      - run: python scripts/validate_stardew_catalog.py stardew-valley-manifest.json
