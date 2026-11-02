@@ -10,10 +10,11 @@ The URL stays stable across package releases. This catalog is independent of the
 Project Zomboid and Schedule I catalogs and their settings. Players refresh the
 Stardew catalog to receive new package versions.
 
-The initial packages target Stardew Valley 1.6.15 and SMAPI API 4.5.2. Install
-[SMAPI using its official installer](https://smapi.io/), select the game folder,
-and install Darkdew Valley. The installer installs its separate Stardew Mod
-Framework dependency into the same game's `Mods` directory. Launch through SMAPI.
+The initial packages target Stardew Valley 1.6.15 and SMAPI API 4.5.2. Installer
+0.3.25 downloads and installs the pinned official SMAPI package directly from
+its Stardew Valley tab. Select the game folder, install or repair SMAPI in the
+installer, and install Darkdew Valley. Its separate Stardew Mod Framework
+dependency is installed into the same game's `Mods` directory. Launch through SMAPI.
 Players do not need the .NET 10 SDK used by the authors to build these mods.
 
 `runtime` identifies the framework; `mods` contains independently updated gameplay

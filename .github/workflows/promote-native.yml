@@ -1,18 +1,42 @@
-name: Promote installer 0.3.9 native packages
+name: Stage installer 0.3.25 native release
 
 on:
   workflow_dispatch:
+    inputs:
+      source_sha:
+        description: Exact frozen installer source commit
+        required: true
+        type: string
+      release_id:
+        description: Existing unpublished cloud draft ID for installer 0.3.25
+        required: true
+        type: string
+      windows_run:
+        description: Successful exact-source Windows workflow run ID
+        required: true
+        type: string
+      linux_run:
+        description: Successful exact-source Linux workflow run ID
+        required: true
+        type: string
+      macos_run:
+        description: Successful exact-source macOS workflow run ID
+        required: true
+        type: string
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
-  group: installer-0.3.9-native-promotion
+  group: installer-0.3.25-native-promotion
   cancel-in-progress: false
 
 jobs:
   promote:
-    if: github.repository == 'FadedMods/faded-mod-installer-cloud' && github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    if: >-
+      github.repository == 'FadedMods/faded-mod-installer-cloud' &&
+      (github.ref == 'refs/heads/release/installer-0.3.25-smapi' ||
+       github.ref == format('refs/heads/{0}', github.event.repository.default_branch))
     runs-on: ubuntu-22.04
     timeout-minutes: 40
     steps:
@@ -21,15 +45,21 @@ jobs:
         with:
           ref: ${{ github.sha }}
           persist-credentials: false
-      - name: Validate pinned CI artifacts and upload six new assets to draft
+      - name: Verify private CI artifacts and stage exact public draft assets
         env:
-          GH_TOKEN: ${{ secrets.PZF3D_DOWNLOAD_BROKER_TOKEN }}
-        run: python3 -B scripts/promote_native.py
+          SOURCE_READ_TOKEN: ${{ secrets.PZF3D_DOWNLOAD_BROKER_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
+          PROMOTION_SOURCE_SHA: ${{ inputs.source_sha }}
+          PROMOTION_RELEASE_ID: ${{ inputs.release_id }}
+          PROMOTION_WINDOWS_RUN: ${{ inputs.windows_run }}
+          PROMOTION_LINUX_RUN: ${{ inputs.linux_run }}
+          PROMOTION_MACOS_RUN: ${{ inputs.macos_run }}
+        run: python3 -B scripts/promote_installer.py
       - name: Preserve promotion hashes and receipt
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: installer-0.3.9-native-promotion-receipt
+          name: installer-0.3.25-native-promotion-receipt
           path: native-promotion-receipt/
           if-no-files-found: warn
           retention-days: 30
