@@ -273,7 +273,10 @@ def main():
     for platform, run in runs.items():
         metadata = api(f"/repos/{PRIVATE}/actions/runs/{run}")
         need(metadata.get("status") == "completed" and metadata.get("conclusion") == "success" and metadata.get("head_sha") == source
-             and metadata.get("event") == "workflow_dispatch" and metadata.get("repository", {}).get("full_name") == PRIVATE
+             and metadata.get("event") in {"push", "workflow_dispatch"}
+             and metadata.get("head_branch") == "release/installer-0.3.25-smapi"
+             and metadata.get("path") == ".github/workflows/build-" + platform + ".yml"
+             and metadata.get("repository", {}).get("full_name") == PRIVATE
              and metadata.get("head_repository", {}).get("full_name") == PRIVATE, "Exact-source successful CI required")
         jobs = api(f"/repos/{PRIVATE}/actions/runs/{run}/jobs?per_page=100")
         listing = api(f"/repos/{PRIVATE}/actions/runs/{run}/artifacts?per_page=100")
