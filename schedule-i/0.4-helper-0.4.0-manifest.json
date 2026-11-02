@@ -2,10 +2,10 @@
   "schema": 1,
   "product": "schedule-i",
   "channel": "production",
-  "version": "0.4.9",
+  "version": "0.4.11",
   "minimumInstallerVersion": "0.3.20",
   "releaseStage": "release-candidate",
-  "publishedDate": "2026-10-31",
+  "publishedDate": "2026-11-02",
   "helper": {
     "version": "0.4.0",
     "contractSchema": 1,
@@ -36,12 +36,12 @@
     "id": "fadedcore.suite",
     "packageId": "fadedcore.suite",
     "kind": "runtime-suite",
-    "name": "FadedCore runtime 0.4.9",
-    "version": "0.4.9",
-    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.9-viewpoint/FadedCore-runtime-0.4.9.fmod",
-    "size": 3036836,
-    "sha256": "52a5ca1387b7dad7da5fa76c15a2f0a741e18e4ec612849b154443e241e84679",
-    "description": "Shared FadedCore runtime with Viewpoint S1 isometric camera, screen-relative movement, cursor aiming and weather-aware sky support. Preserves the combined Phat Stack, Hollywood, Gang Life and Trafficking adapters and exact public 0.4.7 launcher. Updating preserves installed mod selections; gameplay mods remain separate downloads. Restart after changes. Existing save/recovery requirements and multiplayer limits remain.",
+    "name": "FadedCore runtime 0.4.11",
+    "version": "0.4.11",
+    "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fadedcore-0.4.11-empire-full-stack/FadedCore-runtime-0.4.11.fmod",
+    "size": 3277412,
+    "sha256": "dae2fecbb97ea57d45fad133c10d0ad261451735b85c1220694bc2627826067a",
+    "description": "Combined runtime for Empire, Fuck 12, Gang Life, Hollywood, Phat Stack, Trafficking and Viewpoint. Adds shared tablet/phone services, classified money, municipal/police cooperation, recipe persistence and equipment checkpoint repairs while preserving the complete earlier adapters and exact public 0.4.7 launcher. Updates preserve installed mod selections; gameplay mods are separate downloads. Close the game and restart after changes. Existing save and multiplayer limits remain.",
     "channel": "production",
     "releaseStage": "release-candidate",
     "minimumInstallerVersion": "0.3.20",
@@ -106,8 +106,8 @@
       "packageId": "faded.ganglife",
       "kind": "mod",
       "name": "Gang Life",
-      "version": "0.2.1",
-      "description": "Build your own gang or join one of ten fictional factions. Recruit specialists, establish strongholds and contest territory through the tablet headquarters, shared NPC orders, seven firearms, optional third-person, needs and 40 offline voice clips. Install FadedCore 0.4.6 first; every multiplayer peer needs matching runtime/mod packages. F5 headquarters, F4 interaction, F6 camera, F7 map overlay. Early release: connected multiplayer, ordinary firing/reload, native item persistence and audible playback remain unverified.",
+      "version": "0.2.2",
+      "description": "Ten fictional factions, recruits, territories, strongholds, weapons and optional third-person. F5 opens the shared Hyland Electronics tablet, then choose Gang Life. Integrates police affiliations, municipal cooperation and confirmed achievements with the combined Empire runtime. F4 interaction, F6 camera, F7 map overlay. Requires FadedCore 0.4.11 and a full restart. Every multiplayer peer needs matching packages; connected multiplayer remains unverified.",
       "channel": "production",
       "releaseStage": "release-candidate",
       "minimumInstallerVersion": "0.3.20",
@@ -131,7 +131,7 @@
       },
       "requirements": {
         "packages": {
-          "fadedcore.suite": "0.4.6"
+          "fadedcore.suite": "0.4.11"
         },
         "helper": "0.4.0",
         "runtime": [
@@ -144,23 +144,24 @@
         ]
       },
       "limitations": [
-        "Matching FadedCore 0.4.6 and Gang Life 0.2.1 assets are required on every peer. Connected multiplayer has not been observed; support follows the accepted assumed-working/reactive-fix policy.",
+        "Requires the coupled November 2 combined FadedCore 0.4.11 runtime. This signed package preserves the exact handoff DLL/assets; prior gameplay receipts keep their original binary/session scope. No new game launch was performed for publication.",
+        "Matching FadedCore 0.4.11 and Gang Life 0.2.2 assets are required on every peer. Connected multiplayer has not been observed; support follows the accepted assumed-working/reactive-fix policy.",
         "Ordinary firing/reload, raised grip/muzzle calibration, native item save/reload and audible/positional playback remain unqualified; no manual gameplay gate is imposed.",
         "Four pistol/SMG/rifle definitions use native semiautomatic action; three shotgun definitions use a native pump controller. Automatic fire, a distinct break action and native bat melee are not implemented.",
         "KSG capacity is one effective 14-shell pool without independently selectable tubes.",
         "No measured performance improvement or universal AI arbitration is claimed."
       ],
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-ganglife-0.2.1-world-scenes/GangLife-v0.2.1.fmod",
-      "size": 9262135,
-      "sha256": "08b94262f506cfb1f3ca43a5e75c7f200df9a392163a5816aba2fa4bd2314e83"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-ganglife-0.2.2-empire/GangLife-v0.2.2.fmod",
+      "size": 9270739,
+      "sha256": "baae63ed2f88b18e6376c73f40e315649181d726b6197387fe14843e9908e225"
     },
     {
       "id": "faded.phatstack",
       "packageId": "faded.phatstack",
       "kind": "mod",
       "name": "Phat Stack",
-      "version": "0.1.3",
-      "description": "Ten native slots split into Equipment 1-5 and Supply 6-0. All ordinary item stacks hold at least 100 carried and 300 per rack slot; higher native limits and item-specific state are preserved. Mutable equipment separates one active unit before use. Requires FadedCore 0.4.8. BACK UP SAVES BEFORE ENABLING: expanded saves require a pre-mod backup to return to vanilla, even after emptying added slots. Restart after updating. Joining-player paths are implemented; connected multiplayer is unverified.",
+      "version": "0.1.4",
+      "description": "Ten native slots split into Equipment 1-5 and Supply 6-0, with at least 100 carried and 300 per rack slot for ordinary item stacks. Retains native weapon rules, expanded-slot clipboard/load behavior and the shared dirty, clean-carried and bank money display. Requires FadedCore 0.4.11. BACK UP SAVES BEFORE ENABLING: expanded saves require a pre-mod backup to return to vanilla, even after added slots are emptied. Restart after changes; connected multiplayer remains unverified.",
       "channel": "production",
       "releaseStage": "release-candidate",
       "minimumInstallerVersion": "0.3.20",
@@ -184,7 +185,7 @@
       },
       "requirements": {
         "packages": {
-          "fadedcore.suite": "0.4.8"
+          "fadedcore.suite": "0.4.11"
         },
         "helper": "0.4.0",
         "runtime": [
@@ -197,23 +198,24 @@
         ]
       },
       "limitations": [
+        "Requires the coupled November 2 combined FadedCore 0.4.11 runtime. This signed package preserves the exact handoff DLL/assets; prior gameplay receipts keep their original binary/session scope. No new game launch was performed for publication.",
         "Enabling changes native inventory saves to an eleven-entry layout including relocated cash. Removal requires a pre-mod save backup; no downgrade exporter exists, even after added slots are emptied.",
         "Restart after changes; live disabling retains structural preservation hooks until game exit.",
         "Joining-player inventory paths are implemented and fixture checked. Actual connected multiplayer, mixed expanded/vanilla layouts and peer negotiation remain unqualified; all peers need matching runtime and mod packages.",
         "Manual drag/drop/split/merge, actual UI oversized swaps, click/V skateboard selection, controller navigation, small/large racks and save-error fault injection remain unverified in gameplay.",
         "All-item limits, mutable-equipment isolation and automatic rack insertion pass native/managed fixtures; this 0.1.3/0.4.8 update has no new live gameplay acceptance run. Item identity, quality, packaging and per-item state still govern merging; currency uses native balance rules."
       ],
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-phatstack-0.1.3-all-items/PhatStack-v0.1.3.fmod",
-      "size": 9260607,
-      "sha256": "88f50b1484e2eac2eac7d120e0712333ca2584f4a2b1fa3ed7735796e3c5ded8"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-phatstack-0.1.4-empire/PhatStack-v0.1.4.fmod",
+      "size": 9267059,
+      "sha256": "155a83b71e90fac693774877e16cbe26e056602dfef495beba14a5ad06e13cc0"
     },
     {
       "id": "faded.hollywood",
       "packageId": "faded.hollywood",
       "kind": "mod",
       "name": "Hollywood",
-      "version": "0.4.1",
-      "description": "71 gear items across four complete sets, a 24-slot backpack, independent 36-slot duffle, dedicated pistol holster, armor, shields and registered-gas protection. F10 equipment tablet; Z holster; X shield; guarded Space/B shove. Requires FadedCore 0.4.6. Back up saves and matching Hollywood state together; empty bags and return the stored pistol before removal. Host-only equipment; connected multiplayer and remote avatars are unqualified.",
+      "version": "0.4.2",
+      "description": "71 gear items, complete armor sets, backpacks, duffles, holsters, shields and registered-gas protection. F5 opens the shared tablet; choose Hollywood. Z holster, X shield and guarded Space/B shove. Integrates the shared equipment UI, checkpoint-safe bag journals and confirmed achievement events. Requires FadedCore 0.4.11. Back up native saves and matching Hollywood state together; empty bags and return the pistol before removal. Host-only equipment; connected multiplayer remains unqualified.",
       "channel": "production",
       "releaseStage": "release-candidate",
       "minimumInstallerVersion": "0.3.20",
@@ -237,7 +239,7 @@
       },
       "requirements": {
         "packages": {
-          "fadedcore.suite": "0.4.6"
+          "fadedcore.suite": "0.4.11"
         },
         "helper": "0.4.0",
         "runtime": [
@@ -250,23 +252,24 @@
         ]
       },
       "limitations": [
+        "Requires the coupled November 2 combined FadedCore 0.4.11 runtime. This signed package preserves the exact handoff DLL/assets; prior gameplay receipts keep their original binary/session scope. No new game launch was performed for publication.",
         "Equipment and storage are host-only. Connected multiplayer, joining clients and remote-avatar equipment are unqualified.",
         "Bag journals are external to the native save transaction. Keep native saves and matching Hollywood state together; ambiguous recovery locks access and retains data. Empty bags and return the stored pistol before disabling or removal.",
         "Production native holster save/process-restart restored the real pistol and seven loaded rounds. Protection, shield shove and controlled third-person firing are covered by the author receipts; physical RMB aiming, original native Jump-down suppression and exact post-LateUpdate rendered bore convergence remain unqualified.",
         "Gas protection applies to explicitly registered inhaled-gas sources, not arbitrary drug/status effects or unrelated direct health writes.",
         "Gang Life and Phat Stack are optional independent mods; their existing save and gameplay limits continue to apply. Restart after package changes."
       ],
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-hollywood-0.4.1-world-scenes/Hollywood-v0.4.1.fmod",
-      "size": 4882163,
-      "sha256": "d2d4882e807c0547316d17ad30039041ce7025541ac30146b4470ef53a7bb722"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-hollywood-0.4.2-empire/Hollywood-v0.4.2.fmod",
+      "size": 4885863,
+      "sha256": "89e113000e21e8734bac20c519b7f53fd9fea04cedc3eb92b49392264888c146"
     },
     {
       "id": "faded.trafficking",
       "packageId": "faded.trafficking",
       "kind": "mod",
       "name": "Trafficking / 2Faded",
-      "version": "0.1.0",
-      "description": "Visit the raised 2Faded smoke shop at Westville's Slums Waterfront: 248 storefront entries, 147 native mixing recipes, imported smoking accessories, drug effects and the fictional Compound Z outbreak with preturn Z-Suppressant. Requires FadedCore 0.4.8. Wait for main-menu preparation before loading a save. F11 nearby shop, F4 reusable cannabis accessory, F12 preturn treatment. Back up native saves and matching mod state. Host-local evidence only; connected-client replication is unqualified.",
+      "version": "0.1.1",
+      "description": "2Faded waterfront smoke shop with 248 storefront entries, 147 native mixing recipes, accessories, drug effects and the fictional Compound Z outbreak. Revised shop recreation, exterior stairs, reversible railing opening and saved sale listings; native recipe persistence corrections are in the combined runtime. F5 shared tablet at the counter, F4 eligible cannabis accessory, F12 preturn treatment. Requires FadedCore 0.4.11; wait for menu preparation and fully restart. Back up native saves and matching mod state.",
       "channel": "production",
       "releaseStage": "release-candidate",
       "minimumInstallerVersion": "0.3.20",
@@ -290,7 +293,7 @@
       },
       "requirements": {
         "packages": {
-          "fadedcore.suite": "0.4.8"
+          "fadedcore.suite": "0.4.11"
         },
         "helper": "0.4.0",
         "runtime": [
@@ -303,24 +306,25 @@
         ]
       },
       "limitations": [
+        "Requires the coupled November 2 combined FadedCore 0.4.11 runtime. This signed package preserves the exact handoff DLL/assets; prior gameplay receipts keep their original binary/session scope. No new game launch was performed for publication.",
         "Host-authoritative content. Connected-client visuals, purchases, outbreak replication and peer traversal remain unqualified.",
         "Wait for the 2Faded main-menu preparation overlay to finish before loading a save. Fully restart after content/runtime updates. Keep native saves and matching mod sidecar state backed up together; safe removal of saves containing custom content is not established.",
         "The frozen mod has protected host-local native purchase, consumption, timed infection, preturn treatment, save/reload and eight-waypoint NPC traversal evidence. The combined 0.4.8 runtime adds the existing mods and all-item inventory fixes; it has build/fixture checks, with no new live gameplay replay.",
-        "Physical E interaction, mixing-station ingredient debit, every accessory fit, precise bite/lesion views, every effect expiry, immunity re-exposure and dynamic mixed-product save/reload remain unqualified. F11 is the available shop control.",
+        "Physical E interaction, mixing-station ingredient debit, every accessory fit, precise bite/lesion views, every effect expiry, immunity re-exposure and dynamic mixed-product save/reload remain unqualified. Use F5 and the shared tablet shop app at the counter.",
         "Imported held props use native consumption animations. Dedicated syringe, pill-swallow, tea-drinking and bespoke bong animations are not supplied. Loaded non-cannabis pipes are excluded from reusable cannabis equipment.",
         "Visible foot contact, player traversal and connected-client traversal remain untested. Compound Z and its recipes are fictional game mechanics."
       ],
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-trafficking-0.1.0/Trafficking-v0.1.0.fmod",
-      "size": 15218083,
-      "sha256": "bccaa246b093ce295ec0830ae640fcc22e0314c92018417cf832f04f85c9f0cd"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-trafficking-0.1.1-empire/Trafficking-v0.1.1.fmod",
+      "size": 15234110,
+      "sha256": "34bfc0b083a78af769b67b46f11999832e82a21570de3646eaaaca6967c67fcc"
     },
     {
       "id": "faded.viewpoint",
       "packageId": "faded.viewpoint",
       "kind": "mod",
       "name": "Viewpoint S1",
-      "version": "0.1.0",
-      "description": "Rotating orthographic isometric camera, zoom, perspective alternative, screen-relative WASD and a free cursor for RMB/LMB world-target facing. Native movement, firing, collision and interaction distance remain authoritative. Weather-aware sky lighting retains native weather and time. Home toggles view; [ / ] or middle-mouse drag rotates; Page Up/Down zooms; End toggles visuals; hold Alt for native view. Requires FadedCore 0.4.9 and a full restart.",
+      "version": "0.1.1",
+      "description": "Rotating isometric view, screen-relative movement, free cursor aiming and weather-aware lighting. Adds confirmed camera-mode achievement cooperation with Empire while retaining native movement and firing authority. Home toggles view; [ / ] or middle drag rotates; Page Up/Down zooms; End visuals; hold Alt for native view. Shares Gang Life camera lease. Requires FadedCore 0.4.11 and a full restart.",
       "channel": "production",
       "releaseStage": "release-candidate",
       "minimumInstallerVersion": "0.3.20",
@@ -344,7 +348,7 @@
       },
       "requirements": {
         "packages": {
-          "fadedcore.suite": "0.4.9"
+          "fadedcore.suite": "0.4.11"
         },
         "helper": "0.4.0",
         "runtime": [
@@ -357,15 +361,121 @@
         ]
       },
       "limitations": [
+        "Requires the coupled November 2 combined FadedCore 0.4.11 runtime. This signed package preserves the exact handoff DLL/assets; prior gameplay receipts keep their original binary/session scope. No new game launch was performed for publication.",
         "Shares the existing exclusive camera lease with Gang Life. Disable Gang Life camera before acquiring Viewpoint; it yields to an existing owner and suspends for menus, Hollywood equipment UI, Trafficking shop, vehicles, skating, sleep and native camera overrides.",
         "Author solo-host diagnostic gameplay used identical Viewpoint adapter source with all four existing mods active. The separately built production runtime was not independently launched. Earlier movement/menu/lighting/lifecycle evidence retains its earlier session scope.",
         "Physical middle-mouse dragging, weapon firing, connected multiplayer and comparative performance were not separately qualified. No performance improvement is claimed.",
         "Lighting uses the existing game sky shader and native weather/clock. No extra volumetric-cloud or ray-tracing renderer is supplied; stripped legacy quality properties are skipped and native night darkness is retained.",
         "This signed mod package contains only the frozen Viewpoint DLL, inner manifest and default configuration. No diagnostic probe, save or game asset is included. Restart after runtime/mod changes. Existing optional gameplay mods retain their own save and recovery requirements."
       ],
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-viewpoint-s1-0.1.0/ViewpointS1-v0.1.0.fmod",
-      "size": 10163,
-      "sha256": "225d290a86d7e44185cfc21b170e26df3e15d79724e2cb06019c4b28aa98585c"
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-viewpoint-s1-0.1.1-empire/ViewpointS1-v0.1.1.fmod",
+      "size": 12873,
+      "sha256": "731b1dfb91fc3918348909c156513fb3f6d564309007c9f4519fb8a6f4925e77"
+    },
+    {
+      "id": "faded.empire",
+      "packageId": "faded.empire",
+      "kind": "mod",
+      "name": "Empire",
+      "version": "0.1.0",
+      "description": "Build a criminal and legitimate business empire: classified dirty/clean money, laundering, employee payroll and logistics, native supplier deliveries, production targets, city investments, elections, City Hall budgets, curfew policy and 640 persistent challenges. F5 shared tablet; Empire also appears on the native phone. Requires the exact combined FadedCore 0.4.11 runtime. Host management only. Back up native saves and matching mod sidecars together before enabling; full gameplay and connected-client acceptance are incomplete.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.11"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "This is the frozen November 2 compiler-checked closeout payload. Earlier managed/native suites and historical retail evidence retain their exact scope; the final selector fix was not live replayed.",
+        "Legacy carried cash becomes dirty on first Empire activation; existing bank money stays clean. Keep the native save and matching asynchronous mod checkpoint banks together. Uncertain payments and cargo custody are not blindly repeated.",
+        "Earlier retail evidence covers shared UI, investments/politics, payroll, supplier unloading, transport and a mixing batch with output/unload/target pause/resume. The final sprint confirmed controlled theft recovery with disclosed author positioning and actual native damage.",
+        "Undercover pickup was cancelled before collection; undercover pursuit and a complete 1,440-minute observed-hiding manhunt were not reached. A real native customer sale, its dynamic price/quality consequence and persisted cross-mod awards remain unqualified.",
+        "City investments simulate business rights and revenue; they do not create walkable interiors or evict existing NPCs. Connected clients cannot issue Empire management commands. No comparative performance claim is made."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-empire-0.1.0/Empire-v0.1.0.fmod",
+      "size": 1785369,
+      "sha256": "152b59428dc4b3fb3473f5b116ec9200511c920b6177273d374d449ea076c716"
+    },
+    {
+      "id": "faded.fuck12",
+      "packageId": "faded.fuck12",
+      "kind": "mod",
+      "name": "Fuck 12",
+      "version": "0.2.1",
+      "description": "Expanded police investigations, witness interviews, corroborated warrants, raids, staffed checkpoints, district lockdowns, bribery and evidence-annex clearance routes. Imported police Huey and Hollywood tactical gear. F5 opens the shared tablet; choose Police Net. Cooperates with Gang Life affiliations and Empire police budgets. Requires the combined FadedCore 0.4.11 runtime and a full restart. Back up native saves and matching mod state; connected multiplayer remains unqualified.",
+      "channel": "production",
+      "releaseStage": "release-candidate",
+      "minimumInstallerVersion": "0.3.20",
+      "compatibility": {
+        "steamAppId": 3164500,
+        "buildId": "25796331",
+        "architecture": "x86_64",
+        "runtimeApiVersion": 2,
+        "multiplayerScope": "host-authoritative",
+        "supportedGameBuilds": [
+          {
+            "buildId": "25796331",
+            "sha256": {
+              "executable": "ec99366083ae5a4068d0c8091d80f857b65c57fb6ef603ab952d835469246ecf",
+              "unity_player": "43fb0aea1b80c74963dae88ec7fc1c3c1993d893ce94d12972000fcc9b653ad1",
+              "game_assembly": "61829050e56ca180d67be592e4bfe61ec97d2e9573f720d90a54e318a7e4381d",
+              "metadata": "e775c97da277da8eb1a90265478f3b65c9c3d6464aff4f7255d45280a1d1181f"
+            }
+          }
+        ]
+      },
+      "requirements": {
+        "packages": {
+          "fadedcore.suite": "0.4.11"
+        },
+        "helper": "0.4.0",
+        "runtime": [
+          {
+            "id": "Microsoft.NETCore.App",
+            "version": "10.0.12",
+            "architecture": "x64",
+            "deployment": "framework-dependent"
+          }
+        ]
+      },
+      "limitations": [
+        "The police author build has actual staffed-checkpoint, inspection, raid, bribe-rejection, helicopter-sighting and computer-clearance evidence. The new shared-tablet and municipal integration is carried by the final combined handoff; earlier evidence does not qualify every branch of these exact combined binaries.",
+        "A warrant requires 65 evidence and two distinct interviewed witnesses; the attention tier alone does not issue a warrant. Raids and searches require physically arrived native units and verified inventory readback.",
+        "The full physical-input annex route, assault and disguise routes, optional helicopter spotlight and connected multiplayer remain unqualified. The optional spotlight is unavailable.",
+        "Keep native saves and matching police/Gang Life/Empire state together. Other optional mods keep their independent save and recovery requirements; fully restart after package changes."
+      ],
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/schedule-i-fuck12-0.2.1/Fuck12-v0.2.1.fmod",
+      "size": 2568615,
+      "sha256": "93509b292f237e16c9a7577ec40c3f12a8a89028cf2392db95a1cb29545ffac6"
     }
   ],
   "limitations": [
@@ -375,6 +485,7 @@
     "Ordinary registered-item firing/reload, raised grip/muzzle calibration, native item save/reload, audible playback and remaining teardown/needs/camera boundaries remain unqualified.",
     "Comparative performance remains partial; SDK remains developer preview with no added first-party license grant.",
     "Runtime updates preserve installed mod selections; bundled acceptance examples are disabled and do not activate automatically.",
-    "Installer 0.3.20 retains its pinned helper. Use installer 0.3.21 or newer for the automatic menu-badge migration when upgrading runtime 0.4.5; current installer 0.3.23 is recommended."
+    "Installer 0.3.20 retains its pinned helper. Use installer 0.3.21 or newer for the automatic menu-badge migration when upgrading runtime 0.4.5; current installer 0.3.23 is recommended.",
+    "The 0.4.11 runtime and seven current mod packages preserve the complete November 2 combined handoff. The existing public 0.4.7 launcher is retained. Historical qualification is not a full acceptance run for the final signed composition; connected multiplayer and comparative performance remain unqualified."
   ]
 }
