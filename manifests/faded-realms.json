@@ -476,15 +476,15 @@
       "id": "RVsReborn",
       "server_mod_id": "RVsReborn",
       "name": "RVsReborn",
-      "version": "0.2.14",
+      "version": "0.2.15",
       "description": "RV and Faded Locomotion interiors for Build 42.21 Stable and 42.22 Pre-Release, with server-owned return tracking, utilities, dashboards, and vehicle compatibility.",
       "updated_at": "2026-11-03",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-03-rvsreborn-0.2.14-b4222/RVsReborn-v0.2.14.zip",
-      "zip_name": "RVsReborn-v0.2.14.zip",
-      "size_bytes": 10074920,
-      "sha256": "4be76140d9d03a002c1005156cebcbbd0ee48945910d99913a7eba2c96872014",
-      "uncompressed_size_bytes": 130599528,
-      "required_free_bytes": 677545360
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-03-rvsreborn-0.2.15-set-hotfix/RVsReborn-v0.2.15.zip",
+      "zip_name": "RVsReborn-v0.2.15.zip",
+      "size_bytes": 10075010,
+      "sha256": "c2b78510638361fc619032c89013cc0853e0257fe3f5152c947c95a7b831dbf1",
+      "uncompressed_size_bytes": 130599713,
+      "required_free_bytes": 677545635
     },
     {
       "id": "FadedLocomotion",
