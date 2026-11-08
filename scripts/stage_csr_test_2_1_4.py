@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Stage the Common Sense Reborn Test 2.1.4 catalog switch.
 
-Main and Faded Realms stay on 2.1.3 until --apply receives the confirmed
-uploaded package. The switch rewrites only CommonSenseRebornTest. Production
-CommonSenseReborn, FJL, Deadflow, and PZ Optimized stay untouched.
+Main and Faded Realms publish Test 2.1.4. Without --apply this prints those
+entries. With --apply it rewrites only CommonSenseRebornTest and refuses the
+published package hash. Production CommonSenseReborn, FJL, Deadflow, and PZ
+Optimized stay untouched. requiresJavaLoader stays false and no Java plugin
+fields are added.
 """
 
 from __future__ import annotations
@@ -17,7 +19,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 MOD_ID = "CommonSenseRebornTest"
-BASELINE_VERSION = "2.1.3"
+BASELINE_VERSION = "2.1.4"
 VERSION = "2.1.4"
 UPDATED_AT = "2026-11-08"
 ZIP_NAME = "CommonSenseRebornTest-v2.1.4.zip"
@@ -31,7 +33,7 @@ DESCRIPTION = (
     "including old saved preferences, and admits reviewed pre-release revision "
     "3d39148846. FJL remains optional. Never enable with Main."
 )
-CURRENT_SHA256 = "2ceabc895015b1dd5da37827b9019398224f3a55eb05186615234e60d64c4e40"
+CURRENT_SHA256 = "10ef8f347b716e4c9fa660d3dad2ee6d09527daa120262b350028ab5db5b4eb2"
 REQUIRED_PUBLICATION_FIELDS = (
     "download_url",
     "sha256",

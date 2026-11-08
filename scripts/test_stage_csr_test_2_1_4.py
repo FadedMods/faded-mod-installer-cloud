@@ -35,7 +35,7 @@ class CsrTestCatalogSwitchTests(unittest.TestCase):
         result = stage.report(self.root, self.publication, False)
         self.assertEqual(before, {path: path.read_bytes() for path in before})
         self.assertTrue(result["entries_identical"])
-        self.assertEqual(result["current"]["version"], "2.1.3")
+        self.assertEqual(result["current"]["version"], "2.1.4")
         self.assertEqual(result["current"]["sha256"], stage.CURRENT_SHA256)
         self.assertIs(result["current"]["requiresJavaLoader"], False)
         self.assertEqual(result["missing_publication_fields"], [])
@@ -55,6 +55,7 @@ class CsrTestCatalogSwitchTests(unittest.TestCase):
         self.assertEqual(planned["sha256"], "c" * 64)
         self.assertIn("3d39148846", planned["description"])
         self.assertIs(planned["requiresJavaLoader"], False)
+        self.assertFalse(any(key.startswith("java") for key in planned))
         for relative in ("manifest.json", "manifests/faded-realms.json"):
             path = self.root / relative
             self.assertIn(b"\r\n", path.read_bytes())
@@ -82,11 +83,17 @@ class CsrTestCatalogSwitchTests(unittest.TestCase):
             stage.report(self.root, self.publication, True)
         self.assertEqual((self.root / "manifest.json").read_bytes(), before)
 
-    def test_pending_record_is_not_applied(self):
+    def test_confirmed_record_is_already_published_and_does_not_rewrite(self):
         pending = stage.ROOT / "docs" / "csr-test-2.1.4-publication.pending.json"
         before = (self.root / "manifest.json").read_bytes()
         result = stage.report(self.root, pending, False)
-        self.assertEqual(result["missing_publication_fields"], list(stage.REQUIRED_PUBLICATION_FIELDS))
+        self.assertEqual(result["missing_publication_fields"], [])
+        self.assertEqual(result["current"]["sha256"], "10ef8f347b716e4c9fa660d3dad2ee6d09527daa120262b350028ab5db5b4eb2")
+        self.assertEqual(result["current"]["size_bytes"], 95362016)
+        self.assertEqual(result["current"]["uncompressed_size_bytes"], 253919656)
+        self.assertEqual(result["current"]["required_free_bytes"], 886152584)
+        self.assertIs(result["current"]["requiresJavaLoader"], False)
+        self.assertFalse(any(key.startswith("java") for key in result["current"]))
         with self.assertRaises(stage.CatalogError):
             stage.report(self.root, pending, True)
         self.assertEqual((self.root / "manifest.json").read_bytes(), before)

@@ -1,6 +1,6 @@
 {
-  "status": "waiting-for-confirmed-asset",
-  "apply": false,
+  "status": "confirmed-uploaded-asset",
+  "apply": true,
   "catalogs": [
     "manifest.json",
     "manifests/faded-realms.json"
@@ -12,10 +12,10 @@
   "version": "2.1.4",
   "updated_at": "2026-11-08",
   "required_from_uploaded_package": {
-    "download_url": null,
-    "sha256": null,
-    "size_bytes": null,
-    "uncompressed_size_bytes": null,
-    "required_free_bytes": null
+    "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-csr-test-2.1.4-b42.22/CommonSenseRebornTest-v2.1.4.zip",
+    "sha256": "10ef8f347b716e4c9fa660d3dad2ee6d09527daa120262b350028ab5db5b4eb2",
+    "size_bytes": 95362016,
+    "uncompressed_size_bytes": 253919656,
+    "required_free_bytes": 886152584
   }
 }
