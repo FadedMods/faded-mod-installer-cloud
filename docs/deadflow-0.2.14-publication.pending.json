@@ -1,0 +1,22 @@
+{
+  "status": "waiting-for-confirmed-asset",
+  "apply": false,
+  "catalogs": [
+    "manifest.json",
+    "manifests/faded-realms.json"
+  ],
+  "expected_tag": "mod-assets-2026-11-08-deadflow-0.2.14-b42.22",
+  "expected_download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/Deadflow-v0.2.14.zip",
+  "zip_name": "Deadflow-v0.2.14.zip",
+  "version": "0.2.14",
+  "javaPluginVersion": "0.2.14",
+  "updated_at": "2026-11-08",
+  "minimumJavaLoaderVersion": "0.6.7",
+  "required_from_uploaded_package": {
+    "download_url": null,
+    "sha256": null,
+    "size_bytes": null,
+    "uncompressed_size_bytes": null,
+    "required_free_bytes": null
+  }
+}
