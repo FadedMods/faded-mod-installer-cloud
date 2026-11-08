@@ -36,7 +36,7 @@ class DeadflowCatalogSwitchTests(unittest.TestCase):
         after = {path: path.read_bytes() for path in before}
         self.assertEqual(before, after)
         self.assertTrue(result["entries_identical"])
-        self.assertEqual(result["current"]["version"], "0.2.13")
+        self.assertEqual(result["current"]["version"], "0.2.14")
         self.assertEqual(result["current"]["sha256"], stage.CURRENT_SHA256)
         self.assertEqual(result["missing_publication_fields"], [])
         self.assertFalse(result["applied"])
@@ -87,11 +87,15 @@ class DeadflowCatalogSwitchTests(unittest.TestCase):
             stage.report(self.root, self.publication, True)
         self.assertEqual((self.root / "manifest.json").read_bytes(), before)
 
-    def test_pending_record_is_not_applied(self):
+    def test_confirmed_record_is_already_published_and_does_not_rewrite(self):
         pending = stage.ROOT / "docs" / "deadflow-0.2.14-publication.pending.json"
         before = (self.root / "manifest.json").read_bytes()
         result = stage.report(self.root, pending, False)
-        self.assertEqual(result["missing_publication_fields"], list(stage.REQUIRED_PUBLICATION_FIELDS))
+        self.assertEqual(result["missing_publication_fields"], [])
+        self.assertEqual(result["current"]["sha256"], "4ec8a0c18a2a0f7d779301dcc69fb027ea4d116bf5190d18140cd555c2e97d34")
+        self.assertEqual(result["current"]["size_bytes"], 2587845)
+        self.assertEqual(result["current"]["uncompressed_size_bytes"], 2596591)
+        self.assertEqual(result["current"]["required_free_bytes"], 542055348)
         self.assertFalse(result["applied"])
         with self.assertRaises(stage.CatalogError):
             stage.report(self.root, pending, True)

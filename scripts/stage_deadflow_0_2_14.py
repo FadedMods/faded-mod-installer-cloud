@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Stage the Deadflow 0.2.14 catalog switch for Main and Faded Realms.
 
-The catalogs stay on 0.2.13 until a confirmed publication record is applied.
-Without --apply this prints the current entries and the measurements still
-required. With --apply it rewrites only the two Deadflow objects.
+Main and Faded Realms now publish 0.2.14. Without --apply this prints those
+entries. With --apply it rewrites only the two Deadflow objects, and it refuses
+the published package hash.
 """
 
 from __future__ import annotations
@@ -18,7 +18,7 @@ import sys
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGS = (ROOT / "manifest.json", ROOT / "manifests" / "faded-realms.json")
 MOD_ID = "Deadflow"
-BASELINE_VERSION = "0.2.13"
+BASELINE_VERSION = "0.2.14"
 VERSION = "0.2.14"
 UPDATED_AT = "2026-11-08"
 ZIP_NAME = "Deadflow-v0.2.14.zip"
@@ -35,7 +35,7 @@ DESCRIPTION = (
     "revision 3d39148846 after offline repair. Older saved zombie snapshot "
     "formats are not migrated. Requires FJL 0.6.7+ and its fixed Bridge."
 )
-CURRENT_SHA256 = "46cdfa85c3ee9481cb5e238bf8415d529b7fd99e4e98afbba314dd27bcc2793f"
+CURRENT_SHA256 = "4ec8a0c18a2a0f7d779301dcc69fb027ea4d116bf5190d18140cd555c2e97d34"
 REQUIRED_PUBLICATION_FIELDS = (
     "download_url",
     "sha256",
@@ -80,7 +80,7 @@ def require_baseline(path: Path, document: dict) -> dict:
     if current.get("version") != BASELINE_VERSION or current.get("javaPluginVersion") != BASELINE_VERSION:
         raise CatalogError(f"{path} Deadflow baseline is not {BASELINE_VERSION}")
     if current.get("sha256") != CURRENT_SHA256:
-        raise CatalogError(f"{path} Deadflow package hash is not the published 0.2.13 package")
+        raise CatalogError(f"{path} Deadflow package hash is not the published {BASELINE_VERSION} package")
     return current
 
 
@@ -117,7 +117,7 @@ def validate_publication(publication: dict) -> dict:
     if not re.fullmatch(r"[0-9a-f]{64}", digest):
         raise CatalogError("sha256 must be 64 lowercase hex characters")
     if digest == CURRENT_SHA256:
-        raise CatalogError("sha256 is still the published 0.2.13 package")
+        raise CatalogError(f"sha256 is still the published {BASELINE_VERSION} package")
     numbers = {}
     for field in ("size_bytes", "uncompressed_size_bytes", "required_free_bytes"):
         value = publication[field]

@@ -1,6 +1,6 @@
 # Deadflow 0.2.14 — revised 42.22.0 revision 3d39148846
 
-Catalogs are intentionally still on 0.2.13. Live `main` matches this branch for both `manifest.json` and `manifests/faded-realms.json`, and their Deadflow objects are identical. `scripts/stage_deadflow_0_2_14.py` is the catalog switch. It does not write unless `--apply` is given a complete publication record, and this commit does not run it. Pointing either catalog at the 0.2.14 URL before the asset exists would 404 the installed mod.
+Main and Faded Realms now publish Deadflow 0.2.14 and PZ Optimized 0.4.3. The two Deadflow objects are identical, and the two PZ Optimized objects are identical. Outback, FJL, and Realm001 were not edited. GitHub release `mod-assets-2026-11-08-deadflow-0.2.14-b42.22` has both assets, and the catalog hashes and sizes are the release digests.
 
 ## Game bytes
 
@@ -18,32 +18,30 @@ The eight Deadflow engine targets and four collision workers are byte-identical 
 - Linux `tools/native-collision-probe.py` passed (72 routes) on JRE 25.0.5. The Windows DLL was not executed; its hash matches the previously reviewed file.
 - `src/main/java` compiled with JDK 25 against this jar and published FJL 0.6.10. Workspace jar SHA-256 `901d6ffd3670a9e75ebcc40e10a6f37654a45ffcf3f1663db78d835f699a28b6`. That jar is a compile check. `tools/build.ps1` on the parent tree is the publication build.
 
-Not claimed: live FJL premain, a played world, RCON, an existing Deadflow save, or a PZO repair for `3d39148846`. `tools/test-42.22-joint.py` still needs the parent's FJL, PZO and retained 42.21 fixtures. Its PZO cases remain valid only for `e013dbb529`.
+The catalog switch below records the parent gates that followed this review: Windows and Linux offline repair, Linux HookAudit and NativeBoundary, the Windows Deadflow suite, and isolated FJL 0.6.10 premain probes. FJL source was not modified. No server was restarted by this repository change.
 
 ## Parent steps
 
-Source base is Deadflow git `d7198e8d22dbafe0cbfd6e6671c19b8aa9cba451`, branch `release-0.2.13`. From that repository root:
+The uploaded assets are already on tag `mod-assets-2026-11-08-deadflow-0.2.14-b42.22`. Both catalog appliers have run. Running either one again with the confirmed publication record is refused because that package hash is already published. `minimumJavaLoaderVersion` stays `0.6.7` for Deadflow and `0.6.10` for PZ Optimized.
 
-```text
-patch -p1 < deadflow-0.2.14-against-d7198e8.patch
-```
+## Published catalogs
 
-The Deadflow source patch dry run was clean. Build and package with `tools/build.ps1` and the existing packager. Upload `Deadflow-v0.2.14.zip` to tag `mod-assets-2026-11-08-deadflow-0.2.14-b42.22`. Then fill `docs/deadflow-0.2.14-publication.pending.json` `required_from_uploaded_package` with the confirmed `download_url`, `sha256`, `size_bytes`, `uncompressed_size_bytes`, and `required_free_bytes`, and run:
+Deadflow 0.2.14, both catalogs:
 
-```text
-python3 scripts/stage_deadflow_0_2_14.py --publication docs/deadflow-0.2.14-publication.pending.json --apply
-```
+- URL `https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/Deadflow-v0.2.14.zip`
+- SHA-256 `4ec8a0c18a2a0f7d779301dcc69fb027ea4d116bf5190d18140cd555c2e97d34`
+- size `2587845`, uncompressed `2596591`, required free `542055348`
+- `javaPluginVersion` `0.2.14`, `minimumJavaLoaderVersion` `0.6.7`
+- plugin jar SHA-256 `092a61f0a2cf644ebc2ae235ad59df16e7d544214a331d2237bea8ee2084fcec`
+- source `5455b1720fddc962c971fa55ba78ca81a460486c`, tag `v0.2.14`
 
-The applier updates only the Deadflow objects in `manifest.json` and `manifests/faded-realms.json`. It refuses to run unless both catalogs are still the published 0.2.13 package, and it leaves PZ Optimized, FJL, and every other entry untouched. `minimumJavaLoaderVersion` stays `0.6.7`. The expected URL is `https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/Deadflow-v0.2.14.zip`.
+PZ Optimized 0.4.3, both catalogs:
 
-Suggested description, already in both `mod.info` files:
+- URL `https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/PZOptimized-v0.4.3.zip`
+- SHA-256 `4460ce81890358c6a3a36e053757bc56b6a0035a6c240e1d870d24da04a9e166`
+- size `251863885`, uncompressed `266476534`, required free `1055211331`
+- `javaPluginVersion` `0.4.3`, `minimumJavaLoaderVersion` `0.6.10`
+- plugin jar SHA-256 `043faa6528b228b8d71efc31528908a7068e693fc78a17f098b1ad6b00b694b5`
+- source `5ae12f7a539b50d7e81f2b5028420ed6b94f518f`, tag `v0.4.3`, snapshot baseline `49e598587b52c2eaecae89f4bcab64cd4b1d0c25`
 
-```text
-Population authority for new Deadflow worlds on 42.20.4, 42.21 and 42.22 (Windows and Linux dedicated). Stock 42.22 includes reviewed revisions e013dbb529 and 3d39148846. PZ Optimized 0.4.0 and 0.4.1 remain limited to revision e013dbb529. Older saved zombie snapshot formats are not migrated. Requires FJL 0.6.7+ and its fixed Bridge.
-```
-
-FJL was not modified. No server was restarted and no save backup was taken.
-
-## PZ Optimized 0.4.3
-
-The 0.2.14 client build fails HookAudit while the installed 0.4.2 loose classes are still the 2026-11-04 repair for revision `71e8410c42`. Deadflow 0.2.14, still unshipped, adds `PZO_0_4_3_EFFECTIVE_42_22` for revision `3d39148846`. That profile is not a catalog change. `scripts/stage_deadflow_0_2_14.py` still waits for the uploaded Deadflow zip measurements and does not edit the PZ Optimized entry. PZO 0.4.3 is a separate source patch applied in `E:\Mod Projects\PZ Optimized`. Its payload directory is created only by `scripts/payload/ReviewCurrentPreRelease.py` after a 42.22.0 or 42.22.1 baseline jar shows every retained target unchanged. Offline repair then rewrites `pzoptimized-installed.txt`. Until that repair, the live client still has the old ownership record and HookAudit remains refused.
+Parent gates that authorized this switch: 135 retained targets unchanged, PZO 90 tests with 0 failures and 1 platform skip, Windows offline repair passed, live Linux repair and its idempotent rerun passed with launcher SHA-256 `7014cadaeb072e21dac66e951769c41399af8fd4c555d9053aa4bb0736439f7a`, Linux HookAudit and NativeBoundary passed, and the Windows Deadflow suite passed. FJL 0.6.10 was not modified.

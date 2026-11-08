@@ -1,0 +1,22 @@
+{
+  "status": "confirmed-uploaded-asset",
+  "apply": true,
+  "catalogs": [
+    "manifest.json",
+    "manifests/faded-realms.json"
+  ],
+  "expected_tag": "mod-assets-2026-11-08-deadflow-0.2.14-b42.22",
+  "expected_download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/PZOptimized-v0.4.3.zip",
+  "zip_name": "PZOptimized-v0.4.3.zip",
+  "version": "0.4.3",
+  "javaPluginVersion": "0.4.3",
+  "updated_at": "2026-11-08",
+  "minimumJavaLoaderVersion": "0.6.10",
+  "required_from_uploaded_package": {
+    "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/PZOptimized-v0.4.3.zip",
+    "sha256": "4460ce81890358c6a3a36e053757bc56b6a0035a6c240e1d870d24da04a9e166",
+    "size_bytes": 251863885,
+    "uncompressed_size_bytes": 266476534,
+    "required_free_bytes": 1055211331
+  }
+}
