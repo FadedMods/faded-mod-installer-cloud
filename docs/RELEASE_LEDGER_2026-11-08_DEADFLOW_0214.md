@@ -43,3 +43,7 @@ Population authority for new Deadflow worlds on 42.20.4, 42.21 and 42.22 (Window
 ```
 
 FJL was not modified. No server was restarted and no save backup was taken.
+
+## PZ Optimized 0.4.3
+
+The 0.2.14 client build fails HookAudit while the installed 0.4.2 loose classes are still the 2026-11-04 repair for revision `71e8410c42`. Deadflow 0.2.14, still unshipped, adds `PZO_0_4_3_EFFECTIVE_42_22` for revision `3d39148846`. That profile is not a catalog change. `scripts/stage_deadflow_0_2_14.py` still waits for the uploaded Deadflow zip measurements and does not edit the PZ Optimized entry. PZO 0.4.3 is a separate source patch applied in `E:\Mod Projects\PZ Optimized`. Its payload directory is created only by `scripts/payload/ReviewCurrentPreRelease.py` after a 42.22.0 or 42.22.1 baseline jar shows every retained target unchanged. Offline repair then rewrites `pzoptimized-installed.txt`. Until that repair, the live client still has the old ownership record and HookAudit remains refused.

@@ -31,8 +31,9 @@ DESCRIPTION = (
     "Population authority for new Deadflow worlds on 42.20.4, 42.21 and 42.22 "
     "(Windows and Linux dedicated). Stock 42.22 includes reviewed revisions "
     "e013dbb529 and 3d39148846. PZ Optimized 0.4.0 and 0.4.1 remain limited to "
-    "revision e013dbb529. Older saved zombie snapshot formats are not migrated. "
-    "Requires FJL 0.6.7+ and its fixed Bridge."
+    "revision e013dbb529. PZ Optimized 0.4.3 is the reviewed full payload for "
+    "revision 3d39148846 after offline repair. Older saved zombie snapshot "
+    "formats are not migrated. Requires FJL 0.6.7+ and its fixed Bridge."
 )
 CURRENT_SHA256 = "46cdfa85c3ee9481cb5e238bf8415d529b7fd99e4e98afbba314dd27bcc2793f"
 REQUIRED_PUBLICATION_FIELDS = (
