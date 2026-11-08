@@ -1,0 +1,21 @@
+{
+  "status": "waiting-for-confirmed-asset",
+  "apply": false,
+  "catalogs": [
+    "manifest.json",
+    "manifests/faded-realms.json"
+  ],
+  "mod_id": "CommonSenseRebornTest",
+  "expected_tag": "mod-assets-2026-11-08-csr-test-2.1.4-b42.22",
+  "expected_download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-csr-test-2.1.4-b42.22/CommonSenseRebornTest-v2.1.4.zip",
+  "zip_name": "CommonSenseRebornTest-v2.1.4.zip",
+  "version": "2.1.4",
+  "updated_at": "2026-11-08",
+  "required_from_uploaded_package": {
+    "download_url": null,
+    "sha256": null,
+    "size_bytes": null,
+    "uncompressed_size_bytes": null,
+    "required_free_bytes": null
+  }
+}
