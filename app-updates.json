@@ -1,53 +1,53 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.3.25",
-  "published_at": "2026-11-02T18:42:23.603333+00:00",
+  "version": "0.3.26",
+  "published_at": "2026-11-10T16:30:54.811149+00:00",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.25",
-  "notes": "Stardew setup now stays inside the installer. Installing Darkdew Valley automatically sets up the verified official SMAPI loader and required Stardew Mod Framework. The Stardew tab also offers loader install, update and repair, with protected settings, recoverable game-local backups and clearer setup status. The existing Twilight Farm artwork and wide title are retained. No browser or separate loader download is required.",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.26",
+  "notes": "Linux FJL setup now isolates the external Java process from bundled Qt libraries while preserving user library paths and Java options. Failed FJL commands now show useful bounded diagnostics. Windows, Linux, Steam Deck and macOS packages retain existing installer features.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.3.25-windows.zip",
-      "sha256": "e275e69dbff7aded2210d4174740d6b4e4937f98a6dcc3bc07e941ed5e8ea9e7",
-      "size_bytes": 94083547
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.3.26-windows.zip",
+      "sha256": "c84f0cafa674b6f86f4cb436894992c0c00892cd74ccc32649f00317fd263165",
+      "size_bytes": 91478453
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.3.25-windows-multilingual.zip",
-      "sha256": "78732d38d315cbc8a4bce33e2a9211de99be7bbf9c37e1ae3b53917654a7d372",
-      "size_bytes": 94082385
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+      "sha256": "531ea0216fc9ccbc4b65887be0bddf14292d4472871bb9ccb68c0830d53e87bd",
+      "size_bytes": 91478707
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.25-linux-standard-x86_64.tar.gz",
-      "sha256": "7e07818b40d215e9cf587029587517983c858a16d0e39986d4514f4e786ad1bf",
-      "size_bytes": 428372430
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+      "sha256": "dc2af538d60805fadc067881dc259e4e33c971af133cea907c3c92f4bfc8880e",
+      "size_bytes": 428401534
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.25-linux-x86_64.tar.gz",
-      "sha256": "a6a933eaed8fec19b14f7cc4d315ac0dcd378fc385db5b549fb77bff3e116b5c",
-      "size_bytes": 339707198
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+      "sha256": "036ebb82e7b633457ec2823f7a16ec7cced0aed72f829c7dd588ef01f99dd36c",
+      "size_bytes": 339724978
     },
     "macos-arm64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.25-macos-arm64.zip",
-      "sha256": "072bdeddc5acb6f17cd150845a63f0bc2643abfbeedac7a214c14fce8d640491",
-      "size_bytes": 83745006
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "sha256": "dbd4d61f7c36f1d4916cf85509d3ab40e9979c1b3d2c07853e44080b02887bd2",
+      "size_bytes": 83748310
     },
     "macos-x86_64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-macos-x86_64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.25-macos-x86_64.zip",
-      "sha256": "61105efafb424f6478740e6726a8a5e1491610083111c1cfd11cbcfa4fab7a6c",
-      "size_bytes": 87199178
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+      "sha256": "acf8955a774ff979723e3427710fe91591b3062c9926a7310f9a7b1c8260c889",
+      "size_bytes": 87201225
     },
     "macos": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.25/FadedLocalModInstaller-0.3.25-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.25-macos-arm64.zip",
-      "sha256": "072bdeddc5acb6f17cd150845a63f0bc2643abfbeedac7a214c14fce8d640491",
-      "size_bytes": 83745006
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "sha256": "dbd4d61f7c36f1d4916cf85509d3ab40e9979c1b3d2c07853e44080b02887bd2",
+      "size_bytes": 83748310
     }
   }
 }
