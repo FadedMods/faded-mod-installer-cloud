@@ -1,0 +1,539 @@
+{
+  "allPublicServerSizesAndHashesVerified": true,
+  "assets": [
+    {
+      "name": "FadedLocalModInstaller-0.3.26-windows.zip",
+      "sha256": "c84f0cafa674b6f86f4cb436894992c0c00892cd74ccc32649f00317fd263165",
+      "size": 91478453
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-windows-bundle-proof.json",
+      "sha256": "f529134fdbec8d28fc5419d10061cce14043f35d352b7879c9ea3f0e7e5655c4",
+      "size": 19551
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+      "sha256": "531ea0216fc9ccbc4b65887be0bddf14292d4472871bb9ccb68c0830d53e87bd",
+      "size": 91478707
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-windows-multilingual-bundle-proof.json",
+      "sha256": "e0bd775351edbd7c9923dadb9a3a9a4dd258541f8f7490eb43ddb2e6e0d81311",
+      "size": 19564
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+      "sha256": "dc2af538d60805fadc067881dc259e4e33c971af133cea907c3c92f4bfc8880e",
+      "size": 428401534
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-linux-standard-bundle-proof.json",
+      "sha256": "c87446db3f039d921095eca847a6d4a8e01f46acb839e875f7cdeccb2c7525f8",
+      "size": 19518
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+      "sha256": "036ebb82e7b633457ec2823f7a16ec7cced0aed72f829c7dd588ef01f99dd36c",
+      "size": 339724978
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-linux-steamdeck-bundle-proof.json",
+      "sha256": "8033c09c051aeffdc485bda32913e6df01ec922e23eed86a79209175602377ce",
+      "size": 19519
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "sha256": "dbd4d61f7c36f1d4916cf85509d3ab40e9979c1b3d2c07853e44080b02887bd2",
+      "size": 83748310
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.dmg",
+      "sha256": "ae0e1d9197b2669a7054e578656516db9dffed5fec43225a8ddf3655c79487de",
+      "size": 90956675
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.sha256",
+      "sha256": "5363d25fea1627ffc47f3a2f199821c92f375e8dc7cc572b5db360a690ffbddf",
+      "size": 224
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64-bundle-proof.json",
+      "sha256": "9a9295ca0c3eb6fd8cc339751863e6a85ce12486aa805556d5c46435163b9736",
+      "size": 19531
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+      "sha256": "acf8955a774ff979723e3427710fe91591b3062c9926a7310f9a7b1c8260c889",
+      "size": 87201225
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.dmg",
+      "sha256": "905360415c86940a15c19f5e556f66a84e636087c401dca9a9b5455ba5c2b7af",
+      "size": 94550599
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.sha256",
+      "sha256": "e7504a99d6248dbc147eb12ddab99f9e68d40a6454abb2ded88a2a7bab6bd6fb",
+      "size": 226
+    },
+    {
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64-bundle-proof.json",
+      "sha256": "a243195f876d778fc92a613e6afdc4029b8414b3bc1bfb6a8eaeb2ca6ce13963",
+      "size": 19536
+    },
+    {
+      "name": "RELEASE_NOTES_0.3.26.md",
+      "sha256": "7e0f42b3a29ff92b688b441b84e473f313f9da68884db1ac6a88ca1d549a7de6",
+      "size": 1239
+    },
+    {
+      "name": "SHA256SUMS-0.3.26.txt",
+      "sha256": "5653765a28b93fc4649a4be24b8300accfd9601b760039f808cffda91d6db03a",
+      "size": 2010
+    }
+  ],
+  "assetsVerified": 30,
+  "existingCatalogValidators": {
+    "projectZomboid": "passed",
+    "scheduleI": "passed",
+    "stardewValley": "passed"
+  },
+  "existingUbuntuAssetReplaced": false,
+  "feedPromotionRecordedByPullRequest": true,
+  "feedSha256": "505370bff02bbbf4960eb5beac93a0c27af3a9c1c662dfd002c37b3bc20804b5",
+  "feedUrl": "https://raw.githubusercontent.com/FadedMods/faded-mod-installer-cloud/main/app-updates.json",
+  "modulesVerified": 23,
+  "nativeChecks": {
+    "linux-standard": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "x86_64",
+      "package": "FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+      "provenance": {
+        "artifact": "FadedLocalModInstaller-linux-standard-x86_64",
+        "artifactId": 13780695057,
+        "artifactSha256": "7a044ec1e195ed52e520d5419d8eb49adc933579b3f310d2d830ad3960c18a21",
+        "kind": "GitHub-Actions-native-build",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447",
+        "workflowRun": "https://github.com/FadedMods/faded-local-mod-installer/actions/runs/42848970580"
+      }
+    },
+    "linux-steamdeck": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "x86_64",
+      "package": "FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+      "provenance": {
+        "artifact": "FadedLocalModInstaller-linux-steamdeck-x86_64",
+        "artifactId": 13780375118,
+        "artifactSha256": "494218713c1e17efbe7f10f6dcc86f511ae0879dced5ff4724eddd86876cba03",
+        "kind": "GitHub-Actions-native-build",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447",
+        "workflowRun": "https://github.com/FadedMods/faded-local-mod-installer/actions/runs/42848970580"
+      }
+    },
+    "macos-arm64": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "arm64",
+      "package": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "provenance": {
+        "artifact": "FadedLocalModInstaller-macos-arm64",
+        "artifactId": 13778674773,
+        "artifactSha256": "225ceaf2ae79f857d27c8dfe9b075eca65d6cd6d422917877b9ccd3ab1291073",
+        "kind": "GitHub-Actions-native-build",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447",
+        "workflowRun": "https://github.com/FadedMods/faded-local-mod-installer/actions/runs/42848970615"
+      }
+    },
+    "macos-x86_64": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "x86_64",
+      "package": "FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+      "provenance": {
+        "artifact": "FadedLocalModInstaller-macos-x86_64",
+        "artifactId": 13781185474,
+        "artifactSha256": "09f047bc2294f45a191f757cb1bf970999506bd91826c16c458be11c39afc8bb",
+        "kind": "GitHub-Actions-native-build",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447",
+        "workflowRun": "https://github.com/FadedMods/faded-local-mod-installer/actions/runs/42848970615"
+      }
+    },
+    "windows": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "x86_64",
+      "package": "FadedLocalModInstaller-0.3.26-windows.zip",
+      "provenance": {
+        "githubActionsRunClaimed": false,
+        "kind": "local-native-Windows-build",
+        "maintainedBuildScript": "scripts/build_candidate.ps1",
+        "qualificationReceiptSha256": "b15f451f49f018fd6c7381ebd68f56f479f7fb28aac11048a635ed9213a24e97",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447"
+      }
+    },
+    "windows-multilingual": {
+      "archiveIntegrityVerified": true,
+      "assetsVerified": 30,
+      "executableHashMatchesNativeProof": true,
+      "modulesVerified": 23,
+      "nativeMachine": "x86_64",
+      "package": "FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+      "provenance": {
+        "githubActionsRunClaimed": false,
+        "kind": "local-native-Windows-build",
+        "maintainedBuildScript": "scripts/build_candidate.ps1",
+        "qualificationReceiptSha256": "b15f451f49f018fd6c7381ebd68f56f479f7fb28aac11048a635ed9213a24e97",
+        "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447"
+      }
+    }
+  },
+  "oldSettingsConsumer": {
+    "candidateVersion": "0.3.26",
+    "cases": [
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-windows.zip",
+        "offeredVersion": "0.3.26",
+        "platform": "windows",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      },
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+        "offeredVersion": "0.3.26",
+        "platform": "windows-multilingual",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      },
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+        "offeredVersion": "0.3.26",
+        "platform": "linux-standard",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      },
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+        "offeredVersion": "0.3.26",
+        "platform": "linux-steamdeck",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      },
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+        "offeredVersion": "0.3.26",
+        "platform": "macos-arm64",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      },
+      {
+        "asset": "FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+        "offeredVersion": "0.3.26",
+        "platform": "macos-x86_64",
+        "repeatUpdateAfter026": false,
+        "updateFrom025": true
+      }
+    ],
+    "consumerSourceCommit": "5dbd56578d13b287271e1a28396da5734f988690",
+    "consumerVersion": "0.3.25",
+    "legacyMacAliasPreserved": true,
+    "passed": true,
+    "scope": "Unmodified Settings fetch/version/asset selector; platform identities and HTTP body controlled",
+    "userInstallationChanged": false
+  },
+  "overwriteAllowed": false,
+  "preexistingMacFinderVersion": "0.0.0; runtime and updater are 0.3.26",
+  "publicAssets": [
+    {
+      "assetId": 732130322,
+      "name": "FadedLocalModInstaller-0.3.26-linux-standard-bundle-proof.json",
+      "sha256": "c87446db3f039d921095eca847a6d4a8e01f46acb839e875f7cdeccb2c7525f8",
+      "size": 19518,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-standard-bundle-proof.json"
+    },
+    {
+      "assetId": 732065086,
+      "name": "FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz",
+      "sha256": "dc2af538d60805fadc067881dc259e4e33c971af133cea907c3c92f4bfc8880e",
+      "size": 428401534,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-standard-x86_64.tar.gz"
+    },
+    {
+      "assetId": 732130350,
+      "name": "FadedLocalModInstaller-0.3.26-linux-steamdeck-bundle-proof.json",
+      "sha256": "8033c09c051aeffdc485bda32913e6df01ec922e23eed86a79209175602377ce",
+      "size": 19519,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-steamdeck-bundle-proof.json"
+    },
+    {
+      "assetId": 732130355,
+      "name": "FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz",
+      "sha256": "036ebb82e7b633457ec2823f7a16ec7cced0aed72f829c7dd588ef01f99dd36c",
+      "size": 339724978,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-linux-x86_64.tar.gz"
+    },
+    {
+      "assetId": 732130324,
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64-bundle-proof.json",
+      "sha256": "9a9295ca0c3eb6fd8cc339751863e6a85ce12486aa805556d5c46435163b9736",
+      "size": 19531,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64-bundle-proof.json"
+    },
+    {
+      "assetId": 732130338,
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.dmg",
+      "sha256": "ae0e1d9197b2669a7054e578656516db9dffed5fec43225a8ddf3655c79487de",
+      "size": 90956675,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64.dmg"
+    },
+    {
+      "assetId": 732130415,
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.sha256",
+      "sha256": "5363d25fea1627ffc47f3a2f199821c92f375e8dc7cc572b5db360a690ffbddf",
+      "size": 224,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64.sha256"
+    },
+    {
+      "assetId": 732130420,
+      "name": "FadedLocalModInstaller-0.3.26-macos-arm64.zip",
+      "sha256": "dbd4d61f7c36f1d4916cf85509d3ab40e9979c1b3d2c07853e44080b02887bd2",
+      "size": 83748310,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-arm64.zip"
+    },
+    {
+      "assetId": 732130423,
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64-bundle-proof.json",
+      "sha256": "a243195f876d778fc92a613e6afdc4029b8414b3bc1bfb6a8eaeb2ca6ce13963",
+      "size": 19536,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-x86_64-bundle-proof.json"
+    },
+    {
+      "assetId": 732130482,
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.dmg",
+      "sha256": "905360415c86940a15c19f5e556f66a84e636087c401dca9a9b5455ba5c2b7af",
+      "size": 94550599,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-x86_64.dmg"
+    },
+    {
+      "assetId": 732130518,
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.sha256",
+      "sha256": "e7504a99d6248dbc147eb12ddab99f9e68d40a6454abb2ded88a2a7bab6bd6fb",
+      "size": 226,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-x86_64.sha256"
+    },
+    {
+      "assetId": 732130610,
+      "name": "FadedLocalModInstaller-0.3.26-macos-x86_64.zip",
+      "sha256": "acf8955a774ff979723e3427710fe91591b3062c9926a7310f9a7b1c8260c889",
+      "size": 87201225,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-macos-x86_64.zip"
+    },
+    {
+      "assetId": 732135043,
+      "name": "FadedLocalModInstaller-0.3.26-windows-bundle-proof.json",
+      "sha256": "f529134fdbec8d28fc5419d10061cce14043f35d352b7879c9ea3f0e7e5655c4",
+      "size": 19551,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows-bundle-proof.json"
+    },
+    {
+      "assetId": 732135277,
+      "name": "FadedLocalModInstaller-0.3.26-windows-multilingual-bundle-proof.json",
+      "sha256": "e0bd775351edbd7c9923dadb9a3a9a4dd258541f8f7490eb43ddb2e6e0d81311",
+      "size": 19564,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows-multilingual-bundle-proof.json"
+    },
+    {
+      "assetId": 732135579,
+      "name": "FadedLocalModInstaller-0.3.26-windows-multilingual.zip",
+      "sha256": "531ea0216fc9ccbc4b65887be0bddf14292d4472871bb9ccb68c0830d53e87bd",
+      "size": 91478707,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows-multilingual.zip"
+    },
+    {
+      "assetId": 732136446,
+      "name": "FadedLocalModInstaller-0.3.26-windows.zip",
+      "sha256": "c84f0cafa674b6f86f4cb436894992c0c00892cd74ccc32649f00317fd263165",
+      "size": 91478453,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/FadedLocalModInstaller-0.3.26-windows.zip"
+    },
+    {
+      "assetId": 732136402,
+      "name": "RELEASE_NOTES_0.3.26.md",
+      "sha256": "7e0f42b3a29ff92b688b441b84e473f313f9da68884db1ac6a88ca1d549a7de6",
+      "size": 1239,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/RELEASE_NOTES_0.3.26.md"
+    },
+    {
+      "assetId": 732136556,
+      "name": "SHA256SUMS-0.3.26.txt",
+      "sha256": "5653765a28b93fc4649a4be24b8300accfd9601b760039f808cffda91d6db03a",
+      "size": 2010,
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.26/SHA256SUMS-0.3.26.txt"
+    }
+  ],
+  "publicReleaseId": 440594622,
+  "releaseUrl": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.26",
+  "sourceAssetHashes": {
+    "faded-mods-icon.ico": {
+      "sha256": "dd4d240bfbdf1c13a8ded7580228f75d277a61f1c59a81cb7aef6fee9d62db7a",
+      "size": 136145
+    },
+    "faded-mods-icon.png": {
+      "sha256": "8688aab877163f9c70a5f9c7c0fde5e5d11b1caa466c0ff25080e7488317c06f",
+      "size": 364462
+    },
+    "faded-mods-logo.png": {
+      "sha256": "81166b2d1c0e9adadd955cf7de8672e2cf1c70a74301d14fa58a82b90638761a",
+      "size": 229065
+    },
+    "faded-workshop-hero.png": {
+      "sha256": "2b4f9116105baed2548482f77dff39b3f8b3b28425f59531fdf404a910fbfe3f",
+      "size": 1672175
+    },
+    "pz-character.png": {
+      "sha256": "bf693c2392792fd9587cfb88bad862a8b67fa3e4203de1b26316034e2eaafda7",
+      "size": 2850671
+    },
+    "pz-game-icon.png": {
+      "sha256": "330ae7beb27e6faf4d3a6f49a95ca15fbf166e6ab436b1d6c5fe909edbc317ea",
+      "size": 2747
+    },
+    "pz-wordmark.png": {
+      "sha256": "b01fd8207490f574e3157b94e6b34a4be93ae0317b34d57e22cfc9837f177399",
+      "size": 1147232
+    },
+    "pzf3d/faded-online-launcher.png": {
+      "sha256": "e08fa8c0dedc5098ef3dd2c6820cde1dbf3f41a7e7527183c641ca4bb72f3bb9",
+      "size": 1580097
+    },
+    "pzf3d/kentucky-last-quiet.png": {
+      "sha256": "f04d5eb0f3c1d56b09458624838ec2d0ed0abad61c79931f834eb234a3102a80",
+      "size": 2006361
+    },
+    "pzf3d/native-combat-20261017.png": {
+      "sha256": "e2baa5b80b0bf6e4568f7e35a67a7172628070d8f87aba824fb71db3e04d17a1",
+      "size": 3067890
+    },
+    "pzf3d/native-interior-20261007.png": {
+      "sha256": "6bc29d0c65e3cdde90e06610f9dad795c0b2b2338116235645a6a5cf0b5a62f6",
+      "size": 1910805
+    },
+    "pzf3d/native-interior.png": {
+      "sha256": "67e5c4bd52c01d69703961df51dafd4747bb01662a51188e7abbf30316ad1b59",
+      "size": 1781685
+    },
+    "pzf3d/native-menu.png": {
+      "sha256": "e6cc78ea8c8e5c170bef36efc67b213f984de89871c0292ba998bc668371300e",
+      "size": 4591026
+    },
+    "pzf3d/native-vehicles-20261017.png": {
+      "sha256": "29d4a08c39ab722e73acbb64cf186c34d513cf28a336fb461d3919a7d7b08b69",
+      "size": 2804929
+    },
+    "schedule-i-character.png": {
+      "sha256": "242587974a221761d308744b1cf76e9ab91a38e661d4ef85f73b2723df1c862c",
+      "size": 2731107
+    },
+    "schedule-i-game-icon.png": {
+      "sha256": "03a4f5a7d699e47976792c822e97892bf549977b3a06a550883528d29fc016c4",
+      "size": 2466
+    },
+    "schedule-i-wordmark.png": {
+      "sha256": "566587e13a532c44a97061721df56d88c7df7bf6d67d1a50d7bda3172f6dcca3",
+      "size": 1239864
+    },
+    "schedule-i/README.txt": {
+      "sha256": "facf029f26e132260ef570c4b94a71c97095d42f9ceb1da57be6cd9455f95eec",
+      "size": 2160
+    },
+    "schedule-i/catalog.json": {
+      "sha256": "2d8a439c9858a5eebc0eb4def2885cfb5ef06a6f6e48d113e35d84c6a9c5296a",
+      "size": 5063
+    },
+    "schedule-i/helper/FadedCore.Packages.deps.json": {
+      "sha256": "d9344cddcde609d82f9963f809fdfdb4f594f93598a23cf920a1eebe61142221",
+      "size": 448
+    },
+    "schedule-i/helper/FadedCore.Packages.dll": {
+      "sha256": "6acdf03c80d1efb8753411c6815871b025038fdc37a4266484b24cdcdf964c7c",
+      "size": 239616
+    },
+    "schedule-i/helper/FadedCore.Packages.runtimeconfig.json": {
+      "sha256": "0339137aef030f20a6fa58a7c34a03998054256c7888098622976981aeac59fa",
+      "size": 481
+    },
+    "schedule-i/packages/fadedcore-suite-0.4.0-25796331-local-rc1.fmod": {
+      "sha256": "0120e8147efb7f3d23a15161ee5b6f049a0a9769950989e5106334773852d7eb",
+      "size": 2562153
+    },
+    "schedule-i/trust/fadedcore-release.json": {
+      "sha256": "a7c12a1d68502061cd2597d20425049d49264eb47fd4cd0734c843028cdafd33",
+      "size": 849
+    },
+    "stardew-character.png": {
+      "sha256": "5da874b2d127b2bef941386070e7222a4092b351acb951b513fecf6ce202d760",
+      "size": 2068402
+    },
+    "stardew-game-icon.png": {
+      "sha256": "6c71790d3caf53809e3d13855f57ce9976c6a0f8849a83edb85d6fc2ae495272",
+      "size": 800915
+    },
+    "stardew-wordmark.png": {
+      "sha256": "3664122d52a0c1f94adf3ec1e162d1b008613df4b240dc2c57af18ac31ada6b9",
+      "size": 749237
+    },
+    "stardew/smapi-4.5.2.json": {
+      "sha256": "25f7f3e9a88d519c714b05f6929a60acb873b90b2efe2810c3ed2bded1787109",
+      "size": 24391
+    },
+    "worldforge-editor.png": {
+      "sha256": "eb37d27a2efa1582a43589fbece4f64cd7b63ab79f9469711d3180923deb04db",
+      "size": 2508469
+    },
+    "worldforge-map.png": {
+      "sha256": "733e24f665b4e156fd3c9ef5e8343a85ac8f0c01faac27269ad4dc8c76cb360c",
+      "size": 2666999
+    }
+  },
+  "sourceCommit": "6aa3c35e81ed44faaaf9ec5167dfb67ce0f06447",
+  "sourceModuleHashes": {
+    "app.app_config": "03a9305c5d0442150560fc4913622a17e24cfdc9386715ef08641106e5eeeab4",
+    "app.cli": "8a958e41844d9e88c40a9fc824bcd6aab95e7a0c9e6e8bb21111290b9da1e97d",
+    "app.game_shell": "5180897865773bb7e4100ae00e2b84c2768c6c4ea91cca6f1ababc5fe55e8c15",
+    "app.java_loader": "b0b6af3e706874ec5eae6ec0a1e857beb03b96328dec5eafca736905553ca0f7",
+    "app.java_mod_installer": "0c1704e04114263986726f62de40a6c9fcefa9874e3b584bf7df74e76da9b07f",
+    "app.pzf3d_online": "a275b0816153996ee6da6a031c54db1a70aaa4a539fcf73f03571d2cc38736a4",
+    "app.pzf3d_ui": "d86aab682bcbcafa5d1cdcc93ce8624fd95a5b648fa4395831c9339d0ff25802",
+    "app.schedule_i_backups": "0f598abaeda43c1e119c6cb66007a50eaf74bd80342847b85c7ba73fb2809927",
+    "app.schedule_i_catalog": "f8aa550c93d5d853339dccf4d6993f0a1bd7f59cd1a969f303433574e3fa26e2",
+    "app.schedule_i_components": "8e5afff60e4e37edba811088d0afd2e01d47189d5910842dd4a904695d1e45e2",
+    "app.schedule_i_config": "5a7d88a9bb3c5e06a51c8e934d6cb0858a96c546df4434158d228cfe8851e484",
+    "app.schedule_i_manager": "749554e9862ed18a85de2d4a4799f76f4e1bd4126fdd3ad107d3e435e14ca4a2",
+    "app.schedule_i_prerequisites": "6923f58db85baa811f754d4df1562da64725ed9aefcbd6da5a4b4fa1f4fc5c66",
+    "app.schedule_i_release": "96583fd9f198598f368d79f3bcedb6628ab4c9e2ba34a8f7d603d768e1adb5bf",
+    "app.schedule_i_window": "6b2b1499aca59a133d48fcd44d89bec2e7a9c8d6e2ed8b1c9d43300063db76a2",
+    "app.self_update": "b108b506714beb769d5648d9986b14c81a44cefb530e3f6bbd141da305df61ce",
+    "app.stardew_catalog": "81a1dd5736561196e17e7597bea303496d72371fd0790ba2200060175a67d790",
+    "app.stardew_config": "0a8a8abb0fece8fef23d815122a717a4efc7e38c24e343e19e6946279b357fd7",
+    "app.stardew_manager": "b01f2107368e1f9c21a028e9527fe43645f8bb56d4adabe96f8b466ff9712a77",
+    "app.stardew_smapi": "3dcbadf21187ccbf5c30654d46e9975dce78b58bfe6898d71253a7f22c42eeb6",
+    "app.stardew_window": "736db02e5c647df676c100ab1a1dcea589c86336b5aa926ad00c3bd1afd420a4",
+    "app.ui": "a17d6b36ef48a13435b3fe230e670738ed6c40d0a64711efc9bf9f7cc5be7610",
+    "app.version": "d59f778d75cc0004877425408334d386df6afe3181174ac370f55fa7ed0b6c9e"
+  },
+  "sourceTag": "faded-local-mod-installer-0.3.26",
+  "status": "public-release-complete-stable-feed-candidate",
+  "unauthenticatedPublicApiVerified": true,
+  "version": "0.3.26"
+}
