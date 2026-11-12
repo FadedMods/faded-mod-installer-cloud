@@ -1536,15 +1536,15 @@
       "id": "WhatAWorld",
       "server_mod_id": "WhatAWorld",
       "name": "What A World",
-      "version": "1.4.7",
+      "version": "1.4.8",
       "description": "1.4.7 fixes black or invisible models caused by unsafe native model-uniform caching. Aliased alpha and ambient setters and external engine writes now reach stock shader uploads. Optional native plugin 1.3.4. Movement gear sounds, climate, weather stations, integrated world systems and consent-based performance advice remain available.",
-      "updated_at": "2026-10-03",
-      "uncompressed_size_bytes": 205902146,
-      "required_free_bytes": 888552865,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-03-fadedrealms-compatibility-repair/WhatAWorld-v1.4.7.zip",
-      "zip_name": "WhatAWorld-v1.4.7.zip",
-      "size_bytes": 145779807,
-      "sha256": "55fd2b8eba70863b2caeac174f0de059d86190dfab5339d9e06a2b9569904350"
+      "updated_at": "2026-11-11",
+      "uncompressed_size_bytes": 205902171,
+      "required_free_bytes": 888552917,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-11-whataworld-1.4.8-pz42.22.2/WhatAWorld-v1.4.8.zip",
+      "zip_name": "WhatAWorld-v1.4.8.zip",
+      "size_bytes": 145779834,
+      "sha256": "dd7612955bacc6050599e51c383536943a0460bdc83ea2cfbff49114ec0501b3"
     },
     {
       "id": "WhatAWorldTexturesPotato",
