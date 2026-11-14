@@ -1988,6 +1988,26 @@
       "zip_name": "LastReinsOfKnox-v0.4.0.zip",
       "size_bytes": 75798733,
       "sha256": "245c8c694a3c704c63dfe3a205cb60687f40a5556dd7dfdc8050ea89829b906f"
+    },
+    {
+      "id": "FadedPerformanceEvolution",
+      "server_mod_id": "FadedPerformanceEvolution",
+      "name": "Faded Performance Evolution",
+      "version": "0.2.1",
+      "description": "Experimental B42.22.2 client module: simpler arcade drivetrain and adaptive native wheel physics, tiered zombie updates, crowd-triggered clothing detail and live isometric cel controls. Includes 21 sandbox controls and an in-game panel. Requires FJL 0.6.10 and its bridge. Native wheel reduction is Windows x64/single-player only; full-stack gameplay and FPS remain unverified.",
+      "updated_at": "2026-11-14",
+      "uncompressed_size_bytes": 4366644,
+      "required_free_bytes": 545344656,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-14-fpe-0.2.1/FadedPerformanceEvolution-v0.2.1.zip",
+      "zip_name": "FadedPerformanceEvolution-v0.2.1.zip",
+      "size_bytes": 4107100,
+      "sha256": "a84ba528866798266aecba473f84afe1fa0382880bfcd2ac938f93445caf7f4f",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.6.10",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "faded.performance.evolution",
+      "javaPluginVersion": "0.2.1",
+      "javaPluginMode": "HYBRID"
     }
   ]
 }
