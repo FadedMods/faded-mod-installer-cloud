@@ -1225,20 +1225,6 @@
       "sha256": "1695220fa71ed628f8b8c3fd648cee00f0ce3b368b35705ca3df198f606d595a"
     },
     {
-      "id": "NeverForget",
-      "server_mod_id": "NeverForget",
-      "name": "Never Forget: Athena",
-      "version": "1.0.5",
-      "description": "A small, respectful tribute to Athena. Admin-spawned, placeable, and made to hold a few warm moments of remembrance.",
-      "updated_at": "2026-08-16",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-08-16-sixteen-mod-update/NeverForget-v1.0.5.zip",
-      "zip_name": "NeverForget-v1.0.5.zip",
-      "size_bytes": 3824860,
-      "sha256": "227356a78d5daf9fa0dda02b62c4623b4e7ddd25a9fff51dbfd05c2576d9f285",
-      "uncompressed_size_bytes": 3878586,
-      "required_free_bytes": 544574358
-    },
-    {
       "id": "FadedConditionGuns",
       "server_mod_id": "FadedConditionGuns",
       "name": "Faded Condition Guns",
