@@ -605,15 +605,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.3.5",
-      "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20 and 42.21. The Hive occupies roosts by day, marks its quarry and hunts into a Hollow Dawn. The Living Ladder lets existing adult hunters brace into towers and scree ramps to reach open upper floors and cross tall fences. Enabled automatically, with controlled population recovery and an optional Java accelerator. Echoes of Humanity and My Only Friend are optional peers; no dependency is required. Fixes a Build 42.22.2 Lua error in the Living Ladder client update.",
+      "version": "2.3.6",
+      "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20 and 42.21. The Hive occupies roosts by day, marks its quarry and hunts into a Hollow Dawn. The Living Ladder lets existing adult hunters brace into towers and scree ramps to reach open upper floors and cross tall fences. Enabled automatically, with controlled population recovery and an optional Java accelerator. Echoes of Humanity and My Only Friend are optional peers; no dependency is required. Fixes Build 42.22.2 errors in Living Ladder client updates and world sound handling.",
       "updated_at": "2026-11-18",
-      "uncompressed_size_bytes": 8162271,
-      "required_free_bytes": 551532416,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-18-fadedsthehive-2.3.5/FadedsTheHive-v2.3.5.zip",
-      "zip_name": "FadedsTheHive-v2.3.5.zip",
-      "size_bytes": 6499233,
-      "sha256": "1525900ecf94917c19e47986fb2359fdb3740a714b3b2ad8cc9c462926f1ff97"
+      "uncompressed_size_bytes": 8162326,
+      "required_free_bytes": 551532558,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-18-fadedsthehive-2.3.6/FadedsTheHive-v2.3.6.zip",
+      "zip_name": "FadedsTheHive-v2.3.6.zip",
+      "size_bytes": 6499320,
+      "sha256": "14090e8d73e77836e7f88a4be0e30977e6e2d2e131fcc6f0c74182dff4f0d6a6"
     },
     {
       "id": "FadedTradeNetwork",
