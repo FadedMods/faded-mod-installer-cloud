@@ -883,26 +883,33 @@
     {
       "id": "ArmorPK",
       "name": "Faded's Armor Pack",
-      "version": "2.2.1",
-      "description": "Standalone Build 42.20 tactical armor collection with native night vision support, zombie outfits, and sandbox-controlled loot rarity.",
-      "updated_at": "2026-09-19",
+      "version": "3.0.1",
+      "description": "Build 42.22.2 armor overhaul with rebuilt 3D fits and textures, powered night vision, equipment loot by location, role-based zombie outfits, and optional adaptive body fitting.",
+      "updated_at": "2026-11-20",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-19-armorpk-2.2.1/ArmorPK-v2.2.1-part1.zip",
-          "zip_name": "ArmorPK-v2.2.1-part1.zip",
-          "size_bytes": 1762856638,
-          "sha256": "1a0d2a8373f9a5c763daec6f0e31c863a9724e3fbee21295a3372106372e1d61"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-20-armorpk-3.0.1/ArmorPK-v3.0.1-part1.zip",
+          "zip_name": "ArmorPK-v3.0.1-part1.zip",
+          "size_bytes": 1769465737,
+          "sha256": "67f6604a356dd9cb65cca662c69286402e261e62171ef17a9259afa94ee2b549"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-09-19-armorpk-2.2.1/ArmorPK-v2.2.1-part2.zip",
-          "zip_name": "ArmorPK-v2.2.1-part2.zip",
-          "size_bytes": 1485225721,
-          "sha256": "f21279b1d9a1bf66ac11c048c86f34105c0fb9778ddf197fab5d63ba7b41fa2c"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-20-armorpk-3.0.1/ArmorPK-v3.0.1-part2.zip",
+          "zip_name": "ArmorPK-v3.0.1-part2.zip",
+          "size_bytes": 1887408495,
+          "sha256": "6600a5777aa57bfbb40542683bb1e60e4c2794007ca6a8d822022399d3f304b4"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-20-armorpk-3.0.1/ArmorPK-v3.0.1-part3.zip",
+          "zip_name": "ArmorPK-v3.0.1-part3.zip",
+          "size_bytes": 22074497,
+          "sha256": "509bfe054e731443ac701e150b238fa8bab014be6d482abdba4b27ab926f0577"
         }
       ],
-      "uncompressed_size_bytes": 3373198067,
-      "required_free_bytes": 7158151338,
-      "server_mod_id": "ArmorPK"
+      "uncompressed_size_bytes": 3795572673,
+      "required_free_bytes": 8011392314,
+      "server_mod_id": "ArmorPK",
+      "requiresJavaLoader": false
     },
     {
       "id": "FadedArsenalDeadCountyMunitions",
