@@ -612,15 +612,15 @@
       "id": "FadedsTheHive",
       "server_mod_id": "FadedsTheHive",
       "name": "Faded's The Hive",
-      "version": "2.3.6",
-      "description": "The Long Hunt: a server-authoritative zombie ecology for B42.20 and 42.21. The Hive occupies roosts by day, marks its quarry and hunts into a Hollow Dawn. The Living Ladder lets existing adult hunters brace into towers and scree ramps to reach open upper floors and cross tall fences. Enabled automatically, with controlled population recovery and an optional Java accelerator. Echoes of Humanity and My Only Friend are optional peers; no dependency is required. Fixes Build 42.22.2 errors in Living Ladder client updates and world sound handling.",
-      "updated_at": "2026-11-18",
-      "uncompressed_size_bytes": 8162326,
-      "required_free_bytes": 551532558,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-18-fadedsthehive-2.3.6/FadedsTheHive-v2.3.6.zip",
-      "zip_name": "FadedsTheHive-v2.3.6.zip",
-      "size_bytes": 6499320,
-      "sha256": "14090e8d73e77836e7f88a4be0e30977e6e2d2e131fcc6f0c74182dff4f0d6a6"
+      "version": "2.3.8",
+      "description": "Server-authoritative zombie ecology with hunts, Living Ladder structures, and controlled population recovery. Version 2.3.8 reduces repeated actor and path scheduling work on Build 42.22.2. The Java accelerator remains optional.",
+      "updated_at": "2026-11-21",
+      "uncompressed_size_bytes": 8163488,
+      "required_free_bytes": 551528106,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedsTheHive-v2.3.8.zip",
+      "zip_name": "FadedsTheHive-v2.3.8.zip",
+      "size_bytes": 6493706,
+      "sha256": "c12f24b347e29cb0b03fae6902b9f67eaf6b336a50d3a2a6cf45f980a8c8e7e4"
     },
     {
       "id": "FadedTradeNetwork",
@@ -1415,21 +1415,21 @@
       "id": "EchoesOfHumanity",
       "server_mod_id": "EchoesOfHumanity",
       "name": "Echoes of Humanity",
-      "version": "0.24.1",
-      "description": "Rust accelerates batched road routing and NPC simulation scheduling on Windows and Linux x64. Existing native survivors, factions and saves are preserved on Project Zomboid 42.22.2. Includes automatic Java fallback and requires Faded Java Loader 0.6.7+ and its Bridge.",
-      "updated_at": "2026-11-20",
+      "version": "0.24.2",
+      "description": "Native Echoes survivors recognize passengers seated in the same supported RV cabin, so a driver can continue without braking for their own passenger. Includes the Rust simulation core, player factions, and live Knox County radio reports from 0.24.1. For Project Zomboid 42.22.2 with Faded Java Loader 0.6.7+ and its Bridge.",
+      "updated_at": "2026-11-21",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.7",
       "javaEnvironment": "BOTH",
       "javaPluginId": "faded.echoesofhumanity",
-      "javaPluginVersion": "0.24.1",
+      "javaPluginVersion": "0.24.2",
       "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 493522548,
-      "required_free_bytes": 1829317584,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-20-echoes-0.24.1-rustcore/EchoesOfHumanity-v0.24.1.zip",
-      "zip_name": "EchoesOfHumanity-v0.24.1.zip",
-      "size_bytes": 305401576,
-      "sha256": "5ca23694c0fe31d998083804a54dbc7874d0801448586c91d431e53f611a244a"
+      "uncompressed_size_bytes": 493520173,
+      "required_free_bytes": 1335104031,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/EchoesOfHumanity-v0.24.2.zip",
+      "zip_name": "EchoesOfHumanity-v0.24.2.zip",
+      "size_bytes": 304712946,
+      "sha256": "0e7da7735ea54b59957354a7a8940c2b9de1cee54d5a197f6a0be427481720db"
     },
     {
       "id": "TheBigTreeFix",
@@ -1982,21 +1982,31 @@
       "id": "FadedPerformanceEvolution",
       "server_mod_id": "FadedPerformanceEvolution",
       "name": "Faded Performance Evolution",
-      "version": "0.2.3",
-      "description": "Experimental B42.22.2 client performance and visual toolkit: 32 sandbox controls; compact movable HUD icon with saved position and CSR Main/Test docking; six isometric styles and lighting presets; tiered updates, adaptive zombie clothing, animation/render-buffer reuse and simpler eligible vehicle work. Requires FJL 0.6.10. Native vehicle reduction is Windows x64/single-player only. FPS gains and all-mod gameplay are not guaranteed.",
-      "updated_at": "2026-11-15",
-      "uncompressed_size_bytes": 4906197,
-      "required_free_bytes": 546403944,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-15-fpe-0.2.3/FadedPerformanceEvolution-v0.2.3.zip",
-      "zip_name": "FadedPerformanceEvolution-v0.2.3.zip",
-      "size_bytes": 4626835,
-      "sha256": "19659dd61a06debb7af7f89dc43298b8a4d5952b67fcf81b5ffc5923a99f5e4d",
+      "version": "0.3.1",
+      "description": "B42.22.2 client performance and visual toolkit with switchable 3D isometric and shoulder battle views, rebuilt scenery, animated doors, changing sky and water, swimming, shared security cameras and mobile-base interiors. Requires Faded Java Loader 0.6.10.",
+      "updated_at": "2026-11-21",
+      "uncompressed_size_bytes": 1766811435,
+      "required_free_bytes": 3647354879,
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.10",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "faded.performance.evolution",
-      "javaPluginVersion": "0.2.3",
-      "javaPluginMode": "HYBRID"
+      "javaPluginVersion": "0.3.1",
+      "javaPluginMode": "HYBRID",
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedPerformanceEvolution-v0.3.1.zip",
+          "zip_name": "FadedPerformanceEvolution-v0.3.1.zip",
+          "size_bytes": 1339300320,
+          "sha256": "60c98f9f4bc52ef9514ac70de8aa6f86a10405ad5161b15c378faa0d853f6dd5"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedPerformanceEvolution-v0.3.1-resources.zip",
+          "zip_name": "FadedPerformanceEvolution-v0.3.1-resources.zip",
+          "size_bytes": 4372212,
+          "sha256": "bf0aeddda64c92044481a9a3ecbb28f90be464056d551b3f9cb9b18bee4cf8a0"
+        }
+      ]
     }
   ]
 }
