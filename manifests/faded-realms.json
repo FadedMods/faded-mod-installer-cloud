@@ -105,23 +105,23 @@
       "id": "FadedPerformanceEvolution",
       "server_mod_id": "FadedPerformanceEvolution",
       "name": "Faded Performance Evolution",
-      "version": "0.3.2",
-      "description": "Build 42.22.2 client visuals and performance with dimensional 3D foliage, weather-aware lighting, vehicle rendering fixes, and Rust terrain preparation while driving. Requires Faded Java Loader 0.6.10.",
-      "updated_at": "2026-11-21",
-      "uncompressed_size_bytes": 1766860040,
-      "required_free_bytes": 3647320959,
+      "version": "0.3.3",
+      "description": "Build 42.22.2 client visuals and performance. Uses shared GPU zombie poses with native mesh draws in FPE's 3D views. Requires Faded Java Loader 0.6.10.",
+      "updated_at": "2026-11-22",
+      "uncompressed_size_bytes": 1766926525,
+      "required_free_bytes": 3647410737,
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.10",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "faded.performance.evolution",
-      "javaPluginVersion": "0.3.2",
+      "javaPluginVersion": "0.3.3",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-0.3.2-hive-2.3.9/FadedPerformanceEvolution-v0.3.2.zip",
-          "zip_name": "FadedPerformanceEvolution-v0.3.2.zip",
-          "size_bytes": 1339217795,
-          "sha256": "6adf1ca42737b19f09d3557e20fc21a3447a748ad8857000804f24caa350b328"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.3-shared-poses/FadedPerformanceEvolution-v0.3.3.zip",
+          "zip_name": "FadedPerformanceEvolution-v0.3.3.zip",
+          "size_bytes": 1339241088,
+          "sha256": "a0b10df8da9cd6b7b50fb381441c797032b7955a3d3622f963d605d6de15e329"
         },
         {
           "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedPerformanceEvolution-v0.3.1-resources.zip",
