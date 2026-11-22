@@ -15,7 +15,7 @@ MANIFEST_PATHS = (
     PROJECT_ROOT / "manifests" / "faded-realms.json",
 )
 FADED_REALMS_MANIFEST = PROJECT_ROOT / "manifests" / "faded-realms.json"
-# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15). The installer Faded Realms
+# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15; Knox Reborn Lite removed 2026-11-21). The installer Faded Realms
 # catalog must match this set exactly. Do not add a catalog-only extra.
 FADED_REALMS_LIVE_MOD_IDS = frozenset(
     {
@@ -55,7 +55,6 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "ItsATrap",
         "Just2Faded",
         "KnoxNetOS",
-        "KnoxReborn",
         "LastReinsOfKnox",
         "LifestyleHobbies",
         "MilitaryVehiclesReborn",
