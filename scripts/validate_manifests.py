@@ -15,7 +15,7 @@ MANIFEST_PATHS = (
     PROJECT_ROOT / "manifests" / "faded-realms.json",
 )
 FADED_REALMS_MANIFEST = PROJECT_ROOT / "manifests" / "faded-realms.json"
-# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15; Knox Reborn Lite removed 2026-11-21). The installer Faded Realms
+# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15; Knox Reborn Lite removed 2026-11-21; Character Creator removed 2026-11-22). The installer Faded Realms
 # catalog must match this set exactly. Do not add a catalog-only extra.
 FADED_REALMS_LIVE_MOD_IDS = frozenset(
     {
@@ -25,7 +25,6 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "BuckShotRoulette",
         "BuildcraftReborn",
         "CATConstruction",
-        "CharacterCreator",
         "ChocoboGo",
         "CommonSenseRebornTest",
         "CSR_ClearviewGPS",
@@ -215,8 +214,12 @@ def validate_manifests(paths: Iterable[Path]) -> list[str]:
                 if zip_name.casefold() == QUARANTINED_ZIP_NAME.casefold():
                     errors.append(f"{path}: quarantined {PFC_ID} 2.1.0 ZIP name is present")
 
+        is_faded_realms = path.resolve() == FADED_REALMS_MANIFEST.resolve()
         for mod_id in SYNCHRONIZED_RELEASE_IDS:
             matches = [mod for mod in mods if isinstance(mod, dict) and mod.get("id") == mod_id]
+            if is_faded_realms and not matches and mod_id not in FADED_REALMS_LIVE_MOD_IDS:
+                # Not part of the live Faded Realms pack, so there is nothing to keep in sync.
+                continue
             if len(matches) != 1:
                 errors.append(f"{path}: expected exactly one {mod_id} entry, found {len(matches)}")
             else:
