@@ -15,7 +15,7 @@ MANIFEST_PATHS = (
     PROJECT_ROOT / "manifests" / "faded-realms.json",
 )
 FADED_REALMS_MANIFEST = PROJECT_ROOT / "manifests" / "faded-realms.json"
-# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15; Knox Reborn Lite removed 2026-11-21; Character Creator removed 2026-11-22). The installer Faded Realms
+# Live Faded Realms dedicated-server Mods= pack (Season 3 rebuild 2026-11-15; Knox Reborn Lite removed 2026-11-21; Character Creator removed 2026-11-22, re-added at 2.7.4 the same day). The installer Faded Realms
 # catalog must match this set exactly. Do not add a catalog-only extra.
 FADED_REALMS_LIVE_MOD_IDS = frozenset(
     {
@@ -25,6 +25,7 @@ FADED_REALMS_LIVE_MOD_IDS = frozenset(
         "BuckShotRoulette",
         "BuildcraftReborn",
         "CATConstruction",
+        "CharacterCreator",
         "ChocoboGo",
         "CommonSenseRebornTest",
         "CSR_ClearviewGPS",

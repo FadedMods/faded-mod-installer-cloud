@@ -230,6 +230,26 @@
       "javaPluginMode": "HYBRID"
     },
     {
+      "id": "CharacterCreator",
+      "server_mod_id": "CharacterCreator",
+      "name": "Character Creator",
+      "version": "2.7.4",
+      "description": "Build 42.22.2 creator loading and eye detail update. Background wardrobe indexing, FPE 0.3.3 renderer compatibility and a raised head pose for Faded.",
+      "uncompressed_size_bytes": 2183114662,
+      "required_free_bytes": 6708916632,
+      "updated_at": "2026-11-22",
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-charactercreator-2.7.4/CharacterCreator-v2.7.4.zip",
+      "zip_name": "CharacterCreator-v2.7.4.zip",
+      "size_bytes": 1805816396,
+      "sha256": "b7069e0b4697abe6e15f32ce0c15b28580332cbf3dfc1f1961021a11a67c4bbb",
+      "requiresJavaLoader": true,
+      "minimumJavaLoaderVersion": "0.3.4",
+      "javaEnvironment": "CLIENT",
+      "javaPluginId": "charactercreator.morph",
+      "javaPluginVersion": "1.0.5",
+      "javaPluginMode": "HYBRID"
+    },
+    {
       "id": "FadedsErrorDetected",
       "server_mod_id": "FadedsErrorDetected",
       "name": "Faded's Error Detected",
