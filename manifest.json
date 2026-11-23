@@ -32,80 +32,80 @@
   },
   "java_loader_v2": {
     "product": "FadedJavaLoader",
-    "version": "0.6.10",
+    "version": "0.6.11",
     "minimum_pz_build": "42.20.4",
     "trusted_key_id": "faded-fjl-release-2026-08-r4",
     "artifacts": {
       "client-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-client-windows-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-client-windows-0.6.10.zip",
-        "size_bytes": 16156875,
-        "sha256": "8b3ce0aeef4d56ad0b4008efd2a26e29517cf2767e24d931a6e77ad3bac9a448",
-        "signature": "51HhsTteN6EBMo0CEzSiPzPQU6qvaSN2xfO/OgORTO31VUUWDygXCewmgwsyehd5df0dmfPsIPLqXiFuHELuDA=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-client-windows-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.6.11.zip",
+        "size_bytes": 16173297,
+        "sha256": "693d9d54813fe52d4871d8a01176468173aa7c79d881e8fb28e10f1d2a0e210d",
+        "signature": "ZoBKPVZ1mlyie/m5ibMQwMt5pEKe1nNHaIW/knWs0m/P9ZXZTavUcZkNn866rs7KDhhwzMTOeNcTSFyvaO5vBA=="
       },
       "client-macos": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-client-macos-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-client-macos-0.6.10.zip",
-        "size_bytes": 16063743,
-        "sha256": "8aa4fc8162b69430aceabfa5f2a2101c338eff1bc110ec53b4d03722faa1c67c",
-        "signature": "k3ZYrKsIXrnD5e39BSja/RUN1fjkKP7P2lFwlApZeIquy9zXwkvXVLjlYC2wh7I0zYvdW7O6vkp5NS0LvWU9Dg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-client-macos-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.6.11.zip",
+        "size_bytes": 16076773,
+        "sha256": "2eaa890dd8569503916679c9fb6166b8fb0f7083217b3eaa5fd516a34d2b87d8",
+        "signature": "cOIxAH6nLvg9O5OGSnlSarr8bpy0hKFe+B7cXrJhewxszO83J9Af/hidfPS5/NdNpnFk6aUdIt1I1ANg8qL/Cw=="
       },
       "server-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-server-windows-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-server-windows-0.6.10.zip",
-        "size_bytes": 16160632,
-        "sha256": "d30721bbe3d5ff6806065418397b99f4fa1dc0b5514dc64bd7b5732846bf88a6",
-        "signature": "ZqrHm9VM3M9RlLV3Zaptx94cQXzChfQ44J3ygEeMj2c/gorvO813Nz+MjFMtM7jAuqKzlddpknHe4TLR6IG/Ag=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-server-windows-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.6.11.zip",
+        "size_bytes": 16177091,
+        "sha256": "74f15f925dc20d01410f0256cb0281d9af5dbe3269e3ad6cb7aa59bf8f5e801d",
+        "signature": "6oqG9x/Bos79x1WsqFXo0tTx497z+KUWQ3Ai3X5DJdoNmd9csognrhf6Ho/qKxCa+s1C8kOs0jL+oItkUkYpDQ=="
       },
       "server-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-server-linux-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-server-linux-0.6.10.zip",
-        "size_bytes": 16067848,
-        "sha256": "4baaf906cd68627579c11c38825db4ae9f3306c442750e85bcb45aa8ee36e2a9",
-        "signature": "NpJqdcYlZkQEtmNmRpZWoUO148B2/DumZp0+WgWqDx8Jde55o5mKxFKsk+E6Kcyjmw6LJNG2UOfvaB2vKmixDg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-server-linux-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.6.11.zip",
+        "size_bytes": 16080907,
+        "sha256": "60f9560a910d45539bb6fbbb0759f3b1dc3d2c49e8414c777aadacf5499d8585",
+        "signature": "YDBu/W5HsPaVjQIBzv2AJWcDXGLb83ehC8oG+Y0G7jCAM+Zf69fR8FzjYBHY7NAqsY7YtieFLwgvFd+rw01sDQ=="
       }
     }
   },
   "java_loader_v3": {
     "product": "FadedJavaLoader",
-    "version": "0.6.10",
+    "version": "0.6.11",
     "minimum_pz_build": "42.20.4",
     "trusted_key_id": "faded-fjl-release-2026-08-r4",
     "artifacts": {
       "client-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-client-windows-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-client-windows-0.6.10.zip",
-        "size_bytes": 16156875,
-        "sha256": "8b3ce0aeef4d56ad0b4008efd2a26e29517cf2767e24d931a6e77ad3bac9a448",
-        "signature": "51HhsTteN6EBMo0CEzSiPzPQU6qvaSN2xfO/OgORTO31VUUWDygXCewmgwsyehd5df0dmfPsIPLqXiFuHELuDA=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-client-windows-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-client-windows-0.6.11.zip",
+        "size_bytes": 16173297,
+        "sha256": "693d9d54813fe52d4871d8a01176468173aa7c79d881e8fb28e10f1d2a0e210d",
+        "signature": "ZoBKPVZ1mlyie/m5ibMQwMt5pEKe1nNHaIW/knWs0m/P9ZXZTavUcZkNn866rs7KDhhwzMTOeNcTSFyvaO5vBA=="
       },
       "client-macos": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-client-macos-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-client-macos-0.6.10.zip",
-        "size_bytes": 16063743,
-        "sha256": "8aa4fc8162b69430aceabfa5f2a2101c338eff1bc110ec53b4d03722faa1c67c",
-        "signature": "k3ZYrKsIXrnD5e39BSja/RUN1fjkKP7P2lFwlApZeIquy9zXwkvXVLjlYC2wh7I0zYvdW7O6vkp5NS0LvWU9Dg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-client-macos-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-client-macos-0.6.11.zip",
+        "size_bytes": 16076773,
+        "sha256": "2eaa890dd8569503916679c9fb6166b8fb0f7083217b3eaa5fd516a34d2b87d8",
+        "signature": "cOIxAH6nLvg9O5OGSnlSarr8bpy0hKFe+B7cXrJhewxszO83J9Af/hidfPS5/NdNpnFk6aUdIt1I1ANg8qL/Cw=="
       },
       "client-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-client-linux-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-client-linux-0.6.10.zip",
-        "size_bytes": 16063730,
-        "sha256": "5c0ffe8e51c48326e6111c0f379ddc9db888f77bec5add9cf442e774f243f4a8",
-        "signature": "Z/eOsPZIax1TKe/yhRbElzOhY+kn6p9H4AGhnYYyaT5KChlnXvMniG9QbPPpPjR5VtjiQlrNYpR15WITmzOcBw=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-client-linux-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-client-linux-0.6.11.zip",
+        "size_bytes": 16076754,
+        "sha256": "4bf3ebc5f529e3da055f713cb73962725e894445d8fa450991b94d64509893b4",
+        "signature": "0I8+PeMCxkCfaV09NKVAF4g8KukQg/m0Ngn566uZ7Wa+fTAcb/fJrvAbAmh5HFFvr2EZ80xJ7o3LrEpeOI24Aw=="
       },
       "server-windows": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-server-windows-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-server-windows-0.6.10.zip",
-        "size_bytes": 16160632,
-        "sha256": "d30721bbe3d5ff6806065418397b99f4fa1dc0b5514dc64bd7b5732846bf88a6",
-        "signature": "ZqrHm9VM3M9RlLV3Zaptx94cQXzChfQ44J3ygEeMj2c/gorvO813Nz+MjFMtM7jAuqKzlddpknHe4TLR6IG/Ag=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-server-windows-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-server-windows-0.6.11.zip",
+        "size_bytes": 16177091,
+        "sha256": "74f15f925dc20d01410f0256cb0281d9af5dbe3269e3ad6cb7aa59bf8f5e801d",
+        "signature": "6oqG9x/Bos79x1WsqFXo0tTx497z+KUWQ3Ai3X5DJdoNmd9csognrhf6Ho/qKxCa+s1C8kOs0jL+oItkUkYpDQ=="
       },
       "server-linux": {
-        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-04-integrity-reporting/FadedJavaLoader-server-linux-0.6.10.zip",
-        "zip_name": "FadedJavaLoader-server-linux-0.6.10.zip",
-        "size_bytes": 16067848,
-        "sha256": "4baaf906cd68627579c11c38825db4ae9f3306c442750e85bcb45aa8ee36e2a9",
-        "signature": "NpJqdcYlZkQEtmNmRpZWoUO148B2/DumZp0+WgWqDx8Jde55o5mKxFKsk+E6Kcyjmw6LJNG2UOfvaB2vKmixDg=="
+        "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-faded-java-loader-0.6.11/FadedJavaLoader-server-linux-0.6.11.zip",
+        "zip_name": "FadedJavaLoader-server-linux-0.6.11.zip",
+        "size_bytes": 16080907,
+        "sha256": "60f9560a910d45539bb6fbbb0759f3b1dc3d2c49e8414c777aadacf5499d8585",
+        "signature": "YDBu/W5HsPaVjQIBzv2AJWcDXGLb83ehC8oG+Y0G7jCAM+Zf69fR8FzjYBHY7NAqsY7YtieFLwgvFd+rw01sDQ=="
       }
     }
   },
@@ -1798,21 +1798,21 @@
       "id": "Deadflow",
       "server_mod_id": "Deadflow",
       "name": "Deadflow",
-      "version": "0.2.14",
-      "description": "Population authority for new Deadflow worlds on 42.20.4, 42.21 and 42.22 (Windows and Linux dedicated). Stock 42.22 includes reviewed revisions e013dbb529 and 3d39148846. PZ Optimized 0.4.0 and 0.4.1 remain limited to revision e013dbb529. PZ Optimized 0.4.3 is the reviewed full payload for revision 3d39148846 after offline repair. Older saved zombie snapshot formats are not migrated. Requires FJL 0.6.7+ and its fixed Bridge.",
-      "updated_at": "2026-11-08",
+      "version": "0.2.15",
+      "description": "Population authority for new Deadflow worlds on 42.20.4, 42.21 and 42.22 (Windows and Linux dedicated). Stock 42.22 includes reviewed revisions e013dbb529 and 3d39148846. PZ Optimized 0.4.0 and 0.4.1 remain limited to revision e013dbb529. PZ Optimized 0.4.3 is the reviewed full payload for revision 3d39148846 after offline repair. Older saved zombie snapshot formats are not migrated. Requires FJL 0.6.7+ and its fixed Bridge. Uses the shared game-JAR fingerprint with Faded Java Loader 0.6.11 when enabled.",
+      "updated_at": "2026-11-22",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.7",
       "javaEnvironment": "BOTH",
       "javaPluginId": "deadflow.population",
-      "javaPluginVersion": "0.2.14",
+      "javaPluginVersion": "0.2.15",
       "javaPluginMode": "HYBRID",
-      "uncompressed_size_bytes": 2596591,
-      "required_free_bytes": 542055348,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-08-deadflow-0.2.14-b42.22/Deadflow-v0.2.14.zip",
-      "zip_name": "Deadflow-v0.2.14.zip",
-      "size_bytes": 2587845,
-      "sha256": "4ec8a0c18a2a0f7d779301dcc69fb027ea4d116bf5190d18140cd555c2e97d34"
+      "uncompressed_size_bytes": 2595668,
+      "required_free_bytes": 542054575,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.4-startup/Deadflow-v0.2.15.zip",
+      "zip_name": "Deadflow-v0.2.15.zip",
+      "size_bytes": 2587995,
+      "sha256": "f617e6ac8d4d6054a71fd78413be66981ee10cf304c60170b285e84a86013f03"
     },
     {
       "id": "SentryNet",
@@ -1942,20 +1942,20 @@
       "id": "PZOptimized",
       "server_mod_id": "PZOptimized",
       "name": "PZ Optimized",
-      "version": "0.4.4",
-      "description": "PZ Optimized 0.4.4 supports exact reviewed Build 42.22.2 game bytes, retains the complete reviewed optimization payload and native integrity reporting, and restores accurate compatibility metadata. Requires Faded Java Loader 0.6.10 and Bridge.",
-      "updated_at": "2026-11-10",
-      "uncompressed_size_bytes": 266476695,
-      "required_free_bytes": 1055211740,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-10-pzoptimized-0.4.4-b4222/PZOptimized-v0.4.4.zip",
-      "zip_name": "PZOptimized-v0.4.4.zip",
-      "size_bytes": 251864133,
-      "sha256": "c84543c765eef18ae525c20d7fcbb92fdfaef538aca55ab8c64d05825d5d002a",
+      "version": "0.4.5",
+      "description": "Supports exact reviewed Build 42.22.2 game bytes and the complete reviewed optimization payload. Shares startup fingerprints when the Faded Java Loader 0.6.11 opt-in is enabled. Requires Faded Java Loader 0.6.10 or newer and Bridge.",
+      "updated_at": "2026-11-22",
+      "uncompressed_size_bytes": 266474161,
+      "required_free_bytes": 1055206702,
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.4-startup/PZOptimized-v0.4.5.zip",
+      "zip_name": "PZOptimized-v0.4.5.zip",
+      "size_bytes": 251861629,
+      "sha256": "4d2c54361364b38e8523d532a06e9baaa5f081c5d0ea1f042958a1dc6de4efcd",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.10",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "faded.pzoptimized",
-      "javaPluginVersion": "0.4.4",
+      "javaPluginVersion": "0.4.5",
       "javaPluginMode": "HYBRID"
     },
     {
@@ -1982,23 +1982,23 @@
       "id": "FadedPerformanceEvolution",
       "server_mod_id": "FadedPerformanceEvolution",
       "name": "Faded Performance Evolution",
-      "version": "0.3.3",
-      "description": "Build 42.22.2 client visuals and performance. Uses shared GPU zombie poses with native mesh draws in FPE's 3D views. Requires Faded Java Loader 0.6.10.",
+      "version": "0.3.4",
+      "description": "Build 42.22.2 client visuals and performance. Optional faster Windows loading uses cached Lua compiler output, decoded depth tiles, and static map data. Includes GPU shared zombie poses in FPE's 3D views. Requires Faded Java Loader 0.6.11 and Bridge.",
       "updated_at": "2026-11-22",
-      "uncompressed_size_bytes": 1766926525,
-      "required_free_bytes": 3647410737,
+      "uncompressed_size_bytes": 1767031953,
+      "required_free_bytes": 3647614190,
       "requiresJavaLoader": true,
-      "minimumJavaLoaderVersion": "0.6.10",
+      "minimumJavaLoaderVersion": "0.6.11",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "faded.performance.evolution",
-      "javaPluginVersion": "0.3.3",
+      "javaPluginVersion": "0.3.4",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.3-shared-poses/FadedPerformanceEvolution-v0.3.3.zip",
-          "zip_name": "FadedPerformanceEvolution-v0.3.3.zip",
-          "size_bytes": 1339241088,
-          "sha256": "a0b10df8da9cd6b7b50fb381441c797032b7955a3d3622f963d605d6de15e329"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.4-startup/FadedPerformanceEvolution-v0.3.4.zip",
+          "zip_name": "FadedPerformanceEvolution-v0.3.4.zip",
+          "size_bytes": 1339339113,
+          "sha256": "4d5216745e663411f38f31db84363e45ab1cbf6e65d239f773925d4bbe1c02f9"
         },
         {
           "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedPerformanceEvolution-v0.3.1-resources.zip",
