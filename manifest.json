@@ -436,9 +436,9 @@
       "id": "FadedFieldOperations",
       "server_mod_id": "FadedFieldOperations",
       "name": "Faded Field Operations",
-      "version": "2.0.8",
-      "description": "Campaign expansion 2.0.5. Requires Echoes 0.17.4+, Faded Java Loader 0.5.0+ and FadedJavaLoaderBridge on client and server. The Java core loads on 42.20, 42.21 and 42.22.",
-      "updated_at": "2026-10-28",
+      "version": "2.0.9",
+      "description": "Campaign expansion 2.0.5. Requires Echoes 0.17.4+, Faded Java Loader 0.5.0+ and FadedJavaLoaderBridge on client and server. The Java core loads on 42.20, 42.21 and 42.22. 2.0.9 moves the campaign journal key off K (now Backspace).",
+      "updated_at": "2026-11-23",
       "uncompressed_size_bytes": 595593536,
       "required_free_bytes": 1680604950,
       "requiresJavaLoader": true,
@@ -447,10 +447,20 @@
       "javaPluginId": "faded.fieldoperations",
       "javaPluginVersion": "0.1.2",
       "javaPluginMode": "HYBRID",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-28-fieldoperations-2.0.8/FadedFieldOperations-v2.0.8.zip",
-      "zip_name": "FadedFieldOperations-v2.0.8.zip",
-      "size_bytes": 548140502,
-      "sha256": "953fe26323c5bda8f081e43d1c3a1f909c983f73ead44c12747161f811fea1b0"
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-28-fieldoperations-2.0.8/FadedFieldOperations-v2.0.8.zip",
+          "zip_name": "FadedFieldOperations-v2.0.8.zip",
+          "size_bytes": 548140502,
+          "sha256": "953fe26323c5bda8f081e43d1c3a1f909c983f73ead44c12747161f811fea1b0"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-fpe-0.3.5-ffo-2.0.9-mof-3.0.3/FadedFieldOperations-v2.0.9-patch.zip",
+          "zip_name": "FadedFieldOperations-v2.0.9-patch.zip",
+          "size_bytes": 2264,
+          "sha256": "3887bff17b3081cb4958e934eaafe6ddd3bbb9eb1fb202c71f3719f8d00d81fc"
+        }
+      ]
     },
     {
       "id": "FadedFromTheWindow_ZCTW",
@@ -494,9 +504,9 @@
       "id": "MyOnlyFriend",
       "server_mod_id": "MyOnlyFriend",
       "name": "My Only Friend",
-      "version": "3.0.2",
-      "description": "My Only Friend 3.0.1 for PZ 42.22.0: 20 original low-poly ground models with FBX resolver compatibility, real UV islands and matching per-item PNGs; separate fitted worn gear. Requires FJL 0.6.7 on server and clients. Compatible with PZ Optimized 0.4.1.",
-      "updated_at": "2026-11-09",
+      "version": "3.0.3",
+      "description": "My Only Friend 3.0.1 for PZ 42.22.0: 20 original low-poly ground models with FBX resolver compatibility, real UV islands and matching per-item PNGs; separate fitted worn gear. Requires FJL 0.6.7 on server and clients. Compatible with PZ Optimized 0.4.1. 3.0.3 moves the companion command wheel key off K (now Apostrophe).",
+      "updated_at": "2026-11-23",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.7",
       "javaEnvironment": "BOTH",
@@ -505,10 +515,20 @@
       "javaPluginMode": "HYBRID",
       "uncompressed_size_bytes": 647054904,
       "required_free_bytes": 1548272722,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-09-myonlyfriend-3.0.2-pz42.22.2/MyOnlyFriend-v3.0.2.zip",
-      "zip_name": "MyOnlyFriend-v3.0.2.zip",
-      "size_bytes": 364346906,
-      "sha256": "4d4396ede31bcceaebfbab55055b70948a07dabf5f7cbd84ddcc45240c7b0d7e"
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-09-myonlyfriend-3.0.2-pz42.22.2/MyOnlyFriend-v3.0.2.zip",
+          "zip_name": "MyOnlyFriend-v3.0.2.zip",
+          "size_bytes": 364346906,
+          "sha256": "4d4396ede31bcceaebfbab55055b70948a07dabf5f7cbd84ddcc45240c7b0d7e"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-fpe-0.3.5-ffo-2.0.9-mof-3.0.3/MyOnlyFriend-v3.0.3-patch.zip",
+          "zip_name": "MyOnlyFriend-v3.0.3-patch.zip",
+          "size_bytes": 1771,
+          "sha256": "7706ce588d2f1217304c85ffa1b9f0bec63baa256820784725cc49618524b802"
+        }
+      ]
     },
     {
       "id": "FadedHuntersCalling",
@@ -1982,9 +2002,9 @@
       "id": "FadedPerformanceEvolution",
       "server_mod_id": "FadedPerformanceEvolution",
       "name": "Faded Performance Evolution",
-      "version": "0.3.4",
-      "description": "Build 42.22.2 client visuals and performance. Optional faster Windows loading uses cached Lua compiler output, decoded depth tiles, and static map data. Includes GPU shared zombie poses in FPE's 3D views. Requires Faded Java Loader 0.6.11 and Bridge.",
-      "updated_at": "2026-11-22",
+      "version": "0.3.5",
+      "description": "Build 42.22.2 client visuals and performance. 0.3.5 fixes the dedicated-server waterworks error loop when players join and moves the wiper key off K (now Down Arrow). Optional faster Windows loading uses cached Lua compiler output, decoded depth tiles, and static map data. Requires Faded Java Loader 0.6.11 and Bridge.",
+      "updated_at": "2026-11-23",
       "uncompressed_size_bytes": 1767031953,
       "required_free_bytes": 3647614190,
       "requiresJavaLoader": true,
@@ -2005,6 +2025,12 @@
           "zip_name": "FadedPerformanceEvolution-v0.3.1-resources.zip",
           "size_bytes": 4372212,
           "sha256": "bf0aeddda64c92044481a9a3ecbb28f90be464056d551b3f9cb9b18bee4cf8a0"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-fpe-0.3.5-ffo-2.0.9-mof-3.0.3/FadedPerformanceEvolution-v0.3.5-patch.zip",
+          "zip_name": "FadedPerformanceEvolution-v0.3.5-patch.zip",
+          "size_bytes": 30670,
+          "sha256": "e9c72ce5aa63577f27cb0088fed8ac4eace30f66d0f8a43f2b8cdf497ff33ba7"
         }
       ]
     }
