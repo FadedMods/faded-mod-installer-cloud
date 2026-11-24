@@ -456,11 +456,11 @@
       "id": "FadedFieldOperations",
       "server_mod_id": "FadedFieldOperations",
       "name": "Faded Field Operations",
-      "version": "2.0.9",
-      "description": "Campaign expansion 2.0.5. Requires Echoes 0.17.4+, Faded Java Loader 0.5.0+ and FadedJavaLoaderBridge on client and server. The Java core loads on 42.20, 42.21 and 42.22. 2.0.9 moves the campaign journal key off K (now Backspace).",
+      "version": "2.0.10",
+      "description": "Campaign expansion 2.0.5. Requires Echoes 0.17.4+, Faded Java Loader 0.5.0+ and FadedJavaLoaderBridge on client and server. The Java core loads on 42.20, 42.21 and 42.22. 2.0.9 moves the campaign journal key off K (now Backspace). 2.0.10 stops Dead Stash special-zombie drops from being sent to a removed zombie's container (ContainerID o.square null); drops are unchanged.",
       "updated_at": "2026-11-23",
-      "uncompressed_size_bytes": 595593536,
-      "required_free_bytes": 1680604950,
+      "uncompressed_size_bytes": 595601218,
+      "required_free_bytes": 1680627996,
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.5.0",
       "javaEnvironment": "BOTH",
@@ -475,10 +475,10 @@
           "sha256": "953fe26323c5bda8f081e43d1c3a1f909c983f73ead44c12747161f811fea1b0"
         },
         {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-fpe-0.3.5-ffo-2.0.9-mof-3.0.3/FadedFieldOperations-v2.0.9-patch.zip",
-          "zip_name": "FadedFieldOperations-v2.0.9-patch.zip",
-          "size_bytes": 2264,
-          "sha256": "3887bff17b3081cb4958e934eaafe6ddd3bbb9eb1fb202c71f3719f8d00d81fc"
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-pfc-2.7.4-modernevs-1.0.10-ffo-2.0.10/FadedFieldOperations-v2.0.10-patch.zip",
+          "zip_name": "FadedFieldOperations-v2.0.10-patch.zip",
+          "size_bytes": 4728,
+          "sha256": "8ca31d2816db1558cc6a05da6aca6260f5e28bda14b718a5aa251b373de23f86"
         }
       ]
     },
@@ -924,15 +924,25 @@
       "id": "ModernEVs",
       "server_mod_id": "ModernEVs",
       "name": "Modern EVs",
-      "version": "1.0.9",
-      "description": "Modern EVs 1.0.9: damage shells use the vanilla Veh_Damage textures again so the paint atlas is not sampled through the damage unwrap. The charge stand-in transmits only when its level changes. Engine, battery, muffler, and reservoir are topped up once when a car is first created, and can take damage after that. Generated white wheel discs stay hidden.",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-02-modernevs-109/ModernEVs-v1.0.9.zip",
-      "zip_name": "ModernEVs-v1.0.9.zip",
-      "size_bytes": 30760183,
-      "sha256": "abba8ea3d1c0647efae575bf7d2de238e6c2d78df4337689c90ab8d7bc64ca6f",
-      "uncompressed_size_bytes": 31792182,
-      "required_free_bytes": 599423277,
-      "updated_at": "2026-10-02"
+      "version": "1.0.10",
+      "description": "Modern EVs 1.0.9: damage shells use the vanilla Veh_Damage textures again so the paint atlas is not sampled through the damage unwrap. The charge stand-in transmits only when its level changes. Engine, battery, muffler, and reservoir are topped up once when a car is first created, and can take damage after that. Generated white wheel discs stay hidden. 1.0.10 adds an empty Base.ChargeStation entity so map-placed vanilla machinery tiles load without \"EntityScript not found, script: ChargeStation\"; crafted charging stations are unchanged.",
+      "uncompressed_size_bytes": 31794031,
+      "required_free_bytes": 599428824,
+      "updated_at": "2026-11-23",
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-02-modernevs-109/ModernEVs-v1.0.9.zip",
+          "zip_name": "ModernEVs-v1.0.9.zip",
+          "size_bytes": 30760183,
+          "sha256": "abba8ea3d1c0647efae575bf7d2de238e6c2d78df4337689c90ab8d7bc64ca6f"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-pfc-2.7.4-modernevs-1.0.10-ffo-2.0.10/ModernEVs-v1.0.10-patch.zip",
+          "zip_name": "ModernEVs-v1.0.10-patch.zip",
+          "size_bytes": 1523,
+          "sha256": "a5917fcec14fc77738828470769e52face4f0545ec63b43a3d3d94ee8d21e856"
+        }
+      ]
     },
     {
       "id": "Military_Tool_Kit",
@@ -980,15 +990,25 @@
       "id": "ProjectFadedCar",
       "server_mod_id": "ProjectFadedCar",
       "name": "Project Faded Car",
-      "version": "2.7.3",
-      "description": "Build 42.22 forklift cargo, carry, ladder and roof rack models with case-exact cross-platform asset paths. Tire rack tile page moved to file number 8175 so it no longer collides with Knox Reborn Lite.",
-      "updated_at": "2026-11-15",
-      "uncompressed_size_bytes": 336328500,
-      "required_free_bytes": 1117517118,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-15-pfc-2.7.3-lrk-0.4.1-pz42.22.2/ProjectFadedCar-v2.7.3.zip",
-      "zip_name": "ProjectFadedCar-v2.7.3.zip",
-      "size_bytes": 244317706,
-      "sha256": "ad1a5259a8d4b7614ae4d1b4137a8c4199b948866d1cb48eb28bb00a405cfd02"
+      "version": "2.7.4",
+      "description": "Build 42.22 forklift cargo, carry, ladder and roof rack models with case-exact cross-platform asset paths. Tire rack tile page moved to file number 8175 so it no longer collides with Knox Reborn Lite. 2.7.4 fixes fleet vehicle part item types: semi truck front tires use the mechanic-type tire items (no more \"Couldn't find item Base.NormalTire\"), and double tires, wheel chains, armor, tanks, trailer roof parts and the semi fuel tank no longer get a doubled suffix.",
+      "updated_at": "2026-11-23",
+      "uncompressed_size_bytes": 336473917,
+      "required_free_bytes": 1117953369,
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-15-pfc-2.7.3-lrk-0.4.1-pz42.22.2/ProjectFadedCar-v2.7.3.zip",
+          "zip_name": "ProjectFadedCar-v2.7.3.zip",
+          "size_bytes": 244317706,
+          "sha256": "ad1a5259a8d4b7614ae4d1b4137a8c4199b948866d1cb48eb28bb00a405cfd02"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-pfc-2.7.4-modernevs-1.0.10-ffo-2.0.10/ProjectFadedCar-v2.7.4-patch.zip",
+          "zip_name": "ProjectFadedCar-v2.7.4-patch.zip",
+          "size_bytes": 26636,
+          "sha256": "cb14cf81da133cf18ddeb62660723692d13bc0808c77219f63a20f74dec9f2a6"
+        }
+      ]
     },
     {
       "id": "ProximityAutoRead",
