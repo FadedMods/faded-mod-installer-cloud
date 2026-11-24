@@ -141,16 +141,26 @@
       "id": "CommonSenseRebornTest",
       "server_mod_id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
-      "version": "2.1.6",
-      "description": "CSR Test 2.1.6: Fix debug/admin item-list protection loading before the vanilla viewer on B42.21/42.22. Existing features and optional Java bridges retained.",
-      "uncompressed_size_bytes": 266387344,
-      "required_free_bytes": 906076956,
-      "updated_at": "2026-11-16",
+      "version": "2.1.7",
+      "description": "CSR Test 2.1.6: Fix debug/admin item-list protection loading before the vanilla viewer on B42.21/42.22. Existing features and optional Java bridges retained. 2.1.7 gives the hidden over-the-shoulder VisionBoost items their body location so they cannot throw tooltip errors.",
+      "uncompressed_size_bytes": 266391669,
+      "required_free_bytes": 906089931,
+      "updated_at": "2026-11-23",
       "requiresJavaLoader": false,
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-16-csr-debug-items/CommonSenseRebornTest-v2.1.6.zip",
-      "zip_name": "CommonSenseRebornTest-v2.1.6.zip",
-      "size_bytes": 102818700,
-      "sha256": "33c157d179d3f4336335eec2d9328d385697113fcd2ee88137731dd94425c77b"
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-16-csr-debug-items/CommonSenseRebornTest-v2.1.6.zip",
+          "zip_name": "CommonSenseRebornTest-v2.1.6.zip",
+          "size_bytes": 102818700,
+          "sha256": "33c157d179d3f4336335eec2d9328d385697113fcd2ee88137731dd94425c77b"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-cc-2.7.5-csr-2.1.7-az-42.22.1/CommonSenseRebornTest-v2.1.7-patch.zip",
+          "zip_name": "CommonSenseRebornTest-v2.1.7-patch.zip",
+          "size_bytes": 2188,
+          "sha256": "459327b3185cb9b88d4ff547190cccaa874ae8bc10cbf1e5e7046a8fb04c32d4"
+        }
+      ]
     },
     {
       "id": "groundWorks",
@@ -239,21 +249,31 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "2.7.4",
-      "description": "Build 42.22.2 creator loading and eye detail update. Background wardrobe indexing, FPE 0.3.3 renderer compatibility and a raised head pose for Faded.",
-      "uncompressed_size_bytes": 2183114662,
-      "required_free_bytes": 6708916632,
-      "updated_at": "2026-11-22",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-charactercreator-2.7.4/CharacterCreator-v2.7.4.zip",
-      "zip_name": "CharacterCreator-v2.7.4.zip",
-      "size_bytes": 1805816396,
-      "sha256": "b7069e0b4697abe6e15f32ce0c15b28580332cbf3dfc1f1961021a11a67c4bbb",
+      "version": "2.7.5",
+      "description": "Build 42.22.2 creator loading and eye detail update. Background wardrobe indexing, FPE 0.3.3 renderer compatibility and a raised head pose for Faded. 2.7.5 fixes clothing toggles (visor, sleeves, tuck) pointing at missing items and gives seven wearables a registered body location, ending inventory tooltip and right-click errors.",
+      "uncompressed_size_bytes": 2184172125,
+      "required_free_bytes": 6712089021,
+      "updated_at": "2026-11-23",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "charactercreator.morph",
       "javaPluginVersion": "1.0.5",
-      "javaPluginMode": "HYBRID"
+      "javaPluginMode": "HYBRID",
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-charactercreator-2.7.4/CharacterCreator-v2.7.4.zip",
+          "zip_name": "CharacterCreator-v2.7.4.zip",
+          "size_bytes": 1805816396,
+          "sha256": "b7069e0b4697abe6e15f32ce0c15b28580332cbf3dfc1f1961021a11a67c4bbb"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-cc-2.7.5-csr-2.1.7-az-42.22.1/CharacterCreator-v2.7.5-patch.zip",
+          "zip_name": "CharacterCreator-v2.7.5-patch.zip",
+          "size_bytes": 90995,
+          "sha256": "f0e2cd1f21700ea55be62e422506f6f2ce821e45eec5ebfdbfe59a568b55cce1"
+        }
+      ]
     },
     {
       "id": "FadedsErrorDetected",
@@ -876,15 +896,25 @@
       "id": "Authentic Z - Current",
       "server_mod_id": "Authentic Z - Current",
       "name": "Authentic Z",
-      "version": "42.22.0",
-      "description": "Build 42.22 sleeping bag, Left 4 Dead hand and Pinhead mask mesh repairs with original textured models and exact cross-platform asset paths. Compatible with Faded Java Loader 0.6.7 and PZ Optimized 0.4.1.",
-      "updated_at": "2026-10-28",
-      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-28-authenticz-42.22.0-models/Authentic-Z-Current-v42.22.0.zip",
-      "zip_name": "Authentic-Z-Current-v42.22.0.zip",
-      "size_bytes": 390924153,
-      "sha256": "4fdbdebc8dc8491b0620d7eac90c40d0b052290d7413e8fbea7434321fdff288",
-      "uncompressed_size_bytes": 434015112,
-      "required_free_bytes": 1795825289
+      "version": "42.22.1",
+      "description": "Build 42.22 sleeping bag, Left 4 Dead hand and Pinhead mask mesh repairs with original textured models and exact cross-platform asset paths. Compatible with Faded Java Loader 0.6.7 and PZ Optimized 0.4.1. 42.22.1 registers the Gibus hat and HairStyle34 wig on AZ body locations and points body-size model toggles at Base items.",
+      "updated_at": "2026-11-23",
+      "uncompressed_size_bytes": 434176753,
+      "required_free_bytes": 1796310212,
+      "download_parts": [
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-10-28-authenticz-42.22.0-models/Authentic-Z-Current-v42.22.0.zip",
+          "zip_name": "Authentic-Z-Current-v42.22.0.zip",
+          "size_bytes": 390924153,
+          "sha256": "4fdbdebc8dc8491b0620d7eac90c40d0b052290d7413e8fbea7434321fdff288"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-cc-2.7.5-csr-2.1.7-az-42.22.1/Authentic-Z-Current-v42.22.1-patch.zip",
+          "zip_name": "Authentic-Z-Current-v42.22.1-patch.zip",
+          "size_bytes": 17846,
+          "sha256": "3f5192bd7901b488838c96096b013fde16a18bf80aad0690ab6a0360984bd1c9"
+        }
+      ]
     },
     {
       "id": "ArmorPK",
