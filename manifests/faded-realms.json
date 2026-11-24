@@ -105,37 +105,21 @@
       "id": "FadedPerformanceEvolution",
       "server_mod_id": "FadedPerformanceEvolution",
       "name": "Faded Performance Evolution",
-      "version": "0.3.5",
-      "description": "Build 42.22.2 client visuals and performance. 0.3.5 fixes the dedicated-server waterworks error loop when players join and moves the wiper key off K (now Down Arrow). Optional faster Windows loading uses cached Lua compiler output, decoded depth tiles, and static map data. Requires Faded Java Loader 0.6.11 and Bridge.",
-      "updated_at": "2026-11-23",
-      "uncompressed_size_bytes": 1767031953,
-      "required_free_bytes": 3647614190,
+      "version": "0.3.6",
+      "description": "Build 42.22.2 client visuals and performance. 0.3.6 lets players pick 3D Isometric or Vanilla Isometric in multiplayer when the host enables 3D views, and adds near-field 3D grass on OpenGL 4.3 clients. Includes the 0.3.5 server waterworks fix and Down Arrow wiper key. Requires Faded Java Loader 0.6.11 and Bridge.",
+      "updated_at": "2026-11-24",
+      "uncompressed_size_bytes": 1767566032,
+      "required_free_bytes": 3649216427,
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.6.11",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "faded.performance.evolution",
-      "javaPluginVersion": "0.3.4",
+      "javaPluginVersion": "0.3.6",
       "javaPluginMode": "HYBRID",
-      "download_parts": [
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-22-fpe-0.3.4-startup/FadedPerformanceEvolution-v0.3.4.zip",
-          "zip_name": "FadedPerformanceEvolution-v0.3.4.zip",
-          "size_bytes": 1339339113,
-          "sha256": "4d5216745e663411f38f31db84363e45ab1cbf6e65d239f773925d4bbe1c02f9"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-21-fpe-eoh-hive/FadedPerformanceEvolution-v0.3.1-resources.zip",
-          "zip_name": "FadedPerformanceEvolution-v0.3.1-resources.zip",
-          "size_bytes": 4372212,
-          "sha256": "bf0aeddda64c92044481a9a3ecbb28f90be464056d551b3f9cb9b18bee4cf8a0"
-        },
-        {
-          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-23-fpe-0.3.5-ffo-2.0.9-mof-3.0.3/FadedPerformanceEvolution-v0.3.5-patch.zip",
-          "zip_name": "FadedPerformanceEvolution-v0.3.5-patch.zip",
-          "size_bytes": 30670,
-          "sha256": "e9c72ce5aa63577f27cb0088fed8ac4eace30f66d0f8a43f2b8cdf497ff33ba7"
-        }
-      ]
+      "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-24-fpe-0.3.6/FadedPerformanceEvolution-v0.3.6.zip",
+      "zip_name": "FadedPerformanceEvolution-v0.3.6.zip",
+      "size_bytes": 1359843920,
+      "sha256": "7612126830acbab7b6f720d429f66c3a0bc53fac23320f126e048a62a108d1ac"
     },
     {
       "id": "CommonSenseRebornTest",
