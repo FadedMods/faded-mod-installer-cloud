@@ -1523,16 +1523,16 @@
       "id": "CharacterCreator",
       "server_mod_id": "CharacterCreator",
       "name": "Character Creator",
-      "version": "2.7.8",
-      "description": "Build 42.22.2 creator loading and eye detail update. Background wardrobe indexing, FPE 0.3.3 renderer compatibility and a raised head pose for Faded. 2.7.5 fixes clothing toggles (visor, sleeves, tuck) pointing at missing items and gives seven wearables a registered body location, ending inventory tooltip and right-click errors. 2.7.6 corrects the shoe and boot fitting axis, preserves authored sole and shaft heights, and limits severe skinned garment stretch. 2.7.7 adds separate fits for the seven body profiles, lighter knee-high boots, and tucked camouflage trouser cuffs. 2.7.8 adds adjustable chest and glute motion for Curvy Full and Curvy Soft, with armor damping.",
-      "uncompressed_size_bytes": 2203167687,
-      "required_free_bytes": 6766995087,
+      "version": "2.7.9",
+      "description": "Build 42.22.2 creator loading and eye detail update. Background wardrobe indexing, FPE 0.3.3 renderer compatibility and a raised head pose for Faded. 2.7.5 fixes clothing toggles (visor, sleeves, tuck) pointing at missing items and gives seven wearables a registered body location, ending inventory tooltip and right-click errors. 2.7.6 corrects the shoe and boot fitting axis, preserves authored sole and shaft heights, and limits severe skinned garment stretch. 2.7.7 adds separate fits for the seven body profiles, lighter knee-high boots, and tucked camouflage trouser cuffs. 2.7.8 adds adjustable chest and glute motion for Curvy Full and Curvy Soft, with armor damping. 2.7.9 caches source-mesh selection during body pose preparation.",
+      "uncompressed_size_bytes": 2203169688,
+      "required_free_bytes": 6769434397,
       "updated_at": "2026-11-24",
       "requiresJavaLoader": true,
       "minimumJavaLoaderVersion": "0.3.4",
       "javaEnvironment": "CLIENT",
       "javaPluginId": "charactercreator.morph",
-      "javaPluginVersion": "1.0.8",
+      "javaPluginVersion": "1.0.9",
       "javaPluginMode": "HYBRID",
       "download_parts": [
         {
@@ -1546,6 +1546,12 @@
           "zip_name": "CharacterCreator-v2.7.8-patch.zip",
           "size_bytes": 17972405,
           "sha256": "a45308f728ae4723068b814c51ae0f3c40085481dcb77dd8f7c5c4ff5b7eaed8"
+        },
+        {
+          "download_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/mod-assets-2026-11-24-charactercreator-2.7.9-pose-cache/CharacterCreator-v2.7.9-patch.zip",
+          "zip_name": "CharacterCreator-v2.7.9-patch.zip",
+          "size_bytes": 2437309,
+          "sha256": "0bfc1049acec2d526dabb7ff6abaf2e0826b936de361bbcc9e0574631abecf64"
         }
       ]
     },
