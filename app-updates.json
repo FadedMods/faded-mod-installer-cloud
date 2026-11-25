@@ -1,53 +1,53 @@
 {
   "schema_version": 1,
   "app_name": "Faded Local Mod Installer",
-  "version": "0.3.31",
-  "published_at": "2026-11-18T15:37:40.628661+00:00",
+  "version": "0.3.32",
+  "published_at": "2026-11-25T04:31:13.300832+00:00",
   "source_repo": "https://github.com/FadedMods/faded-local-mod-installer",
-  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.31",
-  "notes": "Adds Verify mod ZIP to Community Mods. Check package layout, type, internal PZ IDs, integrity, and SHA-256. Convert a single-mod Steam Workshop ZIP to the registry layout.",
+  "release_url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/tag/faded-local-mod-installer-0.3.32",
+  "notes": "Adds ZombieBuddy-compatible community mods. ZombieBuddy Java mods from the Faded Mod Registry now install and run through FJL 0.6.4 or newer without ZombieBuddy installed.",
   "assets": {
     "windows": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-windows.zip",
-      "file_name": "FadedLocalModInstaller-0.3.31-windows.zip",
-      "sha256": "71e1ea98fc6597c348a3f374384dcabc36e17b04ebd1e198de440a4fdac17a45",
-      "size_bytes": 116847201
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-windows.zip",
+      "file_name": "FadedLocalModInstaller-0.3.32-windows.zip",
+      "sha256": "14141d8d5078d0c135b1d55bf25cf78ba3de3bf598c58627af7091c654e37c7f",
+      "size_bytes": 116852383
     },
     "windows-multilingual": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-windows-multilingual.zip",
-      "file_name": "FadedLocalModInstaller-0.3.31-windows-multilingual.zip",
-      "sha256": "7f42073d4ef36c7c1f84eb896552bef1ffea0372cf87e2b916e5cb3b7c937a51",
-      "size_bytes": 116847112
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-windows-multilingual.zip",
+      "file_name": "FadedLocalModInstaller-0.3.32-windows-multilingual.zip",
+      "sha256": "146368e326da1aad5b741f0d075415b2af88748433bcc04f9936c19869de1564",
+      "size_bytes": 116850943
     },
     "linux-standard": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-linux-standard-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.31-linux-standard-x86_64.tar.gz",
-      "sha256": "b170ec615aa4e4cf016e7d38abf22e84577e396c5925cc6491eb96c267cc930a",
-      "size_bytes": 451452394
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-linux-standard-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.32-linux-standard-x86_64.tar.gz",
+      "sha256": "a9c74fa85f9118d4de990121933d8bb14dc7454e74d652e118b10d3de3354723",
+      "size_bytes": 451466117
     },
     "linux-steamdeck": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-linux-x86_64.tar.gz",
-      "file_name": "FadedLocalModInstaller-0.3.31-linux-x86_64.tar.gz",
-      "sha256": "c482c0632b0947959a6aeff6d7d1abbdfe1f92a80a98b8af28c9d235fd3aa9bc",
-      "size_bytes": 363367488
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-linux-x86_64.tar.gz",
+      "file_name": "FadedLocalModInstaller-0.3.32-linux-x86_64.tar.gz",
+      "sha256": "cff35f38654463a3e7afbf43b28f501d18964bfd0f187711d53a61f5e4d196ec",
+      "size_bytes": 363389351
     },
     "macos-arm64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.31-macos-arm64.zip",
-      "sha256": "48c0f41d616f8b97e88101a83cfcf3a9a0675fe6e043c36ce2ee17f7ca654287",
-      "size_bytes": 106600626
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.32-macos-arm64.zip",
+      "sha256": "53918e4eb8a4446d48ab4fad7336cc35a7b2d53da9d39ae860ea3e5ebd98161f",
+      "size_bytes": 106631449
     },
     "macos-x86_64": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-macos-x86_64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.31-macos-x86_64.zip",
-      "sha256": "3823cb364da87f4c84c3196a27140500e2e3224b52b8ea13b1a1d1c8b574e1ef",
-      "size_bytes": 110056002
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-macos-x86_64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.32-macos-x86_64.zip",
+      "sha256": "017a676aa729bbcfeac126c9e9775ed9037b935abc77f4fdef98948812f9274a",
+      "size_bytes": 110085193
     },
     "macos": {
-      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.31/FadedLocalModInstaller-0.3.31-macos-arm64.zip",
-      "file_name": "FadedLocalModInstaller-0.3.31-macos-arm64.zip",
-      "sha256": "48c0f41d616f8b97e88101a83cfcf3a9a0675fe6e043c36ce2ee17f7ca654287",
-      "size_bytes": 106600626
+      "url": "https://github.com/FadedMods/faded-mod-installer-cloud/releases/download/faded-local-mod-installer-0.3.32/FadedLocalModInstaller-0.3.32-macos-arm64.zip",
+      "file_name": "FadedLocalModInstaller-0.3.32-macos-arm64.zip",
+      "sha256": "53918e4eb8a4446d48ab4fad7336cc35a7b2d53da9d39ae860ea3e5ebd98161f",
+      "size_bytes": 106631449
     }
   }
 }
